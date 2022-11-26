@@ -1,0 +1,795 @@
+name, description
+
+A3, Accurate Adaptable and Accessible Error Metrics for Predictive Models
+AATtools, Reliability and Scoring Routines for the Approach-Avoidance Task
+ABACUS, Apps Based Activities for Communicating and Understanding Statistics
+abbreviate, Readable String Abbreviation
+abbyyR, Access to Abbyy Optical Character Recognition (OCR) API
+abc, Tools for Approximate Bayesian Computation (ABC)
+abc.data, Data Only: Tools for Approximate Bayesian Computation (ABC)
+ABC.RAP, Array Based CpG Region Analysis Pipeline
+abcADM ,Fit Accumulated Damage Models and Estimate Reliability using ABC
+ABCanalysis ,Computed ABC Analysis
+abclass ,Angle-Based Large-Margin Classifiers
+ABCoptim ,Implementation of Artificial Bee Colony (ABC) Optimization
+ABCp2 ,Approximate Bayesian Computational Model for Estimating P2
+abcrf ,Approximate Bayesian Computation via Random Forests
+abcrlda ,Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis
+abctools ,Tools for ABC Analyses
+abd ,The Analysis of Biological Data
+abdiv ,Alpha and Beta Diversity Measures
+abe ,Augmented Backward Elimination
+abess ,Fast Best Subset Selection
+abglasso, Adaptive Bayesian Graphical Lasso
+ABHgenotypeR ,Easy Visualization of ABH Genotypes
+abind, Combine Multidimensional Arrays
+abjData ,Databases Used Routinely by the Brazilian Jurimetrics Association
+abjutils ,Useful Tools for Jurimetrical Analysis Used by the Brazilian Jurimetrics Association
+abmR ,Agent-Based Models in R
+abn, Modelling Multivariate Data with Additive Bayesian Networks 
+abnormality, Measure a Subject's Abnormality with Respect to a Reference Population
+abodOutlier, Angle-Based Outlier Detection
+ABPS, The Abnormal Blood Profile Score to Detect Blood Doping
+abstr, R Interface to the A/B Street Transport System Simulation Software
+abstractr, An R-Shiny Application for Creating Visual Abstracts
+abtest ,Bayesian A/B Testing
+abundant, High-Dimensional Principal Fitted Components and Abundant Regression
+Ac3net, Inferring Directional Conservative Causal Core Gene Networks
+ACA ,Abrupt Change-Point or Aberration Detection in Point Series
+academictwitteR ,Access the Twitter Academic Research Product Track V2 API Endpoint
+acc ,Exploring Accelerometer Data
+acca, A Canonical Correlation Analysis with Inferential Guaranties
+accelerometry, Functions for Processing Accelerometer Data
+accelmissing ,Missing Value Imputation for Accelerometer Data
+accept, The Acute COPD Exacerbation Prediction Tool (ACCEPT)
+AcceptanceSampling ,Creation and Evaluation of Acceptance Sampling Plans
+accessibility, Transport Accessibility Measures
+accessrmd ,Improving the Accessibility of 'rmarkdown' Documents
+accrual, Bayesian Accrual Prediction
+accrualPlot ,Accrual Plots and Predictions for Clinical Trials
+accSDA ,Accelerated Sparse Discriminant Analysis
+accucor ,Natural Abundance Correction of Mass Spectrometer Data
+ACDC, Analysis of Congruent Diversification Classes
+acdcR ,Agro-Climatic Data by County
+ACDm, Tools for Autoregressive Conditional Duration Models
+ace2fastq ,ACE File to FASTQ Converter
+acebayes ,Optimal Bayesian Experimental Design using the ACE Algorithm
+aceEditor ,The 'Ace' Editor as a HTML Widget
+ACEP ,Analisis Computacional de Eventos de Protesta
+acepack ,ACE and AVAS for Selecting Multiple Regression Transformations
+ACEsearch ,'ACE' Search Engine API
+ACEsimFit ,ACE Kin Pair Data Simulations and Model Fitting
+ACEt, Estimating Dynamic Heritability and Twin Model Comparison
+acfMPeriod ,Robust Estimation of the ACF from the M-Periodogram
+acid ,Analysing Conditional Income Distributions
+acled.api ,Automated Retrieval of ACLED Conflict Event Data
+ACNE ,Affymetrix SNP Probe-Summarization using Non-Negative Matrix Factorization
+acnr ,Annotated Copy-Number Regions
+acopula ,Modelling Dependence with Multivariate Archimax (or any User-Defined Continuous) Copulas
+AcousticNDLCodeR ,Coding Sound Files for Use with NDL
+acp ,Autoregressive Conditional Poisson
+acroname ,Engine for Acronyms and Initialisms
+AcrossTic ,A Cost-Minimal Regular Spanning Subgraph with TreeClust
+acrt ,Autocorrelation Robust Testing
+acs, Download Manipulate and Present American Community Survey and Decennial Data from the US Census
+acss ,Algorithmic Complexity for Short Strings
+acss.data ,Data Only: Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
+ACSWR ,A Companion Package for the Book "A Course in Statistics with R"
+act ,Aligned Corpus Toolkit
+ACTCD ,Asymptotic Classification Theory for Cognitive Diagnosis
+ActCR ,Extract Circadian Rhythms Metrics from Actigraphy Data
+actel ,Acoustic Telemetry Data Analysis
+ActFrag ,Activity Fragmentation Metrics Extracted from Minute Level Activity Data
+actilifecounts ,Generate Activity Counts from Raw Accelerometer Data
+ActiSleep ,Sleep Duration Estimate Algorithm
+activAnalyzer ,A 'Shiny' App to Analyze Accelerometer-Measured Daily Physical Behavior Data
+activatr ,Utilities for Parsing and Plotting Activities
+ActiveDriver ,Finding Cancer Driver Proteins with Enriched Mutations in Post-Translational Modification Sites
+ActiveDriverWGS ,A Driver Discovery Tool for Cancer Whole Genomes
+activegp ,Gaussian Process Based Design and Analysis for the Active Subspace Method
+ActivePathways ,Integrative Pathway Enrichment Analysis of Multivariate Omics Data
+activity ,Animal Activity Statistics
+activityGCMM ,Circular Mixed Effect Mixture Models of Animal Activity Patterns
+ActivityIndex ,Activity Index Calculation using Raw 'Accelerometry' Data
+activPAL ,Advanced Processing and Chart Generation from activPAL Events Files
+actogrammr ,Read in Activity Data and Plot Actograms
+actuar ,Actuarial Functions and Heavy Tailed Distributions
+actuaryr, Develop Actuarial Models
+actxps ,Create Actuarial Experience Studies: Prepare Data Summarize Results and Create Reports
+AcuityView ,A Package for Displaying Visual Scenes as They May Appear to an Animal with Lower Acuity
+acumos, 'Acumos' R Interface
+ACV ,Optimal Out-of-Sample Forecast Evaluation and Testing under Stationarity
+ACWR ,Acute Chronic Workload Ratio Calculation
+ada ,The R Package Ada for Stochastic Boosting
+adabag ,Applies Multiclass AdaBoost.M1 SAMME and Bagging
+adace ,Estimator of the Adherer Average Causal Effect
+adagio, Discrete and Global Optimization Routines
+adaHuber, Adaptive Huber Estimation and Regression
+adamethods ,Archetypoid Algorithms and Anomaly Detection
+adana ,Adaptive Nature-Inspired Algorithms for Hybrid Genetic Optimization
+AdapSamp ,Adaptive Sampling Algorithms
+adapt4pv ,Adaptive Approaches for Signal Detection in Pharmacovigilance
+adaptalint ,Check Code Style Painlessly
+adaptDiag ,Bayesian Adaptive Designs for Diagnostic Trials
+AdaptGauss ,Gaussian Mixture Models (GMM)
+adaptiveGPCA ,Adaptive Generalized PCA
+AdaptiveSparsity ,Adaptive Sparsity Models
+adaptivetau ,Tau-Leaping Stochastic Simulation
+adaptIVPT ,Adaptive Bioequivalence Design for In-Vitro Permeation Tests
+adaptMCMC ,Implementation of a Generic Adaptive Monte Carlo Markov Chain Sampler
+adaptMT ,Adaptive P-Value Thresholding for Multiple Hypothesis Testing with Side Information
+adaptr, Adaptive Trial Simulator
+ADAPTS ,Automated Deconvolution Augmentation of Profiles for Tissue Specific Cells
+adaptsmoFMRI ,Adaptive Smoothing of FMRI Data
+adaptTest ,Adaptive Two-Stage Tests
+AdaSampling ,Adaptive Sampling for Positive Unlabeled and Label Noise Learning
+ADCT ,Adaptive Design in Clinical Trials
+add2ggplot ,Add to 'ggplot2'
+addhaz ,Binomial and Multinomial Additive Hazard Models
+addhazard ,Fit Additive Hazards Models for Survival Analysis
+addinsJoaoMelo ,Addins Made of Joao Melo
+addinslist ,Discover and Install Useful RStudio Addins
+addinsOutline ,'RStudio' Addins for Show Outline of a R Markdown/'LaTeX' Project
+additive ,Bindings for Additive TidyModels
+additiveDEA ,Additive Data Envelopment Analysis Models
+additivityTests ,Additivity Tests in the Two Way Anova with Single Sub-Class Numbers
+addreg ,Additive Regression for Discrete Data
+addScales ,Adds Labeled Center Line and Scale Lines/Regions to Trellis Plots
+ADDT ,Analysis of Accelerated Destructive Degradation Test Data
+ade4 ,Analysis of Ecological Data: Exploratory and Euclidean Methods in Environmental Sciences
+ade4TkGUI ,'ade4' Tcl/Tk Graphical User Interface
+adea ,Alternate DEA Package
+adegenet ,Exploratory Analysis of Genetic and Genomic Data
+adegraphics ,An S4 Lattice-Based Package for the Representation of Multivariate Data
+adehabitatHR ,Home Range Estimation
+adehabitatHS, Analysis of Habitat Selection by Animals
+adehabitatLT ,Analysis of Animal Movements
+adehabitatMA ,Tools to Deal with Raster Maps
+adephylo ,Exploratory Analyses for the Phylogenetic Comparative Method
+adepro ,A 'shiny' Application for the (Audio-)Visualization of Adverse Event Profiles
+adept ,Adaptive Empirical Pattern Transformation
+adeptdata ,Accelerometry Data Sets
+AdequacyModel ,Adequacy of Probabilistic Models and General Purpose Optimization
+ADER ,Data Analysis in Ecology
+adespatial ,Multivariate Multiscale Spatial Analysis
+adfExplorer ,Import from and Export to Amiga Disk Files
+ADGofTest ,Anderson-Darling GoF test
+adheRenceRX ,Assess Medication Adherence from Pharmaceutical Claims Data
+AdhereR ,Adherence to Medications
+AdhereRViz ,Adherence to Medications
+adimpro ,Adaptive Smoothing of Digital Images
+adiv, Analysis of Diversity
+adjclust, Adjacency-Constrained Clustering of a Block-Diagonal Similarity Matrix
+adjROC ,Computing Sensitivity at a Fix Value of Specificity and Vice Versa
+adjSURVCI ,Parameter and Adjusted Probability Estimation for Right-Censored Data
+adjustedcranlogs, Remove Automated and Repeated Downloads from 'RStudio' 'CRAN' Download Logs
+adjustedCurves ,Confounder-Adjusted Survival Curves and Cumulative Incidence Functions
+adklakedata, Adirondack Long-Term Lake Data
+adlift ,An Adaptive Lifting Scheme Algorithm
+admiral, ADaM in R Asset Library
+admiral.test ,Test Data for the 'admiral' Package
+admiraldev, Development Tools for the Admiral Package Family
+admiralonco ,Oncology Extension Package for ADaM in 'R' Asset Library
+admisc ,Adrian Dusa's Miscellaneous
+AdMit ,Adaptive Mixture of Student-t Distributions
+admix ,Package Admix for Admixture (aka Contamination) Models
+admixr ,An Interface for Running 'ADMIXTOOLS' Analyses
+ADMM ,Algorithms using Alternating Direction Method of Multipliers
+admmDensestSubmatrix,, Alternating Direction Method of Multipliers to Solve Dense Dubmatrix Problem
+ADMMnet, Regularized Model with Selecting the Number of Non-Zeros
+ADMMsigma ,Penalized Precision Matrix Estimation via ADMM
+ADMUR ,Ancient Demographic Modelling Using Radiocarbon
+adnuts, No-U-Turn MCMC Sampling for 'ADMB' Models
+adobeanalyticsr ,R Client for 'Adobe Analytics' API 2.0
+adoptr ,Adaptive Optimal Two-Stage Designs in R
+ADP ,Adoption Probability Triers and Users Rate of a New Product
+ADPclust ,Fast Clustering Using Adaptive Density Peak Detection
+ADPF ,Use Least Squares Polynomial Regression and Statistical Testing to Improve Savitzky-Golay
+adpss ,Design and Analysis of Locally or Globally Efficient Adaptive Designs
+ads ,Spatial Point Patterns Analysis
+adsDataHubR ,Google Ads Data Hub API Client
+AdvancedBasketballStats ,Advanced Basketball Statistics
+AdvBinomApps ,Upper Clopper-Pearson Confidence Limits for Burn-in Studies under Additional Available Information
+AdvDif4 ,Solving 1D Advection Bi-Flux Diffusion Equation
+adventr ,Interactive R Tutorials to Accompany Field (2016) "An Adventure in Statistics"
+ADVICE ,Automatic Direct Variable Selection via Interrupted Coefficient Estimation
+adw ,Angular Distance Weighting Interpolation
+adwave ,Wavelet Analysis of Genomic Data from Admixed Populations
+adwordsR ,Access the 'Google Adwords' API
+AEDForecasting ,Change Point Analysis in ARIMA Forecasting
+AEenrich ,Adverse Event Enrichment Tests
+AEP ,Statistical Modelling for Asymmetric Exponential Power Distribution
+AER ,Applied Econometrics with R
+AeRobiology ,A Computational Tool for Aerobiological Data
+AeroSampleR ,Estimate Aerosol Particle Collection Through Sample Lines
+AF ,Model-Based Estimation of Confounder-Adjusted Attributable Fractions
+afc ,Generalized Discrimination Score
+afdx, Diagnosis Performance Using Attributable Fraction
+afex ,Analysis of Factorial Experiments
+affinity ,Raster Georeferencing Grid Affine Transforms Cell Abstraction
+affinitymatrix ,Estimation of Affinity Matrix
+affluenceIndex, Affluence (Richness) Indices
+AFheritability ,The Attributable Fraction (AF) Described as a Function of Disease Heritability Prevalence and Intervention Specific Factors
+AFM ,Atomic Force Microscope Image Analysis
+afmToolkit ,Functions for Atomic Force Microscope Force-Distance Curves Analysis
+afpt ,Tools for Modelling of Animal Flight Performance
+AFR ,Toolkit for Regression Analysis of Kazakhstan Banking Sector Data
+africamonitor ,Africa Macroeconomic Monitor Database API
+aftgee ,Accelerated Failure Time Model with Generalized Estimating Equations
+afthd ,Accelerated Failure Time for High Dimensional Data with MCMC
+afttest ,Model Diagnostics for Accelerated Failure Time Models
+ag5Tools ,Toolbox for Downloading and Extracting Copernicus AgERA5 Data
+AGD ,Analysis of Growth Data
+ageg ,Age Grouping Functions
+AggregateR ,Aggregate Numeric Date and Categorical Variables
+aggregation ,p-Value Aggregation Methods
+AGHmatrix ,Relationship Matrices for Diploid and Autopolyploid Species
+aghq ,Adaptive Gauss Hermite Quadrature for Bayesian Inference
+aglm ,Accurate Generalized Linear Model
+agop ,Aggregation Operators and Preordered Sets
+AGPRIS ,AGricultural PRoductivity in Space
+agRee ,Various Methods for Measuring Agreement
+AgreementInterval ,Agreement Interval of Two Measurement Methods
+agricolae ,Statistical Procedures for Agricultural Research
+agricolaeplotr ,Visualization of Design of Experiments from the 'agricolae' Package
+agridat ,Agricultural Datasets
+agrifeature, Agriculture Image Feature
+agriTutorial ,Tutorial Analysis of Some Agricultural Experiments
+agriwater, Evapotranspiration and Energy Fluxes Spatial Analysis
+agrmt, Calculate Concentration and Dispersion in Ordered Rating Scales
+agroclim ,Climatic Indices for Agriculture
+AgroR, Experimental Statistics and Graphics for Agricultural Sciences
+AgroReg, Regression Analysis Linear and Nonlinear for Agriculture
+agrostab, Stability Analysis for Agricultural Research
+AgroTech, Data Analysis of Pesticide Application Technology
+AGSDest, Estimation in Adaptive Group Sequential Trials
+agtboost ,Adaptive and Automatic Gradient Boosting Computations
+agua, 'tidymodels' Integration with 'h2o'
+agvgd, An R Implementation of the 'Align-GVGD' Method
+ahaz, Regularization for Semiparametric Additive Hazards Regression
+AHM ,Additive Heredity Model: Method for the Mixture-of-Mixtures Experiments
+AHMbook ,Functions and Data for the Book 'Applied Hierarchical Modeling in Ecology' Vols 1 and 2
+ahMLE ,Methods for the Additive Hazard Model
+ahnr ,An Implementation of the Artificial Hydrocarbon Networks
+AhoCorasickTrie, Fast Searching for Multiple Keywords in Multiple Texts
+AHPhybrid ,AHP Hybrid Method
+ahpsurvey ,Analytic Hierarchy Process for Survey Data
+ahptopsis2n ,Hybrid Method for Multiple Criteria Decision-Making (MCDM)
+AHSurv ,Flexible Parametric Accelerated Hazards Models
+aibd ,Attraction Indian Buffet Distribution
+aIc ,Testing for Compositional Pathologies in Datasets
+AICcmodavg, Model Selection and Multimodel Inference Based on (Q)AIC(c)
+AID, Box-Cox Power Transformation
+aidar, Tools for Reading AIDA Files
+aif360 ,Help Detect and Mitigate Bias in Machine Learning Models
+AIG, Automatic Item Generator
+aimPlot, Create Pie Like Plot for Completeness
+aimsir17, Irish Weather Observing Stations Hourly Records for 2017
+AIPW ,Augmented Inverse Probability Weighting
+aire.zmvm, Download Mexico City Pollution Wind and Temperature Data
+airGR ,Suite of GR Hydrological Models for Precipitation-Runoff Modelling
+airGRdatassim ,Ensemble-Based Data Assimilation with GR Hydrological Models
+airGRiwrm ,'airGR' Integrated Water Resource Management
+airGRteaching ,Teaching Hydrological Modelling with the GR Rainfall-Runoff Models ('Shiny' Interface Included)
+aiRly, R Wrapper for 'Airly' API
+AirMonitor ,Air Quality Data Analysis
+airnow ,Retrieve 'AirNow' Air Quality Observations and Forecasts
+airportr ,Convenience Tools for Working with Airport Data
+airports ,Data on Airports
+airqualityES, Air Quality Measurements in Spain from 2011 to 2018
+airr ,AIRR Data Representation Reference Library
+airt ,Evaluation of Algorithm Collections Using Item Response Theory
+aiRthermo ,Atmospheric Thermodynamics and Visualization
+aisoph, Additive Isotonic Proportional Hazards Model
+ajv ,Another JSON Schema Validator
+akc, Automatic Knowledge Classification
+Ake, Associated Kernel Estimations
+akiFlagger, Flags Acute Kidney Injury (AKI)
+akima, Interpolation of Irregularly and Regularly Spaced Data
+akmbiclust ,Alternating K-Means Biclustering
+akmedoids, Anchored Kmedoids for Longitudinal Data Clustering
+alabama, Constrained Nonlinear Optimization
+alakazam, Immunoglobulin Clonal Lineage and Diversity Analysis
+ALassoSurvIC, Adaptive Lasso for the Cox Regression with Interval Censored and Possibly Left Truncated Data
+albatross, PARAFAC Analysis of Fluorescence Excitation-Emission Matrices
+albopictus, Age-Structured Population Dynamics Model
+ald ,The Asymmetric Laplace Distribution
+ALDqr, Quantile Regression Using Asymmetric Laplace Distribution
+aldvmm, Adjusted Limited Dependent Variable Mixture Models
+ALEPlot, Accumulated Local Effects (ALE) Plots and Partial Dependence (PD) Plots
+aLFQ ,Estimating Absolute Protein Quantities from Label-Free LC-MS/MS Proteomics Data
+alfr ,Connectivity to 'Alfresco' Content Management Repositories
+alfred ,Downloading Time Series from ALFRED Database for Various Vintages
+algaeClassify, Determine Phytoplankton Functional Groups Based on Functional Traits
+AlgDesign, Algorithmic Experimental Design
+AlgebraicHaploPackage, Haplotype Two Snips Out of a Paired Group of Patients
+algo, Implement an Address Search Auto Completion Menu on 'Shiny' Text Inputs Using the 'Algolia Places' 'Javascript' Library
+algorithmia, Allows you to Easily Interact with the Algorithmia Platform
+aliases2entrez, Converts Human gene symbols to entrez IDs
+alkahest, Pre-Processing XY Data from Experimental Methods
+allcontributors ,Acknowledge all Contributors to a Project
+alleHap ,Allele Imputation and Haplotype Reconstruction from Pedigree Databases
+allelematch ,Identifying Unique Multilocus Genotypes where Genotyping Error and Missing Data may be Present
+AlleleRetain, Allele Retention Inbreeding and Demography
+AlleleShift, Predict and Visualize Population-Level Changes in Allele Frequencies in Response to Climate Change
+allestimates, Effect Estimates from All Models
+allomr ,Removing Allometric Effects of Body Size in Morphological Analysis
+Allspice, RNA-Seq Profile Classifier
+alluvial, Alluvial Diagrams
+almanac ,Tools for Working with Recurrence Rules
+alookr, Model Classifier for Binary Classification
+alpaca ,Fit GLM's with High-Dimensional k-Way Fixed Effects
+alphabetr, Algorithms for High-Throughput Sequencing of Antigen-Specific T Cells
+alphaci ,Confidence Intervals for Coefficient Alpha and Standardized Alpha
+alphahull ,Generalization of the Convex Hull of a Sample of Points in the Plane
+AlphaHull3D, Alpha Hull Computation
+alphaOutlier, Obtain Alpha-Outlier Regions for Well-Known Probability Distributions
+AlphaPart, Partition/Decomposition of Breeding Values by Paths of Information
+alphashape3d, Implementation of the 3D Alpha-Shape for the Reconstruction of 3D Sets from a Point Cloud
+AlphaSimR ,Breeding Program Simulations
+alphastable ,Inference for Stable Distribution
+alphavantager ,Lightweight R Interface to the Alpha Vantage API
+alqrfe ,Adaptive Lasso Quantile Regression with Fixed Effects
+alr4, Data to Accompany Applied Linear Regression 4th Edition
+ALS, Multivariate Curve Resolution Alternating Least Squares (MCR-ALS)
+ALSCPC, Accelerated line search algorithm for simultaneous orthogonal transformation of several positive definite symmetric matrices to nearly diagonal form
+ALSM, Companion to Applied Linear Statistical Models
+altadata, API Wrapper for Altadata.io
+altair, Interface to 'Altair'
+altdoc ,Use 'Docsify.js' 'Docute' or 'Mkdocs' to Generate a Package Documentation
+altfuelr ,Provides an Interface to the NREL Alternate Fuels Locator
+altmeta ,Alternative Meta-Analysis Methods
+ALTopt, Optimal Experimental Designs for Accelerated Life Testing
+altR2, Alternative Estimators to Adjusted R-Squared
+ALUES ,Agricultural Land Use Evaluation System
+amanida ,Meta-Analysis for Non-Integral Data
+amanpg ,Alternating Manifold Proximal Gradient Method for Sparse PCA
+amap ,Another Multidimensional Analysis Package
+amapGeocode ,An Interface to the 'AutoNavi Maps' API Geocoding Services
+amapro ,Thin Wrapper for Mapping Library 'AMap' by 'AutoNavi'
+AMAPVox, LiDAR Data Voxelisation
+amazonadsR ,Get Amazon Ads Data via the 'Windsor.ai' API
+ambhasGW ,Ground Water Modelling
+ambient ,A Generator of Multidimensional Noise
+ambit, Simulation and Estimation of Ambit Processes
+AMCP ,A Model Comparison Perspective
+AMCTestmakeR ,Generate LaTeX Code for Auto-Multiple-Choice (AMC)
+Amelia ,A Program for Missing Data
+amelie ,Anomaly Detection with Normal Probability Functions
+amen ,Additive and Multiplicative Effects Models for Networks and Relational Data
+AmericanCallOpt ,This package includes pricing function for selected American call options with underlying assets that generate payouts
+amerifluxr ,Interface to 'AmeriFlux' Data Services
+amerika, American Politics-Inspired Color Palette Generator
+AmesHousing ,The Ames Iowa Housing Data
+AmigaFFH ,Commodore Amiga File Format Handler
+ammiBayes, Bayesian Ammi Model for Continuous Data
+AMModels, Adaptive Management Model Manager
+AmmoniaConcentration ,Un-Ionized Ammonia Concentration
+aMNLFA ,Automated Moderated Nonlinear Factor Analysis Using 'M-plus'
+AmoudSurv ,Tractable Parametric Odds-Based Regression Models
+amp ,Statistical Test for the Multivariate Point Null Hypotheses
+ampd ,An Algorithm for Automatic Peak Detection in Noisy Periodic and Quasi-Periodic Signals
+AmpGram ,Prediction of Antimicrobial Peptides
+ampir ,Predict Antimicrobial Peptides
+AMPLE ,Shiny Apps to Support Capacity Building on Harvest Control Rules
+AmpliconDuo ,Statistical Analysis of Amplicon Data of the Same Sample to Identify Artefacts
+AMR ,Antimicrobial Resistance Data Analysis
+amt ,Animal Movement Tools
+AmyloGram ,Prediction of Amyloid Proteins
+AnaCoDa, Analysis of Codon Data under Stationarity using a Bayesian Framework
+Anaconda ,Targeted Differential and Global Enrichment Analysis of Taxonomic Rank by Shared Asvs
+anacor, Simple and Canonical Correspondence Analysis
+analogsea ,Interface to 'Digital Ocean'
+analogue ,Analogue and Weighted Averaging Methods for Palaeoecology
+analogueExtra ,Additional Functions for Use with the Analogue Package
+analyzer ,Data Analysis and Automated R Notebook Generation
+anapuce ,Tools for Microarray Data Analysis
+AncestryMapper, Assigning Ancestry Based on Population References
+AnchorRegression ,Perform AnchorRegression
+and ,Construct Natural-Language Lists with Internationalization
+Andromeda ,Asynchronous Disk-Based Representation of Massive Data
+andurinha ,Make Spectroscopic Data Processing Easier
+anesrake ,ANES Raking Implementation
+AnglerCreelSurveySimulation ,Simulate a Bus Route Creel Survey of Anglers
+angstroms ,Tools for 'ROMS' the Regional Ocean Modeling System
+aniDom ,Inferring Dominance Hierarchies and Estimating Uncertainty
+anim.plots, Simple Animated Plots for R
+animalEKF, Extended Kalman Filters for Animal Movement
+AnimalHabitatNetwork ,Networks Characterising the Physical Configurations of Animal Habitats
+animalTrack, Animal track reconstruction for high frequency 2-dimensional (2D) or 3-dimensional (3D) movement data
+animaltracker, Animal Tracker
+animation, A Gallery of Animations in Statistics and Utilities to Create Animations
+animint2 ,Animated Interactive Grammar of Graphics
+animl ,A Collection of ML Tools for Conservation Research
+anipaths ,Animation of Multiple Trajectories with Uncertainty
+aniview ,Animate Shiny and R Markdown Content when it Comes into View
+anMC ,Compute High Dimensional Orthant Probabilities
+ANN2 ,Artificial Neural Networks for Anomaly Detection
+anndata, 'anndata' for R
+AnnoProbe, Annotate the Gene Symbols for Probes in Expression Array
+annotater ,Annotate Package Load Calls
+AnnotationBustR, Extract Subsequences from GenBank Annotations
+annotator ,Image Annotation and Polygon Outlining using Free Drawing
+AnnuityRIR ,Annuity Random Interest Rates
+anocva ,A Non-Parametric Statistical Test to Compare Clustering Structures
+ANOM ,Analysis of Means
+anomalize, Tidy Anomaly Detection
+anomaly ,Detecting Anomalies in Data
+ANOVAIREVA, Interactive Document for Working with Analysis of Variance
+ANOVAreplication, Test ANOVA Replications by Means of the Prior Predictive p-Value
+ANOVAShiny ,Interactive Document for Working with Analysis of Variance
+ANOVAShiny2 ,Interactive Document for Working with Analysis of Variance
+anovir ,Analysis of Virulence
+anscombiser, Create Datasets with Identical Summary Statistics
+AntAngioCOOL, Anti-Angiogenic Peptide Prediction
+antaresEditObject, Edit an 'Antares' Simulation
+antaresProcessing, 'Antares' Results Processing
+antaresRead ,Import Manipulate and Explore the Results of an 'Antares' Simulation
+antaresViz ,Antares Visualizations
+anthro ,Computation of the WHO Child Growth Standards
+anthroplus, Computation of the WHO 2007 References for School-Age Children and Adolescents (5 to 19 Years)
+AnthropMMD, An R Package for Smith's Mean Measure of Divergence (MMD)
+Anthropometry, Statistical Methods for Anthropometric Data
+AntibodyTiters, Antibody Titer Analysis of Vaccinated Patients
+anticlust ,Subset Partitioning via Anticlustering
+antitrust ,Tools for Antitrust Practitioners
+antiword ,Extract Text from Microsoft Word Documents
+AntMAN ,Anthology of Mixture Analysis Tools
+ANTs ,Animal Network Toolkit Software
+anybadger, Create Custom Pipeline Badges
+anyflights, Query 'nycflights13'-Like Air Travel Data for Given Years and Airports
+anyLib ,Install and Load Any Package from CRAN Bioconductor or Github
+anytime ,Anything to 'POSIXct' or 'Date' Converter
+ao, Alternating Optimization
+aod ,Analysis of Overdispersed Data
+aods3 ,Analysis of Overdispersed Data using S3 Methods
+aoos, Another Object Orientation System
+aopdata ,Data from the 'Access to Opportunities Project (AOP)'
+Aoptbdtvc ,A-Optimal Block Designs for Comparing Test Treatments with Controls
+aoristic ,Generates Aoristic Probability Distributions
+aorsf ,Accelerated Oblique Random Survival Forests
+aos, Animate on Scroll Library for 'shiny'
+AOV1R, Inference in the Balanced One-Way ANOVA Model with Random Factor
+AovBay ,Classic Nonparametric and Bayesian One-Way Analysis of Variance Panel
+apa ,Format Outputs of Statistical Tests According to APA Guidelines
+apache.sedona, R Interface for Apache Sedona
+ApacheLogProcessor, Process the Apache Web Server Log Files
+apaTables ,Create American Psychological Association (APA) Style Tables
+apaText ,Create R Markdown Text for Results in the Style of the American Psychological Association (APA)
+APAtree ,Computation of the 'Area Potentially Available' (APA) to Trees
+apc ,Age-Period-Cohort Analysis
+APCanalysis, Analysis of Unreplicated Orthogonal Experiments using All Possible Comparisons
+apcf ,Adapted Pair Correlation Function
+APCI, A New Age-Period-Cohort Model for Describing and Investigating Inter-Cohort Differences and Life Course Dynamics
+apcluster ,Affinity Propagation Clustering
+aPCoA ,Covariate Adjusted PCoA Plot
+APCtools ,Routines for Descriptive and Model-Based APC Analysis
+apdesign, An Implementation of the Additive Polynomial Design Matrix
+ape ,Analyses of Phylogenetics and Evolution
+apercu ,Quick Look at your Data
+apex ,Phylogenetic Methods for Multiple Gene Data
+apexcharter, Create Interactive Chart with the JavaScript 'ApexCharts' Library
+APFr, Multiple Testing Approach using Average Power Function (APF) and Bayes FDR Robust Estimation
+APfun, Geo-Processing Helper Functions
+aphid ,Analysis with Profile Hidden Markov Models
+aphylo, Statistical Inference and Prediction of Annotations in Phylogenetic Trees
+api2lm, Functions and Data Sets for the Book "A Progressive Introduction to Linear Models"
+APIS ,Auto-Adaptive Parentage Inference Software Tolerant to Missing Parents
+apisensr ,Interface to 'episensr' for Sensitivity Analysis of Epidemiological Results
+aplore3, Datasets from Hosmer Lemeshow and Sturdivant "Applied Logistic Regression" (3rd Ed. 2013)
+aplot ,Decorate a 'ggplot' with Associated Information
+aplpack, Another Plot Package: 'Bagplots' 'Iconplots' 'Summaryplots' Slider Functions and Others
+APML0, Augmented and Penalized Minimization Method L0
+apng ,Convert Png Files into Animated Png
+apollo, Tools for Choice Model Estimation and Application
+APPEstimation, Adjusted Prediction Model Performance Estimation
+appleadsR ,Get Apple Search Ads Data via the 'Windsor.ai' API
+appler ,'Apple App Store' and 'iTunes' Data Extraction
+applicable ,A Compilation of Applicability Domain Methods
+AppliedPredictiveModeling, Functions and Data Sets for 'Applied Predictive Modeling'
+appnn, Amyloid Propensity Prediction Neural Network
+approximator, Bayesian Prediction of Complex Computer Codes
+approxmatch, Approximately Optimal Fine Balance Matching with Multiple Groups
+approxOT ,Approximate and Exact Optimal Transport Methods
+aprean3 ,Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed. 1998)
+aprof, Amdahl's Profiler Directed Optimization Made Easy
+apsimx, Inspect Read Edit and Run 'APSIM' "Next Generation" and 'APSIM' Classic
+apt, Asymmetric Price Transmission
+APtools ,Average Positive Predictive Values (AP) for Binary Outcomes and Censored Event Times
+apTreeshape, Analyses of Phylogenetic Treeshape
+apyramid ,Visualize Population Pyramids Aggregated by Age
+AQEval ,Air Quality Evaluation
+AQLSchemes ,Retrieving Acceptance Sampling Schemes
+aqp ,Algorithms for Quantitative Pedology
+AquaBPsim, Aquaculture Breeding Program Simulation
+AQuadtree, Confidentiality of Spatial Point Data
+AquaEnv ,Integrated Development Toolbox for Aquatic Chemical Model Generation
+aquodom ,Access to Aquo domaintables from R (Dutch)
+AR ,Another Look at the Acceptance-Rejection Method
+ar.matrix ,Simulate Auto Regressive Data from Precision Matricies
+arabic2kansuji ,Convert Arabic Numerals to Kansuji
+arabicStemR ,Arabic Stemmer for Text Analysis
+arakno, ARAchnid KNowledge Online
+ArArRedux, Rigorous Data Reduction and Error Propagation of Ar40 / Ar39 Data
+arc ,Association Rule Classification
+ARCensReg, Fitting Univariate Censored Linear Regression Model with Autoregressive Errors
+ArchaeoChron, Bayesian Modeling of Archaeological Chronologies
+ArchaeoPhases, Post-Processing of the Markov Chain Simulated by 'ChronoModel' 'Oxcal' or 'BCal'
+ArchaeoPhases.dataset, Data Sets for 'ArchaeoPhases' Vignettes
+archdata ,Example Datasets from Archaeological Research
+archeofrag, Refitting and Spatial Analysis in Archaeology
+archetypal ,Finds the Archetypal Analysis of a Data Frame
+archetyper ,An Archetype for Data Mining and Data Science Projects
+archetypes ,Archetypal Analysis
+aRchi ,Quantitative Structural Model ('QSM') Treatment for Tree Architecture
+archiDART ,Plant Root System Architecture Analysis Using DART and RSML Files
+archive ,Multi-Format Archive and Compression Support
+archiveRetriever, Retrieve Archived Web Pages from the 'Internet Archive'
+archivist ,Tools for Storing Restoring and Searching for R Objects
+archivist.github ,Tools for Archiving Managing and Sharing R Objects via GitHub
+ArCo ,Artificial Counterfactual Package
+ARCokrig, Autoregressive Cokriging Models for Multifidelity Codes
+arcpullr, Pull Data from an 'ArcGIS REST' API
+arctools, Processing and Physical Activity Summaries of Minute Level Activity Data
+ArDec ,Time Series Autoregressive-Based Decomposition
+ARDL ,ARDL ECM and Bounds-Test for Cointegration
+ardl.nardl ,Linear and Nonlinear Autoregressive Distributed Lag Models: General-to-Specific Approach
+areabiplot ,Area Biplot
+areal ,Areal Weighted Interpolation
+areaplot, Plot Stacked Areas and Confidence Bands as Filled Polygons
+arena2r ,Plots Summary Statistics and Tools for Arena Simulation Users
+arenar ,Arena for the Exploration and Comparison of any ML Models
+arfima ,Fractional ARIMA (and Other Long Memory) Time Series Modeling
+argo ,Accurate Estimation of Influenza Epidemics using Google Search Data
+argoFloats, Analysis of Oceanographic Argo Floats
+argon2 ,Secure Password Hashing
+argonDash, Argon Shiny Dashboard Template
+argonR ,R Interface to Argon HTML Design
+argosfilter, Argos Locations Filter
+argparse ,Command Line Optional and Positional Argument Parser
+argparser ,Command-Line Argument Parser
+argus ,Random Variate Generator for the Argus Distribution
+ARHT ,Adaptable Regularized Hotelling's T^2 Test for High-Dimensional Data
+ari ,Automated R Instructor
+ARIbrain, All-Resolution Inference
+aricode ,Efficient Computations of Standard Clustering Comparison Measures
+ARIMAANN, Time Series Forecasting using ARIMA-ANN Hybrid Model
+arkdb ,Archive and Unarchive Databases Using Flat Files
+arkhe, Tools for Cleaning Rectangular Data
+arm, Data Analysis Using Regression and Multilevel/Hierarchical Models
+armada, A Statistical Methodology to Select Covariates in High-Dimensional Data under Dependence
+armspp, Adaptive Rejection Metropolis Sampling (ARMS) via 'Rcpp'
+arnie ,"Arnie" box office records 1982-2014
+AROC ,Covariate-Adjusted Receiver Operating Characteristic Curve Inference
+aroma.affymetrix ,Analysis of Large Affymetrix Microarray Data Sets
+aroma.apd ,A Probe-Level Data File Format Used by 'aroma.affymetrix' [deprecated]
+aroma.cn, Copy-Number Analysis of Large Microarray Data Sets
+aroma.core, Core Methods and Classes Used by 'aroma.*' Packages Part of the Aroma Framework
+Arothron ,Geometric Morphometric Methods and Virtual Anthropology Tools
+ARPALData ,Retrieving Managing and Analysing Air Quality and Weather Data for Lombardy (Italy) using ARPA Lombardia Open Database
+ARpLMEC ,Censored Mixed-Effects Models with Different Correlation Structures
+ARPobservation, Tools for Simulating Direct Behavioral Observation Recording Procedures Based on Alternating Renewal Processes
+arpr, Advanced R Pipes
+aRpsDCA, Arps Decline Curve Analysis in R
+arrangements, Fast Generators and Iterators for Permutations Combinations Integer Partitions and Compositions
+arrApply ,Apply a Function to a Margin of an Array
+arrayhelpers, Convenience Functions for Arrays
+arrow, Integration to 'Apache' 'Arrow'
+ars ,Adaptive Rejection Sampling
+arse ,Area of Resilience to Stress Event
+arsenal, An Arsenal of 'R' Functions for Large-Scale Statistical Summaries
+ART ,Aligned Rank Transform for Nonparametric Factorial Analysis
+artfima, ARTFIMA Model Estimation
+arthistory, Art History Textbook Data
+ARTofR ,To Insert Title Divider and Block of Comments
+ARTool, Aligned Rank Transform
+ARTP2 ,Pathway and Gene-Level Association Test
+aRtsy ,Generative Art with 'ggplot2'
+arules ,Mining Association Rules and Frequent Itemsets
+arulesCBA, Classification Based on Association Rules
+arulesNBMiner, Mining NB-Frequent Itemsets and NB-Precise Rules
+arulesSequences, Mining Frequent Sequences
+arulesViz ,Visualizing Association Rules and Frequent Itemsets
+aRxiv ,Interface to the arXiv API
+asaur ,Data Sets for "Applied Survival Analysis Using R""
+asbio ,A Collection of Statistical Tools for Biologists
+ascentTraining, Ascent Training Datasets
+ascii, Export R Objects to Several Markup Languages
+asciicast, Create 'Ascii' Screen Casts from R Scripts
+asciichartr, Lightweight ASCII Line Graphs
+asciiruler, Render an ASCII Ruler
+asciiSetupReader ,Reads Fixed-Width ASCII Data Files (.txt or .dat) that Have Accompanying Setup Files (.sps or .sas)
+ascotraceR ,Simulate the Spread of Ascochyta Blight in Chickpea
+asd ,Simulations for Adaptive Seamless Designs
+asdreader, Reading ASD Binary Files in R
+ASGS.foyer ,Interface to the Australian Statistical Geography Standard
+ash ,David Scott's ASH Routines
+ashr ,Methods for Adaptive Shrinkage using Empirical Bayes
+asht ,Applied Statistical Hypothesis Tests
+AsioHeaders, 'Asio' C++ Header Files
+ASIP ,Automated Satellite Image Processing
+askpass, Safe Password Entry for R Git and SSH
+aslib ,Interface to the Algorithm Selection Benchmark Library
+ASMap ,Linkage Map Construction using the MSTmap Algorithm
+asnipe ,Animal Social Network Inference and Permutations for Ecologists
+aSPC ,An Adaptive Sum of Powered Correlation Test (aSPC) for Global Association Between Two Random Vectors
+aspect, A General Framework for Multivariate Analysis with Optimal Scaling
+aspi ,Analysis of Symmetry of Parasitic Infections
+aspline, Spline Regression with Adaptive Knot Selection
+aSPU ,Adaptive Sum of Powered Score Test
+asremlPlus, Augments 'ASReml-R' in Fitting Mixed Models and Packages Generally in Exploring Prediction Differences
+ASRgenomics, 'ASReml-R' Genomics Tools
+ASSA ,Applied Singular Spectrum Analysis (ASSA)
+assert, Validate Function Arguments
+assertable, Verbose Assertions for Tabular Data (Data.frames and Data.tables)
+assertive, Readable Check Functions to Ensure Code Integrity
+assertive.base, A Lightweight Core of the 'assertive' Package
+assertive.code ,Assertions to Check Properties of Code
+assertive.data ,Assertions to Check Properties of Data
+assertive.data.uk, Assertions to Check Properties of Strings
+assertive.data.us ,Assertions to Check Properties of Strings
+assertive.datetimes, Assertions to Check Properties of Dates and Times
+assertive.files ,Assertions to Check Properties of Files
+assertive.matrices ,Assertions to Check Properties of Matrices
+assertive.models ,Assertions to Check Properties of Models
+assertive.numbers ,Assertions to Check Properties of Numbers
+assertive.properties, Assertions to Check Properties of Variables
+assertive.reflection ,Assertions for Checking the State of R
+assertive.sets ,Assertions to Check Properties of Sets
+assertive.strings, Assertions to Check Properties of Strings
+assertive.types ,Assertions to Check Types of Variables
+assertr ,Assertive Programming for R Analysis Pipelines
+assertthat, Easy Pre and Post Assertions
+AssetAllocation, Backtesting Simple Asset Allocation Strategies
+AssetCorr ,Estimating Asset Correlations from Default Data
+AssetPricing, Optimal Pricing of Assets with Fixed Expiry Date
+assignPOP ,Population Assignment using Genetic Non-Genetic or Integrated Data in a Machine Learning Framework
+assignR ,Infer Geographic Origin from Isotopic Data
+assist ,A Suite of R Functions Implementing Spline Smoothing Techniques
+ASSISTant, Adaptive Subgroup Selection in Group Sequential Trials
+AssocAFC ,Allele Frequency Comparison
+assocInd ,Implements New and Existing Association Indices for Constructing Animal Social Networks
+AssocTests, Genetic Association Studies
+assortnet, Calculate the Assortativity Coefficient of Weighted and Binary Networks
+AST ,Age-Spatial-Temporal Model
+ast2ast, Translates an R Function to a C++ Function
+aster ,Aster Models
+aster2 ,Aster Models
+asteRisk, Computation of Satellite Position
+AsthmaNHANES, Asthma Data Sets from NHANES
+astrochron ,A Computational Tool for Astrochronology
+astrodatR ,Astronomical Data
+astroFns ,Astronomy: Time and Position Functions Misc. Utilities
+astsa, Applied Statistical Time Series Analysis
+ASV ,Stochastic Volatility Models with or without Leverage
+AsyK, Kernel Density Estimation
+asylum, Data on Asylum and Resettlement for the UK
+asymLD, Asymmetric Linkage Disequilibrium (ALD) for Polymorphic Genetic Data
+AsymmetricSORDs, Asymmetric Second Order Rotatable Designs (AsymmetricSORDs)
+asymmetry ,Multidimensional Scaling of Asymmetric Proximities
+asymmetry.measures, Asymmetry Measures for Probability Density Functions
+asympTest ,A Simple R Package for Classical Parametric Statistical Tests and Confidence Intervals in Large Samples
+asymptor, Estimate Asymptomatic Cases via Capture/Recapture Methods
+async ,Asynchronous Code Constructs: Generators Yield Async Await
+AsynchLong ,Regression Analysis of Sparse Asynchronous Longitudinal Data
+ata ,Automated Test Assembly
+atable, Create Tables for Reporting Clinical Trials
+ATAforecasting, Automatic Time Series Analysis and Forecasting using the Ata Method
+atakrig ,Area-to-Area Kriging
+ATbounds ,Bounding Treatment Effects by Limited Information Pooling
+atime ,Asymptotic Timing
+atlas, Stanford 'ATLAS' Search Engine API
+AtmChile, Download Air Quality and Meteorological Information of Chile
+atmopt ,Analysis-of-Marginal-Tail-Means
+ATNr, Run Allometric Trophic Networks Models
+atom4R, Tools to Handle and Publish Metadata as 'Atom' XML Format
+atpolR, ATPOL Grid Implementation
+ATR ,Alternative Tree Representation
+aTSA ,Alternative Time Series Analysis
+atsd ,Support Querying Axibase Time-Series Database
+attachment, Deal with Dependencies
+attempt ,Tools for Defensive Programming
+attention, Self-Attention Algorithm
+attenuation ,Correcting for Attenuation Due to Measurement Error
+attrib ,Attributable Burden of Disease
+AUC ,Threshold Independent Performance Measures for Probabilistic Classifiers
+auctestr, Statistical Testing for AUC Data
+auctionr ,Estimate First-Price Auction Model
+audio ,Audio Interface for R
+audiometry, Standard Conform Pure Tone Audiometry (PTA) Plots
+audit ,Bounds for Accounting Populations
+auditor, Model Audit - Verification Validation and Error Analysis
+audrex ,Automatic Dynamic Regression using Extreme Gradient Boosting
+audubon, Japanese Text Processing Tools
+augmentedRCBD, Analysis of Augmented Randomised Complete Block Designs
+AugmenterR, Data Augmentation for Machine Learning on Tabular Data
+augSIMEX ,Analysis of Data with Mixed Measurement Error and Misclassification in Covariates
+auk ,eBird Data Extraction and Processing in R
+aum, Area Under Minimum of False Positives and Negatives
+AurieLSHGaussian, Creates a Neighbourhood Using Locality Sensitive Hashing for Gaussian Projections
+auRoc ,Various Methods to Estimate the AUC
+ausplotsR ,TERN AusPlots Analysis Package
+AustralianPoliticians, Provides Datasets About Australian Politicians
+AUtests ,Approximate Unconditional and Permutation Tests
+auth0 ,Secure Authentication in Shiny with Auth0
+auto.pca, Automatic Variable Reduction Using Principal Component Analysis
+autoBagging, Learning to Rank Bagging Workflows with Metalearning
+autocart, Autocorrelation Regression Trees
+autocogs ,Automatic Cognostic Summaries
+autoCovariateSelection ,Automated Covariate Selection Using HDPS Algorithm
+AutoDeskR, An Interface to the 'AutoDesk' 'API' Platform
+autoencoder, Sparse Autoencoder for Automatic Learning of Representative Features from Unlabeled Data
+autoFC, Automatic Construction of Forced-Choice Tests
+autoFRK ,Automatic Fixed Rank Kriging
+autoharp ,Semi-Automatic Grading of R and Rmd Scripts
+autohrf, Automated Generation of Data-Informed GLM Models in Task-Based fMRI Data Analysis
+autoimage, Multiple Heat Maps for Projected Coordinates
+autokeras ,R Interface to 'AutoKeras'
+automagic ,Automagically Document and Install Packages Necessary to Run R Code
+automap ,Automatic Interpolation Package
+autoMFA, Algorithms for Automatically Fitting MFA Models
+automl ,Deep Learning with Metaheuristic
+autoMrP, Improving MrP with Ensemble Learning
+autonewsmd, Auto-Generate Changelog using Conventional Commits
+AutoPipe ,Automated Transcriptome Classifier Pipeline: Comprehensive Transcriptome Analysis
+autoplotly, Automatic Generation of Interactive Visualizations for Statistical Results
+Autoplotprotein, Development of Visualization Tools for Protein Sequence
+autoRasch ,Semi-Automated Rasch Analysis
+autoReg ,Automatic Linear and Logistic Regression and Survival Analysis
+AutoregressionMDE, Minimum Distance Estimation in Autoregressive Model
+AutoScore, An Interpretable Machine Learning-Based Automatic Clinical Score Generator
+Autoseed ,Retrieve Disease-Related Genes from Public Sources
+autoshiny ,Automatic Transformation of an 'R' Function into a 'shiny' App
+autostats ,Auto Stats
+AutoStepwiseGLM ,Builds Stepwise GLMs via Train and Test Approach
+autostsm ,Automatic Structural Time Series Models
+autothresholdr, An R Port of the 'ImageJ' Plugin 'Auto Threshold'
+autoTS ,Automatic Model Selection and Prediction for Univariate Time Series
+AutoWeatherIndices, Calculating Weather Indices
+av ,Working with Audio and Video in R
+available, Check if the Title of a Package is Available Appropriate and Interesting
+avar ,Allan Variance
+averisk, Calculation of Average Population Attributable Fractions and Confidence Intervals
+avfintools, Financial Analysis Tools Using Data from 'Alpha Vantager'
+avidaR ,A Computational Biologist’s Toolkit To Get Data From 'avidaDB'
+AvInertia, Calculate the Inertial Properties of a Flying Bird
+aVirtualTwins, Adaptation of Virtual Twins Method from Jared Foster
+avocado ,Weekly Hass Avocado Sales Summary
+aweek ,Convert Dates to Arbitrary Week Definitions
+aweSOM, Interactive Self-Organizing Maps
+AWR, 'AWS' Java 'SDK' for R
+AWR.Athena, 'AWS' Athena 'DBI' Wrapper
+AWR.Kinesis ,Amazon 'Kinesis' Consumer Application for Stream Processing
+AWR.KMS ,A Simple Client to the 'AWS' Key Management Service
+aws ,Adaptive Weights Smoothing
+aws.alexa, Client for the Amazon Alexa Web Information Services API
+aws.comprehend ,Client for 'AWS Comprehend'
+aws.ec2metadata ,Get EC2 Instance Metadata
+aws.ecx ,Communicating with AWS EC2 and ECS using AWS REST APIs
+aws.iam ,AWS IAM Client Package
+aws.kms ,'AWS Key Management Service' Client Package
+aws.lambda, AWS Lambda Client Package
+aws.polly ,Client for AWS Polly
+aws.s3 ,'AWS S3' Client Package
+aws.signature ,Amazon Web Services Request Signatures
+aws.transcribe ,Client for 'AWS Transcribe'
+aws.translate ,Client for 'AWS Translate'
+awsMethods ,Class and Methods Definitions for Packages 'aws' 'adimpro' 'fmri' 'dwi'
+AZIAD ,Analyzing Zero-Inflated and Zero-Altered Data
+aziztest ,Novel Statistical Test for Aberration Enrichment
+AzureAppInsights ,Include Azure Application Insights in Shiny Apps
+AzureAuth, Authentication Services for Azure Active Directory
+AzureCognitive, Interface to Azure Cognitive Services
+AzureContainers, Interface to 'Container Instances' 'Docker Registry' and 'Kubernetes' in 'Azure'
+AzureCosmosR ,Interface to the 'Azure Cosmos DB' 'NoSQL' Database Service
+AzureGraph ,Simple Interface to 'Microsoft Graph'
+AzureKeyVault ,Key and Secret Management in 'Azure'
+AzureKusto ,Interface to 'Kusto'/'Azure Data Explorer'
+azuremlsdk ,Interface to the 'Azure Machine Learning' 'SDK'
+AzureQstor, Interface to 'Azure Queue Storage'
+AzureRMR ,Interface to 'Azure Resource Manager'
+AzureStor ,Storage Management in 'Azure'
+AzureTableStor, Interface to the Table Storage Service in 'Azure'
+AzureVision, Interface to Azure Computer Vision Services
+AzureVM, Virtual Machines in 'Azure'
+AzureVMmetadata, Interface to Azure Virtual Machine Instance Metadata
