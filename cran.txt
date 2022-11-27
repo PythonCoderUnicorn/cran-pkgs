@@ -4081,1972 +4081,1022 @@ czso Use Open Data from the Czech Statistical Office in R
 
 
 D2MCS Data Driving Multiple Classifier System
-
 d3Network Tools for creating D3 JavaScript network, tree, dendrogram, and Sankey graphs from R
-
 D3partitionR Interactive Charts of Nested and Hierarchical Data with 'D3.js'
-
 d3plus Seamless 'D3Plus' Integration
-
 d3po Fast and Beautiful Interactive Visualization for 'Markdown' and 'Shiny'
-
 d3r 'd3.js' Utilities for R
-
 d3Tree Create Interactive Collapsible Trees with the JavaScript 'D3' Library
-
 d4storagehub4R Interface to 'D4Science' 'StorageHub' API
-
 D4TAlink.light FAIR Data - Workflow Management
-
 DA Discriminant Analysis for Evolutionary Inference
-
 DAAG Data Analysis and Graphics Data and Functions
-
 DAAGbio Data Sets and Functions, for Demonstrations with Expression Arrays and Gene Sequences
-
 daarem Damped Anderson Acceleration with Epsilon Monotonicity for Accelerating EM-Like Monotone Algorithms
-
 dabestr Data Analysis using Bootstrap-Coupled Estimation
-
 dabr Database Management with R
-
 DACF Data Analysis with Ceiling and/or Floor Data
-
 dad Three-Way / Multigroup Data Analysis Through Densities
-
 dadjoke Displays a Dad Joke
-
 dadjokeapi Return a Random Dad Joke
-
 dados Translate Datasets to Portuguese
-
 dae Functions Useful in the Design and ANOVA of Experiments
-
 daewr Design and Analysis of Experiments with R
-
 dafs Data Analysis for Forensic Scientists
-
 dagirlite Spatial Vector Data for Danmarks Administrative Geografiske Inddeling DAGI
-
 dagitty Graphical Analysis of Structural Causal Models
-
 dagR Directed Acyclic Graphs: Analysis and Data Simulation
-
 dagwood DAGs with Omitted Objects Displayed (DAGWOOD)
-
 dail Data from Access to Information Law
-
 DAIME Effects of Changing Deposition Rates
-
 daiquiri Data Quality Reporting for Temporal Datasets
-
 daiR Interface with Google Cloud Document AI API
-
 DAISIE Dynamical Assembly of Islands by Speciation, Immigration and Extinction
-
 DAKS Data Analysis and Knowledge Spaces
-
 DALEX moDel Agnostic Language for Exploration and eXplanation
-
 DALEXtra Extension for 'DALEX' Package
-
 dalmatian Automating the Fitting of Double Linear Mixed Models in 'JAGS' and 'nimble'
-
 DALY The DALY Calculator - Graphical User Interface for Probabilistic DALY Calculation in R
-
 dam Data Analysis Metabolomics
-
 DamiaNN Neural Network Numerai
-
 DAMisc Dave Armstrong's Miscellaneous Functions
-
 DAMOCLES Dynamic Assembly Model of Colonization, Local Extinction and Speciation
-
 dampack Decision-Analytic Modeling Package
-
 damr Interface to Drosophila Activity Monitor System Result Files
-
 dams Dams in the United States from the National Inventory of Dams (NID)
-
 DandEFA Dandelion Plot for R-Mode Exploratory Factor Analysis
-
 dang 'Dang' Associated New Goodies
-
 dani Design and Analysis of Non-Inferiority Trials
-
 DanielBiostatistics10th Functions for Wayne W. Daniel's Biostatistics, Tenth Edition
-
 dann Discriminant Adaptive Nearest Neighbor Classification
-
 danstat R Client for the Statistics Denmark Databank API
-
 DAP Discriminant Analysis via Projections
-
 dapr 'purrr'-Like Apply Functions Over Input Elements
-
 daqapo Data Quality Assessment for Process-Oriented Data
-
 DArand Differential Analysis with Random Reference Genes
-
 Dark The Analysis of Dark Adaptation Data
-
 DarkDiv Estimating Dark Diversity and Site-Specific Species Pools
-
 darksky Tools to Work with the 'Dark Sky' 'API'
-
 dartR.data Auxiliary Data Package for Our Main Package 'dartR'
-
 dashboardthemes Customise the Appearance of 'shinydashboard' Applications using Themes
-
 dashCoreComponents Core Interactive UI Components for 'Dash'
-
 dashHtmlComponents Vanilla HTML Components for 'Dash'
-
 dashPivottable Interactive React-Based Pivot Tables for Dash
-
 dashTable Core Interactive Table Component for 'dash'
-
 Dasst Tools for Reading, Processing and Writing 'DSSAT' Files
-
 dat Tools for Data Manipulation
-
 data.table Extension of 'data.frame'
-
 data.tree General Purpose Hierarchical Data Structure
-
 data.validator Automatic Data Validation and Reporting
-
 data360r Wrapper for 'TCdata360' and 'Govdata360' API
-
 DatabaseConnector Connecting to Various Database Platforms
-
 DatabaseConnectorJars JAR Dependencies for the 'DatabaseConnector' Package
-
 DatabionicSwarm Swarm Intelligence for Self-Organized Clustering
-
 DataClean Data Cleaning
-
 datacleanr Interactive and Reproducible Data Cleaning
-
 DataCombine Tools for Easily Combining and Cleaning Data Sets
-
 dataCompareR Compare Two Data Frames and Summarise the Difference
-
 datadictionary Create a Data Dictionary
-
 datadogr R Client for 'Datadog' API
-
 DataEditR An Interactive Editor for Viewing, Entering, Filtering & Editing Data
-
 DataExplorer Automate Data Exploration and Treatment
-
 DataFakeR Generate Fake Data for Relational Databases
-
 dataframeexplorer Familiarity with Dataframes Before Data Manipulation
-
 dataframes2xls Write Data Frames to Xls Files
-
 datafsm Estimating Finite State Machine Models from Data
-
 datagovindia Data.gov.in API Wrapper
-
 DataGraph Export Data from R so 'DataGraph' can Read it
-
 DataLoader Import Multiple File Types
-
 dataMaid A Suite of Checks for Identification of Potential Errors in a Data Frame as Part of the Data Screening Process
-
 dataMeta Create and Append a Data Dictionary for an R Dataset
-
 datamods Modules to Import and Manipulate Data in 'Shiny'
-
 datana Data and Functions to Accompany Analisis De Datos Con R
-
 datanugget Create, Refine, and Cluster Data Nuggets
-
 dataonderivatives Easily Source Publicly Available Data on Derivatives
-
 dataone R Interface to the DataONE REST API
-
 datapack A Flexible Container to Transport and Manipulate Data and Associated Resources
-
 datapasta R Tools for Data Copy-Pasta
-
 dataprep Efficient and Flexible Data Preprocessing Tools
-
 dataPreparation Automated Data Preparation
-
 dataquieR Data Quality in Epidemiological Research
-
 datardis Data from the Doctor Who Series
-
 dataReporter Reproducible Data Screening Checks and Report of Possible Errors
-
 dataresqc C3S Quality Control Tools for Historical Climate Data
-
 dataRetrieval Retrieval Functions for USGS and EPA Hydrology and Water Quality Data
-
 datarium Data Bank for Statistical Analysis and Visualization
-
 datarobot 'DataRobot' Predictive Modeling API
-
 datasailr Row by Row Data Processing Tool, Using 'DataSailr' Script
-
 datasauRus Datasets from the Datasaurus Dozen
-
 dataseries Switzerland's Data Series in One Place
-
 datasets.load Graphical Interface for Loading Datasets
-
 datasetsICR Datasets from the Book "An Introduction to Clustering with R"
-
 DataSpaceR Interface to 'the CAVD DataSpace'
-
 dataspice Create Lightweight Schema.org Descriptions of Data
-
 DatAssim Data Assimilation
-
 datastepr An Implementation of a SAS-Style Data Step
-
 DatastreamDSWS2R Provides a Link Between the 'Refinitiv Datastream' System and R
-
 datastructures Implementation of Core Data Structures
-
 DATAstudio The Research Data Warehouse of Miguel de Carvalho
-
 dataverse Client for Dataverse 4+ Repositories
-
 dataversionr Time Versioned Storage of Data Frames
-
 DataVisualizations Visualizations of High-Dimensional Data
-
 DataViz Data Visualisation Using an HTML Page and 'D3.js'
-
 datawizard Easy Data Wrangling and Statistical Transformations
-
 datazoom.amazonia Simplify Access to Data from the Amazon Region
-
 date Functions for Handling Dates
-
 datefixR Standardize Dates in Different Formats or with Missing Data
-
 datelife Scientific Data on Time of Lineage Divergence for Your Taxa
-
 daterangepicker Create a Shiny Date-Range Input
-
 datetime Nominal Dates, Times, and Durations
-
 datetimeutils Utilities for Dates and Times
-
 dateutils Date Utils
-
 datoramar Interface to the 'Datorama' API
-
 datos Traduce al Español Varios Conjuntos de Datos de Práctica
-
 datplot Preparation of Object Dating Ranges for Density Plots (Aoristic Analysis)
-
 datr 'Dat' Protocol Interface
-
 datrProfile Column Profile for Tables and Datasets
-
 dauphin Compact Standard for Australian Phone Numbers
-
 dave Functions for "Data Analysis in Vegetation Ecology"
-
 Davies The Davies Quantile Function
-
 dawai Discriminant Analysis with Additional Information
-
 daymetr Interface to the 'Daymet' Web Services
-
 daySupply Calculating Days' Supply and Daily Dose of Prescriptions
-
 dbarts Discrete Bayesian Additive Regression Trees Sampler
-
 dbcsp Distance-Based Common Spatial Patterns
-
 dbd Discretised Beta Distribution
-
 DBEST Detecting Breakpoints and Estimating Segments in Trend
-
 DBfit A Double Bootstrap Method for Analyzing Linear Models with Autoregressive Errors
-
 dbflobr Read and Write Files to SQLite Databases
-
 dbGaPCheckup dbGaP Checkup
-
 dbglm Generalised Linear Models by Subsampling and One-Step Polishing
-
 dbhydroR 'DBHYDRO' Hydrologic and Water Quality Data
-
 DBI R Database Interface
-
 DBIsqldf Manipulate R Data Frames Using SQL
-
 DBItest Testing DBI Backends
-
 dBlockmodeling Deterministic Blockmodeling of Signed, One-Mode and Two-Mode Networks
-
 dblr Discrete Boosting Logistic Regression
-
 dbMC Confidence Interval for Matrix Completion via De-Biased Estimator
-
 dbmss Distance-Based Measures of Spatial Structures
-
 dbnlearn Dynamic Bayesian Network Structure Learning, Parameter Learning and Forecasting
-
 DBNMFrank Rank Selection for Non-Negative Matrix Factorization
-
 dbnR Dynamic Bayesian Network Learning and Inference
-
 dbparser 'DrugBank' Database XML Parser
-
 dbplot Simplifies Plotting Data Inside Databases
-
 dbplyr A 'dplyr' Back End for Databases
-
 DBpower Finite Sample Power Calculations for Detection Boundary Tests
-
 dbscan Density-Based Spatial Clustering of Applications with Noise (DBSCAN) and Related Algorithms
-
 dbstats Distance-Based Statistics
-
 dbWebForms Produce R Functions to Create HTML Forms Based on SQL Meta Data
-
 dbx A Fast, Easy-to-Use Database Interface
-
 dc3net Inferring Condition-Specific Networks via Differential Network Inference
-
 DCA Dynamic Correlation Analysis for High Dimensional Data
-
 DCCA Detrended Fluctuation and Detrended Cross-Correlation Analysis
-
 DCchoice Analyzing Dichotomous Choice Contingent Valuation Data
-
 dccmidas DCC Models with GARCH-MIDAS Specifications in the Univariate Step
-
 dccpp Fast Computation of Distance Correlations
-
 DCD Differential Community Detection in Paired Biological Networks
-
 DCEM Clustering Big Data using Expectation Maximization Star (EM*) Algorithm
-
 DCEmgmt DCE Data Reshaping and Processing
-
 DCEtool Efficient and Accessible Discrete Choice Experiments
-
 DCG Data Cloud Geometry (DCG): Using Random Walks to Find Community Structure in Social Network Analysis
-
 dcGOR Analysis of Ontologies and Protein Domain Annotations
-
 DChaos Chaotic Time Series Analysis
-
 dChipIO Methods for Reading dChip Files
-
 dcifer Genetic Relatedness Between Polyclonal Infections
-
 DCL Claims Reserving under the Double Chain Ladder Model
-
 DCLEAR Distance Based Cell Lineage Reconstruction
-
 dclone Data Cloning and MCMC Tools for Maximum Likelihood Methods
-
 dclust Divisive Hierarchical Clustering
-
 DCluster Functions for the Detection of Spatial Clusters of Diseases
-
 DClusterm Model-Based Detection of Disease Clusters
-
 dcmle Hierarchical Models Made Easy with Data Cloning
-
 dcmodify Modify Data Using Externally Defined Modification Rules
-
 dcmodifydb Modifying Rules on a DataBase
-
 DCODE List Linear n-Peptide Constraints for Overlapping Protein Regions
-
 dcov A Fast Implementation of Distance Covariance
-
 dCovTS Distance Covariance and Correlation for Time Series Analysis
-
 DCPO Dynamic Comparative Public Opinion
-
 DCSmooth Nonparametric Regression and Bandwidth Selection for Spatial Models
-
 dCUR Dimension Reduction with Dynamic CUR
-
 dcurver Utility Functions for Davidian Curves
-
 dcurves Decision Curve Analysis for Model Evaluation
-
 ddalpha Depth-Based Classification and Calculation of Data Depth
-
 DDD Diversity-Dependent Diversification
-
 dde Solve Delay Differential Equations
-
 DDHFm Variance Stabilization by Data-Driven Haar-Fisz (for Microarrays)
-
 ddi The Data Defect Index for Samples that May not be IID
-
 ddiv Data Driven I-v Feature Extraction
-
 DDIwR DDI with R
-
 DDL Doubly Debiased Lasso (DDL)
-
 DDM Death Registration Coverage Estimation
-
 DDoutlier Distance & Density-Based Outlier Detection
-
 ddp Desirable Dietary Pattern
-
 ddpca Diagonally Dominant Principal Component Analysis
-
 ddpcr Analysis and Visualization of Droplet Digital PCR in R and on the Web
-
 DDPNA Disease-Drived Differential Proteins Co-Expression Network Analysis
-
 DDRTree Learning Principal Graphs with DDRTree
-
 ddst Data Driven Smooth Tests
-
 deadband Statistical Deadband Algorithms Comparison
-
 deal Learning Bayesian Networks with Mixed Variables
-
 deaR Conventional and Fuzzy Data Envelopment Analysis
-
 debar A Post-Clustering Denoiser for COI-5P Barcode Data
-
 DEBBI Differential Evolution-Based Bayesian Inference
-
 deBif Bifurcation Analysis of Ordinary Differential Equation Systems
-
 deBInfer Bayesian Inference for Differential Equations
-
 debugme Debug R Packages
-
 debugr Debug Tool to Watch Objects/Expressions While Running an R Script
-
 DeCAFS Detecting Changes in Autocorrelated and Fluctuating Signals
-
 DECIDE DEComposition of Indirect and Direct Effects
-
 decido Bindings for 'Mapbox' Ear Cutting Triangulation Library
-
 decision Statistical Decision Analysis
-
 decisionSupport Quantitative Support of Decision Making under Uncertainty
-
 deckgl An R Interface to 'deck.gl'
-
 declared Functions for Declared Missing Values
-
 DeclareDesign Declare and Diagnose Research Designs
-
 decode Differential Co-Expression and Differential Expression Analysis
-
 decoder Decode Coded Variables to Plain Text and the Other Way Around
-
 decomposedPSF Time Series Prediction with PSF and Decomposition Methods (EMD and EEMD)
-
 DecomposeR Empirical Mode Decomposition for Cyclostratigraphy
-
 decompr Global Value Chain Decomposition
-
 decon Deconvolution Estimation in Measurement Error Models
-
 deconstructSigs Identifies Signatures Present in a Tumor Sample
-
 deconvolveR Empirical Bayes Estimation Strategies
-
 decor Retrieve Code Decorations
-
 DecorateR Fit and Deploy DECORATE Trees
-
 decorators Extend the Behaviour of a Function without Explicitly Modifying it
-
 Deducer A Data Analysis GUI for R
-
 deducorrect Deductive Correction, Deductive Imputation, and Deterministic Correction
-
 deductive Data Correction and Imputation Using Deductive Methods
-
 DeductiveR Deductive Rational Method
-
 dedupewider Deduplication Across Multiple Columns
-
 deep A Neural Networks Framework
-
 deepboost Deep Boosting Ensemble Modeling
-
 deepdep Visualise and Explore the Deep Dependencies of R Packages
-
 deepdive Deep Learning for General Purpose
-
 deepgmm Deep Gaussian Mixture Models
-
 deepgp Deep Gaussian Processes using MCMC
-
 deeplr Interface to the 'DeepL' Translation API
-
 deepMOU Clustering of Short Texts by Mixture of Unigrams and Its Deep Extensions
-
 deepnet Deep Learning Toolkit in R
-
 deepNN Deep Learning
-
 deepredeff Deep Learning Prediction of Effectors
-
 deepregression Fitting Deep Distributional Regression
-
 deeptime Plotting Tools for Anyone Working in Deep Time
-
 deeptrafo Fitting Deep Conditional Transformation Models
-
 DEET Differential Expression Enrichment Tool
-
 DEEVD Density Estimation by Extreme Value Distributions
-
 default Change the Default Arguments in R Functions
-
 defineR Creates Define XML Documents
-
 deflateBR Deflate Nominal Brazilian Reais
-
 deforestable Classify RGB Images into Forest or Non-Forest
-
 deformula Integration of One-Dimensional Functions with Double Exponential Formulas
-
 degday Compute Degree Days
-
 DEGRE Inferring Differentially Expressed Genes using Generalized Linear Mixed Models
-
 degreenet Models for Skewed Count Distributions Relevant to Networks
-
 degross Density Estimation from GROuped Summary Statistics
-
 dejaVu Multiple Imputation for Recurrent Events
-
 Delaporte Statistical Functions for the Delaporte Distribution
-
 delaunay 2d, 2.5d, and 3d Delaunay Tessellations
-
 delayed A Framework for Parallelizing Dependent Tasks
-
 DelayedEffect.Design Sample Size and Power Calculations using the APPLE and SEPPLE Methods
-
 deldir Delaunay Triangulation and Dirichlet (Voronoi) Tessellation
-
 Delta Measure of Agreement Between Two Raters
-
 deltaccd Quantify Rhythmic Gene Co-Expression Relative to a Reference
-
 DeltaMAN Delta Measurement of Agreement for Nominal Data
-
 deltaPlotR Identification of Dichotomous Differential Item Functioning (DIF) using Angoff's Delta Plot Method
-
 DELTD Kernel Density Estimation using Lifetime Distributions
-
 DEM The Distributed EM Algorithms in Multivariate Gaussian Mixture Models
-
 dematel Decision Making Trial and Evaluation Laboratory Technique in R
-
 demcon Interfacing with Popular Polity, Institutional, and Constitutional Datasets
-
 deming Deming, Theil-Sen, Passing-Bablock and Total Least Squares Regression
-
 DemoDecomp Decompose Demographic Functions
-
 demodelr Simulating Differential Equations with Data
-
 demogR Analysis of Age-Structured Demographic Models
-
 DemografixeR Extrapolate Gender, Age and Nationality of a Name
-
 demoGraphic Providing Demographic Table with the P-Value, Standardized Mean Difference Value
-
 DemographicTable Creating Demographic Table
-
 demography Forecasting Mortality, Fertility, Migration and Population Data
-
 demoKde Kernel Density Estimation for Demonstration Purposes
-
 demoShiny Runs a 'Shiny' App as Demo or Lists All Demo 'Shiny' Apps
-
 DEMOVA DEvelopment (of Multi-Linear QSPR/QSAR) MOdels VAlidated using Test Set
-
 demu Optimal Design Emulators via Point Processes
-
 dendextend Extending 'dendrogram' Functionality in R
-
 dendRoAnalyst A Tool for Processing and Analyzing Dendrometer Data
-
 dendroextras Extra Functions to Cut, Label and Colour Dendrogram Clusters
-
 dendrometry Forest Estimations and Dendrometric Computations
-
 DendroSync A Set of Tools for Calculating Spatial Synchrony Between Tree-Ring Chronologies
-
 dendroTools Linear and Nonlinear Methods for Analyzing Daily and Monthly Dendroclimatological Data
-
 DendSer Dendrogram Seriation: Ordering for Visualisation
-
 dendsort Modular Leaf Ordering Methods for Dendrogram Nodes
-
 denoiSeq Differential Expression Analysis Using a Bottom-Up Model
-
 denoiseR Regularized Low Rank Matrix Estimation
-
 denovolyzeR Statistical Analyses of De Novo Genetic Variants
-
 denseFLMM Functional Linear Mixed Models for Densely Sampled Data
-
 densEstBayes Density Estimation via Bayesian Inference Engines
-
 densitr Analysing Density Profiles from Resistance Drilling of Trees
-
 densityClust Clustering by Fast Search and Find of Density Peaks
-
 DensParcorr Dens-Based Method for Partial Correlation Estimation in Large Scale Brain Networks
-
 densratio Density Ratio Estimation
-
 denstrip Density Strips and Other Methods for Compactly Illustrating Distributions
-
 denvax Simple Dengue Test and Vaccinate Cost Thresholds
-
 DEoptim Global Optimization by Differential Evolution
-
 DEoptimR Differential Evolution Optimization in Pure R
-
 depcache Cache R Expressions, Taking Their Dependencies into Account
-
 depcoeff Dependency Coefficients
-
 depend.truncation Statistical Methods for the Analysis of Dependently Truncated Data
-
 depigner A Utility Package to Help you Deal with "Pignas"
-
 DepLogo Dependency Logo
-
 depmix Dependent Mixture Models
-
 depmixS4 Dependent Mixture Models - Hidden Markov Models of GLMs and Other Distributions in S4
-
 DEPONS2R Read, Plot and Analyse Output from the DEPONS Model
-
 depth Nonparametric Depth Functions for Multivariate Analysis
-
 depth.plot Multivariate Analogy of Quantiles
-
 DepthProc Statistical Depth Functions for Multivariate Analysis
-
 depthTools Depth Tools Package
-
 dequer Stacks, Queues, and 'Deques' for R
-
 DeRezende.Ferreira Zero Coupon Yield Curve Modelling
-
 Deriv Symbolic Differentiation
-
 derivmkts Functions and R Code to Accompany Derivatives Markets
-
 DES Discrete Event Simulation
-
 desc Manipulate DESCRIPTION Files
-
 descomponer Seasonal Adjustment by Frequency Analysis
-
 descr Descriptive Statistics
-
 describedata Miscellaneous Descriptive Functions
-
 DescribeDisplay An Interface to the 'DescribeDisplay' 'GGobi' Plugin
-
 describer Describe Data in R Using Common Descriptive Statistics
-
 DescriptiveStats.OBeu Descriptive Statistics 'OpenBudgets.eu'
-
 DescriptiveWH Descriptive Statistics
-
 descriptr Generate Descriptive Statistics
-
 DescrTab2 Publication Quality Descriptive Statistics Tables
-
 descstat Tools for Descriptive Statistics
-
 descstatsr Descriptive Univariate Statistics
-
 desctable Produce Descriptive and Comparative Tables Easily
-
 DescTools Tools for Descriptive Statistics
-
 DescToolsAddIns Interactive Functions to be Used as Shortcuts in 'RStudio'
-
 Design.parameters Parameters of the Experimental Designs
-
 DesignCTPB Design Clinical Trials with Potential Biomarker Effect
-
 designer 'Shiny' UI Prototype Builder
-
 DesignLibrary Library of Research Designs
-
 designmatch Matched Samples that are Balanced and Representative by Design
-
 designr Balanced Factorial Designs
-
 designsize Sample Size Calculation of Various Study Designs
-
 desiR Desirability Functions for Ranking, Selecting, and Integrating Data
-
 desirability Function Optimization and Ranking via Desirability Functions
-
 desla Desparsified Lasso Inference for Time Series
-
 deSolve Solvers for Initial Value Problems of Differential Equations ('ODE', 'DAE', 'DDE')
-
 desplot Plotting Field Plans for Agricultural Experiments
-
 details Create Details HTML Tag for Markdown and Package Documentation
-
 detect Analyzing Wildlife Data with Detection Error
-
 detectnorm Detect Nonnormality in Meta-Analysis without Raw Data
-
 detector Detect Data Containing Personally Identifiable Information
-
 detectR Change Point Detection
-
 detectRUNS Detect Runs of Homozygosity and Runs of Heterozygosity in Diploid Genomes
-
 detectseparation Detect and Check for Separation and Infinite Maximum Likelihood Estimates
-
 deTestSet Test Set for Differential Equations
-
 DetLifeInsurance Life Insurance Premium and Reserves Valuation
-
 DetMCD Implementation of the DetMCD Algorithm (Robust and Deterministic Estimation of Location and Scatter)
-
 detourr Portable and Performant Tour Animations
-
 detpack Density Estimation and Random Number Generation with Distribution Element Trees
-
 DetR Suite of Deterministic and Robust Algorithms for Linear Regression
-
 detrendeR A Graphical User Interface (GUI) to Visualize and Analyze Dendrochronological Data
-
 detrendr Detrend Images
-
 deTS Tissue-Specific Enrichment Analysis
-
 DetSel A Computer Program to Detect Markers Responding to Selection
-
 detzrcr Compare Detrital Zircon Suites
-
 devEMF EMF Graphics Output Device
-
 devFunc Clear and Condense Argument Check for User-Defined Functions
-
 devoid A Graphic Device that Does Nothing
-
 Devore7 Data sets from Devore's "Prob and Stat for Eng (7th ed)"
-
 devRate Quantify the Relationship Between Development Rate and Temperature in Ectotherms
-
 devtools Tools to Make Developing R Packages Easier
-
 DevTreatRules Develop Treatment Rules with Observational Data
-
 dexter Data Management and Analysis of Tests
-
 dextergui A Graphical User Interface for Dexter
-
 dexterMST CML and Bayesian Calibration of Multistage Tests
-
 DFA Detrended Fluctuation Analysis
-
 DFA.CANCOR Linear Discriminant Function and Canonical Correlation Analysis
-
 dfadjust Degrees of Freedom Adjustment for Robust Standard Errors
-
 dfcomb Phase I/II Adaptive Dose-Finding Design for Combination Studies
-
 dfCompare Compare Two Dataframes and Return Adds, Changes, and Deletes
-
 dfcrm Dose-Finding by the Continual Reassessment Method
-
 dfidx Indexed Data Frames
-
 DFIT Differential Functioning of Items and Tests
-
 dfmeta Meta-Analysis of Phase I Dose-Finding Early Clinical Trials
-
 dfms Dynamic Factor Models
-
 dfmta Phase I/II Adaptive Dose-Finding Design for MTA
-
 dfoliatR Detection and Analysis of Insect Defoliation Signals in Tree Rings
-
 dfoptim Derivative-Free Optimization
-
 Dforest Decision Forest
-
 dformula Data Manipulation using Formula
-
 dfped Extrapolation and Bridging of Adult Information in Early Phase Dose-Finding Paediatrics Studies
-
 dfphase1 Phase I Control Charts (with Emphasis on Distribution-Free Methods)
-
 dfpk Bayesian Dose-Finding Designs using Pharmacokinetics (PK) for Phase I Clinical Trials
-
 dfvad Diewert and Fox's Method of Value Added Growth Decomposition
-
 dga Capture-Recapture Estimation using Bayesian Model Averaging
-
 dGAselID Genetic Algorithm with Incomplete Dominance for Feature Selection
-
 DGCA Differential Gene Correlation Analysis
-
 DGEobj Differential Gene Expression (DGE) Analysis Results Data Object
-
 DGEobj.utils Differential Gene Expression (DGE) Analysis Utility Toolkit
-
 dglars Differential Geometric Least Angle Regression
-
 dglm Double Generalized Linear Models
-
 DGLMExtPois Double Generalized Linear Models Extending Poisson Regression
-
 DGM Dynamic Graphical Models
-
 dgof Discrete Goodness-of-Fit Tests
-
 dgpsi Interface to 'dgpsi' for Deep and Linked Gaussian Process Emulations
-
 dgumbel The Gumbel Distribution Functions and Gradients
-
 DHARMa Residual Diagnostics for Hierarchical (Multi-Level / Mixed) Regression Models
-
 DHBins Hexmaps for NZ District Health Boards
-
 dhga Differential Hub Gene Analysis
-
 dhglm Double Hierarchical Generalized Linear Models
-
 dhh A Heavy-Headed Distribution
-
 dhReg Dynamic Harmonic Regression
-
 DHS.rates Calculates Demographic Indicators
-
 dHSIC Independence Testing via Hilbert Schmidt Independence Criterion
-
 di Deficit Index (DI)
-
 diagis Diagnostic Plot and Multivariate Summary Statistics of Weighted Samples from Importance Sampling
-
 diagmeta Meta-Analysis of Diagnostic Accuracy Studies with Several Cutpoints
-
 diagonals Block Diagonal Extraction or Replacement
-
 diagram Functions for Visualising Simple Graphs (Networks), Plotting Flow Diagrams
-
 DiagrammeR Graph/Network Visualization
-
 DiagrammeRsvg Export DiagrammeR Graphviz Graphs as SVG
-
 DiallelAnalysisR Diallel Analysis with R
-
 dialr Parse, Format, and Validate International Phone Numbers
-
 dialrjars Required 'libphonenumber' jars for the 'dialr' Package
-
 dials Tools for Creating Tuning Parameter Values
-
 diaplt Beads Summary Plot of Ranges
-
 diathor Calculate Ecological Information and Diatom Based Indices
-
 dibble Dimensional Data Frames
-
 dice Calculate probabilities of various dice-rolling events
-
 DiceDesign Designs of Computer Experiments
-
 DiceEval Construction and Evaluation of Metamodels
-
 DiceKriging Kriging Methods for Computer Experiments
-
 DiceOptim Kriging-Based Optimization for Computer Experiments
-
 diceR Diverse Cluster Ensemble in R
-
 DiceView Methods for Visualization of Computer Experiments Design and Surrogate
-
 dichromat Color Schemes for Dichromats
-
 DICOMread Reading and Saving DICOM Image Files
-
 DIconvex Finding Patterns of Monotonicity and Convexity in Data
-
 Dict R6 Based Key-Value Dictionary Implementation
-
 dictionar6 R6 Dictionary Interface
-
 dictionaRy Retrieve the Dictionary Definitions of English Words
-
 did Treatment Effects with Multiple Periods and Groups
-
 did2s Two-Stage Difference-in-Differences Following Gardner (2021)
-
 DidacticBoost A Simple Implementation and Demonstration of Gradient Boosting
-
 Diderot Bibliographic Network Analysis
-
 didimputation Imputation Estimator from Borusyak, Jaravel, and Spiess (2021)
-
 DIDmultiplegt Estimation in DID with Multiple Groups and Periods
-
 didrooRFM Compute Recency Frequency Monetary Scores for your Customer Data
-
 dief Metrics for Continuous Efficiency
-
 diemr Diagnostic Index Expectation Maximisation in R
-
 dietr Diet Estimated Trophic Levels
-
 diezeit R Interface to the ZEIT ONLINE Content API
-
 DIFboost Detection of Differential Item Functioning (DIF) in Rasch Models by Boosting Techniques
-
 difconet Differential Coexpressed Networks
-
 diffcor Fisher's z-Tests Concerning Difference of Correlations
-
 DiffCorr Analyzing and Visualizing Differential Correlation Networks in Biological Data
-
 diffdf Dataframe Difference Tool
-
 diffdfs Compute the Difference Between Data Frames
-
 diffee Fast and Scalable Learning of Sparse Changes in High-Dimensional Gaussian Graphical Model Structure
-
 diffEnrich Given a List of Gene Symbols, Performs Differential Enrichment Analysis
-
 diffeqr Solving Differential Equations (ODEs, SDEs, DDEs, DAEs)
-
 diffeR Metrics of Difference for Comparing Pairs of Maps or Pairs of Variables
-
 diffeRenTES Computation of TES-Based Cell Differentiation Trees
-
 diffIRT Diffusion IRT Models for Response and Response Time Data
-
 diffmatchpatch String Diff, Match, and Patch Utilities
-
 diffMeshGP Multi-Fidelity Computer Experiments Using the Tuo-Wu-Yu Model
-
 diffobj Diffs for R Objects
-
 diffpriv Easy Differential Privacy
-
 diffr Display Differences Between Two Files using Codediff Library
-
 diffudist Diffusion Distance for Complex Networks
-
 diffusion Forecast the Diffusion of New Products
-
 diffusionMap Diffusion Map
-
 diffusr Network Diffusion Algorithms
-
 diffval Vegetation Patterns
-
 diffviewer HTML Widget to Show File Differences
-
 DiffXTables Pattern Analysis Across Contingency Tables
-
 DIFlasso A Penalty Approach to Differential Item Functioning in Rasch Models
-
 difNLR DIF and DDF Detection by Non-Linear Regression Models
-
 DIFplus Multilevel Mantel-Haenszel Statistics for Differential Item Functioning Detection
-
 difR Collection of Methods to Detect Dichotomous Differential Item Functioning (DIF)
-
 DIFshiny Differential Item Functioning via Shiny Application
-
 DIFtree Item Focussed Trees for the Identification of Items in Differential Item Functioning
-
 digest Create Compact Hash Digests of R Objects
-
 digiRhythm Analyzing Animal's Rhythmicity
-
 digitalDLSorteR Deconvolution of Bulk RNA-Seq Data Based on Deep Learning
-
 digitalPCR Estimate Copy Number for Digital PCR
-
 digitize Use Data from Published Plots in R
-
 digitTests Tests for Detecting Irregular Digit Patterns
-
 DIGSS Determination of Intervals Using Georeferenced Survey Simulation
-
 DIME Differential Identification using Mixture Ensemble
-
 dimensio Multivariate Data Analysis
-
 dimensionalAnalysis Dimensional Analysis
-
 dimensionsR Gathering Bibliographic Records from 'Digital Science Dimensions' Using 'DSL' API
-
 DImodels Diversity-Interactions (DI) Models
-
 DIMORA Diffusion Models R Analysis
-
 dimRed A Framework for Dimensionality Reduction
-
 dina Bayesian Estimation of DINA Model
-
 dinamic DiNAMIC A Method To Analyze Recurrent DNA Copy Number Aberrations in Tumors
-
 DiNAMIC.Duo Finding Recurrent DNA Copy Number Alterations and Differences
-
 dineq Decomposition of (Income) Inequality
-
 dineR Differential Network Estimation in R
-
 dint A Toolkit for Year-Quarter, Year-Month and Year-Isoweek Dates
-
 DiPALM Differential Pattern Analysis via Linear Modeling
-
 DiPhiSeq Robust Tests for Differential Dispersion and Differential Expression in RNA-Sequencing Data
-
 dipm Depth Importance in Precision Medicine (DIPM) Method
-
 diproperm Conduct Direction-Projection-Permutation Tests and Display Plots
-
 DiPs Directional Penalties for Optimal Matching in Observational Studies
-
 dipsaus A Dipping Sauce for Data Analysis and Visualizations
-
 diptest Hartigan's Dip Test Statistic for Unimodality - Corrected
-
 dipw Debiased Inverse Propensity Score Weighting
-
 Dire Linear Regressions with a Latent Outcome Variable
-
 DIRECT Bayesian Clustering of Multivariate Data Under the Dirichlet-Process Prior
-
 DirectedClustering Directed Weighted Clustering Coefficient
-
 DirectEffects Estimating Controlled Direct Effects for Explaining Causal Findings
-
 Directional A Collection of Functions for Directional Data Analysis
-
 directlabels Direct Labels for Multicolor Plots
-
 directotree Creates an Interactive Tree Structure of a Directory
-
 directPA Direction Analysis for Pathways and Kinases
-
 DirectStandardisation Adjusted Means and Proportions by Direct Standardisation
-
 dirichletprocess Build Dirichlet Process Objects for Bayesian Modelling
-
 DirichletReg Dirichlet Regression
-
 dirmcmc Directional Metropolis Hastings Algorithm
-
 dirmult Estimation in Dirichlet-Multinomial Distribution
-
 DirStats Nonparametric Methods for Directional Data
-
 dirttee Distributional Regression for Time to Event Data
-
 disaggR Two-Steps Benchmarks for Time Series Disaggregation
-
 DisaggregateTS High-Dimensional Temporal Disaggregation
-
 disaggregation Disaggregation Modelling
-
 disbayes Bayesian Multi-State Modelling of Chronic Disease Burden Data
-
 discAUC Linear and Non-Linear AUC for Discounting Data
-
 DIscBIO A User-Friendly Pipeline for Biomarker Discovery in Single-Cell Transcriptomics
-
 discfrail Cox Models for Time-to-Event Data with Nonparametric Discrete Group-Specific Frailties
-
 discharge Fourier Analysis of Discharge Data
-
 disclap Discrete Laplace Exponential Family
-
 disclapmix Discrete Laplace Mixture Inference using the EM Algorithm
-
 discnorm Test for Discretized Normality in Ordinal Data
-
 discord Functions for Discordant Kinship Modeling
-
 discourseGT Analyze Group Patterns using Graph Theory in Educational Settings
-
 discoveR Exploratory Data Analysis System
-
 discoverableresearch Checks Title, Abstract and Keywords to Optimise Discoverability
-
 discretecdAlgorithm Coordinate-Descent Algorithm for Learning Sparse Discrete Bayesian Networks
-
 DiscreteFDR Multiple Testing Procedures with Adaptation for Discrete Tests
-
 discretefit Simulated Goodness-of-Fit Tests for Discrete Distributions
-
 DiscreteInverseWeibull Discrete Inverse Weibull Distribution
-
 DiscreteLaplace Discrete Laplace Distributions
-
 DiscreteQvalue Improved q-Values for Discrete Uniform and Homogeneous Tests
-
 discreteRV Create and Manipulate Discrete Random Variables
-
 DiscreteWeibull Discrete Weibull Distributions (Type 1 and 3)
-
 discretization Data Preprocessing, Discretization for Classification
-
 discrim Model Wrappers for Discriminant Analysis
-
 discSurv Discrete Time Survival Analysis
-
 disdat Data for Comparing Species Distribution Modeling Methods
-
 diseq Estimation Methods for Markets in Equilibrium and Disequilibrium
-
 Disequilibrium Disequilibrium Models
-
 DisHet Estimate the Gene Expression Levels and Component Proportions of the Normal, Stroma (Immune) and Tumor Components of Bulk Tumor Samples
-
 DisimForMixed Calculate Dissimilarity Matrix for Dataset with Mixed Attributes
-
 DisImpact Calculates Disproportionate Impact When Binary Success Data are Disaggregated by Subgroups
-
 disk.frame Larger-than-RAM Disk-Based Data Manipulation Framework
-
 diskImageR A Pipeline to Analyze Resistance and Tolerance from Drug Disk Diffusion Assays
-
 dismo Species Distribution Modeling
-
 disordR Non-Ordered Vectors
-
 disparityfilter Disparity Filter Algorithm for Weighted Networks
-
 dispeRse Simulation of Demic Diffusion with Environmental Constraints
-
 dispmod Modelling Dispersion in GLM
-
 disposables Create Disposable R Packages for Testing
-
 dispositionEffect Analysis of Disposition Effect on Financial Portfolios
-
 dispRity Measuring Disparity
-
 disprofas Non-Parametric Dissolution Profile Analysis
-
 disprose Discriminating Probes Selection
-
 dissCqN Multiple Assemblage Dissimilarity for Orders q = 0-N
-
 dissever Spatial Downscaling using the Dissever Algorithm
-
-DiSSMod Fitting Sample Selection Models for Discrete Response Variables
-
+DiSSMod Fitting Sample Selection Models for Discrete Response Variable
 Distance Distance Sampling Detection Function and Abundance Estimation
-
 distance.sample.size Calculates Study Size Required for Distance Sampling
-
 distances Tools for Distance Metrics
-
 distanceto Calculate Distance to Features
-
 distantia Assessing Dissimilarity Between Multivariate Time Series
-
 distcomp Computations over Distributed Data without Aggregation
-
 distcrete Discrete Distribution Approximations
-
 distdichoR Distributional Method for the Dichotomisation of Continuous Outcomes
-
 distfree.cr Distribution-Free Confidence Region
-
 distill 'R Markdown' Format for Scientific and Technical Writing
-
 distillery Method Functions for Confidence Intervals and to Distill Information from an Object
-
 distillML Model Distillation and Interpretability Methods for Machine Learning Models
-
 disto Unified Interface to Distance, Dissimilarity, Similarity Matrices
-
 distory Distance Between Phylogenetic Histories
-
 DistPlotter A Graphical User Interface for Plotting Common Univariate Distributions
-
 distr Object Oriented Implementation of Distributions
-
 distrDoc Documentation for 'distr' Family of R Packages
-
 distreg.vis Framework for the Visualization of Distributional Regression Models
-
 distrEllipse S4 Classes for Elliptically Contoured Distributions
-
 distrEx Extensions of Package 'distr'
-
 DISTRIB Four Essential Functions for Statistical Distributions Analysis: A New Functional Approach
-
 distributional Vectorised Probability Distributions
-
 DistributionFitR Fitting Multiple Parametric Distributions
-
 DistributionOptimization Distribution Optimization
-
 distributions3 Probability Distributions as S3 Objects
-
 distributionsrd Distribution Fitting and Evaluation
-
 DistributionTest Powerful Goodness-of-Fit Tests Based on the Likelihood Ratio
-
 DistributionUtils Distribution Utilities
-
 distrMod Object Oriented Implementation of Probability Models
-
 distro Linux Distribution Properties
-
 distrom Distributed Multinomial Regression
-
 distrr Estimate and Manage Empirical Distributions
-
 distrRmetrics Distribution Classes for Distributions from Rmetrics
-
 distrSim Simulation Classes Based on Package 'distr'
-
 distrTeach Extensions of Package 'distr' for Teaching Stochastics/Statistics in Secondary School
-
 distrTEst Estimation and Testing Classes Based on Package 'distr'
-
 distTails A Collection of Full Defined Distribution Tails
-
 disttools Distance Object Manipulation Tools
-
 dittodb A Test Environment for Database Requests
-
 div Report on Diversity and Inclusion in a Corporate Setting
-
 divDyn Diversity Dynamics using Fossil Sampling Data
-
 DivE Diversity Estimator
-
 diveMove Dive Analysis and Calibration
-
 diveR Easily Install and Load Interactive Data Visualization Tools
-
 diverge Evolutionary Trait Divergence Between Sister Species and Other Paired Lineages
-
 diverse Diversity Measures for Complex Systems
-
 DiversificationR Econometric Tools to Measure Portfolio Diversification
-
 diversitree Comparative 'Phylogenetic' Analyses of Diversification
-
 diveRsity A Comprehensive, General Purpose Population Genetics Analysis Package
-
 diversityForest Innovative Complex Split Procedures in Random Forests Through Candidate Split Sampling
-
 DiversityOccupancy Building Diversity Models from Multiple Species Occupancy Models
-
 divest Get Images Out of DICOM Format Quickly
-
 divo Tools for Analysis of Diversity and Similarity in Biological Systems
-
 divseg Calculate Diversity and Segregation Indices
-
 dixon Nearest Neighbour Contingency Table Analysis
-
 dixonTest Dixon's Ratio Test for Outlier Detection
-
 diyar Record Linkage and Epidemiological Case Definitions in R
-
 DIZtools Lightweight Utilities for 'DIZ' R Package Development
-
 DIZutils Utilities for 'DIZ' R Package Development
-
 DJL Distance Measure Based Judgment and Learning
-
 dkanr Client for the 'DKAN' API
-
 dkDNA Diffusion Kernels on a Set of Genotypes
-
 dLagM Time Series Regression Models with Distributed Lag Models
-
 DLASSO Implementation of Adaptive or Non-Adaptive Differentiable Lasso and SCAD Penalties in Linear Models
-
 dlbayes Use Dirichlet Laplace Prior to Solve Linear Regression Problem and Do Variable Selection
-
 dlib Allow Access to the 'Dlib' C++ Library
-
 DLL Decorrelated Local Linear Estimator
-
 DLMtool Data-Limited Methods Toolkit
-
 dlnm Distributed Lag Non-Linear Models
-
 dlookr Tools for Data Diagnosis, Exploration, Transformation
-
 DLPCA The Distributed Local PCA Algorithm
-
 dlr Download and Cache Files Safely
-
 dlsem Distributed-Lag Linear Structural Equation Models
-
 dlstats Download Stats of R Packages
-
 dm Relational Data Models
-
 dma Dynamic Model Averaging
-
 dmai Divisia Monetary Aggregates Index
-
 dmbc Model Based Clustering of Binary Dissimilarity Measurements
-
 DMCfun Diffusion Model of Conflict (DMC) in Reaction Time Tasks
-
 dmdScheme Domain Specific MetaData Scheme
-
 dml Distance Metric Learning in R
-
 dmlalg Double Machine Learning Algorithms
-
 DMLLZU Double Machine Learning
-
 dmm Dyadic Mixed Model for Pedigree Data
-
 DMMF Daily Based Morgan-Morgan-Finney (DMMF) Soil Erosion Model
-
 dMod Dynamic Modeling and Parameter Estimation in ODE Models
-
 dmri.tracking DiST - Diffusion Direction Smoothing and Tracking
-
 DMRMark DMR Detection by Non-Homogeneous Hidden Markov Model from Methylation Array Data
-
 DMRnet Delete or Merge Regressors Algorithms for Linear and Logistic Model Selection and High-Dimensional Data
-
 DMtest Differential Methylation Tests (DMtest)
-
 DMTL Tools for Applying Distribution Mapping Based Transfer Learning
-
 dmtools Tools for Clinical Data Management
-
 dmutate Mutate Data Frames with Random Variates
-
 DMwR2 Functions and Data for the Second Edition of "Data Mining with R"
-
 dnapath Differential Network Analysis using Gene Pathways
-
 DNAseqtest Generating and Testing DNA Sequences
-
 DNAtools Tools for Analysing Forensic Genetic DNA Data
-
 dnet Integrative Analysis of Omics Data in Terms of Network, Evolution and Ontology
-
 dng Distributions and Gradients
-
 DNH4 Crawling for Daum News Text
-
 DNLC Differential Network Local Consistency Analysis
-
 DNMF Discriminant Non-Negative Matrix Factorization
-
 dnr Simulate Dynamic Networks using Exponential Random Graph Models (ERGM) Family
-
 do Data Operator
-
 DOBAD Analysis of Discretely Observed Linear Birth-and-Death(-and-Immigration) Markov Chains
-
 dobin Dimension Reduction for Outlier Detection
-
 dobson Data from the GLM Book by Dobson and Barnett
-
 doBy Groupwise Statistics, LSmeans, Linear Estimates, Utilities
-
 doc2concrete Measuring Concreteness in Natural Language
-
 doc2vec Distributed Representations of Sentences, Documents and Topics
-
 dockerfiler Easy Dockerfile Creation from R
-
 DockerParallel Using the Docker Container to Create R Workers on Local or Cloud Platform
-
 docknitr Use Docker Images to Process Rmarkdown Blocks
-
 doconv Document Conversion to 'PDF' or 'PNG'
-
 docopt Command-Line Interface Specification Language
-
 docopulae Optimal Designs for Copula Models
-
 docore Utility Functions for Scientific Coding
-
 docreview Opinionated Documentation Checking
-
 docstring Provides Docstring Capabilities to R Functions
-
 documenter Documents Files
-
 docuSignr Connect to 'DocuSign' API
-
 docxtools Tools for R Markdown to Docx Documents
-
 docxtractr Extract Data Tables and Comments from 'Microsoft' 'Word' Documents
-
 Dodge Acceptance Sampling Ideas Originated by H.F. Dodge
-
 dodgr Distances on Directed Graphs
-
 DoE.base Full Factorials, Orthogonal Arrays and Base Utilities for DoE Packages
-
 DoE.MIParray Creation of Arrays by Mixed Integer Programming
-
 DoE.wrapper Wrapper Package for Design of Experiments Functionality
-
 doebioresearch Analysis of Design of Experiments for Biological Research
-
 DOEM The Distributed Online Expectation Maximization Algorithms to Solve Parameters of Poisson Mixture Models
-
 DoEstRare Rare Variant Association Test Based on Position Density Estimation
-
 doex The One-Way Heteroscedastic ANOVA Tests
-
 doFuture A Universal Foreach Parallel Adapter using the Future API of the 'future' Package
-
 dogesr Work with the Doges/Dogaresse Dataset
-
 doMC Foreach Parallel Adaptor for 'parallel'
-
 domino R Console Bindings for the 'Domino Command-Line Client'
-
 DominoDataCapture Domino Data Capture
-
 domir Tools to Support Relative Importance Analysis
-
 doMPI Foreach Parallel Adaptor for the Rmpi Package
-
 donut Nearest Neighbour Search with Variables on a Torus
-
 doolkit Exploration of Dental Surface Topography
-
 doParallel Foreach Parallel Adaptor for the 'parallel' Package
-
 DOPE Drug Ontology Parsing Engine
-
 doRedis 'Foreach' Parallel Adapter Using the 'Redis' Database
-
 doremi Dynamics of Return to Equilibrium During Multiple Inputs
-
 doRNG Generic Reproducible Parallel Backend for 'foreach' Loops
-
 DOS Design of Observational Studies
-
 DOS2 Design of Observational Studies, Companion to the Second Edition
-
 dosearch Causal Effect Identification from Multiple Incomplete Data Sources
-
 dosedesignR Interactive Designing of Dose Finding Studies
-
 DoseFinding Planning and Analyzing Dose Finding Experiments
-
 doseminer Extract Drug Dosages from Free-Text Prescriptions
-
 doSNOW Foreach Parallel Adaptor for the 'snow' Package
-
 DOSPortfolio Dynamic Optimal Shrinkage Portfolio
-
 dosresmeta Multivariate Dose-Response Meta-Analysis
-
 dostats Compute Statistics Helper Functions
-
 DOT Render and Export DOT Graphs in R
-
 DoTC Distribution of Typicality Coefficients
-
 dotCall64 Enhanced Foreign Function Interface Supporting Long Vectors
-
 dotenv Load Environment Variables from '.env'
-
 dotgen Gene-Set Analysis via Decorrelation by Orthogonal Transformation
-
 dotprofile Create and Manage Configuration Profiles
-
 dots Dot Density Maps
-
 dotwhisker Dot-and-Whisker Plots of Regression Results
-
 doubcens Survivor Function Estimation for Doubly Interval-Censored Failure Time Data
-
 double.truncation Analysis of Doubly-Truncated Data
-
 DoubleCone Test Against Parametric Regression Function
-
 DoubleExpSeq Differential Exon Usage Test for RNA-Seq Data via Empirical Bayes Shrinkage of the Dispersion Parameter
-
 DoubleML Double Machine Learning in R
-
 doubt Enable Operators Containing the '?' Symbol
-
 DOvalidation Kernel Hazard Estimation with Best One-Sided and Double One-Sided Cross-Validation
-
 DOVE Durability of Vaccine Efficacy
-
 Dowd Functions Ported from 'MMR2' Toolbox Offered in Kevin Dowd's Book Measuring Market Risk
-
 downlit Syntax Highlighting and Automatic Linking
-
 downloader Download Files over HTTP and HTTPS
-
 downloadthis Implement Download Buttons in 'rmarkdown'
-
 downscale Downscaling Species Occupancy
-
 downscaledl Downscale of RS Images using Deep Learning
-
 downsize A Tool to Downsize Large Workflows for Testing
-
 dowser B Cell Receptor Phylogenetics Toolkit
-
 dparser Port of 'Dparser' Package
-
 DPBBM Dirichlet Process Beta-Binomial Mixture
-
 dpcc Dynamic Programming for Convex Clustering
-
 dPCP Automated Analysis of Multiplex Digital PCR Data
-
 Dpit Distribution Pitting
-
 dplbnDE Discriminative Parameter Learning of Bayesian Networks by Differential Evolution
-
 dplR Dendrochronology Program Library in R
-
 dplyr A Grammar of Data Manipulation
-
 dplyrAssist RStudio Addin for Teaching and Learning Data Manipulation Using 'dplyr'
-
 dpmr Data Package Manager for R
-
 DPP Inference of Parameters of Normal Distributions from a Mixture of Normals
-
 DPpack Differentially Private Statistical Analysis and Machine Learning
-
 dppmix Determinantal Point Process Mixture Models
-
 DPQ Density, Probability, Quantile ('DPQ') Computations
-
 DPQmpfr DPQ (Density, Probability, Quantile) Distribution Computations using MPFR
-
 dprint Print Tabular Data to Graphics Device
-
 dpseg Piecewise Linear Segmentation by Dynamic Programming
-
 DPtree Dirichlet-Based Polya Tree
-
 DQAgui Graphical User Interface for Data Quality Assessment
-
 DQAstats Core Functions for Data Quality Assessment
-
 dqrng Fast Pseudo Random Number Generators
-
 dQTG.seq A BSA Software for Detecting All Types of QTLs in BC, DH, RIL and F2
-
 dr Methods for Dimension Reduction for Regression
-
 DR.SC Joint Dimension Reduction and Spatial Clustering
-
 dr4pl Dose Response Data Analysis using the 4 Parameter Logistic (4pl) Model
-
 dracor Decode Draco Format 3D Mesh Data
-
 dragon Deep Time Redox Analysis of the Geobiology Ontology Network
-
 dragonking Statistical Tools to Identify Dragon Kings
-
 dragracer Data Sets for RuPaul's Drag Race
-
 dragulaR Drag and Drop Elements in 'Shiny' using 'Dragula Javascript Library'
-
 drake A Pipeline Toolkit for Reproducible Computation at Scale
-
 DramaAnalysis Analysis of Dramatic Texts
-
 drat 'Drat' R Archive Template
-
 draw Wrapper Functions for Producing Graphics
-
 drawer An Interactive HTML Image Editing Tool
-
 DRaWR Discriminative Random Walk with Restart
-
 drawsample Draw Samples with the Desired Properties from a Data Set
-
 DRAYL Computation of Rayleigh Densities of Arbitrary Dimension
-
 DrBats Data Representation: Bayesian Approach That's Sparse
-
 drc Analysis of Dose-Response Curves
-
 drda Dose-Response Data Analysis
-
 DRDID Doubly Robust Difference-in-Differences Estimators
-
 DrDimont Drug Response Prediction from Differential Multi-Omics Networks
-
 DRDRtest A Nonparametric Doubly Robust Test for Continuous Treatment Effect
-
 dreamer Dose Response Models for Bayesian Model Averaging
-
 dreamerr Error Handling Made Easy
-
 DREGAR Regularized Estimation of Dynamic Linear Regression in the Presence of Autocorrelated Residuals (DREGAR)
-
 drf Distributional Random Forests
-
 drfit Dose-Response Data Evaluation
-
 drgee Doubly Robust Generalized Estimating Equations
-
 DRHotNet Differential Risk Hotspots in a Linear Network
-
 drhur Learning R with Dr. Hu
-
 DriftBurstHypothesis Calculates the Test-Statistic for the Drift Burst Hypothesis
-
 drifter Concept Drift and Concept Shift Detection for Predictive Models
-
 DrillR R Driver for Apache Drill
-
 drimmR Estimation, Simulation and Reliability of Drifting Markov Models
-
 DrImpute Imputing Dropout Events in Single-Cell RNA-Sequencing Data
-
 DRIP Discontinuous Regression and Image Processing
-
 DriveML Self-Drive Machine Learning Projects
-
 driveR Prioritizing Cancer Driver Genes Using Genomics Data
-
 droll Analyze Roll Distributions
-
 DRomics Dose Response for Omics
-
 droptest Simulates LOX Drop Testing
-
 drord Doubly-Robust Estimators for Ordinal Outcomes
-
 drought Statistical Modeling and Assessment of Drought
-
 drpop Efficient and Doubly Robust Population Size Estimation
-
 DRR Dimensionality Reduction via Regression
-
 drtmle Doubly-Robust Nonparametric Estimation and Inference
-
 DrugClust Implementation of a Machine Learning Framework for Predicting Drugs Side Effects
-
 drugprepr Prepare Electronic Prescription Record Data to Estimate Drug Exposure
-
 DrugSim2DR Predict Drug Functional Similarity to Drug Repurposing
-
 drumr Turn R into a Drum Machine
-
 DRviaSPCN Drug Repurposing in Cancer via a Subpathway Crosstalk Network
-
 ds Descriptive Statistics
-
 ds4psy Data Science for Psychologists
-
 dsa Seasonal Adjustment of Daily Time Series
-
 DSAIDE Dynamical Systems Approach to Infectious Disease Epidemiology (Ecology/Evolution)
-
 DSAIRM Dynamical Systems Approach to Immune Response Modeling
-
 dsb Normalize & Denoise Droplet Single Cell Protein Data (CITE-Seq)
-
 dscore D-Score for Child Development
-
 dse Dynamic Systems Estimation (Time Series Package)
-
 dsfa Distributional Stochastic Frontier Analysis
-
 DSI 'DataSHIELD' Interface
-
 dsims Distance Sampling Simulations
-
 DSjobtracker What Skills and Qualifications are Required for Data Science Related Jobs?
-
 DSL Distributed Storage and List
-
 dslabs Data Science Labs
-
 dslice Dynamic Slicing
-
 DSLite 'DataSHIELD' Implementation on Local Datasets
-
 dsm Density Surface Modelling of Distance Sampling Data
-
 dsmisc Data Science Box of Pandora Miscellaneous
-
 dsmmR Estimation and Simulation of Drifting Semi-Markov Models
-
 DSMolgenisArmadillo 'DataSHIELD' Client for 'MOLGENIS Armadillo'
-
 DSOpal 'DataSHIELD' Implementation for 'Opal'
-
 dsos Dataset Shift with Outlier Scores
-
 DSpoty Get 'Spotify' API Multiple Information
-
 dsrTest Tests and Confidence Intervals on Directly Standardized Rates for Several Methods
-
 DSSAT A Comprehensive R Interface for the DSSAT Cropping Systems Model
-
 dssd Distance Sampling Survey Design
-
 DSSP Implementation of the Direct Sampling Spatial Prior
-
 dst Using the Theory of Belief Functions
-
 DstarM Analyze Two Choice Reaction Time Data with the D*M Method
-
 dstat Conditional Sensitivity Analysis for Matched Observational Studies
-
 dstat2x2xk Demonstrated Insensitivity to Bias in 2x2xK Contingency Tables
-
 dSVA Direct Surrogate Variable Analysis
-
 DSWE Data Science for Wind Energy
-
 DT A Wrapper of the JavaScript Library 'DataTables'
-
 dtangle Cell Type Deconvolution from Gene Expressions
-
 DTAplots Creates Plots Accompanying Bayesian Diagnostic Test Accuracy Meta-Analyses
-
 DTAT Dose Titration Algorithm Tuning
-
 DTAXG Diagnostic Test Assessment in the Absence of Gold Standard
-
 dTBM Multi-Way Spherical Clustering via Degree-Corrected Tensor Block Models
-
 DtD Distance to Default
-
 DTDA Doubly Truncated Data Analysis
-
 DTDA.cif Doubly Truncated Data Analysis, Cumulative Incidence Functions
-
 DTDA.ni Doubly Truncated Data Analysis, Non Iterative
-
 dtgiw Discrete Transmuted Generalized Inverse Weibull Distribution
-
 dti Analysis of Diffusion Weighted Imaging (DWI) Data
-
 DTMCPack Suite of Functions Related to Discrete-Time Discrete-State Markov Chains
-
 dtp Dynamic Panel Threshold Model
-
 dtpcrm Dose Transition Pathways for Continual Reassessment Method
-
 dtplyr Data Table Back-End for 'dplyr'
-
 DTR Estimation and Comparison of Dynamic Treatment Regimes
-
 dtrackr Track your Data Pipelines
-
 DTRlearn2 Statistical Learning Methods for Optimizing Dynamic Treatment Regimes
-
 DTRreg DTR Estimation and Inference via G-Estimation, Dynamic WOLS, Q-Learning, and Dynamic Weighted Survival Modeling (DWSurv)
-
 dtrSurv Dynamic Treatment Regimes for Survival Analysis
-
 DTSEA Drug Target Set Enrichment Analysis
-
 DTSg A Class for Working with Time Series Data Based on 'data.table' and 'R6' with Largely Optional Reference Semantics
-
 dtt Discrete Trigonometric Transforms
-
 dttr2 Manipulate Date, POSIXct and hms Vectors
-
 dtts 'data.table' Time-Series
-
 dtw Dynamic Time Warping Algorithms
-
 DTWBI Imputation of Time Series Based on Dynamic Time Warping
-
 dtwclust Time Series Clustering Along with Optimizations for the Dynamic Time Warping Distance
-
 DTwrappers Simplified Data Analysis with Wrapper Functions for the 'Data.Table' Package
-
 dtwSat Time-Weighted Dynamic Time Warping for Satellite Image Time Series Analysis
-
 DTWUMI Imputation of Multivariate Time Series Based on Dynamic Time Warping
-
 dual Automatic Differentiation with Dual Numbers
-
 dualtrees Decimated and Undecimated 2D Complex Dual-Tree Wavelet Transform
-
 duawranglr Securely Wrangle Dataset According to Data Usage Agreement
-
 dub Unpacking Assignment for Lists via Pattern Matching
-
 DUBStepR Correlation-Based Feature Selection for Single-Cell RNA Sequencing Data
-
 duckdb DBI Package for the DuckDB Database Management System
-
 duckduckr Simple Client for the DuckDuckGo Instant Answer API
-
 dumbbell Displaying Changes Between Two Points Using Dumbbell Plots
-
 dummy Automatic Creation of Dummies with Support for Predictive Modeling
-
 dundermifflin The Office Quotes on-Demand
-
 dunn.test Dunn's Test of Multiple Comparisons Using Rank Sums
-
 dupree Identify Duplicated R Code in a Project
-
 DVHmetrics Analyze Dose-Volume Histograms and Check Constraints
-
 dvir Disaster Victim Identification
-
 dvmisc Convenience Functions, Moving Window Statistics, and Graphics
-
 dvqcc Dynamic VAR - Based Control Charts for Batch Process Monitoring
-
 DWBmodelUN Dynamic Water Balance a Hydrological Model
-
 DWDLargeR Fast Algorithms for Large Scale Generalized Distance Weighted Discrimination
-
 dwdradar Read Binary Radar Files from 'DWD' (German Weather Service)
-
 DWLasso Degree Weighted Lasso
-
 dwlm Doubly Weighted Linear Model
-
 DWLS Gene Expression Deconvolution Using Dampened Weighted Least Squares
-
 dwp Density-Weighted Proportion
-
 DWreg Parametric Regression for Discrete Response
-
 dyads Dyadic Network Analysis
-
 dycdtools Tools for DYRESM-CAEDYM Model Development: Calibration Assistant and Post-Processing
-
 dydea Detection of Chaotic and Regular Intervals in the Data
-
 dygraphs Interface to 'Dygraphs' Interactive Time Series Charting Library
-
 Dykstra Quadratic Programming using Cyclic Projections
-
 DYM Did You Mean?
-
 dymo Dynamic Mode Decomposition for Multivariate Time Feature Prediction
-
 dyn Time Series Regression
-
 dyn.log Dynamic Logging for R Inspired by Configuration Driven Development
-
 dynamac Dynamic Simulation and Testing for Single-Equation ARDL Models
-
 dynamic DFI Cutoffs for Latent Variable Models
-
 DynamicGP Modelling and Analysis of Dynamic Computer Experiments
-
 dynamichazard Dynamic Hazard Models using State Space Models
-
 dynamicTreeCut Methods for Detection of Clusters in Hierarchical Clustering Dendrograms
-
 DynaRankR Inferring Longitudinal Dominance Hierarchies
-
 DynareR A Seamless Integration of 'R' and 'Dynare'
-
 dynaSpec Dynamic Spectrogram Visualizations
-
 DYNATE Dynamic Aggregation Testing
-
 dynatop An Implementation of Dynamic TOPMODEL Hydrological Model in R
-
 dynatopGIS Algorithms for Helping Build Dynamic TOPMODEL Implementations from Spatial Data
-
 dynaTree Dynamic Trees for Learning and Design
-
 dynBiplotGUI Full Interactive GUI for Dynamic Biplot in R
-
 DynClust Denoising and Clustering for Dynamical Image Sequence (2D or 3D)+t
-
 DynComm Dynamic Network Communities Detection and Generation
-
 dyncomp Complexity of Short and Coarse-Grained Time Series
-
 dynConfiR Dynamic Models for Confidence and Response Time Distributions
-
 dynCorr Dynamic Correlation Package
-
 dyndimred Dimensionality Reduction Methods in a Common Format
-
 dynetNLAResistance Resisting Neighbor Label Attack in a Dynamic Network
-
 dynfeature Feature Importance for Dynamic Processes
-
 DynForest Random Forest with Multivariate Longitudinal Predictors
-
 dyngen A Multi-Modal Simulator for Spearheading Single-Cell Omics Analyses
-
 dynlm Dynamic Linear Regression
-
 dynmix Estimation of Dynamic Finite Mixtures
-
 DynNom Visualising Statistical Models using Dynamic Nomograms
-
 dynpanel Dynamic Panel Data Models
-
 dynparam Creating Meta-Information for Parameters
-
 dynplot Visualising Single-Cell Trajectories
-
 dynpred Companion Package to "Dynamic Prediction in Clinical Survival Analysis"
-
 dynprog Dynamic Programming Domain-Specific Language
-
 dynr Dynamic Models with Regime-Switching
-
 dynRB Dynamic Range Boxes
-
 dynsbm Dynamic Stochastic Block Models
-
 dynsim Dynamic Simulations of Autoregressive Relationships
-
 dynsurv Dynamic Models for Survival Data
-
 dyntaper Dynamic Stem Profile Models, AKA Tree Taper Equations
-
 DynTxRegime Methods for Estimating Optimal Dynamic Treatment Regimes
-
 dynutils Common Functionality for the 'dynverse' Packages
-
 dynwrap Representing and Inferring Single-Cell Trajectories
-
 DysPIA Dysregulated Pathway Identification Analysis
-
 DysPIAData Background and Pathway Data Used in 'DysPIA'
-
 DySS Dynamic Screening Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 e1071 Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien
 
