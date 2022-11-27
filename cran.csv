@@ -475,9 +475,9 @@ aphid ,Analysis with Profile Hidden Markov Models
 aphylo, Statistical Inference and Prediction of Annotations in Phylogenetic Trees
 api2lm, Functions and Data Sets for the Book 'A Progressive Introduction to Linear Models'
 APIS , Auto-Adaptive Parentage Inference Software Tolerant to Missing Parents
-apisensr , Interface to episensr for Sensitivity Analysis of Epidemiological Results
-aplore3, Datasets from Hosmer Lemeshow and Sturdivant "Applied Logistic Regression" (3rd Ed. 2013)
-aplot ,Decorate a 'ggplot' with Associated Information
+apisensr , Interface to 'episensr' for Sensitivity Analysis of Epidemiological Results
+aplore3, Datasets from Hosmer Lemeshow and Sturdivant 'Applied Logistic Regression' (3rd Ed. 2013)
+aplot , Decorate a 'ggplot' with Associated Information
 aplpack, Another Plot Package: 'Bagplots' 'Iconplots' 'Summaryplots' Slider Functions and Others
 APML0, Augmented and Penalized Minimization Method L0
 apng , Convert Png Files into Animated Png
@@ -493,7 +493,7 @@ approxmatch, Approximately Optimal Fine Balance Matching with Multiple Groups
 approxOT ,Approximate and Exact Optimal Transport Methods
 aprean3 ,Datasets from Draper and Smith "Applied Regression Analysis" (3rd Ed. 1998)
 aprof, Amdahl's Profiler Directed Optimization Made Easy
-apsimx, Inspect Read Edit and Run 'APSIM' "Next Generation" and 'APSIM' Classic
+apsimx, Inspect Read Edit and Run 'APSIM' 'Next Generation' and 'APSIM' Classic
 apt, Asymmetric Price Transmission
 APtools ,Average Positive Predictive Values (AP) for Binary Outcomes and Censored Event Times
 apTreeshape, Analyses of Phylogenetic Treeshape
@@ -559,7 +559,7 @@ arkhe, Tools for Cleaning Rectangular Data
 arm, Data Analysis Using Regression and Multilevel/Hierarchical Models
 armada, A Statistical Methodology to Select Covariates in High-Dimensional Data under Dependence
 armspp, Adaptive Rejection Metropolis Sampling (ARMS) via 'Rcpp'
-arnie ,"Arnie" box office records 1982-2014
+arnie ,'Arnie' box office records 1982-2014
 AROC ,Covariate-Adjusted Receiver Operating Characteristic Curve Inference
 aroma.affymetrix ,Analysis of Large Affymetrix Microarray Data Sets
 aroma.apd ,A Probe-Level Data File Format Used by 'aroma.affymetrix' [deprecated]
