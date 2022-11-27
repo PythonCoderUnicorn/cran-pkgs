@@ -175,7 +175,7 @@ AdMit ,Adaptive Mixture of Student-t Distributions
 admix ,Package Admix for Admixture (aka Contamination) Models
 admixr ,An Interface for Running 'ADMIXTOOLS' Analyses
 ADMM ,Algorithms using Alternating Direction Method of Multipliers
-admmDensestSubmatrix,, Alternating Direction Method of Multipliers to Solve Dense Dubmatrix Problem
+admmDensestSubmatrix, Alternating Direction Method of Multipliers to Solve Dense Dubmatrix Problem
 ADMMnet, Regularized Model with Selecting the Number of Non-Zeros
 ADMMsigma ,Penalized Precision Matrix Estimation via ADMM
 ADMUR ,Ancient Demographic Modelling Using Radiocarbon
