@@ -25824,4287 +25824,2146 @@ RZooRoH Partitioning of Individual Autozygosity into Multiple Homozygous-by-Desc
 
 
 s2 Spherical Geometry Operators Using the S2 Geometry Library
-
 s20x Functions for University of Auckland Course STATS 201/208 Data Analysis
-
 s2dv A Set of Common Tools for Seasonal to Decadal Verification
-
 s2dverification Set of Common Tools for Forecast Verification
-
 s2net The Generalized Semi-Supervised Elastic-Net
-
 s3.resourcer S3 Resource Resolver
-
 s4vd Biclustering via Sparse Singular Value Decomposition Incorporating Stability Selection
-
 saasCNV Somatic Copy Number Alteration Analysis Using Sequencing and SNP Array Data
-
 sabarsi Background Removal and Spectrum Identification for SERS Data
-
 sabre Spatial Association Between Regionalizations
-
 sac Semiparametric Analysis of Change-Point
-
 saccadr Extract Saccades via an Ensemble of Methods Approach
-
 SACCR SA Counterparty Credit Risk under CRR2
-
 SACOBRA Self-Adjusting COBRA
-
 sad Verify the Scale, Anisotropy and Direction of Weather Forecasts
-
 SADEG Stability Analysis in Differentially Expressed Genes
-
 SADISA Species Abundance Distributions with Independent-Species Assumption
-
 sadists Some Additional Distributions
-
 sads Maximum Likelihood Models for Species Abundance Distributions
-
 sae Small Area Estimation
-
 sae.prop Small Area Estimation using Fay-Herriot Models with Additive Logistic Transformation
-
 saeBest Selecting Auxiliary Variables in Small Area Estimation (SAE) Model
-
 saebnocov Small Area Estimation using Empirical Bayes without Auxiliary Variable
-
 saeeb Small Area Estimation for Count Data
-
 SAEforest Mixed Effect Random Forests for Small Area Estimation
-
 saeHB Small Area Estimation using Hierarchical Bayesian Method
-
 saeHB.gpois SAE using HB Method under Generalized Poisson Distribution
-
 saeHB.hnb Small Area Estimation under Hurdle Negative Binomial Distribution using Hierarchical Bayesian Method
-
 saeHB.ME Small Area Estimation with Measurement Error using Hierarchical Bayesian Method
-
 saeHB.panel Small Area Estimation using Hierarchical Bayesian Method for Rao Yu Model
-
 saeHB.spatial Small Area Estimation under Spatial SAR Model using Hierarchical Bayesian Method
-
 saeHB.twofold Hierarchical Bayes Twofold Subarea Level Model SAE
-
 saeHB.ZIB Small Area Estimation using Hierarchical Bayesian under Zero Inflated Binomial Distribution
-
 saeHB.zinb Small Area Estimation using Hierarchical Bayesian under Zero Inflated Negative Binomial Distribution
-
 saekernel Small Area Estimation Non-Parametric Based Nadaraya-Watson Kernel
-
 saeME Small Area Estimation with Measurement Error
-
 saemix Stochastic Approximation Expectation Maximization (SAEM) Algorithm
-
 saeMSPE Compute MSPE Estimates for the Fay Herriot Model and Nested Error Regression Model
-
 saeRobust Robust Small Area Estimation
-
 saeSim Simulation Tools for Small Area Estimation
-
 saeTrafo Transformations for Unit-Level Small Area Models
-
 SAEval Small Area Estimation Evaluation
-
 SAFARI Shape Analysis for AI-Reconstructed Images
-
 SAFD Statistical Analysis of Fuzzy Data
-
 safedata Interface to Data from the SAFE Project
-
 safejoin Perform "Safe" Table Joins
-
 safer Encrypt and Decrypt Strings, R Objects and Files
-
 safestats Safe Anytime-Valid Inference
-
 safetyCharts Charts for Monitoring Clinical Trial Safety
-
 safetyData Clinical Trial Data
-
 safetyGraphics Interactive Graphics for Monitoring Clinical Trial Safety
-
 sageR Applied Statistics for Economics and Management with R
-
 SAGMM Clustering via Stochastic Approximation and Gaussian Mixture Models
-
 sahpm Variable Selection using Simulated Annealing
-
 sAIC Akaike Information Criterion for Sparse Estimation
-
 SailoR An Extension of the Taylor Diagram to Two-Dimensional Vector Data
-
 SALES The (Adaptive) Elastic Net and Lasso Penalized Sparse Asymmetric Least Squares (SALES) and Coupled Sparse Asymmetric Least Squares (COSALES) using Coordinate Descent and Proximal Gradient Algorithms
-
 salesforcer An Implementation of 'Salesforce' APIs Using Tidy Principles
-
 salso Search Algorithms and Loss Functions for Bayesian Clustering
-
 SALTSampler Efficient Sampling on the Simplex
-
 salty Turn Clean Data into Messy Data
-
 SAM Sparse Additive Modelling
-
 SAMBA Selection and Misclassification Bias Adjustment for Logistic Regression Models
-
 sambia A Collection of Techniques Correcting for Sample Selection Bias
-
 samc Spatial Absorbing Markov Chains
-
 SAMGEP A Semi-Supervised Method for Prediction of Phenotype Event Times
-
 SAMM Some Algorithms for Mixed Models
-
 samon Sensitivity Analysis for Missing Data
-
 Sample.Size Sample size calculation
-
 sampler Sample Design, Drawing & Data Analysis Using Data Frames
-
 SamplerCompare A Framework for Comparing the Performance of MCMC Samplers
-
 sampleSelection Sample Selection Models
-
 samplesize Sample Size Calculation for Various t-Tests and Wilcoxon-Test
-
 SampleSize4ClinicalTrials Sample Size Calculation for the Comparison of Means or Proportions in Phase III Clinical Trials
-
 samplesize4surveys Sample Size Calculations for Complex Surveys
-
 samplesizeCMH Power and Sample Size Calculation for the Cochran-Mantel-Haenszel Test
-
 samplesizelogisticcasecontrol Sample Size and Power Calculations for Case-Control Studies
-
 sampleVADIR Draw Stratified Samples from the VADIR Database
-
 sampling Survey Sampling
-
 SamplingBigData Sampling Methods for Big Data
-
 samplingbook Survey Sampling Procedures
-
 samplingDataCRT Sampling Data Within Different Study Designs for Cluster Randomized Trials
-
 samplingEstimates Sampling Estimates
-
 SamplingStrata Optimal Stratification of Sampling Frames for Multipurpose Sampling Surveys
-
 samplingVarEst Sampling Variance Estimation
-
 sampsizeval Sample Size for Validation of Risk Models with Binary Outcomes
-
 samr SAM: Significance Analysis of Microarrays
-
 sams Merge-Split Samplers for Conjugate Bayesian Nonparametric Models
-
 SAMtool Stock Assessment Methods Toolkit
-
 SAMTx Sensitivity Assessment to Unmeasured Confounding with Multiple Treatments
-
 SAMUR Stochastic Augmentation of Matched Data Using Restriction Methods
-
 samurais Statistical Models for the Unsupervised Segmentation of Time-Series ('SaMUraiS')
-
 sand Statistical Analysis of Network Data with R, 2nd Edition
-
 sandbox Probabilistic Numerical Modelling of Sediment Properties
-
 sandwich Robust Covariance Matrix Estimators
-
 sandwichr Spatial Interpolation Based on Spatial Stratified Heterogeneity
-
 SanFranBeachWater Downloads and Tidies the San Francisco Public Utilities Commission Beach Water Quality Monitoring Program Data
-
 SangerTools Tools for Population Health Management Analytics
-
 sanic Solving Ax = b Nimbly in C++
-
 sanitizers C/C++ source code to trigger Address and Undefined Behaviour Sanitizers
-
 sanityTracker Keeps Track of all Performed Sanity Checks
-
 sankey Illustrate the Flow of Information or Material
-
 sankeywheel Create Dependency Wheels and Sankey Diagrams
-
 sanon Stratified Analysis with Nonparametric Covariable Adjustment
-
 sansa Synthetic Data Generation for Imbalanced Learning in 'R'
-
 santaR Short Asynchronous Time-Series Analysis
-
 santoku A Versatile Cutting Tool
-
 sanzo Color Palettes Based on the Works of Sanzo Wada
-
 saotd Sentiment Analysis of Twitter Data
-
 SAP Statistical Analysis and Programming
-
 sapevom Group Ordinal Method for Multiple Criteria Decision-Making
-
 sapfluxnetr Working with 'Sapfluxnet' Project Data
-
 SAPP Statistical Analysis of Point Processes
-
 saqgetr Import Air Quality Monitoring Data in a Fast and Easy Way
-
 SAR Smart Adaptive Recommendations
-
 sara4r An R-GUI for Spatial Analysis of Surface Runoff using the NRCS-CN Method
-
 sarima Simulation and Prediction with Seasonal ARIMA Models
-
 SARP.compo Network-Based Interpretation of Changes in Compositional Data
-
 SARP.moodle XML Output Functions for Easy Creation of Moodle Questions
-
 sarp.snowprofile Snow Profile Analysis for Snowpack and Avalanche Research
-
 sarp.snowprofile.alignment Snow Profile Alignment, Aggregation, and Clustering
-
 sarp.snowprofile.pyface 'python' Modules from Snowpack and Avalanche Research
-
 sars Fit and Compare Species-Area Relationship Models Using Multimodel Inference
-
 sarsop Approximate POMDP Planning Software
-
 sas7bdat sas7bdat Reverse Engineering Documentation
-
 SAScii Import ASCII Files Directly into R using Only a 'SAS' Input Script
-
 SASdates Convert the Dates to 'SAS' Formats
-
 sasfunclust Sparse and Smooth Functional Clustering
-
 sasLM 'SAS' Linear Model
-
 sasMap Static 'SAS' Code Analysis
-
 SASmarkdown 'SAS' Markdown
-
 SASmixed Data sets from "SAS System for Mixed Models"
-
 sass Syntactically Awesome Style Sheets ('Sass')
-
 sassy Makes 'R' Easier for Everyone
-
 sate Scientific Analysis of Trial Errors (SATE)
-
 satellite Handling and Manipulating Remote Sensing Data
-
 satin Visualisation and Analysis of Ocean Data Derived from Satellites
-
 satscanMapper 'SaTScan' (TM) Results Mapper
-
 saturnin Spanning Trees Used for Network Inference
-
 SAutomata Inference and Learning in Stochastic Automata
-
 SAVER Single-Cell RNA-Seq Gene Expression Recovery
-
 savonliquide Accessibility Toolbox for 'R' Users
-
 sawnuti Comparing Sequences with Non-Uniform Time Intervals
-
 saws Small-Sample Adjustments for Wald Tests Using Sandwich Estimators
-
 sazedR Parameter-Free Domain-Agnostic Season Length Detection in Time Series
-
 SBAGM Search Best ARIMA, GARCH, and MS-GARCH Model
-
 sbde Semiparametric Bayesian Density Estimation
-
 SBdecomp Estimation of the Proportion of SB Explained by Confounders
-
 sbfc Selective Bayesian Forest Classifier
-
 sbgcop Semiparametric Bayesian Gaussian Copula Estimation and Imputation
-
 sBIC Computing the Singular BIC for Multiple Models
-
 SBICgraph Structural Bayesian Information Criterion for Graphical Models
-
 sbioPN sbioPN: Simulation of deterministic and stochastic spatial biochemical reaction networks using Petri Nets
-
 sbl Sparse Bayesian Learning for QTL Mapping and Genome-Wide Association Studies
-
 sbm Stochastic Blockmodels
-
 SBmedian Scalable Bayes with Median of Subset Posteriors
-
 sbmSDP Semidefinite Programming for Fitting Block Models of Equal Block Sizes
-
 SBMSplitMerge Inference for a Generalised SBM with a Split Merge Sampler
-
 SBN Generate Stochastic Branching Networks
-
 sbo Text Prediction via Stupid Back-Off N-Gram Models
-
 sboost Machine Learning with AdaBoost on Decision Stumps
-
 SBSDiff Satorra-Bentler Scaled Chi-Squared Difference Test
-
 sbtools USGS ScienceBase Tools
-
 sbw Stable Balancing Weights for Causal Inference and Missing Data
-
 SC.MEB Spatial Clustering with Hidden Markov Random Field using Empirical Bayes
-
 SC2API Blizzard SC2 API Wrapper
-
 scaffolder Scaffolding Interfaces to Packages in Other Programming Languages
-
 scagnostics Compute scagnostics - scatterplot diagnostics
-
 scaleAlign Scale Alignment for Between-Items Multidimensional Rasch Family Models
-
 scaleboot Approximately Unbiased P-Values via Multiscale Bootstrap
-
 Scalelink Create Scale Linkage Scores
-
 scales Scale Functions for Visualization
-
 ScaleSpikeSlab Scalable Spike-and-Slab
-
 scalpel Processes Calcium Imaging Data
-
 scalreg Scaled Sparse Linear Regression
-
 scam Shape Constrained Additive Models
-
 scan Single-Case Data Analyses for Single and Multiple Baseline Designs
-
 scAnnotate An Automated Cell Type Annotation Tool for Single-Cell RNA-Sequencing Data
-
 scanstatistics Space-Time Anomaly Detection using Scan Statistics
-
 scape Statistical Catch-at-Age Plotting Environment
-
 scapesClassification User-Defined Classification of Raster Surfaces
-
 scapGNN Graph Neural Network-Based Framework for Single Cell Active Pathways and Gene Modules Analysis
-
 scar Shape-Constrained Additive Regression: a Maximum Likelihood Approach
-
 scaRabee Optimization Toolkit for Pharmacokinetic-Pharmacodynamic Models
-
 SCAT Summary Based Conditional Association Test
-
 scatr Create Scatter Plots with Marginal Density or Box Plots
-
 scatteR Generate Instance Space Based on Scagnostics
-
 scatterD3 D3 JavaScript Scatterplot from R
-
 scattermore Scatterplots with More Points
-
 scatterpie Scatter Pie Plot
-
 scatterplot3d 3D Scatter Plot
-
 scatterPlotMatrix 'Htmlwidget' for a Scatter Plot Matrix
-
 SCBiclust Identifies Mean, Variance, and Hierarchically Clustered Biclusters
-
 scBio Single Cell Genomics for Enhancing Cell Composition Inference from Bulk Genomics Data
-
 SCBmeanfd Simultaneous Confidence Bands for the Mean of Functional Data
-
 scbursts Single Channel Bursts Analysis
-
 scCAN Single-Cell Clustering using Autoencoder and Network Fusion
-
 scCATCH Single Cell Cluster-Based Annotation Toolkit for Cellular Heterogeneity
-
 SCCI Stochastic Complexity-Based Conditional Independence Test for Discrete Data
-
 scclust Size-Constrained Clustering
-
 sccore Core Utilities for Single-Cell RNA-Seq
-
 sccr The Self-Consistent, Competing Risks (SC-CR) Algorithms
-
 SCCS The Self-Controlled Case Series Method
-
 scdensity Shape-Constrained Kernel Density Estimation
-
 scDHA Single-Cell Decomposition using Hierarchical Autoencoder
-
 scdhlm Estimating Hierarchical Linear Models for Single-Case Designs
-
 scDiffCom Differential Analysis of Intercellular Communication from scRNA-Seq Data
-
 scDIFtest Item-Wise Score-Based DIF Detection
-
 SCEM Splitting-Coalescence-Estimation Method
-
 SCEnt Single Cell Entropy Analysis of Gene Heterogeneity in Cell Populations
-
 SCEPtER Stellar CharactEristics Pisa Estimation gRid
-
 SCEPtERbinary Stellar CharactEristics Pisa Estimation gRid for Binary Systems
-
 SCGLR Supervised Component Generalized Linear Regression
-
 scgwr Scalable Geographically Weighted Regression
-
 schemr Convert Images to Usable Color Schemes
-
 schoenberg Tools for 12-Tone Musical Composition
-
 scholar Analyse Citation Data from Google Scholar
-
 schoolmath Functions and Datasets for Math Used in School
-
 schoRsch Tools for Analyzing Factorial Experiments
-
 schrute The Entire Transcript from the Office in Tidy Format
-
 schtools Schloss Lab Tools for Reproducible Microbiome Research
-
 schumaker Schumaker Shape-Preserving Spline
-
 SCI Standardized Climate Indices Such as SPI, SRI or SPEI
-
 SCIBER Single-Cell Integrator and Batch Effect Remover
-
 scico Colour Palettes Based on the Scientific Colour-Maps
-
 scidesignR Data Sets from Design and Analysis of Experiments and Observational Studies using R
-
 scientoText Text & Scientometric Analytics
-
 scifigure Visualize 'Reproducibility' and 'Replicability' in a Comparison of Scientific Studies
-
 scImmuneGraph Visualize the Basic Characteristics of Single-Cell Immune Repertoire
-
 SCINA A Semi-Supervised Category Identification and Assignment Tool
-
 scINSIGHT Interpretation of Heterogeneous Single-Cell Gene Expression Data
-
 sciplot Scientific Graphing Functions for Factorial Designs
-
 scipub Summarize Data for Scientific Publication
-
 sciRmdTheme Upgraded 'Rmarkdown' Themes for Scientific Writing
-
 scISR Single-Cell Imputation using Subspace Regression
-
 scistreer Maximum-Likelihood Perfect Phylogeny Inference at Scale
-
 scITD Single-Cell Interpretable Tensor Decomposition
-
 SciViews SciViews - Main package
-
 scLink Inferring Functional Gene Co-Expression Networks from Single Cell Data
-
 sclr Scaled Logistic Regression
-
 sClust R Toolbox for Unsupervised Spectral Clustering
-
 SCMA Single-Case Meta-Analysis
-
 scMappR Single Cell Mapper
-
 scModels Fitting Discrete Distribution Models to Count Data
-
 scOntoMatch Aligning Ontology Annotation Across Single Cell Datasets with 'scOntoMatch'
-
 scoper Spectral Clustering-Based Method for Identifying B Cell Clones
-
 scopr Read Ethoscope Data
-
 SCOPRO Score Projection Between in 'Vivo' and in 'Vitro' Datasets
-
 SCOR Spherically Constrained Optimization Routine
-
 score A Package to Score Behavioral Questionnaires
-
 scorecard Credit Risk Scorecard
-
 scorecardModelUtils Credit Scorecard Modelling Utils
-
 ScoreEB Score Test Integrated with Empirical Bayes for Association Study
-
 scorepeak Peak Functions for Peak Detection in Univariate Time Series
-
 ScorePlus Implementation of SCORE, SCORE+ and Mixed-SCORE
-
 scoring Proper Scoring Rules
-
 scoringfunctions A Collection of Scoring Functions for Assessing Point Forecasts
-
 scoringRules Scoring Rules for Parametric and Simulated Distribution Forecasts
-
 scoringTools Credit Scoring Tools
-
 scoringutils Utilities for Scoring and Assessing Predictions
-
 SCORNET Semi-Supervised Calibration of Risk with Noisy Event Times
-
 SCORPION Single Cell Oriented Reconstruction of PANDA Individual Optimized Networks
-
 SCORPIUS Inferring Developmental Chronologies from Single-Cell RNA Sequencing Data
-
 ScottKnott The ScottKnott Clustering Algorithm
-
 ScottKnottESD The Scott-Knott Effect Size Difference (ESD) Test
-
 scout Implements the Scout Method for Covariance-Regularized Regression
-
 SCOUTer Simulate Controlled Outliers
-
 SCperf Functions for Planning and Managing Inventories in a Supply Chain
-
 scpi Prediction Intervals for Synthetic Control Methods with Multiple Treated Units and Staggered Adoption
-
 scPloidy Infer Ploidy of Single Cells
-
 scpoisson Single Cell Poisson Probability Paradigm
-
 scPOP Metrics for Benchmarking scRNA-Seq Batch Correction
-
 SCpubr Generate Publication Ready Visualizations of Single Cell Transcriptomics Data
-
 scqe Stability Controlled Quasi-Experimentation
-
 scquantum Estimate Ploidy and Absolute Copy Number from Single Cell Sequencing
-
 scraEP Scrape the Web with Extra Power
-
 scrappy A Simple Web Scraper
-
 ScreenClean Screen and clean variable selection procedures
-
 scrime Analysis of High-Dimensional Categorical Data Such as SNP Data
-
 SCRIP An Accurate Simulator for Single-Cell RNA Sequencing Data
-
 scriptexec Execute Native Scripts
-
 ScriptMapR R Script Visualization in Cytoscape
-
 scriptName Determine a Script's Filename from Within the Script Itself
-
 scriptuRs Complete Text of the LDS Scriptures
-
 scrm Simulating the Evolution of Biological Sequences
-
 scRNAstat A Pipeline to Process Single Cell RNAseq Data
-
 scRNAtools Single Cell RNA Sequencing Data Analysis Tools
-
 scrobbler Download 'Scrobbles' from 'Last.fm'
-
 scrollrevealR Animate 'shiny' Elements when They Scroll into View using the 'scrollrevealjs' Library
-
 SCRSELECT Performs Bayesian Variable Selection on the Covariates in a Semi-Competing Risks Model
-
 SCRT Single-Case Randomization Tests
-
 scrutiny Error Detection in Science
-
 scrypt Key Derivation Functions for R Based on Scrypt
-
 scryr An Interface to the 'Scryfall' API
-
 scs Splitting Conic Solver
-
 scSorter Implementation of 'scSorter' Algorithm
-
 scTenifoldKnk In-Silico Knockout Experiments from Single-Cell Gene Regulatory Networks
-
 scTenifoldNet Construct and Compare scGRN from Single-Cell Transcriptomic Data
-
 scTEP Single-Cell Trajectory Inference using Ensemble Pseudotimes
-
 SCtools Extensions for Synthetic Controls Analysis
-
 sctransform Variance Stabilizing Transformations for Single Cell UMI Data
-
 scuba Diving Calculations and Decompression Models
-
 scUtils Utility Functions for Single-Cell RNA Sequencing Data
-
 scutr Balancing Multiclass Datasets for Classification Tasks
-
 SCVA Single-Case Visual Analysis
-
 sda Shrinkage Discriminant Analysis and CAT Score Variable Selection
-
 SDaA Sampling: Design and Analysis
-
 sdafilter Symmetrized Data Aggregation
-
 sdam Social Dynamics and Complexity in the Ancient Mediterranean
-
 sdamr Statistics: Data Analysis and Modelling
-
 SDAR Stratigraphic Data Analysis
-
 SDAResources Datasets and Functions for 'Sampling: Design and Analysis, 3rd Edition'
-
 sdcHierarchies Create and (Interactively) Modify Nested Hierarchies
-
 sdcLog Tools for Statistical Disclosure Control in Research Data Centers
-
 sdcMicro Statistical Disclosure Control Methods for Anonymization of Data and Risk Estimation
-
 SDCNway Tools to Evaluate Disclosure Risk
-
 sdcSpatial Statistical Disclosure Control for Spatial Data
-
 sdcTable Methods for Statistical Disclosure Control in Tabular Data
-
 sde Simulation and Inference for Stochastic Differential Equations
-
 sdef Synthesizing List of Differentially Expressed Features
-
 SDEFSR Subgroup Discovery with Evolutionary Fuzzy Systems
-
 sdetorus Statistical Tools for Toroidal Diffusions
-
 SDLfilter Filtering and Assessing the Sample Size of Tracking Data
-
 sdm Species Distribution Modelling
-
 sdmApp A User-Friendly Application for Species Distribution Modeling
-
 SDMPlay Species Distribution Modelling Playground
-
 sdmpredictors Species Distribution Modelling Predictor Datasets
-
 SDMtune Species Distribution Model Selection
-
 sdmvspecies Create Virtual Species for Species Distribution Modelling
-
 sdpdth M-Estimator for Threshold Spatial Dynamic Panel Data Model
-
 sdPrior Scale-Dependent Hyperpriors in Structured Additive Distributional Regression
-
 sdprisk Measures of Risk for the Compound Poisson Risk Process with Diffusion
-
 SDPrism2D Visualizing the Standard Deviation as the Size of a Prism
-
 sdpt3r Semi-Definite Quadratic Linear Programming Solver
-
 sdStaf Species Distribution and Stability Future Models
-
 SDT Self-Determination Theory Measures
-
 sdwd Sparse Distance Weighted Discrimination
-
 SE.EQ SE-Test for Equivalence
-
 SEA Segregation Analysis
-
 seacarb Seawater Carbonate Chemistry
-
 SEAGLE Scalable Exact Algorithm for Large-Scale Set-Based Gene-Environment Interaction Tests
-
 seagull Lasso, Group Lasso, and Sparse-Group Lasso for Mixed Models
-
 sealasso Standard Error Adjusted Adaptive Lasso
-
 seAMLess A Single Cell Transcriptomics Based Deconvolution Pipeline for Leukemia
-
 searchConsoleR Google Search Console R Client
-
 searcher Query Search Interfaces
-
 SearchTrees Spatial Search Trees
-
 seas Seasonal Analysis and Graphics, Especially for Climatology
-
 season Seasonal Analysis of Health Data
-
 seasonal R Interface to X-13-ARIMA-SEATS
-
 seasonalclumped Toolbox for Clumped Isotope Seasonality Reconstructions
-
 seasonalityPlot Seasonality Variation Plots of Stock Prices and Cryptocurrencies
-
 seasonalview Graphical User Interface for Seasonal Adjustment
-
 seastests Seasonality Tests
-
 seawaveQ SEAWAVE-Q Model
-
 SecDim The Second Dimension of Spatial Association
-
 SECFISH Disaggregate Variable Costs
-
 SecKW The SecKW Distribution
-
 SECP Statistical Estimation of Cluster Parameters
-
 secr Spatially Explicit Capture-Recapture
-
 secrdesign Sampling Design for Spatially Explicit Capture-Recapture
-
 secret Share Sensitive Information in R Packages
-
 secrettext Encrypt Text Using a Shifting Substitution Cipher
-
 secrlinear Spatially Explicit Capture-Recapture for Linear Habitats
-
 secsse Several Examined and Concealed States-Dependent Speciation and Extinction
-
 secure Sequential Co-Sparse Factor Regression
-
 secuTrialR Handling of Data from the Clinical Data Management System 'secuTrial'
-
 sedproxy Simulation of Sediment Archived Climate Proxy Records
-
 see Model Visualisation Toolbox for 'easystats' and 'ggplot2'
-
 seeclickfixr Access Data from the SeeClickFix Web API
-
 seecolor View Colors Used in R Objects in the Console
-
 SeedCalc Seed Germination and Seedling Growth Indexes
-
 seedCCA Seeded Canonical Correlation Analysis
-
 seededlda Seeded-LDA for Topic Modeling
-
 seedr Hydro and Thermal Time Seed Germination Models in R
-
 seedreg Regression Analysis for Seed Germination as a Function of Temperature
-
 seeds Estimate Hidden Inputs using the Dynamic Elastic Net
-
 seeker Simplified Fetching and Processing of Microarray and RNA-Seq Data
-
 seer Feature-Based Forecast Model Selection
-
 SEERaBomb SEER and Atomic Bomb Survivor Data Analysis Tools
-
 SeerMapper A Quick Way to Map U.S. Rates and Data of U.S. States, Counties, Census Tracts, or Seer Registries using 2000 and 2010 U.S. Census Boundaries
-
 SeerMapper2010East Supplemental U.S. 2010 Census Tract Boundaries for 20 Eastern States (including DC and PR) without Registries for 'SeerMapper'
-
 SeerMapper2010Regs Supplemental U.S. 2010 Census Tract Boundaries for 19 States with Seer Registries for 'SeerMapper'
-
 SeerMapper2010West Supplemental U.S. 2010 Census Tract Boundaries for 13 Western States without Seer Registries for 'SeerMapper'
-
 SeerMapperEast Supplemental U.S. 2000 Census Tract Boundaries for 20 States, District and Territory without Seer Registries that are East of the Mississippi River for Use with 'SeerMapper' Package
-
 SeerMapperRegs Supplemental U.S. 2000 Census Tract Boundaries for 19 States with Seer Registries for 'SeerMapper'
-
 SeerMapperWest Supplemental U.S. 2000 Census Tract Boundaries for 13 Western States without Seer Registries for 'SeerMapper'
-
 seewave Sound Analysis and Synthesis
-
 seg Measuring Spatial Segregation
-
 segclust2d Bivariate Segmentation/Clustering Methods and Tools
-
 SegCorr Detecting Correlated Genomic Regions
-
 segen Sequence Generalization Through Similarity Network
-
 SegEnvIneq Environmental Inequality Indices Based on Segregation Measures
-
 segmag Determine Event Boundaries in Event Segmentation Experiments
-
 segmented Regression Models with Break-Points / Change-Points (with Possibly Random Effects) Estimation
-
 segmenTier Similarity-Based Segmentation of Multidimensional Signals
-
 segmentr Segment Data With Maximum Likelihood
-
 segmetric Metrics for Assessing Segmentation Accuracy for Geospatial Data
-
 segMGarch Multiple Change-Point Detection for High-Dimensional GARCH Processes
-
 segRDA Modeling Non-Continuous Linear Responses of Ecological Data
-
 segregation Entropy-Based Segregation Indices
-
 segregatr Segregation Analysis for Variant Interpretation
-
 sehrnett A Very Nice Interface to 'WordNet'
-
 SEIRfansy Extended Susceptible-Exposed-Infected-Recovery Model
-
 seismic Predict Information Cascade by Self-Exciting Point Process
-
 seismicRoll Fast Rolling Functions for Seismology using 'Rcpp'
-
 sejmRP An Information About Deputies and Votings in Polish Diet from Seventh to Eighth Term of Office
-
 Sejong KoNLP static dictionaries and Sejong project resources
-
 SEL Semiparametric Elicitation
-
 selcorr Post-Selection Inference for Generalized Linear Models
-
 Select Determines Species Probabilities Based on Functional Traits
-
 selectapref Analysis of Field and Laboratory Foraging
-
-SelectBoost A General Algorithm to Enhance the Performance of Variable Selection Methods in Correlated Datasets
-
+SelectBoost A General Algorithm to Enhance the Performance of Variable Selection Methods in Correlated Dataset
 selection.index Analysis of Selection Index in Plant Breeding
-
 selectiongain A Tool for Calculation and Optimization of the Expected Gain from Multi-Stage Selection
-
 selectiveInference Tools for Post-Selection Inference
-
 selectMeta Estimation of Weight Functions in Meta Analysis
-
 selectr Translate CSS Selectors to XPath Expressions
-
 selectspm Select Point Pattern Models Based on Minimum Contrast, AIC and Goodness of Fit
-
 SeleMix Selective Editing via Mixture Models
-
 seleniumPipes R Client Implementing the W3C WebDriver Specification
-
 SELF A Structural Equation Embedded Likelihood Framework for Causal Discovery
-
 selfingTree Genotype Probabilities in Intermediate Generations of Inbreeding Through Selfing
-
 SelvarMix Regularization for Variable Selection in Model-Based Clustering and Discriminant Analysis
-
 sem Structural Equation Models
-
 semantic.dashboard Dashboard with Fomantic UI Support for Shiny
-
 Semblance A Data-Driven Similarity Kernel on Probability Spaces
-
 semdrw 'SEM Shiny'
-
 semds Structural Equation Multidimensional Scaling
-
 semEff Automatic Calculation of Effects for Piecewise Structural Equation Models
-
 semgram Extracting Semantic Motifs from Textual Data
-
 SEMgraph Network Analysis and Causal Inference Through Structural Equation Modeling
-
 semhelpinghands Helper Functions for Structural Equation Modeling
-
 semiArtificial Generator of Semi-Artificial Data
-
 semicmprskcoxmsm Use Inverse Probability Weighting to Estimate Treatment Effect for Semi Competing Risks Data
-
 SemiCompRisks Hierarchical Models for Parametric and Semi-Parametric Analyses of Semi-Competing Risks Data
-
 SEMID Identifiability of Linear Structural Equation Models
-
 SemiEstimate Solve Semi-Parametric Estimation by Implicit Profiling
-
 SemiMarkov Multi-States Semi-Markov Models
-
 seminr Building and Estimating Structural Equation Models
-
 SemiPar Semiparametic Regression
-
 semmcci Monte Carlo Confidence Intervals in Structural Equation Modeling
-
 semmcmc Bayesian Structural Equation Modeling in Multiple Omics Data Integration
-
 semnar Constructing and Interacting with Databases of Presentations
-
 SemNeT Methods and Measures for Semantic Network Analysis
-
 SemNetCleaner An Automated Cleaning Tool for Semantic and Linguistic Data
-
 SemNetDictionaries Dictionaries for the 'SemNetCleaner' Package
-
 semnova Latent Repeated Measures ANOVA
-
 semPlot Path Diagrams and Visual Analysis of Various SEM Packages' Output
-
 semPower Power Analyses for SEM
-
 semptools Customizing Structural Equation Modelling Plots
-
 SEMsens A Tool for Sensitivity Analysis in Structural Equation Modeling
-
 semsfa Semiparametric Estimation of Stochastic Frontier Models
-
 semTable Structural Equation Modeling Tables
-
 semTools Useful Tools for Structural Equation Modeling
-
 semtree Recursive Partitioning for Structural Equation Models
-
 semver 'Semantic Versioning V2.0.0' Parser
-
 semverutils Semantic Version Utilities
-
 sen2r Find, Download and Process Sentinel-2 Data
-
 sendgridr Mail Sender Using 'Sendgrid' Service
-
 sendigR Enable Cross-Study Analysis of 'CDISC' 'SEND' Datasets
-
 sendmailR Send Email using R
-
 sense Automatic Stacked Ensemble for Regression Tasks
-
 sensemakr Sensitivity Analysis Tools for Regression Models
-
 sensibo.sky Access to 'Sensibo Sky' API V2 for Air Conditioners Remote Control
-
 sensiPhy Sensitivity Analysis for Comparative Methods
-
 sensitivity Global Sensitivity Analysis of Model Outputs
-
 sensitivity2x2xk Sensitivity Analysis for 2x2xk Tables in Observational Studies
-
 sensitivityCalibration A Calibrated Sensitivity Analysis for Matched Observational Studies
-
 SensitivityCaseControl Sensitivity Analysis for Case-Control Studies
-
 sensitivityfull Sensitivity Analysis for Full Matching in Observational Studies
-
 sensitivitymult Sensitivity Analysis for Observational Studies with Multiple Outcomes
-
 sensitivitymv Sensitivity Analysis in Observational Studies
-
 sensitivitymw Sensitivity Analysis for Observational Studies Using Weighted M-Statistics
-
 SensMap Sensory and Consumer Data Mapping
-
 sensmediation Parametric Estimation and Sensitivity Analysis of Direct and Indirect Effects
-
 sensobol Computation of Variance-Based Sensitivity Indices
-
 SensoMineR Sensory Data Analysis
-
 sensory Simultaneous Model-Based Clustering and Imputation via a Progressive Expectation-Maximization Algorithm
-
 SenSrivastava Datasets from Sen & Srivastava
-
 senstrat Sensitivity Analysis for Stratified Observational Studies
-
 SensusR Sensus Analytics
-
 sentencepiece Text Tokenization using Byte Pair Encoding and Unigram Modelling
-
 sentiment.ai Simple Sentiment Analysis Using Deep Learning
-
 SentimentAnalysis Dictionary-Based Sentiment Analysis
-
 sentimentr Calculate Text Polarity Sentiment
-
 SenTinMixt Parsimonious Mixtures of MSEN and MTIN Distributions
-
 sentometrics An Integrated Framework for Textual Sentiment Time Series Aggregation and Prediction
-
 sentopics Tools for Joint Sentiment and Topic Analysis of Textual Data
-
 sentryR Send Errors and Messages to 'Sentry'
-
 SEofM Standard Error of Measurement
-
 sEparaTe Maximum Likelihood Estimation and Likelihood Ratio Test Functions for Separable Variance-Covariance Structures
-
 separationplot Separation Plots
-
 sepkoski Sepkoski's Fossil Marine Animal Genera Compendium
-
 SeqAlloc Sequential Allocation for Prospective Experiments
-
 seqCBS Copy Number Profiling using Sequencing and CBS
-
 seqDesign Simulation and Group Sequential Monitoring of Randomized Two-Stage Treatment Efficacy Trials with Time-to-Event Endpoints
-
 SeqDetect Sequence and Latent Process Detector
-
 seqest Sequential Method for Classification and Generalized Estimating Equations Problem
-
 SeqExpMatch Sequential Experimental Design via Matching on-the-Fly
-
 SeqFeatR A Tool to Associate FASTA Sequences and Features
-
 seqgendiff RNA-Seq Generation/Modification for Simulation
-
 seqhandbook Miscellaneous Tools for Sequence Analysis
-
 seqHMM Mixture Hidden Markov Models for Social Sequence Data and Other Multivariate, Multichannel Categorical Time Series
-
 seqICP Sequential Invariant Causal Prediction
-
 seqimpute Imputation of Missing Data in Sequence Analysis
-
 seqinr Biological Sequences Retrieval and Analysis
-
 SeqKat Detection of Kataegis
-
 SeqMADE Network Module-Based Model in the Differential Expression Analysis for RNA-Seq
-
 seqmagick Sequence Manipulation Utilities
-
 seqminer Efficiently Read Sequence Data (VCF Format, BCF Format, METAL Format and BGEN Format) into R
-
 seqmon Group Sequential Design Class for Clinical Trials
-
 SeqNet Generate RNA-Seq Data from Gene-Gene Association Networks
-
 seqtest Sequential Triangular Test
-
 sequences Generic and Biological Sequences
-
 SequenceSpikeSlab Exact Bayesian Model Selection Methods for the Sparse Normal Sequence Model
-
 Sequential Exact Sequential Analysis for Poisson and Binomial Data
-
 SequentialDesign Observational Database Study Planning using Exact Sequential Analysis for Poisson and Binomial Data
-
 sequenza Copy Number Estimation from Tumor Genome Sequencing Data
-
 sergeant Tools to Transform and Query Data with Apache Drill
-
 serial The Serial Interface Package
-
 seriation Infrastructure for Ordering Objects Using Seriation
-
 serieslcb Lower Confidence Bounds for Binomial Series System
-
 serp Smooth Effects on Response Penalty for CLM
-
 serpstatr 'Serpstat' API Wrapper
-
 serrsBayes Bayesian Modelling of Raman Spectroscopy
-
 servosphereR Analyze Data Generated from Syntech Servosphere Trials
-
 servr A Simple HTTP Server to Serve Static Files or Dynamic Documents
-
 sesem Spatially Explicit Structural Equation Modeling
-
 SEset Computing Statistically-Equivalent Path Models
-
 sessioninfo R Session Information
-
 set Set Operation
-
 SetMethods Functions for Set-Theoretic Multi-Method Research and Advanced QCA
-
 SetRank Advanced Gene Set Enrichment Analysis
-
 setRNG Set (Normal) Random Number Generator and Seed
-
 sets Sets, Generalized Sets, Customizable Sets and Intervals
-
 setter Mutators that Work with Pipes
-
 SetTest Group Testing Procedures for Signal Detection and Goodness-of-Fit
-
 settings Software Option Settings Manager for R
-
 Seurat Tools for Single Cell Genomics
-
 SeuratObject Data Structures for Single Cell Data
-
 sever Customise 'Shiny' Disconnected Screens and Error Messages
-
 sf Simple Features for R
-
 sfadv Advanced Methods for Stochastic Frontier Analysis
-
 sfaR Stochastic Frontier Analysis using R
-
 sfarrow Read/Write Simple Feature Objects ('sf') with 'Apache' 'Arrow'
-
 sfc Substance Flow Computation
-
 sfcr Simulate Stock-Flow Consistent Models
-
 sfdct Constrained Triangulation for Simple Features
-
 sFFLHD Sequential Full Factorial-Based Latin Hypercube Design
-
 sfheaders Converts Between R Objects and Simple Feature Objects
-
 sfhotspot Hot-Spot Analysis with Simple Features
-
 sfinx Straightforward Filtering Index for AP-MS Data Analysis (SFINX)
-
 sfnetworks Tidy Geospatial Networks
-
 sfo San Francisco International Airport Monthly Air Passengers
-
 SFS Similarity-First Search Seriation Algorithm
-
 SFSI Sparse Family and Selection Index
-
 sfsmisc Utilities from 'Seminar fuer Statistik' ETH Zurich
-
 sft Functions for Systems Factorial Technology Analysis of Data
-
 sftime Classes and Methods for Simple Feature Objects that Have a Time Column
-
 SFtools Space Filling Based Tools for Data Mining
-
 sftrack Modern Classes for Tracking and Movement Data
-
 sgat Extract Information from Google's "Popular Times"
-
 SGB Simplicial Generalized Beta Regression
-
 sGBJ Survival Extension of the Generalized Berk-Jones Test
-
 sgd Stochastic Gradient Descent for Scalable Estimation
-
 sgee Stagewise Generalized Estimating Equations
-
 sgeostat An Object-Oriented Framework for Geostatistical Modeling in S+
-
 SGL Fit a GLM (or Cox Model) with a Combination of Lasso and Group Lasso Regularization
-
 sglasso Lasso Method for RCON(V,E) Models
-
 sglg Fitting Semi-Parametric Generalized log-Gamma Regression Models
-
 sglOptim Generic Sparse Group Lasso Solver
-
 sglr Sequential Generalized Likelihood Ratio Decision Boundaries Proposed by Shih, Lai, Heyse and Chen (2010, )
-
 sgmcmc Stochastic Gradient Markov Chain Monte Carlo
-
 sgmodel Solves a Generic Stochastic Growth Model with a Representative Agent
-
 sGMRFmix Sparse Gaussian Markov Random Field Mixtures for Anomaly Detection
-
 sgo Simple Geographical Operations (with OSGB36)
-
 sgof Multiple Hypothesis Testing
-
 sgolay Efficient Savitzky-Golay Filtering
-
 SGP Student Growth Percentiles & Percentile Growth Trajectories
-
 SGPdata Exemplar Data Sets for Student Growth Percentiles (SGP) Analyses
-
 sgPLS Sparse Group Partial Least Square Methods
-
 sgpv Calculate Second-Generation p-Values and Associated Measures
-
 sgr Sample Generation by Replacement
-
 sgsR Structurally Guided Sampling
-
 sgstar Seasonal Generalized Space Time Autoregressive (S-GSTAR) Model
-
 sgt Skewed Generalized T Distribution Tree
-
 shades Simple Colour Manipulation
-
 shadow Geometric Shadow Calculations
-
 shadowr Selenium Plugin to Manage Multi Level Shadow Elements on Web Page
-
 shadowtext Shadow Text Grob and Layer
-
 shallot Random Partition Distribution Indexed by Pairwise Information
-
 shape Functions for Plotting Graphical Shapes, Colors
-
 ShapeChange Change-Point Estimation using Shape-Restricted Splines
-
 shapefiles Read and Write ESRI Shapefiles
-
 shapeNA M-Estimation of Shape for Data with Missing Values
-
 ShapePattern Tools for Analyzing Shapes and Patterns
-
 shapeR Collection and Analysis of Otolith Shape Data
-
 ShapeRotator Standardised Rigid Rotations of Articulated Three-Dimensional Structures
-
 shapes Statistical Shape Analysis
-
 ShapeSelectForest Shape Selection for Landsat Time Series of Forest Dynamics
-
 SHAPforxgboost SHAP Plots for 'XGBoost'
-
 ShapleyOutlier Multivariate Outlier Explanations using Shapley Values and Mahalanobis Distances
-
 ShapleyValue Shapley Value Regression for Relative Importance of Attributes
-
 shapper Wrapper of Python Library 'shap'
-
 shapr Prediction Explanation with Dependence-Aware Shapley Values
-
 shapviz SHAP Visualizations
-
 shar Species-Habitat Associations
-
 sharp Stability-enHanced Approaches using Resampling Procedures
-
 sharpData Data Sharpening
-
 SharpeR Statistical Significance of the Sharpe Ratio
-
 sharpeRratio Moment-Free Estimation of Sharpe Ratios
-
 sharpPen Penalized Data Sharpening for Local Polynomial Regression
-
 sharpr2 Estimating Regulatory Scores and Identifying ATAC-STARR Data
-
 sharpshootR A Soil Survey Toolkit
-
 sharx Models and Data Sets for the Study of Species-Area Relationships
-
 shattering Estimate the Shattering Coefficient for a Particular Dataset
-
 shazam Immunoglobulin Somatic Hypermutation Analysis
-
 SheetReader Parse xlsx Files
-
 SHELF Tools to Support the Sheffield Elicitation Framework
-
 ShellChron Builds Chronologies from Oxygen Isotope Profiles in Shells
-
-shelltrace Bivalve Growth and Trace Element Accumulation Model
-
+shelltrace Bivalve Growth and Trace Element Accumulation Mode
 sherlock Graphical Displays to Aid Structured Problem Solving and Diagnosis
-
 shidashi A Shiny Dashboard Template System
-
 ShiftConvolvePoibin Exactly Computing the Tail of the Poisson-Binomial Distribution
-
 shiftR Fast Enrichment Analysis via Circular Permutations
-
 ShiftShareSE Inference in Regressions with Shift-Share Structure
-
 shinipsum Lorem-Ipsum Helper Function for 'shiny' Prototyping
-
 shiny Web Application Framework for R
-
 shiny.i18n Shiny Applications Internationalization
-
 shiny.info 'shiny' Info
-
 shiny.pwa Progressive Web App Support for Shiny
-
 shiny.react Tools for Using React in Shiny
-
 shiny.reglog Optional Login and Registration Module System for ShinyApps
-
 shiny.router Basic Routing for Shiny Web Applications
-
 shiny.semantic Semantic UI Support for Shiny
-
 shiny.tailwind 'TailwindCSS' for Shiny Apps
-
 shiny.worker Delegate Jobs for Shiny Web Applications
-
 shinyAce Ace Editor Bindings for Shiny
-
 shinyaframe 'WebVR' Data Visualizations with 'RStudio Shiny' and 'Mozilla A-Frame'
-
 shinyalert Easily Create Pretty Popup Messages (Modals) in 'Shiny'
-
 shinyanimate Animation for 'shiny' Elements
-
 shinyauthr 'Shiny' Authentication Modules
-
 shinybrms Graphical User Interface ('shiny' App) for 'brms'
-
 shinybrowser Find Out Information About a User's Web Browser in 'Shiny'
-
 shinyBS Twitter Bootstrap Components for Shiny
-
 shinybusy Busy Indicators and Notifications for 'Shiny' Applications
-
 shinyChakraSlider Combined Slider and Numeric Input for 'Shiny'
-
 shinyChakraUI A Wrapper of the 'React' Library 'Chakra UI' for 'Shiny'
-
 shinyCohortBuilder Modular Cohort-Building Framework for Analytical Dashboards
-
 shinycssloaders Add Loading Animations to a 'shiny' Output While It's Recalculating
-
 shinycustomloader Custom Loader for Shiny Outputs
-
 shinyCyJS Create Interactive Network Visualizations in R and 'shiny'
-
 shinydashboard Create Dashboards with 'Shiny'
-
 shinydashboardPlus Add More 'AdminLTE2' Components to 'shinydashboard'
-
 shinydisconnect Show a Nice Message When a 'Shiny' App Disconnects or Errors
-
 shinydlplot Add a Download Button to a 'shiny' Plot or 'plotly'
-
 shinyDND Shiny Drag-n-Drop
-
 shinydrive File Sharing Shiny Module
-
 shinyEffects Customize Your Web Apps with Fancy Effects
-
 shinyFeedback Display User Feedback in Shiny Apps
-
 shinyFiles A Server-Side File System Viewer for Shiny
-
 shinyfilter Use Interdependent Filters on Table Columns in Shiny Apps
-
 shinyfullscreen Display 'HTML' Elements on Full Screen in 'Shiny' Apps
-
 shinyGizmo Custom Components for Shiny Applications
-
 shinyglide Glide Component for Shiny Applications
-
 shinyGovstyle Custom Gov Style Inputs for Shiny
-
 shinyHeatmaply Deploy 'heatmaply' using 'shiny'
-
 shinyhelper Easily Add Markdown Help Files to 'shiny' App Elements
-
 shinyhttr Progress Bars for Downloads in 'shiny' Apps
-
 shinyHugePlot Efficient Plotting of Large-Sized Data
-
 shinyIRT Item Response Theory Analysis with a 'shiny' Application
-
 ShinyItemAnalysis Test and Item Analysis via Shiny
-
 shinyjqui 'jQuery UI' Interactions and Effects for Shiny
-
 shinyjs Easily Improve the User Experience of Your Shiny Apps in Seconds
-
 shinyKGode An Interactive Application for ODE Parameter Inference Using Gradient Matching
-
 shinyKnobs A Collection of Knob Inputs for 'shiny'
-
 shinylight Web Interface to 'R' Functions
-
 shinyloadtest Load Test Shiny Applications
-
 shinylogs Record Everything that Happens in a 'Shiny' Application
-
 shinyLP Bootstrap Landing Home Pages for Shiny Applications
-
 shinymanager Authentication Management for 'Shiny' Applications
-
 shinymaterial Implement Material Design in Shiny Applications
-
 shinyMatrix Shiny Matrix Input Field
-
 shinyMergely Compare and Merge Two Files with a 'Shiny' App
-
 shinymeta Export Domain Logic from Shiny using Meta-Programming
-
 shinyML Compare Supervised Machine Learning Models Using Shiny App
-
 shinyMobile Mobile Ready 'shiny' Apps with Standalone Capabilities
-
 shinymodels Interactive Assessments of Models
-
 shinyMolBio Molecular Biology Visualization Tools for 'Shiny' Apps
-
 shinyMonacoEditor The 'Monaco' Editor in 'Shiny'
-
 shinyNORRRM The Ultimate Igneous Norm
-
 shinyNotes Shiny Module for Taking Free-Form Notes
-
 shinyobjects Access Reactive Data Interactively
-
 shinypanel Shiny Control Panel
-
 shinypanels Shiny Layout with Collapsible Panels
-
 shinypivottabler Shiny Module to Create Pivot Tables
-
 shinyPredict Predictions using Shiny
-
 ShinyQuickStarter 'RStudio' Addin for Building Shiny Apps per Drag & Drop
-
 shinyr Data Insights Through Inbuilt R Shiny App
-
 shinyRadioMatrix Create a Matrix with Radio Buttons
-
 shinyrecipes Gadget to Use the Data Preprocessing 'recipes' Package Interactively
-
 shinyreforms Add Forms to your 'Shiny' App
-
 shinyRGL Shiny Wrappers for RGL
-
 shinyscreenshot Capture Screenshots of Entire Pages or Parts of Pages in 'Shiny'
-
 shinySearchbar Shiny Searchbar - An Input Widget for Highlighting Text and More
-
 shinySelect A Wrapper of the 'react-select' Library
-
 shinyservicebot Servicebot 'Shiny' Integration
-
 shinyShortcut Creates an Executable Shortcut for Shiny Applications
-
 shinySIR Interactive Plotting for Mathematical Models of Infectious Disease Spread
-
 shinystan Interactive Visual and Numerical Diagnostics and Posterior Analysis for Bayesian Models
-
 shinyStorePlus Secure in-Browser Storage for 'Shiny' Inputs and Variables
-
 shinysurveys Create and Deploy Surveys in 'Shiny'
-
 shinyTempSignal Explore Temporal Signal of Molecular Phylogenies
-
 shinytest Test Shiny Apps
-
 shinytest2 Testing for Shiny Applications
-
 ShinyTester Functions to Minimize Bonehead Moves While Working with 'shiny'
-
 shinythemes Themes for Shiny
-
 shinyTime A Time Input Widget for Shiny
-
 shinytitle Update Browser Window Title in 'shiny' Session
-
 shinyToastify Pretty Notifications for 'Shiny'
-
 shinytoastr Notifications from 'Shiny'
-
 shinyTree jsTree Bindings for Shiny
-
 shinyvalidate Input Validation for Shiny Apps
-
 shinyWidgets Custom Inputs Widgets for Shiny
-
 shinyXYpad XY Controller for 'Shiny'
-
 shipunov Miscellaneous Functions from Alexey Shipunov
-
 shock Slope Heuristic for Block-Diagonal Covariance Selection in High Dimensional Gaussian Graphical Models
-
 shopifyadsR Get 'Shopify' Ads Data via the 'Windsor.ai' API
-
 shopifyr An R Interface to the Shopify API
-
 shortcuts Useful Shortcuts to Interact with 'RStudio' Scripts
-
 ShortForm Automatic Short Form Creation
-
 shorts Short Sprints
-
 shotGroups Analyze Shot Group Data
-
 showimage Show an Image on an 'R' Graphics Device
-
 showtext Using Fonts More Easily in R Graphs
-
 showtextdb Font Files for the 'showtext' Package
-
 shp2graph Convert a SpatialLinesDataFrame Object to an 'igraph'-Class Object
-
 shrink Global, Parameterwise and Joint Shrinkage Factor Estimation
-
 ShrinkCovMat Shrinkage Covariance Matrix Estimators
-
 shrinkDSM Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage
-
 shrinkTVP Efficient Bayesian Inference for Time-Varying Parameter Models with Shrinkage
-
 shroomDK Accessing the Flipside Crypto ShroomDK REST API
-
 SHT Statistical Hypothesis Testing Toolbox
-
 shuffle The Shuffle Estimator for Explainable Variance
-
 shuffleCI Confidence Intervals Compared via Shuffling
-
 shutterplot The R Shutter Plot Package
-
 SI Stochastic Integrating
-
 SIBER Stable Isotope Bayesian Ellipses in R
-
 SIBERG Systematic Identification of Bimodally Expressed Genes Using RNAseq Data
-
 sicegar Analysis of Single-Cell Viral Growth Curves
-
 siconfir Quick and Easy Access Tax and Accounting Data of Brazil
-
 siconvr Fetch Data from Plataforma +Brasil (SICONV)
-
 SIDES Subgroup Identification Based on Differential Effect Search
-
 sidier Substitution and Indel Distances to Infer Evolutionary Relationships
-
 sidrar An Interface to IBGE's SIDRA API
-
 siebanxicor Query Data Series from Bank of Mexico
-
 SiER Signal Extraction Approach for Sparse Multivariate Response Regression
-
 Sieve Nonparametric Estimation by the Method of Sieves
-
 sievePH Sieve Analysis Methods for Proportional Hazards Models
-
 sievetest Laboratory Sieve Test Reporting Functions
-
 SIfEK Statistical Inference for Enzyme Kinetics
-
 sift Intelligently Peruse Data
-
 sig Print Function Signatures
-
 sigclust Statistical Significance of Clustering
-
 SightabilityModel Wildlife Sightability Modeling
-
 sigInt Estimate the Parameters of a Discrete Crisis-Bargaining Game
-
 sigmajs Interface to 'Sigma.js' Graph Visualization Library
-
 sigminer Extract, Analyze and Visualize Mutational Signatures for Genomic Variations
-
 sigmoid Sigmoid Functions for Machine Learning
-
 SIGN Similarity Identification in Gene Expression
-
 Signac Analysis of Single-Cell Chromatin Data
-
 SignacX Cell Type Identification and Discovery from Single Cell Gene Expression Data
-
 signal Signal Processing
-
 signalHsmm Predict Presence of Signal Peptides
-
 signed.backbones Extract the Signed Backbones of Weighted Networks
-
 signibox Statistical Significance Marks on Boxplots
-
 SignifReg Consistent Significance Controlled Variable Selection in Generalized Linear Regression
-
 signnet Methods to Analyse Signed Networks
-
 signs Insert Proper Minus Signs
-
 SigOptR R API Wrapper for SigOpt
-
 sigora Signature Overrepresentation Analysis
-
 sigr Succinct and Correct Statistical Summaries for Reports
-
 SigTree Identify and Visualize Significantly Responsive Branches in a Phylogenetic Tree
-
 SIHR Statistical Inference in High Dimensional Regression
-
 siie Superior Identification Index and Its Extensions
-
 siland Spatial Influence of Landscape
-
 SILGGM Statistical Inference of Large-Scale Gaussian Graphical Model in Gene Networks
-
 silicate Common Forms for Complex Hierarchical and Relational Data Structures
-
 SILM Simultaneous Inference for Linear Models
-
 Sim.DiffProc Simulation of Diffusion Processes
-
 Sim.PLFN Simulation of Piecewise Linear Fuzzy Numbers
-
 sim1000G Genotype Simulations for Rare or Common Variants Using Haplotypes from 1000 Genomes
-
 sim2Dpredictr Simulate Outcomes Using Spatially Dependent Design Matrices
-
 SimBIID Simulation-Based Inference Methods for Infectious Disease Models
-
 simboot Simultaneous Inference for Diversity Indices
-
 simcausal Simulating Longitudinal Data with Causal Inference Applications
-
 simcdm Simulate Cognitive Diagnostic Model ('CDM') Data
-
 SimComp Simultaneous Comparisons for Multiple Endpoints
-
 SimCop Simulate from Arbitrary Copulae
-
 SimCorMultRes Simulates Correlated Multinomial Responses
-
 SimCorrMix Simulation of Correlated Data with Multiple Variable Types Including Continuous and Count Mixture Distributions
-
 simcross Simulate Experimental Crosses
-
 simctest Safe Implementation of Monte Carlo Tests
-
 SimDesign Structure for Organizing Monte Carlo Simulation Designs
-
 SimDissolution Modeling and Assessing Similarity of Drug Dissolutions Profiles
-
 simdistr Assessment of Data Trial Distributions According to the Carlisle-Stouffer Method
-
 simDNAmixtures Simulate Forensic DNA Mixtures
-
 simecol Simulation of Ecological (and Other) Dynamic Systems
-
 simEd Simulation Education
-
 SimEngine A Modular Framework for Statistical Simulations in R
-
 simer Data Simulation for Life Science and Breeding
-
 simest Constrained Single Index Model Estimation
-
 simET Evapotranspiration Simulation and Soil Water Balance under Field
-
 SimEUCartelLaw Simulation of Legal Exemption System for European Cartel Law
-
 simex SIMEX- And MCSIMEX-Algorithm for Measurement Error Models
-
 simexaft simexaft
-
 simExam Generate Simulated Data for IRT-Enabled Exams
-
 SIMEXBoost Boosting Method for High-Dimensional Error-Prone Data
-
 simfam Simulate and Model Family Pedigrees with Structured Founders
-
 simfinapi Accessing 'SimFin' Data
-
 simfit Test Model Fit with Simulation
-
 simFrame Simulation Framework
-
 simglm Simulate Models Based on the Generalized Linear Model
-
 simgof Simultaneous Goodness-of-Fits Tests
-
 SimHaz Simulated Survival and Hazard Analysis for Time-Dependent Exposure
-
 simhelpers Helper Functions for Simulation Studies
-
 SIMICO Set-Based Inference for Multiple Interval-Censored Outcomes
-
 SimilaR R Source Code Similarity Evaluation
-
 SimilarityMeasures Trajectory Similarity Measures
-
 Simile Interact with Simile Models
-
 SimInf A Framework for Data-Driven Stochastic Disease Spread Simulations
-
 simIReff Stochastic Simulation for Information Retrieval Evaluation: Effectiveness Scores
-
 simITS Analysis via Simulation of Interrupted Time Series (ITS) Data
-
 SimJoint Simulate Joint Distribution
-
 simlandr Simulation-Based Landscape Construction for Dynamical Systems
-
 simmer Discrete-Event Simulation for R
-
 simmer.bricks Helper Methods for 'simmer' Trajectories
-
 simmer.plot Plotting Methods for 'simmer'
-
 simMetric Metrics (with Uncertainty) for Simulation Studies that Evaluate Statistical Methods
-
 simml Single-Index Models with Multiple-Links
-
 simMP Simulate Somatic Mutations in Cancer Genomes from Mutational Processes
-
 simmr A Stable Isotope Mixing Model
-
 SIMMS Subnetwork Integration for Multi-Modal Signatures
-
 simMSM Simulation of Event Histories for Multi-State Models
-
 SimMultiCorrData Simulation of Correlated Data with Multiple Variable Types
-
 simode Statistical Inference for Systems of Ordinary Differential Equations using Separable Integral-Matching
-
 simodels Flexible Framework for Developing Spatial Interaction Models
-
 simPATHy A Method for Simulating Data from Perturbed Biological Pathways
-
 simPH Simulate and Plot Estimates from Cox Proportional Hazards Models
-
 SimPhe Tools to Simulate Phenotype(s) with Epistatic Interaction
-
 simphony Simulating Large-Scale, Rhythmic Data
-
 SIMPLE.REGRESSION Multiple Regression and Moderated Regression Made Simple
-
 simpleboot Simple Bootstrap Routines
-
 simpleCache Simply Caching R Objects
-
 simplecolors Access Color Names Using a Standardized Nomenclature
-
 simpleFDR Simple False Discovery Rate Calculation
-
 simplegraph Simple Graph Data Types and Basic Algorithms
-
 simplegraphdb A Simple Graph Database
-
 simpleMH Simple Metropolis-Hastings MCMC Algorithm
-
 simpleMLP Simple Multilayer Perceptron Neural Network
-
 simpleNeural An Easy to Use Multilayer Perceptron
-
 simplePHENOTYPES Simulation of Pleiotropic, Linked and Epistatic Phenotypes
-
 simpleRCache Simple R Cache
-
 simplermarkdown Simple Engine for Generating Reports using R
-
 simpleSetup Set Up R Source Code Files for Use on Multiple Machines
-
 simplevis Wrappers to Simplify Beautiful 'ggplot2' and 'leaflet' Visualisation
-
 simplexreg Regression Analysis of Proportional Data Using Simplex Distribution
-
 simplextree Provides Tools for Working with General Simplicial Complexes
-
 SimplicialCubature Integration of Functions Over Simplices
-
 simplifyNet Network Sparsification
-
 SimplifyStats Simplifies Pairwise Statistical Analyses
-
 SimplyAgree Flexible and Robust Agreement and Reliability Analyses
-
 simPop Simulation of Complex Synthetic Data Information
-
 simpr Flexible 'Tidyverse'-Friendly Simulations
-
 simputation Simple Imputation
-
 simr Power Analysis for Generalised Linear Mixed Models by Simulation
-
 SimRAD Simulations to Predict the Number of RAD and GBS Loci
-
 simrec Simulation of Recurrent Event Data for Non-Constant Baseline Hazard
-
 SimReg Similarity Regression
-
 simrel Simulation of Multivariate Linear Model Data
-
 SiMRiv Simulating Multistate Movements in River/Heterogeneous Landscapes
-
 SimRVPedigree Simulate Pedigrees Ascertained for a Rare Disease
-
 sims Simulate Data from R or 'JAGS' Code
-
 simsalapar Tools for Simulation Studies in Parallel
-
 SimSCRPiecewise 'Simulates Univariate and Semi-Competing Risks Data Given Covariates and Piecewise Exponential Baseline Hazards'
-
 simsem SIMulated Structural Equation Modeling
-
 SimSeq Nonparametric Simulation of RNA-Seq Data
-
 simsl Single-Index Models with a Surface-Link
-
 simstandard Generate Standardized Data
-
 simstudy Simulation of Study Data
-
 simsurv Simulate Survival Data
-
 SimSurvey Test Surveys by Simulating Spatially-Correlated Populations
-
 SimSurvNMarker Simulate Survival Time and Markers
-
 simTargetCov Data Transformation or Simulation with Empirical Covariance Matrix
-
 simtimer Datetimes as Integers for Discrete-Event Simulations
-
 SimTimeVar Simulate Longitudinal Dataset with Time-Varying Correlated Covariates
-
 simTool Conduct Simulation Studies with a Minimal Amount of Source Code
-
 simtrait Simulate Complex Traits from Genotypes
-
 simts Time Series Analysis Tools
-
 simuclustfactor Simultaneous Clustering and Factorial Decomposition of Three-Way Datasets
-
 simukde Simulation with Kernel Density Estimation
-
 simulariatools Simularia Tools for the Analysis of Air Pollution Data
-
 simule A Constrained L1 Minimization Approach for Estimating Multiple Sparse Gaussian or Nonparanormal Graphical Models
-
 SimVitD Simulation Tools for Planning Vitamin D Studies
-
 sinaplot An Enhanced Chart for Simple and Truthful Representation of Single Observations over Multiple Classes
-
 sinar Conditional Least Squared (CLS) Method for the Model SINAR(1,1)
-
 sindyr Sparse Identification of Nonlinear Dynamics
-
 sinew Package Development Documentation and Namespace Management
-
 singcar Comparing Single Cases to Small Samples
-
 SingleCaseES A Calculator for Single-Case Effect Sizes
-
 singleCellHaystack Finding Needles (=differentially Expressed Genes) in Haystacks (=single Cell Data)
-
 singR Simultaneous Non-Gaussian Component Analysis
-
 sinib Sum of Independent Non-Identical Binomial Random Variables
-
 SinIW The SinIW Distribution
-
 SIPDIBGE Collection of Household Survey Packages Conducted by IBGE
-
 SiPhyNetwork A Phylogenetic Simulator for Reticulate Evolution
-
 siplab Spatial Individual-Plant Modelling
-
 siqr An R Package for Single-Index Quantile Regression
-
 sirad Functions for Calculating Daily Solar Radiation and Evapotranspiration
-
 SIRE Finding Feedback Effects in SEM and Testing for Their Significance
-
 siren Hybrid FA-CFA for Controlling Acquiescence in Restricted Factorial Solutions
-
 SIRmcmc Compartmental Susceptible-Infectious-Recovered (SIR) Model of Community and Household Infection
-
 sirt Supplementary Item Response Theory Models
-
 SIRthresholded Sliced Inverse Regression with Thresholding
-
 sirus Stable and Interpretable RUle Set
-
 SIS Sure Independence Screening
-
 sisal Sequential Input Selection Algorithm
-
 SISIR Select Intervals Suited for Functional Regression
-
 sisireg Sign-Simplicity-Regression-Solver
-
 sistec Tools to Analyze 'Sistec' Datasets
-
 sistmr A Collection of Utility Function from the Inserm/Inria SISTM Team
-
 sisVIVE Some Invalid Some Valid Instrumental Variables Estimator
-
 sitar Super Imposition by Translation and Rotation Growth Curve Analysis
-
 SiteAdapt Site Adaptation of Solar Irradiance Modeled Series
-
 SitesInterest Inferring an Animal's Sites of Interest from High Resolution Data
-
 siteymlgen Automatically Generate _site.yml File for 'R Markdown'
-
 SITH A Spatial Model of Intra-Tumor Heterogeneity
-
 sitmo Parallel Pseudo Random Number Generator (PPRNG) 'sitmo' Header Files
-
 sitools Format a number to a string with SI prefix
-
 sitree Single Tree Simulator
-
 sitreeE Sitree Extensions
-
 sits Satellite Image Time Series Analysis for Earth Observation Data Cubes
-
 sivs Stable Iterative Variable Selection
-
 SixSigma Six Sigma Tools for Quality Control and Improvement
-
 SizeEstimation Estimating the Sizes of Populations at Risk of HIV Infection from Multiple Data Sources Using a Bayesian Hierarchical Model
-
 sizeMat Estimate Size at Sexual Maturity
-
 SiZer Significant Zero Crossings
-
 sjdbc JDBC Driver Interface
-
 sjlabelled Labelled Data Utility Functions
-
 sjmisc Data and Variable Transformation Functions
-
 sjPlot Data Visualization for Statistics in Social Science
-
 sjSDM Scalable Joint Species Distribution Modeling
-
 sjstats Collection of Convenient Functions for Common Statistical Computations
-
 sjtable2df Convert 'sjPlot' HTML-Tables to R 'data.frame'
-
 SKAT SNP-Set (Sequence) Kernel Association Test
-
 skater Utilities for SNP-Based Kinship Analysis
-
 skedastic Handling Heteroskedasticity in the Linear Regression Model
-
 skeletor An R Package Skeleton Generator
-
 skellam Densities and Sampling for the Skellam Distribution
-
 sketch Interactive Sketches
-
 sketcher Pencil Sketch Effect
-
 sketching Sketching of Data via Random Subspace Embeddings
-
 sketchy Create Custom Research Compendiums
-
 SkeweDF Optimization of Skewed Distributions with Birth-Death Processes
-
 SkewHyperbolic The Skew Hyperbolic Student t-Distribution
-
 skewlmm Scale Mixture of Skew-Normal Linear Mixed Models
-
 skewMLRM Estimation for Scale-Shape Mixtures of Skew-Normal Distributions
-
 skewsamp Estimate Sample Sizes for Group Comparisons with Skewed Distributions
-
 skewt The Skewed Student-t Distribution
-
 Skillings.Mack The Skillings-Mack Test Statistic for Block Designs with Missing Observations
-
 skilljaR Connect to Your 'Skilljar' Data with R
-
 skimr Compact and Flexible Summaries of Data
-
 sklarsomega Measuring Agreement Using Sklar's Omega Coefficient
-
 skm Selective k-Means
-
 skmeans Spherical k-Means Clustering
-
 sknifedatar Swiss Knife of Data
-
 SKNN A Super K-Nearest Neighbor (SKNN) Classification Algorithm
-
 skpr Design of Experiments Suite: Generate and Evaluate Optimal Designs
-
 Sky Canopy Openness Analyzer Package
-
 skylight A Simple Sky Illuminance Model
-
 skynet Generates Networks from BTS Data
-
 skyscapeR Data Analysis and Visualization for Skyscape Archaeology
-
 slackr Send Messages, Images, R Objects and Files to 'Slack' Channels/Users
-
 slam Sparse Lightweight Arrays and Matrices
-
 slanter Slanted Matrices and Ordered Clustering
-
 SlaPMEG Pathway Testing for Longitudinal Omics
-
 slasso S-LASSO Estimator for the Function-on-Function Linear Regression
-
 SLBDD Statistical Learning for Big Dependent Data
-
 sld Estimation and Use of the Quantile-Based Skew Logistic Distribution
-
 SLDAssay Software for Analyzing Limiting Dilution Assays
-
 sleekts 4253H, Twice Smoothing
-
 SleepCycles Sleep Cycle Detection
-
 sleeperapi Wrapper Functions Around 'Sleeper' (Fantasy Sports) API
-
 sleepr Analyse Activity and Sleep Behaviour
-
 sleepwalk Interactively Explore Dimension-Reduced Embeddings
-
 sleev Semiparametric Likelihood Estimation with Errors in Variables
-
 SLEMI Statistical Learning Based Estimation of Mutual Information
-
 slendr A Simulation Framework for Spatiotemporal Population Genetics
-
 Sleuth2 Data Sets from Ramsey and Schafer's "Statistical Sleuth (2nd Ed)"
-
 Sleuth3 Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd Ed)"
-
 slfm Fitting a Bayesian Sparse Latent Factor Model in Gene Expression Analysis
-
 SLFPCA Sparse Logistic Functional Principal Component Analysis
-
 slgf Bayesian Model Selection with Suspected Latent Grouping Factors
-
 SLHD Maximin-Distance (Sliced) Latin Hypercube Designs
-
 slickR Create Interactive Carousels with the 'JavaScript' 'Slick' Library
-
 SLIDE Single Cell Linkage by Distance Estimation is SLIDE
-
 slider Sliding Window Functions
-
 slideview Compare Raster Images Side by Side with a Slider
-
 SlidingWindows Methods for Time Series Analysis
-
 slim Singular Linear Models for Longitudinal Data
-
 slimrec Sparse Linear Method to Predict Ratings and Top-N Recommendations
-
 slippymath Slippy Map Tile Tools
-
 slm Stationary Linear Models
-
 SLModels Stepwise Linear Models for Binary Classification Problems under Youden Index Optimisation
-
 sloop Helpers for 'OOP' in R
-
 SLOPE Sorted L1 Penalized Estimation
-
 slopeOP Change-in-Slope OP Algorithm with a Finite Number of States
-
 slouch Stochastic Linear Ornstein-Uhlenbeck Comparative Hypotheses
-
 slowraker A Slow Version of the Rapid Automatic Keyword Extraction (RAKE) Algorithm
-
 slp Discrete Prolate Spheroidal (Slepian) Sequence Regression Smoothers
-
 SLTCA Scalable and Robust Latent Trajectory Class Analysis
-
 slurmR A Lightweight Wrapper for 'Slurm'
-
 sm Smoothing Methods for Nonparametric Regression and Density Estimation
-
 smaa Stochastic Multi-Criteria Acceptability Analysis
-
 smacof Multidimensional Scaling
-
 smacpod Statistical Methods for the Analysis of Case-Control Point Data
-
 smallarea Fits a Fay Herriot Model
-
 SmallCountRounding Small Count Rounding of Tabular Data
-
 smallstuff Dr. Small's Functions
-
 smam Statistical Modeling of Animal Movements
-
 smapr Acquisition and Processing of NASA Soil Moisture Active-Passive (SMAP) Data
-
 SMARTAR Sequential Multiple Assignment Randomized Trial and Adaptive Randomization
-
 SMARTbayesR Bayesian Set of Best Dynamic Treatment Regimes and Sample Size in SMARTs for Binary Outcomes
-
 smartDesign Sequential Multiple Assignment Randomized Trial Design
-
 SmartEDA Summarize and Explore the Data
-
 SmarterPoland Tools for Accessing Various Datasets Developed by the Foundation SmarterPoland.pl
-
 smartmap Smartly Create Maps from R Objects
-
 SmartMeterAnalytics Methods for Smart Meter Data Analysis
-
 SMARTp Sample Size for SMART Designs in Non-Surgical Periodontal Trials
-
 smartsizer Power Analysis for a SMART Design
-
 smartsnp Fast Multivariate Analyses of Big Genomic Data
-
 SmartSVA Fast and Robust Surrogate Variable Analysis
-
 smatr (Standardised) Major Axis Estimation and Testing Routines
-
 smbinning Scoring Modeling and Optimal Binning
-
 SmCCNet Sparse Multiple Canonical Correlation Network Analysis Tool
-
 smcfcs Multiple Imputation of Covariates by Substantive Model Compatible Fully Conditional Specification
-
 SMCRM Data Sets for Statistical Methods in Customer Relationship Management by Kumar and Petersen (2012)
-
 smcure Fit Semiparametric Mixture Cure Models
-
 smd Compute Standardized Mean Differences
-
 smdata Data to Accompany Smithson & Merkle, 2013
-
 SMDIC Identification of Somatic Mutation-Driven Immune Cells
-
 smerc Statistical Methods for Regional Counts
-
 SMFilter Filtering Algorithms for the State Space Models on the Stiefel Manifold
-
 smfishHmrf Hidden Markov Random Field for Spatial Transcriptomic Data
-
 smfsb Stochastic Modelling for Systems Biology
-
 smicd Statistical Methods for Interval-Censored Data
-
 smidm Statistical Modelling for Infectious Disease Management
-
 smile Spatial Misalignment: Interpolation, Linkage, and Estimation
-
 smirnov Provides two taxonomic coefficients from E. S. Smirnov "Taxonomic analysis" (1969) book
-
 SMITIDstruct Data Structure and Manipulations Tool for Host and Viral Population
-
 SMITIDvisu Visualize Data for Host and Viral Population from 'SMITIDstruct' using 'HTMLwidgets'
-
 SMLE Joint Feature Screening via Sparse MLE
-
 smlmkalman Generation and Tracking of Super-Resolution Filamentous Datasets
-
 SMLoutliers Outlier Detection Using Statistical and Machine Learning Methods
-
 SMM Simulation and Estimation of Multi-State Discrete-Time Semi-Markov and Markov Models
-
 SMMA Soft Maximin Estimation for Large Scale Array-Tensor Models
-
 SMME Soft Maximin Estimation for Large Scale Heterogeneous Data
-
 smmR Simulation, Estimation and Reliability of Semi-Markov Models
-
 SMMT The Swiss Municipal Data Merger Tool Maps Municipalities Over Time
-
 SMNCensReg Fitting Univariate Censored Regression Model Under the Family of Scale Mixture of Normal Distributions
-
 smnet Smoothing for Stream Network Data
-
 smog Structural Modeling by using Overlapped Group Penalty
-
 smoke Small Molecule Octet/BLI Kinetics Experiment
-
 smoof Single and Multi-Objective Optimization Test Functions
-
 smooth Forecasting Using State Space Models
-
 smoothAPC Smoothing of Two-Dimensional Demographic Data, Optionally Taking into Account Period and Cohort Effects
-
 smoothedLasso A Framework to Smooth L1 Penalized Regression Operators using Nesterov Smoothing
-
 smoother Functions Relating to the Smoothing of Numerical Data
-
 SmoothHazard Estimation of Smooth Hazard Models for Interval-Censored Data with Applications to Survival and Illness-Death Models
-
 smoothHR Smooth Hazard Ratio Curves Taking a Reference Value
-
 smoothic Variable Selection Using a Smooth Information Criterion
-
 smoothie Two-Dimensional Field Smoothing
-
 smoothmest Smoothed M-Estimators for 1-Dimensional Location
-
 smoothr Smooth and Tidy Spatial Features
-
 smoothROCtime Smooth Time-Dependent ROC Curve Estimation
-
 smoothSurv Survival Regression with Smoothed Error Distribution
-
 smoothtail Smooth Estimation of GPD Shape Parameter
-
 SmoothTensor A Collection of Smooth Tensor Estimation Methods
-
 SmoothWin Soft Windowing on Linear Regression
-
 smoots Nonparametric Estimation of the Trend and Its Derivatives in TS
-
 smotefamily A Collection of Oversampling Techniques for Class Imbalance Problem Based on SMOTE
-
 smovie Some Movies to Illustrate Concepts in Statistics
-
 smpic Creates Images Sized for Social Media
-
 SMPracticals Practicals for Use with Davison (2003) Statistical Models
-
 SMR Externally Studentized Midrange Distribution
-
 sms Spatial Microsimulation
-
 sMSROC Assessment of Diagnostic and Prognostic Markers
-
 smss Datasets for Agresti and Finlay's "Statistical Methods for the Social Sciences"
-
 smurf Sparse Multi-Type Regularized Feature Modeling
-
 SMUT Multi-SNP Mediation Intersection-Union Test
-
 SMVar Structural Model for Variances
-
 smvgraph Various Multivariate Graphics with Variable Choice in Shiny Apps
-
 sn The Skew-Normal and Related Distributions Such as the Skew-t and the SUN
-
 sna Tools for Social Network Analysis
-
 snahelper 'RStudio' Addin for Network Analysis and Visualization
-
 Snake Game of Snake
-
 snakecase Convert Strings into any Case
-
 SnakesAndLaddersAnalysis Play and Analyse the Game of Snakes and Ladders
-
 snap Simple Neural Application
-
 snapchatadsR Get Snapchat Ads Data via the 'Windsor.ai' API
-
 snapshot Gadget N-body cosmological simulation code snapshot I/O utilities
-
 snem EM Algorithm for Multivariate Skew-Normal Distribution with Overparametrization
-
 snfa Smooth Non-Parametric Frontier Analysis
-
 SNFtool Similarity Network Fusion
-
 snht Standard Normal Homogeneity Test
-
 snn Stabilized Nearest Neighbor Classifier
-
 snotelr Calculate and Visualize 'SNOTEL' Snow Data and Seasonality
-
 snow Simple Network of Workstations
-
 SnowballC Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
-
 snowboot Bootstrap Methods for Network Inference
-
 snowfall Easier Cluster Computing (Based on 'snow')
-
 snowflakes Random Snowflake Generator
-
 snowFT Fault Tolerant Simple Network of Workstations
-
 SNPannotator Investigating the Functional Characteristics of Selected SNPs and Their Vicinity Genomic Region
-
 SNPassoc SNPs-Based Whole Genome Association Studies
-
 snpEnrichment SNPs Enrichment Analysis
-
 SNPfiltR Interactively Filter SNP Datasets
-
 SNPknock Knockoffs for Hidden Markov Models and Genetic Data
-
 snplist Tools to Create Gene Sets
-
 sNPLS NPLS Regression with L1 Penalization
-
 snpReady Preparing Genotypic Datasets in Order to Run Genomic Analysis
-
 snpsettest A Set-Based Association Test using GWAS Summary Statistics
-
 sns Stochastic Newton Sampler (SNS)
-
 SNscan Scan Statistics in Social Networks
-
 SNSchart Sequential Normal Scores in Statistical Process Management
-
 snSMART Small N Sequential Multiple Assignment Randomized Trial Methods
-
 SOAR Memory management in R by delayed assignments
-
 SOAs Creation of Stratum Orthogonal Arrays
-
 sobolnp Nonparametric Sobol Estimator with Bootstrap Bandwidth
-
 SobolSequence Sobol Sequences with Better Two-Dimensional Projections
-
 soc.ca Specific Correspondence Analysis for the Social Sciences
-
 socceR Evaluating Sport Tournament Predictions
-
 social Social Autocorrelation
-
 socialh Rank and Social Hierarchy for Gregarious Animals
-
 socialmixr Social Mixing Matrices for Infectious Disease Modelling
-
 SocialPosition Social Position Indicators Construction Toolbox
-
 socialranking Social Ranking Solutions for Power Relations on Coalitions
-
 socialrisk Identifying Patient Social Risk from Administrative Health Care Data
-
 sociome Operationalizing Social Determinants of Health Data for Researchers
-
 socviz Utility Functions and Data Sets for Data Visualization
-
 sodavis SODA: Main and Interaction Effects Selection for Logistic Regression, Quadratic Discriminant and General Index Models
-
 sodium A Modern and Easy-to-Use Crypto Library
-
 sofa Connector to 'CouchDB'
-
 Sofi Interfaz interactiva con fines didacticos
-
 SOFIA Making Sophisticated and Aesthetical Figures in R
-
 SoftBart Implements the SoftBart Algorithm
-
 softclassval Soft Classification Performance Measures
-
 SoftClustering Soft Clustering Algorithms
-
 softImpute Matrix Completion via Iterative Soft-Thresholded SVD
-
 SOIL Sparsity Oriented Importance Learning
-
 soilassessment Assessment Models for Agriculture Soil Conditions and Crop Suitability
-
 soilDB Soil Database Interface
-
 SoilHyP Soil Hydraulic Properties
-
 soilhypfit Modelling of Soil Water Retention and Hydraulic Conductivity Data
-
 soilphysics Soil Physical Analysis
-
 SoilR Models of Soil Organic Matter Decomposition
-
 SoilTaxonomy A System of Soil Classification for Making and Interpreting Soil Surveys
-
 soiltestcorr Soil Test Correlation and Calibration
-
 SoilTesting Organic Carbon and Plant Available Nutrient Contents in Soil
-
 soiltexture Functions for Soil Texture Plot, Classification and Transformation
-
 soilwater Implementation of Parametric Formulas for Soil Water Retention or Conductivity Curve
-
 Sojourn Apply Sojourn Methods for Processing ActiGraph Accelerometer Data
-
 Sojourn.Data Supporting Objects for Sojourn Accelerometer Methods
-
 sokoban Sokoban Game
-
 solaR Radiation and Photovoltaic Systems
-
 solarPos Solar Position Algorithm for Solar Radiation Applications
-
 solartime Utilities Dealing with Solar Time Such as Sun Position and Time of Sunrise
-
 solitude An Implementation of Isolation Forest
-
 solrad Calculating Solar Radiation and Related Variables Based on Location, Time and Topographical Conditions
-
 solrium General Purpose R Interface to 'Solr'
-
 solvebio The Official SolveBio API Client
-
 SolveSAPHE Solver Suite for Alkalinity-PH Equations
-
 som Self-Organizing Map
-
 som.nn Topological k-NN Classifier Based on Self-Organising Maps
-
 soma General-Purpose Optimisation with the Self-Organising Migrating Algorithm
-
 SOMbrero SOM Bound to Realize Euclidean and Relational Outputs
-
 someMTP Some Multiple Testing Procedures
-
 SOMEnv SOM Algorithm for the Analysis of Multivariate Environmental Data
-
 sommer Solving Mixed Model Equations in R
-
 sonar Fundamental Formulas for Sonar
-
 SongEvo An Individual-Based Model of Bird Song Evolution
-
 sonicLength Estimating Abundance of Clones from DNA Fragmentation Data
-
 sonicscrewdriver Bioacoustic Analysis and Publication Tools
-
 sonify Data Sonification - Turning Data into Sound
-
 soobench Single Objective Optimization Benchmark Functions
-
 SOP Generalised Additive P-Spline Regression Models Estimation
-
 SOPC The Sparse Online Principal Component Estimation Algorithm
-
 SOPIE Non-Parametric Estimation of the Off-Pulse Interval of a Pulsar
-
 soptdmaeA Sequential Optimal Designs for Two-Colour cDNA Microarray Experiments
-
 soql Helps Make Socrata Open Data API Calls
-
 SOR Estimation using Sequential Offsetted Regression
-
 sorcering Soil Organic Carbon and CN Ratio Driven Nitrogen Modelling Framework
-
 sorocs A Bayesian Semiparametric Approach to Correlated ROC Surfaces
-
 SorptionAnalysis Static Adsorption Experiment Plotting and Analysis
-
 sortable Drag-and-Drop in 'shiny' Apps with 'SortableJS'
-
 SortedEffects Estimation and Inference Methods for Sorted Causal Effects and Classification Analysis
-
 sorvi Functions for Finnish Open Data
-
 sos Search Contributed R Packages, Sort by Package
-
 sotkanet Sotkanet Open Data Access and Analysis
-
 sotu United States Presidential State of the Union Addresses
-
 sound A Sound Interface for R
-
 soundClass Sound Classification Using Convolutional Neural Networks
-
 soundcorrs Semi-Automatic Analysis of Sound Correspondences
-
 soundecology Soundscape Ecology
-
 SoundexBR Phonetic-Coding for Portuguese
-
 soundgen Sound Synthesis and Acoustic Analysis
-
 SoundShape Sound Waves Onto Morphometric Data
-
 SoupX Single Cell mRNA Soup eXterminator
-
 SourceSet A Graphical Model Approach to Identify Primary Genes in Perturbed Biological Pathways
-
 sourcetools Tools for Reading, Tokenizing and Parsing R Code
-
 sovereign State-Dependent Empirical Analysis
-
 SoyNAM Soybean Nested Association Mapping Dataset
-
 SoyURT USDA Northern Region Uniform Soybean Tests Dataset
-
 sp Classes and Methods for Spatial Data
-
 SP2000 Catalogue of Life Toolkit
-
 sp23design Design and Simulation of Seamless Phase II-III Clinical Trials
-
 spaa SPecies Association Analysis
-
 SpaCCr Spatial Convex Clustering
-
 spacefillr Space-Filling Random and Quasi-Random Sequences
-
 spacejamr Simulate Spatial Bernoulli Networks
-
 spaceNet Latent Space Models for Multidimensional Networks
-
 spacesRGB Standard and User-Defined RGB Color Spaces, with Conversion Between RGB and CIE XYZ
-
 spacesXYZ CIE XYZ and some of Its Derived Color Spaces
-
 spacetime Classes and Methods for Spatio-Temporal Data
-
 SpaceTimeBSS Blind Source Separation for Multivariate Spatio-Temporal Data
-
 spacyr Wrapper to the 'spaCy' 'NLP' Library
-
 SPADAR Spherical Projections of Astronomical Data
-
 spAddins A Set of RStudio Addins
-
 SpadeR Species-Richness Prediction and Diversity Estimation with R
-
 spaero Software for Project AERO
-
 spam SPArse Matrix
-
 spam64 64-Bit Extension of the SPArse Matrix R Package 'spam'
-
 spaMM Mixed-Effect Models, with or without Spatial Random Effects
-
 spamtree Spatial Multivariate Trees
-
 spanish Translate Quantities from Strings to Integer and Back. Misc Functions on Spanish Data
-
 spant MR Spectroscopy Analysis Tools
-
 sparcl Perform Sparse Hierarchical Clustering and Sparse K-Means Clustering
-
 spark.sas7bdat Read in 'SAS' Data ('.sas7bdat' Files) into 'Apache Spark'
-
 sparkavro Load Avro file into 'Apache Spark'
-
 sparkbq Google 'BigQuery' Support for 'sparklyr'
-
 sparkhail A 'Sparklyr' Extension for 'Hail'
-
 sparkline 'jQuery' Sparkline 'htmlwidget'
-
 sparklyr R Interface to Apache Spark
-
 sparklyr.flint Sparklyr Extension for 'Flint'
-
 sparklyr.nested A 'sparklyr' Extension for Nested Data
-
 sparktex Generate LaTeX sparklines in R
-
 sparktf Interface for 'TensorFlow' 'TFRecord' Files with 'Apache Spark'
-
 sparkwarc Load WARC Files into Apache Spark
-
 sparkxgb Interface for 'XGBoost' on 'Apache Spark'
-
 sparr Spatial and Spatiotemporal Relative Risk
-
 sparrpowR Power Analysis to Detect Spatial Relative Risk Clusters
-
 sparseBC Sparse Biclustering of Transposable Data
-
 SparseBiplots 'HJ-Biplot' using Different Ways of Penalization Plotting with 'ggplot2'
-
 sparsebnUtils Utilities for Learning Sparse Bayesian Networks
-
 SparseChol Sparse Cholesky LDL Decomposition of Symmetric Matrices
-
 SparseDC Implementation of SparseDC Algorithm
-
 sparsediscrim Sparse and Regularized Discriminant Analysis
-
 sparseEigen Computation of Sparse Eigenvectors of a Matrix
-
 SparseFactorAnalysis Scaling Count and Binary Data with Sparse Factor Analysis
-
 sparseFLMM Functional Linear Mixed Models for Irregularly or Sparsely Sampled Data
-
 sparseGAM Sparse Generalized Additive Models
-
 sparsegl Sparse Group Lasso
-
 SparseGrid Sparse grid integration in R
-
 sparseHessianFD Numerical Estimation of Sparse Hessians
-
 sparseIndexTracking Design of Portfolio of Stocks to Track an Index
-
 sparseinv Computation of the Sparse Inverse Subset
-
 sparseLDA Sparse Discriminant Analysis
-
 SparseLPM The Sparse Latent Position Model for Nonnegative Interaction Data
-
 sparseLRMatrix Represent and Use Sparse + Low Rank Matrices
-
 sparseLTSEigen RcppEigen back end for sparse least trimmed squares regression
-
 SparseM Sparse Linear Algebra
-
 sparseMatEst Sparse Matrix Estimation and Inference
-
 SparseMDC Implementation of SparseMDC Algorithm
-
 SPARSEMODr SPAtial Resolution-SEnsitive Models of Outbreak Dynamics
-
 SparseMSE 'Multiple Systems Estimation for Sparse Capture Data'
-
 sparseMVN Multivariate Normal Functions for Sparse Covariance and Precision Matrices
-
 sparsenet Fit Sparse Linear Regression Models via Nonconvex Optimization
-
 sparsepca Sparse Principal Component Analysis (SPCA)
-
 sparsepp 'Rcpp' Interface to 'sparsepp'
-
 sparseR Variable Selection under Ranked Sparsity Principles for Interactions and Polynomials
-
 sparsereg Sparse Bayesian Models for Regression, Subgroup Analysis, and Panel Data
-
 sparsestep SparseStep Regression
-
 sparsesvd Sparse Truncated Singular Value Decomposition (from 'SVDLIBC')
-
 sparseSVM Solution Paths of Sparse High-Dimensional Support Vector Machine with Lasso or Elastic-Net Regularization
-
 SparseTSCGM Sparse Time Series Chain Graphical Models
-
 sparsevar Sparse VAR/VECM Models Estimation
-
 sparsevb Spike-and-Slab Variational Bayes for Linear and Logistic Regression
-
 SparseVFC Sparse Vector Field Consensus for Vector Field Learning
-
 sparsio I/O Operations with Sparse Matrices
-
 sparta Sparse Tables
-
 SPARTAAS Statistical Methods for Archaeology
-
 SPAS Stratified-Petersen Analysis System
-
 spass Study Planning and Adaptation of Sample Size
-
 spate Spatio-Temporal Modeling of Large Data Using a Spectral SPDE Approach
-
 SpatEntropy Spatial Entropy Measures
-
 SPAtest Score Test and Meta-Analysis Based on Saddlepoint Approximation
-
 spatgeom Geometric Spatial Point Analysis
-
 spatgraphs Graph Edge Computations for Spatial Point Patterns
-
 spathial Evolutionary Analysis
-
 spatial Functions for Kriging and Point Pattern Analysis
-
 SpatialAcc Spatial Accessibility Measures
-
 SpatialBSS Blind Source Separation for Multivariate Spatial Data
-
 spatialCovariance Computation of Spatial Covariance Matrices for Data on Rectangles
-
 spatialEco Spatial Analysis and Modelling Utilities
-
 SpatialEpi Methods and Data for Spatial Epidemiology
-
 SpatialExtremes Modelling Spatial Extremes
-
 SpatialfdaR Spatial Functional Data Analysis
-
 spatialfusion Multivariate Analysis of Spatial Data Using a Unifying Spatial Fusion Framework
-
 SpatialGEV Fit Spatial Generalized Extreme Value Models
-
 SpatialGraph SpatialGraph Class
-
 SpatialKDE Kernel Density Estimation for Spatial Data
-
 SpatialKWD Spatial KWD for Large Spatial Maps
-
 SpatialML Spatial Machine Learning
-
 SpatialNP Multivariate Nonparametric Methods Based on Spatial Signs and Ranks
-
 SpatialPack Tools for Assessment the Association Between Two Spatial Processes
-
 SpatialPOP Generation of Spatial Data with Spatially Varying Model Parameter
-
 SpatialPosition Spatial Position Models
-
 spatialprobit Spatial Probit Models
-
 spatialreg Spatial Regression Analysis
-
 SpatialRegimes Spatial Constrained Clusterwise Regression
-
 spatialRF Easy Spatial Modeling with Random Forest
-
 spatialrisk Calculating Spatial Risk
-
 SpatialRoMLE Robust Maximum Likelihood Estimation for Spatial Error Model
-
 spatialsample Spatial Resampling Infrastructure
-
 spatialTIME Spatial Analysis of Vectra Immunoflourescent Data
-
 SpatialTools Tools for Spatial Data Analysis
-
 SpatialVS Spatial Variable Selection
-
 SpatialVx Spatial Forecast Verification
-
 spatialwarnings Spatial Early Warning Signals of Ecosystem Degradation
-
 spatialwidget Formats Spatial Data for Use in Htmlwidgets
-
 spatPomp Inference for Spatiotemporal Partially Observed Markov Processes
-
 SpATS Spatial Analysis of Field Trials with Splines
-
 spatsoc Group Animal Relocation Data by Spatial and Temporal Relationship
-
 spatstat Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
-
 spatstat.core Core Functionality of the 'spatstat' Family
-
 spatstat.data Datasets for 'spatstat' Family
-
 spatstat.explore Exploratory Data Analysis for the 'spatstat' Family
-
 spatstat.geom Geometrical Functionality of the 'spatstat' Family
-
 spatstat.gui Interactive Graphics Functions for the 'spatstat' Package
-
 spatstat.Knet Extension to 'spatstat' for Large Datasets on a Linear Network
-
 spatstat.linnet Linear Networks Functionality of the 'spatstat' Family
-
 spatstat.local Extension to 'spatstat' for Local Composite Likelihood
-
 spatstat.model Parametric Statistical Modelling for the 'spatstat' Family
-
 spatstat.random Random Generation Functionality for the 'spatstat' Family
-
 spatstat.sparse Sparse Three-Dimensional Arrays and Linear Algebra Utilities
-
 spatstat.utils Utility Functions for 'spatstat'
-
 spatsurv Bayesian Spatial Survival Analysis with Parametric Proportional Hazards Models
-
 SPB Simple Progress Bars for Procedural Coding
-
 spbabel Convert Spatial Data Using Tidy Tables
-
 spBayes Univariate and Multivariate Spatial-Temporal Modeling
-
 spBayesSurv Bayesian Modeling and Analysis of Spatially Correlated Survival Data
-
 spBFA Spatial Bayesian Factor Analysis
-
 Spbsampling Spatially Balanced Sampling
-
 spc Statistical Process Control – Calculation of ARL and Other Control Chart Performance Measures
-
 spc4sts Statistical Process Control for Stochastic Textured Surfaces
-
 spcadjust Functions for Calibrating Control Charts
-
 SPCALDA A New Reduced-Rank Linear Discriminant Analysis Method
-
 SPCAvRP Sparse Principal Component Analysis via Random Projections (SPCAvRP)
-
 SPCDAnalyze Design and Analyze Studies using the Sequential Parallel Comparison Design
-
 SPCompute Compute Power or Sample Size for GWAS with Covariate Effect
-
 spcosa Spatial Coverage Sampling and Random Sampling from Compact Geographical Strata
-
 spcov Sparse Estimation of a Covariance Matrix
-
 spCP Spatially Varying Change Points
-
 spcr Sparse Principal Component Regression
-
 spd Semi Parametric Distribution
-
 spData Datasets for Spatial Analysis
-
 spDates Analysis of Spatial Gradients in Radiocarbon Dates
-
 spdep Spatial Dependence: Weighting Schemes, Statistics
-
 spdl Wrapper for 'RcppSpdlog' Functions
-
 spdownscale Spatial Downscaling Using Bias Correction Approach
-
 spdplyr Data Manipulation Verbs for the Spatial Classes
-
 spduration Split-Population Duration (Cure) Regression
-
 spdynmod Spatio-Dynamic Wetland Plant Communities Model
-
 speakr A Wrapper for the Phonetic Software 'Praat'
-
 speaq Tools for Nuclear Magnetic Resonance (NMR) Spectra Alignment, Peak Based Processing, Quantitative Analysis and Visualizations
-
 spearmanCI Jackknife Euclidean / Empirical Likelihood Inference for Spearman's Rho
-
 spec A Data Specification Format and Interface
-
 SpecDetec Change Points Detection with Spectral Clustering
-
 SpecHelpers Spectroscopy Related Utilities
-
 SPECIES Statistical Package for Species Richness Estimation
-
 specieschrom The Species Chromatogram
-
 SPECK Receptor Abundance Estimation using Reduced Rank Reconstruction and Clustered Thresholding
-
 specklestar Reduction of Speckle Data from BTA 6-m Telescope
-
 specr Conducting and Visualizing Specification Curve Analyses
-
 specs Single-Equation Penalized Error-Correction Selector (SPECS)
-
 SpecsVerification Forecast Verification Routines for Ensemble Forecasts of Weather and Climate
-
 spectacles Storing, Manipulating and Analysis Spectroscopy and Associated Data
-
 spectator Interface to the 'Spectator Earth' API
-
 spectr Calculate the Periodogram of a Time-Course
-
 spectral Common Methods of Spectral Data Analysis
-
 spectralAnalysis Pre-Process, Visualize and Analyse Process Analytical Data, by Spectral Data Measurements Made During a Chemical Process
-
 SpectralClMixed Spectral Clustering for Mixed Type Data
-
 spectralGP Approximate Gaussian Processes Using the Fourier Basis
-
 spectralGraphTopology Learning Graphs from Data via Spectral Constraints
-
 SpectralMap Diffusion Map and Spectral Map
-
 spectralR Obtain and Visualize Spectral Reflectance Data for Earth Surface Polygons
-
 spectre Predict Regional Community Composition
-
 spectrino Spectra Viewer, Organizer, Data Preparation and Property Blocks
-
 spectrolab Class and Methods for Spectral Data
-
 Spectrum Fast Adaptive Spectral Clustering for Single and Multi-View Data
-
 SPEDInstabR Estimation of the Relative Importance of Factors Affecting Species Distribution Based on Stability Concept
-
 speech Legislative Speeches
-
 speechbr Access the Speechs and Speaker's Informations of House of Representatives of Brazil
-
 speedglm Fitting Linear and Generalized Linear Models to Large Data Sets
-
 speedycode Automate Code for Adding Labels, Recoding and Renaming Variables, and Converting ASCII Files
-
 spef Semiparametric Estimating Functions
-
 speff2trial Semiparametric Efficient Estimation for a Two-Sample Treatment Effect
-
 SPEI Calculation of the Standardised Precipitation-Evapotranspiration Index
-
 spellcheckr Correct the Spelling of a Given Word in the English Language
-
 spelling Tools for Spell Checking in R
-
 spemd A Bi-Dimensional Implementation of the Empirical Mode Decomposition for Spatial Data
-
 sperich Auxiliary Functions to Estimate Centers of Biodiversity
-
 sperrorest Perform Spatial Error Estimation and Variable Importance Assessment
-
 SpeTestNP Non-Parametric Tests of Parametric Specifications
-
 spex Spatial Extent Tools
-
 spfda Function-on-Scalar Regression with Group-Bridge Penalty
-
 spfilteR Semiparametric Spatial Filtering with Eigenvectors in (Generalized) Linear Models
-
 spflow Spatial Econometric Interaction Models
-
 spFSR Feature Selection and Ranking via Simultaneous Perturbation Stochastic Approximation
-
 spFW Hierarchical Spatial Finlay-Wilkinson Model
-
 spGARCH Spatial ARCH and GARCH Models (spGARCH)
-
 spgs Statistical Patterns in Genomic Sequences
-
 spgwr Geographically Weighted Regression
-
 SphereOptimize Optimization on a Unit Sphere
-
 spherepc Spherical Principal Curves
-
 sphereplot Spherical Plotting
-
 SphericalCubature Numerical Integration over Spheres and Balls in n-Dimensions; Multivariate Polar Coordinates
-
 SphericalK Spherical K-Function
-
 sphet Estimation of Spatial Autoregressive Models with and without Heteroskedastic Innovations
-
 sphunif Uniformity Tests on the Circle, Sphere, and Hypersphere
-
 SPIAssay A Genetic-Based Assay for the Identification of Cell Lines
-
 spider Species Identity and Evolution in R
-
 spiderbar Parse and Test Robots Exclusion Protocol Files and Rules
-
 spidR Spider Knowledge Online
-
 SPIGA Compute SPI Index using the Methods Genetic Algorithm and Maximum Likelihood
-
 spikes Detecting Election Fraud from Irregularities in Vote-Share Distributions
-
 spikeslab Prediction and Variable Selection Using Spike and Slab Regression
-
 spikeSlabGAM Bayesian Variable Selection and Model Choice for Generalized Additive Mixed Models
-
 SPINA Structure Parameter Inference Approach
-
 spinBayes Semi-Parametric Gene-Environment Interaction via Bayesian Variable Selection
-
 spind Spatial Methods and Indices
-
 spinifex Manual Tours, Manual Control of Dynamic Projections of Numeric Multivariate Data
-
 spinyReg Sparse Generative Model and Its EM Algorithm
-
 spiR Wrapper for the Social Progress Index Data
-
 spiralize Visualize Data on Spirals
-
 spiritR Template for Clinical Trial Protocol
-
 spiro Manage Data from Cardiopulmonary Exercise Testing
-
 splancs Spatial and Space-Time Point Pattern Analysis
-
 splash Simple Process-Led Algorithms for Simulating Habitats
-
 spldv Spatial Models for Limited Dependent Variables
-
 SPLICE Synthetic Paid Loss and Incurred Cost Experience (SPLICE) Simulator
-
 splines2 Regression Spline Functions and Classes
-
 splinetree Longitudinal Regression Trees and Forests
-
 Splinets Functional Data Analysis using Splines and Orthogonal Spline Bases
-
 SPlit Split a Dataset for Training and Testing
-
 splitFeas Multi-Set Split Feasibility
-
 splitfngr Combined Evaluation and Split Access of Functions
-
 SplitGLM Split Generalized Linear Models
-
 splithalf Calculate Task Split Half Reliability Estimates
-
 splithalfr Estimate Split-Half Reliabilities
-
 SplitKnockoff Split Knockoffs for Structural Sparsity
-
 SplitReg Split Regularized Regression
-
 splitSelect Best Split Selection Modeling for Low-Dimensional Data
-
 SplitSoftening Softening Splits in Decision Trees
-
 splitstackshape Stack and Reshape Datasets After Splitting Concatenated Values
-
 splitTools Tools for Data Splitting
-
 splm Econometric Models for Spatial Panel Data
-
 splmm Simultaneous Penalized Linear Mixed Effects Models
-
 splot Split Plot
-
 spls Sparse Partial Least Squares (SPLS) Regression and Classification
-
 splus2R Supplemental S-PLUS Functionality in R
-
 splusTimeDate Times and Dates from S-PLUS
-
 splusTimeSeries Time Series from S-PLUS
-
 splutil Utility Functions for Common Base-R Problems Relating to Lists
-
 spm Spatial Predictive Modeling
-
 spm2 Spatial Predictive Modeling
-
 spMaps Europe SpatialPolygonsDataFrame Builder
-
 spMC Continuous-Lag Spatial Markov Chains
-
 SPmlficmcm Semiparametric Maximum Likelihood Method for Interactions Gene-Environment in Case-Mother Control-Mother Designs
-
 spmodel Spatial Statistical Modeling and Prediction
-
 spmoran Fast Spatial Regression using Moran Eigenvectors
-
 spnaf Spatial Network Autocorrelation for Flow Data
-
 spnet Plotting (Social) Networks on Maps
-
 SpNetPrep Linear Network Preprocessing for Spatial Statistics
-
 spNetwork Spatial Analysis on Network
-
 SpNMF Supervised NMF
-
 spnn Scale Invariant Probabilistic Neural Networks
-
 spNNGP Spatial Regression Models for Large Datasets using Nearest Neighbor Gaussian Processes
-
 spocc Interface to Species Occurrence Data Sources
-
 spOccupancy Single-Species, Multi-Species, and Integrated Spatial Occupancy Models
-
 spoiler Blur 'HTML' Elements in 'Shiny' Applications Using 'Spoiler-Alert.js'
-
 spongebob SpongeBob-Case Converter : spOngEboB-CASe CoNVertER
-
 spongecake Transform a Movie into a Synthetic Picture
-
 spooky Time Feature Extrapolation Using Spectral Analysis and Jack-Knife Resampling
-
 spork Generalized Label Formatting
-
 sport Sequential Pairwise Online Rating Techniques
-
 SPORTSCausal Spillover Time Series Causal Inference
-
 SportsTour Display Tournament Fixtures using Knock Out and Round Robin Techniques
-
 sportyR Plot Scaled 'ggplot' Representations of Sports Playing Surfaces
-
 SPOT Sequential Parameter Optimization Toolbox
-
 spotGUI Graphical User Interface for the Package 'SPOT'
-
 spotidy Providing Convenience Functions to Connect R with the Spotify API
-
 spotifyr R Wrapper for the 'Spotify' Web API
-
 SPOTMisc Misc Extensions for the 'SPOT' Package
-
 spotoroo Spatiotemporal Clustering of Satellite Hot Spot Data
-
 SpotSampling SPatial and Optimally Temporal (SPOT) Sampling
-
 SPOUSE Scatter Plots Over-Viewed Using Summary Ellipses
-
 SPPcomb Combining Different Spatial Datasets in Cancer Risk Estimation
-
 spqdep Testing for Spatial Independence of Qualitative Data in Cross Section
-
 SPQR Semi-Parametric Quantile Regression
-
 spray Sparse Arrays and Multivariate Polynomials
-
 spreadr Simulating Spreading Activation in a Network
-
 SPREDA Statistical Package for Reliability Data Analysis
-
 SPreg Bias Reduction in the Skew-Probit Model for a Binary Response
-
 spreval Evaluation of Sprinkler Irrigation Uniformity and Efficiency
-
 sprex Calculate Species Richness and Extrapolation Metrics
-
 springer Sparse Group Variable Selection for Gene-Environment Interactions in the Longitudinal Study
-
 springpheno Spring Phenological Indices
-
 spRingsteen All Things Data and Springsteen
-
 sprintr Sparse Reluctant Interaction Modeling
-
 sprtt Sequential Probability Ratio Tests: Using t-Statistic
-
 spruce Spatial Random Effects Clustering of Single Cell Data
-
 sps Sequential Poisson Sampling
-
 spsComps 'systemPipeShiny' UI and Server Components
-
 spselect Selecting Spatial Scale of Covariates in Regression Models
-
 spsh Estimation and Prediction of Parameters of Various Soil Hydraulic Property Models
-
 spsi Shape-Preserving Uni-Variate and Bi-Variate Spline Interpolation
-
 SPSL Site Percolation on Square Lattices (SPSL)
-
 SPSP Selection by Partitioning the Solution Paths
-
 spsur Spatial Seemingly Unrelated Regression Models
-
 spsurv Bernstein Polynomial Based Semiparametric Survival Analysis
-
 spsurvey Spatial Sampling Design and Analysis
-
 spsUtil 'systemPipeShiny' Utility Functions
-
 spt Sierpinski Pedal Triangle
-
 spTDyn Spatially Varying and Spatio-Temporal Dynamic Linear Models
-
 SpTe2M Nonparametric Modeling and Monitoring of Spatio-Temporal Data
-
 spThin Functions for Spatial Thinning of Species Occurrence Records for Use in Ecological Models
-
 spTimer Spatio-Temporal Bayesian Modelling
-
 sptm SemiParametric Transformation Model Methods
-
 sptotal Predicting Totals and Weighted Sums from Spatial Data
-
 spup Spatial Uncertainty Propagation Analysis
-
 spuRs Functions and Datasets for "Introduction to Scientific Programming and Simulation Using R"
-
 SPUTNIK SPatially aUTomatic deNoising for Ims toolKit
-
 SPYvsSPY Spy vs. Spy Data
-
 sqldf Manipulate R Data Frames Using SQL
-
 sqliter Connection wrapper to SQLite databases
-
 sqliteutils Utility Functions for 'SQLite'
-
 sqlparseR Wrapper for 'Python' Module 'sqlparse': Parse, Split, and Format 'SQL'
-
 SqlRender Rendering Parameterized SQL and Translation to Dialects
-
 sqlscore Utilities for Generating SQL Queries from Model Objects
-
 sqlstrings Map 'SQL' Code to R Lists
-
 SQN Subset Quantile Normalization
-
 SQRL Enhances Interaction with 'ODBC' Databases
-
 squant Subgroup Identification Based on Quantitative Objectives
-
 SQUAREM Squared Extrapolation Methods for Accelerating EM-Like Monotone Algorithms
-
 squash Color-Based Plots for Multivariate Visualization
-
 squat Statistics for Quaternion Temporal Data
-
 SqueakR An Experiment Interface for 'DeepSqueak' Bioacoustics Research
-
 squeezy Group-Adaptive Elastic Net Penalised Generalised Linear Models
-
 squid Statistical Quantification of Individual Differences
-
 sra Selection Response Analysis
-
 srcr Simplify Connections to Database Sources
-
 SRCS Statistical Ranking Color Scheme for Multiple Pairwise Comparisons
-
 sRDA Sparse Redundancy Analysis
-
 sRdpData Strategies of Resistance Data Project
-
 sregsurvey Semiparametric Model-Assisted Estimation in Finite Populations
-
 srm Structural Equation Modeling for the Social Relations Model
-
 sRNAGenetic Analysis of Small RNA Expression Changes in Hybrid Plants
-
 srp Smooth-Rough Partitioning of the Regression Coefficients
-
 SRS Scaling with Ranked Subsampling
-
 srt Read Subtitle Files as Tabular Data
-
 SRTsim Simulator for Spatially Resolved Transcriptomics
-
 SRTtools Adjust Srt File to Get Better Experience when Watching Movie
-
 srvyr 'dplyr'-Like Syntax for Summary Statistics of Survey Data
-
 ss3sim Fisheries Stock Assessment Simulation Testing with Stock Synthesis
-
 ssaBSS Stationary Subspace Analysis
-
 ssanv Sample Size Adjusted for Nonadherence or Variability of Input Parameters
-
 SSBtools Statistics Norway's Miscellaneous Tools
-
 ssc Semi-Supervised Classification Methods
-
 sscor Robust Correlation Estimation and Testing Based on Spatial Signs
-
 ssddata Species Sensitivity Distribution Data
-
 SSDforR Functions to Analyze Single System Data
-
 SSDM Stacked Species Distribution Modelling
-
 sSDR Tools Developed for Structured Sufficient Dimension Reduction (sSDR)
-
 ssdtools Species Sensitivity Distributions
-
 sse Sample Size Estimation
-
 ssev Sample Size Computation for Fixed N with Optimal Reward
-
 ssfa Spatial Stochastic Frontier Analysis
-
 ssfit Fitting of Parametric Models using Summary Statistics
-
 ssgraph Bayesian Graph Structure Learning using Spike-and-Slab Priors
-
 ssh Secure Shell (SSH) Client for R
-
 SSHAARP Searching Shared HLA Amino Acid Residue Prevalence
-
 Sshaped Nonparametric, Tuning-Free Estimation of S-Shaped Functions
-
 sship Tool for Secure Shipment of Content
-
 ssimparser Standard Schedules Information Parser
-
 ssize.fdr Sample Size Calculations for Microarray Experiments
-
 ssizeRNA Sample Size Calculation for RNA-Seq Experimental Design
-
 SSLASSO The Spike-and-Slab LASSO
-
 SSLR Semi-Supervised Classification, Regression and Clustering Methods
-
 SSM Fit and Analyze Smooth Supersaturated Models
-
 ssmn Skew Scale Mixtures of Normal Distributions
-
 ssmodels Sample Selection Models
-
 ssMousetrack Bayesian State-Space Modeling of Mouse-Tracking Experiments via Stan
-
 ssmrob Robust Estimation and Inference in Sample Selection Models
-
 ssmsn Scale-Shape Mixtures of Skew-Normal Distributions
-
 SSN Spatial Modeling on Stream Networks
-
 SSNbayes Bayesian Spatio-Temporal Analysis in Stream Networks
-
 SSOSVM Stream Suitable Online Support Vector Machines
-
 SSP Simulated Sampling Procedure for Community Ecology
-
 sspse Estimating Hidden Population Size using Respondent Driven Sampling Data
-
 ssr Semi-Supervised Regression Methods
-
 SSRA Sakai Sequential Relation Analysis
-
 SSrat Two-Dimensional Sociometric Status Determination with Rating Scales
-
 ssrm.logmer Sample Size Determination for Longitudinal Designs with Binary Outcome
-
 SSRMST Sample Size Calculation using Restricted Mean Survival Time
-
 ssrn Scan Statistics for Railway Network
-
 SSRTcalc Easy SSRT Calculation
-
 sss Import Files in the Triple-s (Standard Survey Structure) Format
-
 sssc Same Species Sample Contamination Detection
-
 SSsimple State Space Models
-
 Sstack Bootstrap Stacking of Random Forest Models for Heterogeneous Data
-
 SSVS Functions for Stochastic Search Variable Selection (SSVS)
-
 ssym Fitting Semi-Parametric log-Symmetric Regression Models
-
 st Shrinkage t Statistic and Correlation-Adjusted t-Score
-
 sta Seasonal Trend Analysis for Time Series Imagery in R
-
 stabiliser Stabilising Variable Selection
-
 stability Stability Analysis of Genotype by Environment Interaction (GEI)
-
 StabilizedRegression Stabilizing Regression and Variable Selection
-
 stable Probability Functions and Generalized Regression Models for Stable Distributions
-
 stabledist Stable Distribution Functions
-
 StableEstim Estimate the Four Parameters of Stable Laws using Different Methods
-
 stableGR A Stable Gelman-Rubin Diagnostic for Markov Chain Monte Carlo
-
 stablelearner Stability Assessment of Statistical Learning Methods
-
 stablespec Stable Specification Search in Structural Equation Models
-
 stabm Stability Measures for Feature Selection
-
 stabreg Linear Regression with the Stable Distribution
-
 stabs Stability Selection with Error Control
-
 StackImpute Tools for Analysis of Stacked Multiple Imputations
-
 stackoverflow Stack Overflow's Greatest Hits
-
 stacks Tidy Model Stacking
-
 stacomiR Fish Migration Monitoring
-
 stacomirtools Connection Class for Package stacomiR
-
 stagedtrees Staged Event Trees
-
 stagePop Modelling the Population Dynamics of a Stage-Structured Species in Continuous Time
-
 staggered Efficient Estimation Under Staggered Treatment Timing
-
 StakeholderAnalysis Measuring Stakeholder Influence
-
 StAMPP Statistical Analysis of Mixed Ploidy Populations
-
 stampr Spatial Temporal Analysis of Moving Polygons
-
 stan4bart Bayesian Additive Regression Trees with Stan-Sampled Parametric Extensions
-
 STAND Statistical Analysis of Non-Detects
-
 standardize Tools for Standardizing Variables for Regression in R
-
 standartox Ecotoxicological Information from the Standartox Database
-
 StanHeaders C++ Header Files for Stan
-
 StanMoMo Bayesian Mortality Modelling with 'Stan'
-
 stapler Simultaneous Truth and Performance Level Estimation
-
 staplr A Toolkit for PDF Files
-
 staRdom PARAFAC Analysis of EEMs from DOM
-
 stargazer Well-Formatted Regression and Summary Statistics Tables
-
 starm Spatio-Temporal Autologistic Regression Model
-
 starma Modelling Space Time AutoRegressive Moving Average (STARMA) Processes
-
 starnet Stacked Elastic Net
-
 starry Explore Data with Plots and Tables
-
 stars Spatiotemporal Arrays, Raster and Vector Data Cubes
-
 starschemar Obtaining Star Schemas from Flat Tables
-
 starsExtra Miscellaneous Functions for Working with 'stars' Rasters
-
 starsTileServer A Dynamic Tile Server for R
-
 STARTdesign Single to Double Arm Transition Design for Phase II Clinical Trials
-
 starter Starter Kit for New Projects
-
 starticles A Generic, Publisher-Independent Template for Writing Scientific Documents in 'rmarkdown'
-
 startR Automatically Retrieve Multidimensional Distributed Data Sets
-
 STARTS Functions for the STARTS Model
-
 startup Friendly R Startup Configuration
-
 startupmsg Utilities for Start-Up Messages
-
 starvars Vector Logistic Smooth Transition Models Estimation and Prediction
-
 starvz R-Based Visualization Techniques for Task-Based Applications
-
 starwarsdb Relational Data from the 'Star Wars' API for Learning and Teaching
-
 STAT Interactive Document for Working with Basic Statistical Analysis
-
 stat.extend Highest Density Regions and Other Functions of Distributions
-
 STAT2 Interactive Document for Working with Basic Statistical Analysis
-
 Stat2Data Datasets for Stat2
-
 statar Tools Inspired by 'Stata' to Manipulate Tabular Data
-
 statBasics Basic Functions to Statistical Methods Course
-
 statcanR Client for Statistics Canada's Open Economic Data
-
 statcheck Extract Statistics from Articles and Recompute p Values
-
 statcodelists Use Standardized Statistical Codelists
-
 statcomp Statistical Complexity and Information Measures for Time Series Analysis
-
 StatDataML Read and Write StatDataML Files
-
 statebins Create United States Uniform Cartogram Heatmaps
-
 states Create Panels of Independent States
-
 statespacer State Space Modelling in 'R'
-
 statgenGWAS Genome Wide Association Studies
-
 statgenGxE Genotype by Environment (GxE) Analysis
-
 statgenHTP High Throughput Phenotyping (HTP) Data Analysis
-
 statgenIBD Calculation of IBD Probabilities
-
 statgenMPP QTL Mapping for Multi Parent Populations
-
 statgenSTA Single Trial Analysis (STA) of Field Trials
-
 statGraph Statistical Methods for Graphs
-
 static Static Local Variables
-
 stationaRy Detailed Meteorological Data from Stations All Over the World
-
 stationery Working Examples for Reproducible Research Documents
-
 statip Statistical Functions for Probability Distributions and Regression
-
 statisfactory Statistical and Geometrical Tools
-
 StatMatch Statistical Matching or Data Fusion
-
 statmod Statistical Modeling
-
 statnet Software Tools for the Statistical Analysis of Network Data
-
 statnet.common Common R Scripts and Utilities Used by the Statnet Project Software
-
 statnetWeb A Graphical User Interface for Network Modeling with 'Statnet'
-
 statnipokladna Use Data from the Czech Public Finance Database
-
 StatPerMeCo Statistical Performance Measures to Evaluate Covariance Matrix Estimates
-
 statprograms Graduate Statistics Program Datasets
-
 statpsych Statistical Methods for Psychologists
-
 statquotes Quotes on Statistics, Data Visualization and Science
-
 StatRank Statistical Rank Aggregation: Inference, Evaluation, and Visualization
-
 stats19 Work with Open Road Traffic Casualty Data from Great Britain
-
 stats4teaching Simulate Pedagogical Statistical Data
-
 statsearchanalyticsr An Interface for the 'STAT Search Analytics' 'API'
-
 statsExpressions Tidy Dataframes and Expressions with Statistical Details
-
 Statsomat Shiny Apps for Automated Data Analysis and Automated Interpretation
-
 statsr Companion Software for the Coursera Statistics with R Specialization
-
 statswalesr Easily Extract Data from 'StatsWales'
-
 StatTeacherAssistant An App that Assists Intro Statistics Instructors with Data Sets
-
 statVisual Statistical Visualization Tools
-
 STB Simultaneous Tolerance Bounds
-
 stcos Space-Time Change of Support
-
 stcov Stein's Covariance Estimator
-
 stddiff Calculate the Standardized Difference for Numeric, Binary and Category Variables
-
 stdmod Standardized Moderation Effect and Its Confidence Interval
-
 stdReg Regression Standardization
-
 stdvectors C++ Standard Library Vectors in R
-
 steadyICA ICA and Tests of Independence via Multivariate Distance Covariance
-
 steepness Testing Steepness of Dominance Hierarchies
-
 SteinerNet Steiner Tree Approach for Graph Analysis
-
 SteinIV Semi-Parametric Stein-Like Estimator with Instrumental Variables
-
 stelfi Hawkes and Log-Gaussian Cox Point Processes Using Template Model Builder
-
 stellaR Evolutionary Tracks and Isochrones from Pisa Stellar Evolution Database
-
 StemAnalysis Reconstructing Tree Growth and Carbon Accumulation with Stem Analysis Data
-
 stemmatology Stemmatological Analysis of Textual Traditions
-
 StempCens Spatio-Temporal Estimation and Prediction for Censored/Missing Responses
-
 stencilaschema Bindings for Stencila Schema
-
 stenR Standardization of Raw Discrete Questionnaire Scores
-
 StepBeta Stepwise Procedure for Beta, Beta-Binomial and Negative Binomial Regression Models
-
 STEPCAM ABC-SMC Inference of STEPCAM
-
 stepdownfdp A Step-Down Procedure to Control the False Discovery Proportion
-
 stepgbm Stepwise Variable Selection for Generalized Boosted Regression Modeling
-
 stepjglm Variable Selection for Joint Modeling of Mean and Dispersion
-
 stepmixr Interface to 'Python' Package 'stepmix'
-
 stepp Subpopulation Treatment Effect Pattern Plot (STEPP)
-
 SteppedPower Power Calculation for Stepped Wedge Designs
-
 stepPenal Stepwise Forward Variable Selection in Penalized Regression
-
 stepPlr L2 Penalized Logistic Regression with Stepwise Variable Selection
-
 stepR Multiscale Change-Point Inference
-
 StepReg Stepwise Regression Analysis
-
 steprf Stepwise Predictive Variable Selection for Random Forest
-
 steps Spatially- and Temporally-Explicit Population Simulator
-
 StepSignalMargiLike Step-Wise Signal Extraction via Marginal Likelihood
-
 stepSplitReg Stepwise Split Regularized Regression
-
 StepwiseTest Multiple Testing Method to Control Generalized Family-Wise Error Rate and False Discovery Proportion
-
 StereoMorph Stereo Camera Calibration and Reconstruction
-
 stevedata Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
-
 stevedore Docker Client
-
 stevemisc Steve's Miscellaneous Functions
-
 stevetemplates Steve's R Markdown Templates
-
 stfit Spatio-Temporal Functional Imputation Tool
-
 STFTS Statistical Tests for Functional Time Series
-
 STGS Genomic Selection using Single Trait
-
 STI Calculation of the Standardized Temperature Index
-
 sticky Persist Attributes Across Data Operations
-
 stickyr Data Frames with Persistent Columns and Attributes
-
 stilt Separable Gaussian Process Interpolation (Emulation)
-
 stima Simultaneous Threshold Interaction Modeling Algorithm
-
 stinepack Stineman, a Consistently Well Behaved Method of Interpolation
-
 stlARIMA STL Decomposition and ARIMA Hybrid Forecasting Model
-
 stlELM Hybrid Forecasting Model Based on STL Decomposition and ELM
-
 stlnpp Spatio-Temporal Analysis of Point Patterns on Linear Networks
-
 stlplus Enhanced Seasonal Decomposition of Time Series by Loess
-
 stlTDNN STL Decomposition and TDNN Hybrid Time Series Forecasting
-
 stm Estimation of the Structural Topic Model
-
 stmCorrViz A Tool for Structural Topic Model Visualizations
-
 STMedianPolish Spatio-Temporal Median Polish
-
 stmgp Rapid and Accurate Genetic Prediction Modeling for Genome-Wide Association or Whole-Genome Sequencing Study Data
-
 stmgui Shiny Application for Creating STM Models
-
 stminsights A 'Shiny' Application for Inspecting Structural Topic Models
-
 StMoMo Stochastic Mortality Modelling
-
 StMoSim Quantile-Quantile Plot with Several Gaussian Simulations
-
 STMotif Discovery of Motifs in Spatial-Time Series
-
 STMr Strength Training Manual R-Language Functions
-
 stocc Fit a Spatial Occupancy Model via Gibbs Sampling
-
 stochprofML Stochastic Profiling using Maximum Likelihood Estimation
-
 stochQN Stochastic Limited Memory Quasi-Newton Optimizers
-
 stochvol Efficient Bayesian Inference for Stochastic Volatility (SV) Models
-
 stochvolTMB Likelihood Estimation of Stochastic Volatility Models
-
 stockAnalyst Equity Valuation using Methods of Fundamental Analysis
-
 stockfish Analyze Chess Games with the 'Stockfish' Engine
-
 stockR Identifying Stocks in Genetic Data
-
 stocks Stock Market Analysis
-
 stoichcalc R Functions for Solving Stoichiometric Equations
-
 stokes The Exterior Calculus
-
 stopdetection Stop Detection in Timestamped Trajectory Data using Spatiotemporal Clustering
-
 STOPES Selection Threshold Optimized Empirically via Splitting
-
 stoppingrule Create and Evaluate Stopping Rules
-
 stopwords Multilingual Stopword Lists
-
 Storm Write Storm Bolts in R using the Storm Multi-Language Protocol
-
 storr Simple Key Value Stores
-
 stortingscrape Access Data from the Norwegian Parliament API
-
 stoRy Download, Explore, and Analyze Literary Theme Ontology Data
-
 storywranglr Explore Twitter Trends with the 'Storywrangler' API
-
 stosim Stochastic Simulator for Reliability Modeling of Repairable Systems
-
 STPGA Selection of Training Populations by Genetic Algorithm
-
 stplanr Sustainable Transport Planning
-
 stpm Stochastic Process Model for Analysis of Longitudinal and Time-to-Event Outcomes
-
 stpp Space-Time Point Pattern Simulation, Visualisation and Analysis
-
 stppSim Spatiotemporal Point Patterns Simulation
-
 stR STR Decomposition
-
 str2str Convert R Objects from One Structure to Another
-
 StrainRanking Ranking of Pathogen Strains
-
 strand A Framework for Investment Strategy Simulation
-
 strap Stratigraphic Tree Analysis for Palaeontology
-
 strat An Implementation of the Stratification Index
-
 stratallo Optimum Sample Allocation in Stratified Sampling Schemes
-
 stratamatch Stratification and Matching for Large Observational Data Sets
-
 stratbr Optimal Stratification in Stratified Sampling
-
 strategicplayers Strategic Players
-
 Strategy Generic Framework to Analyze Trading Strategies
-
 stratEst Strategy Estimation
-
 StrathE2E2 End-to-End Marine Food Web Model
-
 stratification Univariate Stratification of Survey Populations
-
 StratifiedBalancing Stratified Covariate Balancing
-
 StratifiedMedicine Stratified Medicine
-
 StratifiedRF Builds Trees by Sampling Variables in Groups
-
 StratifiedSampling Different Methods for Stratified Sampling
-
 stratifyR Optimal Stratification of Univariate Populations
-
 StratigrapheR Integrated Stratigraphy
-
 StratSel Strategic Selection Estimator
-
 STraTUS Enumeration and Uniform Sampling of Transmission Trees for a Known Phylogeny
-
 stratvns Optimal Stratification in Stratified Sampling
-
 straweib Stratified Weibull Regression Model
-
 strawr Fast Implementation of Reading/Dump for .hic Files
-
 stray Anomaly Detection in High Dimensional and Temporal Data
-
 stream Infrastructure for Data Stream Mining
-
 streambugs Parametric Ordinary Differential Equations Model of Growth, Death, and Respiration of Macroinvertebrate and Algae Taxa
-
 streamDepletr Estimate Streamflow Depletion Due to Groundwater Pumping
-
 StreamMetabolism Calculate Single Station Metabolism from Diurnal Oxygen Curves
-
 streamMOA Interface for MOA Stream Clustering Algorithms
-
 streamR Access to Twitter Streaming API via R
-
 stressaddition Modelling Tri-Phasic Concentration-Response Relationships
-
 stressr Fetch and plot financial stress index and component data
-
 StressStrength Computation and Estimation of Reliability of Stress-Strength Models
-
 strex Extra String Manipulation Functions
-
 strider Strided Iterator and Range
-
 String2AdjMatrix Creates an Adjacency Matrix from a List of Strings
-
 string2path Rendering Font into 'data.frame'
-
 stringb Convenient Base R String Handling
-
 stringdist Approximate String Matching, Fuzzy Text Search, and String Distance Functions
-
 stringfish Alt String Implementation
-
 stringformattr Dynamic String Formatting
-
 stringi Fast and Portable Character String Processing Facilities
-
 stringr Simple, Consistent Wrappers for Common String Operations
-
 stringx Drop-in Replacements for Base String Functions Powered by 'stringi'
-
 strip Lighten your R Model Outputs
-
 stripless Structured Trellis Displays Without Strips for Lattice Graphics
-
 striprtf Extract Text from RTF File
-
 STRMPS Analysis of Short Tandem Repeat (STR) Massively Parallel Sequencing (MPS) Data
-
 StroupGLMM R Codes and Datasets for Generalized Linear Mixed Models: Modern Concepts, Methods and Applications by Walter W. Stroup
-
 strucchange Testing, Monitoring, and Dating Structural Changes
-
 strucchangeRcpp Testing, Monitoring, and Dating Structural Changes: C++ Version
-
 StrucDiv Spatial Structural Diversity Quantification in Raster Data
-
 StructFDR False Discovery Control Procedure Integrating the Prior Structure Information
-
 structree Tree-Structured Clustering
-
 StructureMC Structured Matrix Completion
-
 strvalidator Process Control and Validation of Forensic STR Kits
-
 stuart Subtests Using Algorithmic Rummaging Techniques
-
 studentlife Tidy Handling and Navigation of the Student-Life Dataset
-
 studyStrap Study Strap and Multi-Study Learning Algorithms
-
 STV Single Transferable Vote Counting
-
 styler Non-Invasive Pretty Printing of R Code
-
 stylest Estimating Speaker Style Distinctiveness
-
 stylo Stylometric Multivariate Analyses
-
 subcopem2D Bivariate Empirical Subcopula
-
 SubCultCon Maximum-Likelihood Cultural Consensus Analysis with Sub-Cultures
-
 subdetect Detect Subgroup with an Enhanced Treatment Effect
-
 subformula Create Subformulas of a Formula
-
 subgroup Methods for exploring treatment effect heterogeneity in subgroup analysis of clinical trials
-
 SubgrPlots Graphical Displays for Subgroup Analysis in Clinical Trials
-
 subgxe Combine Multiple GWAS by Using Gene-Environment Interactions
-
 submax Effect Modification in Observational Studies Using the Submax Method
-
 subniche Within Outlying Mean Indexes: Refining the OMI Analysis
-
 SubpathwayLNCE Identify Signal Subpathways Competitively Regulated by LncRNAs Based on ceRNA Theory
-
 subplex Unconstrained Optimization using the Subplex Algorithm
-
 subrank Computes Copula using Ranks and Subsampling
-
 subsamp Subsample Winner Algorithm for Variable Selection in Linear Regression with a Large Number of Variables
-
 subscore Computing Subscores in Classical Test Theory and Item Response Theory
-
 subscreen Systematic Screening of Study Data for Subgroup Effects
-
 subselect Selecting Variable Subsets
-
 subsemble An Ensemble Method for Combining Subset-Specific Algorithm Fits
-
 subspace Interface to OpenSubspace
-
 subtee Subgroup Treatment Effect Estimation in Clinical Trials
-
 SubTite Subgroup Specific Optimal Dose Assignment
-
 SubtypeDrug Prioritization of Candidate Cancer Subtype Specific Drugs
-
 SubVis Visual Exploration of Protein Alignments Resulting from Multiple Substitution Matrices
-
 success Survival Control Charts Estimation Software
-
 sudachir R Interface to 'Sudachi'
-
 suddengains Identify Sudden Gains in Longitudinal Data
-
 sudoku Sudoku Puzzle Generator and Solver
-
 sudokuAlt Tools for Making and Spoiling Sudoku Games
-
 SuessR Suess and Laws Corrections for Marine Stable Carbon Isotope Data
-
 sugarbag Create Tessellated Hexagon Maps
-
 sugrrants Supporting Graphs for Analysing Time Series
-
 sumFREGAT Fast Region-Based Association Tests on Summary Statistics
-
 summariser Easy Calculation and Visualisation of Confidence Intervals
-
 SummaryLasso Building Polygenic Risk Score Using GWAS Summary Statistics
-
 summarytools Tools to Quickly and Neatly Summarize Data
-
 summclust Module to Compute Influence and Leverage Statistics for Regression Models with Clustered Errors
-
 SUMMER Small-Area-Estimation Unit/Area Models and Methods for Estimation in R
-
 sumR Approximate Summation of Series
-
 sumSome Permutation True Discovery Guarantee by Sum-Based Tests
-
 sunburstR Sunburst 'Htmlwidget'
-
 suncalc Compute Sun Position, Sunlight Phases, Moon Position and Lunar Phase
-
 Sunclarco Survival Analysis using Copulas
-
 sundialr An Interface to 'SUNDIALS' Ordinary Differential Equation (ODE) Solvers
-
 SUNGEO Sub-National Geospatial Data Archive: Geoprocessing Toolkit
-
 SunsVoc Constructing Suns-Voc from Outdoor Time-Series I-V Curves
-
 supc The Self-Updating Process Clustering Algorithms
-
 supclust Supervised Clustering of Predictor Variables Such as Genes
-
 supcluster Supervised Cluster Analysis
-
 superb Summary Plots with Adjusted Error Bars
-
 superbiclust Generating Robust Biclusters from a Bicluster Set (Ensemble Biclustering)
-
 supercells Superpixels of Spatial Data
-
 supercompress Supervised Compression of Big Data
-
 superdiag A Comprehensive Test Suite for Testing Markov Chain Nonconvergence
-
 SuperExactTest Exact Test and Visualization of Multi-Set Intersections
-
 SuperGauss Superfast Likelihood Inference for Stationary Gaussian Time Series
-
 superheat A Graphical Tool for Exploring Complex Datasets Using Heatmaps
-
 SuperLearner Super Learner Prediction
-
 superMICE SuperLearner Method for MICE
-
 superml Build Machine Learning Models Like Using Python's Scikit-Learn Library in R
-
 supernova Judd, McClelland, & Ryan Formatting for ANOVA Output
-
 superpc Supervised Principal Components
-
 SuperpixelImageSegmentation Superpixel Image Segmentation
-
 Superpower Simulation-Based Power Analysis for Factorial Designs
-
 SuperRanker Sequential Rank Agreement
-
 supervisedPRIM Supervised Classification Learning and Prediction using Patient Rule Induction Method (PRIM)
-
 SupMZ Detecting Structural Change with Heteroskedasticity
-
 suppdata Downloading Supplementary Data from Published Manuscripts
-
 SuppDists Supplementary Distributions
-
 support.BWS Tools for Case 1 Best-Worst Scaling
-
 support.BWS2 Tools for Case 2 Best-Worst Scaling
-
 support.BWS3 Tools for Case 3 Best-Worst Scaling
-
 support.CEs Basic Functions for Supporting an Implementation of Choice Experiments
-
 sur Companion to "Statistics Using R: An Integrative Approach"
-
 surbayes Bayesian Analysis of Seemingly Unrelated Regression Models
-
 sure Surrogate Residuals for Ordinal and General Regression Models
-
 sureLDA A Novel Multi-Disease Automated Phenotyping Method for the EHR
-
 surf Survey-Based Gross Flows Estimation
-
 SuRF.vs Subsampling Ranking Forward Selection (SuRF)
-
 surface Fitting Hansen Models to Investigate Convergent Evolution
-
 SurfaceTortoise Find Optimal Sampling Locations Based on Spatial Covariate(s)
-
 Surrogate Evaluation of Surrogate Endpoints in Clinical Trials
-
 SurrogateOutcome Estimation of the Proportion of Treatment Effect Explained by Surrogate Outcome Information
-
 SurrogateRegression Surrogate Outcome Regression Analysis
-
 SurrogateTest Early Testing for a Treatment Effect using Surrogate Marker Information
-
 surrosurvROC Surrogate Survival ROC
-
 suRtex LaTeX descriptive statistic reporting for survey data
-
 surv2sampleComp Inference for Model-Free Between-Group Parameters for Censored Survival Data
-
 survAUC Estimators of Prediction Accuracy for Time-to-Event Data
-
 survAWKMT2 Two-Sample Tests Based on Differences of Kaplan-Meier Curves
-
 survBootOutliers Concordance Based Bootstrap Methods for Outlier Detection in Survival Analysis
-
 survC1 C-Statistics for Risk Prediction Models with Censored Survival Data
-
 SurvCorr Correlation of Bivariate Survival Times
-
 survCurve Plots Survival Curves Element by Element
-
 SurvDisc Discrete Time Survival and Longitudinal Data Analysis
-
 surveil Time Series Models for Disease Surveillance
-
 surveillance Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena
-
 survELtest Comparing Multiple Survival Functions with Crossing Hazards
-
 survex Explainable Machine Learning in Survival Analysis
-
 survexp.fr Relative Survival, AER and SMR Based on French Death Rates
-
 survey Analysis of Complex Survey Samples
-
 surveyCV Cross Validation Based on Survey Design
-
 surveydata Tools to Work with Survey Data
-
 surveyoutliers Helps Manage Outliers in Sample Surveys
-
 surveyplanning Survey Planning Tools
-
 surveyvoi Survey Value of Information
-
 survHE Survival Analysis in Health Economic Evaluation
-
 SurvHiDim High Dimensional Survival Data Analysis
-
 survIDINRI IDI and NRI for Comparing Competing Risk Prediction Models with Censored Survival Data
-
 survidm Inference and Prediction in an Illness-Death Model
-
 survival Survival Analysis
-
 survival.svb Fit High-Dimensional Proportional Hazards Models
-
 survival666 Eliminate the Influence of Co-Expression Genes on Target Genes
-
 survivalAnalysis High-Level Interface for Survival Analysis and Associated Plots
-
 survivalmodels Models for Survival Analysis
-
 survivalMPL Penalised Maximum Likelihood for Survival Analysis Models
-
 survivalMPLdc Penalised Likelihood for Survival Analysis with Dependent Censoring
-
 SurvivalPath Construction and Visualization of Survival Path Tree using Time-Series Survival Data
-
 survivalREC Nonparametric Estimation of the Distribution of Gap Times for Recurrent Events
-
 survivalROC Time-dependent ROC curve estimation from censored survival data
-
 survivalsvm Survival Support Vector Analysis
-
 survivoR Data from all Seasons of Survivor (US) TV Series in Tidy Format
-
 survJamda Survival Prediction by Joint Analysis of Microarray Gene Expression Data
-
 survJamda.data Data for Package 'survJambda'
-
 SurvLong Analysis of Proportional Hazards Model with Sparse Longitudinal Covariates
-
 SurvMetrics Predictive Evaluation Metrics in Survival Analysis
-
 SurvMI Multiple Imputation Method in Survival Analysis
-
 survminer Drawing Survival Curves using 'ggplot2'
-
 survMisc Miscellaneous Functions for Survival Data
-
 survmixer Design of Clinical Trials with Survival Endpoints Based on Binary Responses
-
 survout Excel Conversion of R Surival Analysis Output
-
 survParamSim Parametric Survival Simulation with Parameter Uncertainty
-
 survPen Multidimensional Penalized Splines for Survival and Net Survival Models
-
 survPresmooth Presmoothed Estimation in Survival Analysis
-
 SurvRegCensCov Weibull Regression for a Right-Censored Endpoint with Interval-Censored Covariate
-
 survRM2 Comparing Restricted Mean Survival Time
-
 survRM2adapt Flexible and Coherent Test/Estimation Procedure Based on Restricted Mean Survival Times
-
 survRM2perm Permutation Test for Comparing Restricted Mean Survival Time
-
 survSens Sensitivity Analysis with Time-to-Event Outcomes
-
 survsim Simulation of Simple and Complex Survival Data
-
 survSNP Power Calculations for SNP Studies with Censored Outcomes
-
 survSpearman Nonparametric Spearman's Correlation for Survival Data
-
 survtmle Compute Targeted Minimum Loss-Based Estimates in Right-Censored Survival Settings
-
 SurvTrunc Analysis of Doubly Truncated Data
-
 susieR Sum of Single Effects Linear Regression
-
 SUSY Surrogate Synchrony
-
 sutteForecastR Forecasting Data using Alpha-Sutte Indicator
-
 sValues Measures of the Sturdiness of Regression Coefficients
-
 svars Data-Driven Identification of SVAR Models
-
 svd Interfaces to Various State-of-Art SVD and Eigensolvers
-
 svDialogs 'SciViews' - Standard Dialog Boxes for Windows, MacOS and Linuxes
-
 svDialogstcltk 'SciViews' - Standard Dialog Boxes using Tcl/Tk
-
 SVDNF Discrete Nonlinear Filtering for Stochastic Volatility Models
-
 svenssonm Svensson's Method
-
 svglite An 'SVG' Graphics Device
-
 svgPanZoom R 'Htmlwidget' to Add Pan and Zoom to Almost any R Graphic
-
 svgtools Manipulate SVG (Template) Files of Charts
-
 svGUI SciViews - Manage GUIs in R
-
 svgViewR 3D Animated Interactive Visualizations Using SVG and WebGL
-
 svHttp 'SciViews' - HTTP Server
-
 svIDE Functions to Ease Interactions Between R and IDE or Code Editors
-
 svines Stationary Vine Copula Models
-
 svKomodo 'SciViews' - Functions to Interface with Komodo IDE
-
 svMisc 'SciViews' - Miscellaneous Functions
-
 SVMMaj Implementation of the SVM-Maj Algorithm
-
 svmpath The SVM Path Algorithm
-
 SVN Statistically Validated Networks
-
 svplots Sample Variance Plots (Sv-Plots)
-
 svrep Tools for Creating, Updating, and Analyzing Survey Replicate Weights
-
 svrpath The SVR Path Algorithm
-
 svs Tools for Semantic Vector Spaces
-
 svSocket 'SciViews' - Socket Server
-
 svSweave 'SciViews' - 'Sweave', 'Knitr' and R Markdown Companion Functions
-
 svTools Wrappers for Tools in Other Packages for IDE Friendliness
-
 svUnit 'SciViews' - Unit, Integration and System Testing
-
 svWidgets Management of GUI Widgets, Windows, and Other GUI Resources
-
 svydiags Linear Regression Model Diagnostics for Survey Data
-
 SvyNom Nomograms for Right-Censored Outcomes from Survey Designs
-
 svyVGAM Design-Based Inference in Vector Generalised Linear Models
-
 svyweight Quick and Flexible Survey Weighting
-
 swa Subsampling Winner Algorithm for Classification
-
 swag Sparse Wrapper Algorithm
-
 swagger Dynamically Generates Documentation from a 'Swagger' Compliant API
-
 swamp Visualization, Analysis and Adjustment of High-Dimensional Data in Respect to Sample Annotations
-
 SwarmSVM Ensemble Learning Algorithms Based on Support Vector Machines
-
 swatches Read, Inspect, and Manipulate Color Swatch Files
-
 swCRTdesign Stepped Wedge Cluster Randomized Trial (SW CRT) Design
-
 swdft Sliding Window Discrete Fourier Transform (SWDFT)
-
 swdpwr Power Calculation for Stepped Wedge Cluster Randomized Trials
-
 sweater Speedy Word Embedding Association Test and Extras Using R
-
 sweep Tidy Tools for Forecasting
-
 sweidnumbr Handling of Swedish Identity Numbers
-
 swephR High Precision Swiss Ephemeris
-
 swfscAirDAS Southwest Fisheries Science Center Aerial DAS Data Processing
-
 swfscDAS Southwest Fisheries Science Center Shipboard DAS Data Processing
-
 swfscMisc Miscellaneous Functions for Southwest Fisheries Science Center
-
 swgee Simulation Extrapolation Inverse Probability Weighted Generalized Estimating Equations
-
 SWIM Scenario Weights for Importance Measurement
-
 SwimmeR Data Import, Cleaning, and Conversions for Swimming Results
-
 swimplot Tools for Creating Swimmers Plots using 'ggplot2'
-
 swirl Learn R, in R
-
 swirlify A Toolbox for Writing 'swirl' Courses
-
 SwissAir Air Quality Data of Switzerland for One Year in 30 Min Resolution
-
 swissMrP Multilevel Regression with Post-Stratification (MrP) for Switzerland
-
 swissparl Interface to the Webservices of the Swiss Parliament
-
 switchboard An Agile Widget Engine for Real-Time, Dynamic Visualizations
-
 switchcase A Simple and Flexible Switch-Case Construct for the 'R' Language
-
 switchr Installing, Managing, and Switching Between Distinct Sets of Installed Packages
-
 switchrGist Publish Package Manifests to GitHub Gists
-
 swmmr R Interface for US EPA's SWMM
-
 SWMPr Retrieving, Organizing, and Analyzing Estuary Monitoring Data
-
 SWMPrExtension Functions for Analyzing and Plotting Estuary Monitoring Data
-
 SWTools Helper Tools for Australian Hydrologists
-
 sylcount Syllable Counting and Readability Measurements
-
 syllabifyr Syllabifier for CMU Dictionary Transcriptions
-
 sylly Hyphenation and Syllable Counting for Text Analysis
-
 sylly.en Language Support for 'sylly' Package: English
-
 sym.arma Autoregressive and Moving Average Symmetric Models
-
 symbolicDA Analysis of Symbolic Data
-
 SymbolicDeterminants Symbolic Representation of Matrix Determinant
-
 symDMatrix Partitioned Symmetric Matrices
-
 symengine Interface to the 'SymEngine' Library
-
 symmetry Testing for Symmetry of Data and Model Residuals
-
 symmoments Symbolic Central and Noncentral Moments of the Multivariate Normal Distribution
-
 symSEM Symbolic Computation for Structural Equation Models
-
 SymTS Symmetric Tempered Stable Distributions
-
 syn Creates Synonyms From Target Words
-
 synchronicity Boost Mutex Functionality in R
-
 synchrony Methods for Computing Spatial, Temporal, and Spatiotemporal Statistics
-
 SynchWave Synchrosqueezed Wavelet Transform
-
 SyncMove Subsample Temporal Data to Synchronal Events and Compute the MCI
-
 SyncRNG A Synchronized Tausworthe RNG for R and Python
-
 SYNCSA Analysis of Functional and Phylogenetic Patterns in Metacommunities
-
 SynDI Synthetic Data Integration
-
 synlik Synthetic Likelihood Methods for Intractable Likelihoods
-
 synoptReg Synoptic Climate Classification and Spatial Regionalization of Environmental Data
-
 synr Explore and Process Synesthesia Consistency Test Data
-
 syntaxr An 'SPSS' Syntax Generator for Multi-Variable Manipulation
-
 Synth Synthetic Control Group Method for Comparative Case Studies
-
 synthACS Synthetic Microdata and Spatial MicroSimulation Modeling for ACS Data
-
 synthesis Generate Synthetic Data from Statistical Models
-
 synthesisr Import, Assemble, and Deduplicate Bibliographic Datasets
-
 SynthETIC Synthetic Experience Tracking Insurance Claims
-
 synthpop Generating Synthetic Versions of Sensitive Microdata for Statistical Disclosure Control
-
 SynthTools Tools and Tests for Experiments with Partially Synthetic Data Sets
-
 sys Powerful and Reliable Tools for Running System Commands in R
-
 SyScSelection Systematic Scenario Selection for Stress Testing
-
 sysfonts Loading Fonts into R
-
 sysid System Identification in R
-
 syslognet Send Log Messages to Remote 'syslog' Server
-
 Sysrecon Systematical Metabolic Reconstruction
-
 systemfit Estimating Systems of Simultaneous Equations
-
 systemfonts System Native Font Finding
-
 SystemicR Monitoring Systemic Risk
-
 syt Standard Young Tableaux
-
 syuzhet Extracts Sentiment and Sentiment-Derived Plot Arcs from Text
 
 
