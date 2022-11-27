@@ -18995,805 +18995,405 @@ nzpullover Driving Offences in New Zealand Between 2009 and 2016
 
 
 o2geosocial Reconstruction of Transmission Chains from Surveillance Data
-
 o2plsda Multiomics Data Integration
-
 oaColors OpenAnalytics Colors Package
-
 oai General Purpose 'Oai-PMH' Services Client
-
 OAIHarvester Harvest Metadata Using OAI-PMH Version 2.0
-
 oaPlots OpenAnalytics Plots Package
-
 oaqc Computation of the Orbit-Aware Quad Census
-
 Oarray Arrays with Arbitrary Offsets
-
 OasisR Outright Tool for the Analysis of Spatial Inequalities and Segregation
-
 oaxaca Blinder-Oaxaca Decomposition
-
 obAnalytics Limit Order Book Analytics
-
 OBASpatial Objective Bayesian Analysis for Spatial Regression Models
-
 obfuscatoR Obfuscation Game Designs
-
 OBIC Calculate the Open Bodem Index (OBI) Score
-
 objectProperties A Factory of Self-Describing Properties
-
 objectremover 'RStudio' Addin for Removing Objects from the Global Environment Based on Patterns and Object Type
-
 objectSignals Observer Pattern for S4
-
 OBL Optimum Block Length
-
 oblicubes 3D Rendering Using Obliquely Projected Cubes and Cuboids
-
 obliqueRSF Oblique Random Forests for Right-Censored Time-to-Event Data
-
 OBMbpkg Estimate the Population Size for the Mb Capture-Recapture Model
-
 Observation Collect and Process Physical Activity Direct Observation Data
-
 observer Observe and Check your Data
-
 OBsMD Objective Bayesian Model Discrimination in Follow-Up Designs
-
 obsSens Sensitivity Analysis for Observational Studies
-
 occ Estimates PET Neuroreceptor Occupancies
-
 occCite Querying and Managing Large Biodiversity Occurrence Datasets
-
 occTest Characterizing and Filtering Species Occurrence Data
-
 occupancy Probability Functions for Occupancy Distributions
-
 ocd High-Dimensional Multiscale Online Changepoint Detection
-
 oce Analysis of Oceanographic Data
-
 oceanexplorer Explore Our Planet's Oceans with NOAA
-
 oceanic Location Identify Tool
-
 oceanis Cartography for Statistical Analysis
-
 oceanmap A Plotting Toolbox for 2D Oceanographic Data
-
 OceanView Visualisation of Oceanographic Data and Model Output
-
 oceanwaves Ocean Wave Statistics
-
 oceCens Ordered Composite Endpoints with Censoring
-
 ocedata Oceanographic Data Sets for 'oce' Package
-
 ockc Order Constrained Solutions in k-Means Clustering
-
 oclust Gaussian Model-Based Clustering with Outliers
-
 OCNet Optimal Channel Networks
-
 ocomposition Regression for Rank-Indexed Compositional Data
-
 ocp Bayesian Online Changepoint Detection
-
 ocs4R Interface to Open Collaboration Services (OCS) REST API
-
 OCSdata Download Data from the 'Open Case Studies' Repository
-
 od Manipulate and Map Origin-Destination Data
-
 ODataQuery Querying on 'OData'
-
 ODB Open Document Databases (.odb) Management
-
 odbc Connect to ODBC Compatible Databases (using the DBI Interface)
-
 odds.converter Betting Odds Conversion
-
 odds.n.ends Odds Ratios, Contingency Table, and Model Significance from a Generalized Linear Model Object
-
 oddsapiR Access Live Sports Odds from the Odds API
-
 OddsPlotty Odds Plot to Visualise a Logistic Regression Model
-
 oddsratio Odds Ratio Calculation for GAM(M)s & GLM(M)s
-
 oddstream Outlier Detection in Data Streams
-
 odeGUTS Solve ODE for GUTS-RED-SD and GUTS-RED-IT Using Compiled Code
-
 odeintr C++ ODE Solvers Compiled on-Demand
-
 ODEnetwork Network of Differential Equations
-
 ODEsensitivity Sensitivity Analysis of Ordinary Differential Equations
-
 odetector Outlier Detection Using Partitioning Clustering Algorithms
-
 odin ODE Generation and Integration
-
 odk Convert 'ODK' or 'XLSForm' to 'SPSS' Data Frame
-
 ODMeans OD-Means: k-Means for Origin-Destination
-
 odns Access Scottish Health and Social Care Open Data
-
 odpc One-Sided Dynamic Principal Components
-
 odr Optimal Design and Statistical Power for Multilevel Experiments
-
 ODS Statistical Methods for Outcome-Dependent Sampling Designs
-
 OECD Search and Extract Data from the OECD
-
 OEFPIL Optimal Estimation of Function Parameters by Iterated Linearization
-
 oem Orthogonalizing EM: Penalized Regression for Big Tall Data
-
 oenb Tools for the OeNB Data Web Service
-
 OenoKPM Modeling the Kinetics of Carbon Dioxide Production in Alcoholic Fermentation
-
 oews2020 May 2020 Occupational Employment and Wage Statistics
-
 oews2021 May 2021 Occupational Employment and Wage Statistics
-
 officedown Enhanced 'R Markdown' Format for 'Word' and 'PowerPoint'
-
 officer Manipulation of Microsoft Word and PowerPoint Documents
-
 offlineChange Detect Multiple Change Points from Time Series
-
 ofGEM A Meta-Analysis Approach with Filtering for Identifying Gene-Level Gene-Environment Interactions with Genetic Association Data
-
 OGI Objective General Index
-
 oglmx Estimation of Ordered Generalized Linear Models
-
 ohenery Modeling of Ordinal Random Variables via Softmax Regression
-
 Ohit OGA+HDIC+Trim and High-Dimensional Linear Regression Models
-
 ohoegdm Ordinal Higher-Order Exploratory General Diagnostic Model for Polytomous Data
-
 OHPL Ordered Homogeneity Pursuit Lasso for Group Variable Selection
-
 ohtadstats Tomoka Ohta D Statistics
-
 oii Crosstab and Statistical Tests for OII MSc Stats Course
-
 ojsr Crawler and Data Scraper for Open Journal System ('OJS')
-
 OkNNE A k-Nearest Neighbours Ensemble via Optimal Model Selection for Regression
-
 olctools Open Location Code Handling in R
-
 OlinkAnalyze Facilitate Analysis of Proteomic Data from Olink
-
 ollg Computes some Measures of OLL-G Family of Distributions
-
 ollggamma Odd Log-Logistic Generalized Gamma Probability Distribution
-
 olr Optimal Linear Regression
-
 olsrr Tools for Building OLS Regression Models
-
 OmegaG Omega-Generic: Composite Reliability of Multidimensional Measures
-
 OmicKriging Poly-Omic Prediction of Complex TRaits
-
 OmicNavigator Open-Source Software for 'Omic' Data Analysis and Visualization
-
 omics '–omics' Data Analysis Toolbox
-
 OmicsPLS Data Integration with Two-Way Orthogonal Partial Least Squares
-
 omicwas Cell-Type-Specific Association Testing in Bulk Omics Experiments
-
 Omisc Univariate Bootstrapping and Other Things
-
 omnibus Helper Tools for Managing Data, Dates, Missing Values, and Text
-
 OmnibusFisher A Modified Fisher’s Method to Test Overall Gene-Level Effect
-
 omopr OMOP CDM Databases using the Tidyverse
-
 ompr Model and Solve Mixed Integer Linear Programs
-
 ompr.roi A Solver for 'ompr' that Uses the R Optimization Infrastructure ('ROI')
-
 omsvg Build and Transform 'SVG' Objects
-
 omu A Metabolomics Analysis Tool for Intuitive Figures and Convenient Metadata Collection
-
 onadata Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics
-
 OnAge Test of Between-Group Differences in the Onset of Senescence
-
 onbabynames Names Given to Babies in Ontario Between 1917 and 2018
-
 OnboardClient Bindings for Onboard Data's Building Data API
-
 onbrand Templated Reporting Workflows in Word and PowerPoint
-
 onc.api Oceans 2.0 API Client Library
-
 once Execute Expensive Operations Only Once
-
 OncoBayes2 Bayesian Logistic Regression for Oncology Dose-Escalation Trials
-
 oncoPredict Drug and Biomarker Discovery
-
 Oncotree Estimating Oncogenetic Trees
-
 oncrawlR Machine Learning for S.E.O
-
 ondisc Fast, Universal, and Intuitive Computing on Large-Scale Single-Cell Data
-
 OneArm2stage Optimal One-Arm Two-Stage Phase II Design with Survival Endpoint
-
 OneArmTTE One-Arm Clinical Trial Designs for Time-to-Event Endpoint
-
 oneclust Maximum Homogeneity Clustering for Univariate Data
-
 onehot Fast Onehot Encoding for Data.frames
-
 onelogin Interact with the 'OneLogin' API
-
 onemap Construction of Genetic Maps in Experimental Crosses
-
 onemapsgapi R Wrapper for the 'OneMap.Sg API'
-
 onepass 1password Credential Retrieval
-
 OneR One Rule Machine Learning Classification Algorithm with Enhancements
-
 OneSampleMR One Sample Mendelian Randomization and Instrumental Variable Analyses
-
 ONEST Observers Needed to Evaluate Subjective Tests
-
 OneStep One-Step Estimation
-
 onetime Run Code Only Once
-
 ONETr Efficient Authenticated Interaction with the O*NET API
-
 onewaytests One-Way Tests in Independent Groups Designs
-
 onion Octonions and Quaternions
-
 onlineBcp Online Bayesian Methods for Change Point Analysis
-
 onlineCOV Online Change Point Detection in High-Dimensional Covariance Structure
-
 onlineforecast Forecast Modelling for Online Applications
-
 onlinePCA Online Principal Component Analysis
-
 onlineretail Online Retail Dataset
-
 onls Orthogonal Nonlinear Least-Squares Regression
-
 onmaRg Import Public Health Ontario's Ontario Marginalization Index
-
 onnx R Interface to 'ONNX'
-
 onpoint Helper Functions for Point Pattern Analysis
-
 onsr Client for the 'ONS' API
-
 ontoFAST Interactive Annotation of Characters with Biological Ontologies
-
 ontologics Code-Logics to Handle Ontologies
-
 ontologyIndex Reading Ontologies into R
-
 ontologyPlot Visualising Sets of Ontological Terms
-
 ontologySimilarity Calculating Ontological Similarities
-
 OOBCurve Out of Bag Learning Curve
-
 OOI Outside Option Index
-
 oolong Create Validation Tests for Automated Content Analysis
-
 oompaBase Class Unions, Matrix Operations, and Color Schemes for OOMPA
-
 oompaData Data to Illustrate OOMPA Algorithms
-
 ooplah Helper Functions for Class Object-Oriented Programming
-
 oops S3 Style Object Oriented Programming
-
 OOR Optimistic Optimization in R
-
 OOS Out-of-Sample Time Series Forecasting
-
 oottest Out-of-Treatment Testing
-
 opa An Implementation of Ordinal Pattern Analysis
-
 opalr 'Opal' Data Repository Client and 'DataSHIELD' Utils
-
 OPC The Online Principal Component Estimation Method
-
 opdisDownsampling Optimal Distribution Preserving Down-Sampling of Bio-Medical Data
-
 OPDOE Optimal Design of Experiments
-
 openadds Client to Access 'Openaddresses' Data
-
 openai R Wrapper for OpenAI API
-
 openair Tools for the Analysis of Air Pollution Data
-
 openairmaps Create Interactive Web Maps of Air Pollution Data
-
 openalexR Getting Bibliographic Records from 'OpenAlex' Database Using 'DSL' API
-
 openbankeR R Client for Querying the UK 'Open Banking' ('Open Data') API
-
 openblender Request  API Services
-
 opencage Geocode with the OpenCage API
-
 OpenCL Interface allowing R to use OpenCL
-
 opencpu Producing and Reproducing Results
-
 openCR Open Population Capture-Recapture
-
 opencv Bindings to 'OpenCV' Computer Vision Library
-
 opendatatoronto Access the City of Toronto Open Data Portal
-
 opendotaR Interface for OpenDota API
-
 openEBGM EBGM Disproportionality Scores for Adverse Event Data Mining
-
 openeo Client Interface for 'openEO' Servers
-
 OpenImageR An Image Processing Toolkit
-
 openintro Data Sets and Supplemental Functions from 'OpenIntro' Textbooks and Labs
-
 OpenLand Quantitative Analysis and Visualization of LUCC
-
 openmetrics A 'Prometheus' Client for R Using the 'OpenMetrics' Format
-
 OpenML Open Machine Learning and Open Data Platform
-
 openMSE Easily Install and Load the 'openMSE' Packages
-
 OpenMx Extended Structural Equation Modelling
-
 openNLP Apache OpenNLP Tools Interface
-
 openNLPdata Apache OpenNLP Jars and Basic English Language Models
-
 OpenRepGrid Tools to Analyze Repertory Grid Data
-
 OpenRepGrid.ic Interpretive Clustering for Repertory Grids
-
 openSkies Retrieval, Analysis and Visualization of Air Traffic Data
-
 OpenSpecy Analyze, Process, Identify, and Share Raman and (FT)IR Spectra
-
 openssl Toolkit for Encryption, Signatures and Certificates Based on OpenSSL
-
 openSTARS An Open Source Implementation of the 'ArcGIS' Toolbox 'STARS'
-
 OpenStreetMap Access to Open Street Map Raster Images
-
 opentimsr An Open-Source Loader for Bruker's timsTOF Data Files
-
 OpenTreeChronograms Open Tree of Life Chronograms
-
 opentripplanner Setup and connect to 'OpenTripPlanner'
-
 openVA Automated Method for Verbal Autopsy
-
 openxlsx Read, Write and Edit xlsx Files
-
 openxlsx2 Read, Write and Edit 'xlsx' Files
-
 opera Online Prediction by Expert Aggregation
-
 operator.tools Utilities for Working with R's Operators
-
 operators Additional Binary Operators
-
 opGMMassessment Optimized Automated Gaussian Mixture Assessment
-
 OPI Open Perimetry Interface
-
 opitools Analyzing the Opinions in a Big Text Document
-
 Opportunistic Routing Distribution, Broadcasts, Transmissions and Receptions in an Opportunistic Network
-
 oppr Optimal Project Prioritization
-
 Opt5PL Optimal Designs for the 5-Parameter Logistic Model
-
 optbdmaeAT Optimal Block Designs for Two-Colour cDNA Microarray Experiments
-
 optbin Optimal Binning of Data
-
 optBiomarker Estimation of Optimal Number of Biomarkers for Two-Group Microarray Based Classifications at a Given Error Tolerance Level for Various Classification Rules
-
 OptCirClust Circular, Periodic, or Framed Data Clustering: Fast, Optimal, and Reproducible
-
 optedr Calculating Optimal and D-Augmented Designs
-
 optextras Tools to Support Optimization Possibly with Bounds and Masks
-
 OptGS Near-Optimal and Balanced Group-Sequential Designs for Clinical Trials with Continuous Outcomes
-
 OptHedging Estimation of value and hedging strategy of call and put options
-
 OptHoldoutSize Estimation of Optimal Size for a Holdout Set for Updating a Predictive Score
-
 opticskxi OPTICS K-Xi Density-Based Clustering
-
 opticut Likelihood Based Optimal Partitioning and Indicator Species Analysis
-
 optifunset Set Options if Unset
-
 optigrab Command-Line Parsing for an R World
-
 optim.functions Standard Benchmark Optimization Functions
-
 OptimalCutpoints Computing Optimal Cutpoints in Diagnostic Tests
-
 OptimalDesign A Toolbox for Computing Efficient Designs of Experiments
-
 optimall Allocate Samples Among Strata
-
 OptimalRerandExpDesigns Optimal Rerandomization Experimental Designs
-
 OptimalSurrogate Model Free Approach to Quantifying Surrogacy
-
 optimalThreshold Bayesian Methods for Optimal Threshold Estimation
-
 OptimalTiming Optimal Timing Identification
-
 OptimaRegion Confidence Regions for Optima
-
 optimbase R Port of the 'Scilab' Optimbase Module
-
 optimCheck Graphical and Numerical Checks for Mode-Finding Routines
-
 optimg General-Purpose Gradient-Based Optimization
-
 optimization Flexible Optimization of Complex Loss Functions with State and Parameter Space Constraints
-
 optimizeR Unified Framework for Numerical Optimizer
-
 optimLanduse Robust Land-Use Optimization
-
 optimos.prime Optimos Prime Helps Calculate Autoecological Data for Biological Species
-
 optimParallel Parallel Version of the L-BFGS-B Optimization Method
-
 optimr A Replacement and Extension of the 'optim' Function
-
 optimsimplex R Port of the 'Scilab' Optimsimplex Module
-
 optimStrat Choosing the Sample Strategy
-
 optimus Model Based Diagnostics for Multivariate Cluster Analysis
-
 optimx Expanded Replacement and Extension of the 'optim' Function
-
 optinterv Optimal Intervention
-
 optional Optional Types and Pattern Matching
-
 OptionPricing Option Pricing with Efficient Simulation Algorithms
-
 optionstrat Utilizes the Black-Scholes Option Pricing Model to Perform Strategic Option Analysis and Plot Option Strategies
-
 optiscale Optimal Scaling
-
 optiSel Optimum Contribution Selection and Population Genetics
-
 OptiSembleForecasting Optimization Based Ensemble Forecasting Using MCS Algorithm
-
 optiSolve Linear, Quadratic, and Rational Optimization
-
 optistock Determine Optimum Stocking Times Used in Fishery Enhancements
-
 OptM Estimating the Optimal Number of Migration Edges from 'Treemix'
-
 optmatch Functions for Optimal Matching
-
 optparse Command Line Option Parser
-
 optpart Optimal Partitioning of Similarity Relations
-
 optR Optimization Toolbox for Solving Linear Systems
-
 optrcdmaeAT Optimal Row-Column Designs for Two-Colour cDNA Microarray Experiments
-
 optrefine Optimally Refine Strata
-
 OPTS Optimization via Subsampling (OPTS)
-
 OptSig Optimal Level of Significance for Regression and Other Statistical Tests
-
 OPTtesting Optimal Testing
-
 optweight Targeted Stable Balancing Weights Using Optimization
-
 opusminer OPUS Miner Algorithm for Filtered Top-k Association Discovery
-
 OpVaR Statistical Methods for Modelling Operational Risk
-
 ora Convenient Tools for Working with Oracle Databases
-
 orca Computation of Graphlet Orbit Counts in Sparse Graphs
-
 orclus Subspace Clustering Based on Arbitrarily Oriented Projected Cluster Generation
-
 ORCME Order Restricted Clustering for Microarray Experiments
-
 Orcs Omnidirectional R Code Snippets
-
 orcutt Estimate Procedure in Case of First Order Autocorrelation
-
 ordbetareg Ordered Beta Regression Models with Brms
-
 OrdCD Ordinal Causal Discovery
-
 ordcrm Likelihood-Based Continual Reassessment Method (CRM) Dose Finding Designs
-
 ordDisp Separating Location and Dispersion in Ordinal Regression Models
-
 ORdensity Identification of Differentially Expressed Genes
-
 ordering Test, Check, Verify, Investigate the Monotonic Properties of Vectors
-
 orderly Lightweight Reproducible Reporting
-
 orders Sampling from k-th Order Statistics of New Families of Distributions
-
 orderstats Efficiently Generates Random Order Statistic Variables
-
 OrdFacReg Least Squares, Logistic, and Cox-Regression with Ordered Predictors
-
 ordiBreadth Ordinated Diet Breadth
-
 ordinal Regression Models for Ordinal Data
-
 ordinalbayes Bayesian Ordinal Regression for High-Dimensional Data
-
 ordinalClust Ordinal Data Clustering, Co-Clustering and Classification
-
 ordinalCont Ordinal Regression Analysis for Continuous Scales
-
 ordinalForest Ordinal Forests: Prediction and Variable Ranking with Ordinal Target Variables
-
 ordinalgmifs Ordinal Regression for High-Dimensional Data
-
 ordinalLBM Co-Clustering of Ordinal Data via Latent Continuous Random Variables
-
 ordinalNet Penalized Ordinal Regression
-
 ordinalpattern Tests Based on Ordinal Patterns
-
 ordinalRR Analysis of Repeatability and Reproducibility Studies with Ordinal Measurements
-
 OrdMonReg Compute least squares estimates of one bounded or two ordered isotonic regression curves
-
 OrdNor Concurrent Generation of Ordinal and Normal Data with Given Correlation Matrix and Marginal Distributions
-
 ordPens Selection, Fusion, Smoothing and Principal Components Analysis for Ordinal Variables
-
 ordr A 'tidyverse' Extension for Ordinations and Biplots
-
 ore An R Interface to the Onigmo Regular Expression Library
-
 oreo Large Amplitude Oscillatory Shear (LAOS)
-
 ores Connector to the Objective Revision Evaluation Service (ORES)
-
 orf Ordered Random Forests
-
 org Organising Projects
-
 organizr Shortcuts for File Creation with Informative Prefixes
-
 OrgMassSpecR Organic Mass Spectrometry
-
 orgR Analyse Text Files Created by Emacs' Org mode
-
 orgutils Helper Functions for Org Files
-
 ORIClust Order-Restricted Information Criterion-Based Clustering Algorithm
-
 orientlib Support for Orientation Data
-
 origami Generalized Framework for Cross-Validation
-
 origin Explicitly Qualifying Namespaces by Automatically Adding 'pkg::' to Functions
-
 ORION Ordinal Relations
-
 ORKM The Online Regularized K-Means Clustering Algorithm
-
 orloca Operations Research LOCational Analysis Models
-
 orloca.es Spanish version of orloca package. Modelos de localizacion en investigacion operativa
-
 ormBigData Fitting Semiparametric Cumulative Probability Models for Big Data
-
 ormPlot Advanced Plotting of Ordinal Regression Models
-
 oro.dicom Rigorous - DICOM Input / Output
-
 oro.nifti Rigorous - 'NIfTI' + 'ANALYZE' + 'AFNI' : Input / Output
-
 oro.pet Rigorous - Positron Emission Tomography
-
 orsifronts Southern Ocean Frontal Distributions (Orsi)
-
 orsk Converting Odds Ratio to Relative Risk in Cohort Studies with Partial Data Information
-
 orthoDr Semi-Parametric Dimension Reduction Models Using Orthogonality Constrained Optimization
-
 orthogonalsplinebasis Orthogonal B-Spline Basis Functions
-
 OrthoPanels Dynamic Panel Models with Orthogonal Reparameterization of Fixed Effects
-
 orthopolynom Collection of Functions for Orthogonal and Orthonormal Polynomials
-
 ORTSC Connects to Google Cloud API for Label Detection
-
 oRus Operational Research User Stories
-
 OryzaProbe Rice Microarray Probe ID Conversion, from Probe ID to RAP-DB ID
-
 osc Orthodromic Spatial Clustering
-
 oscar Optimal Subset Cardinality Regression (OSCAR) Models Using the L0-Pseudonorm
-
 OscillatorGenerator Generation of Customizable, Discretized Time Series of Oscillating Species
-
 OSCV One-Sided Cross-Validation
-
 osd Orthogonal Signal Deconvolution for Spectra Deconvolution in GC-MS and GCxGC-MS Data
-
 osDesign Design, Planning and Analysis of Observational Studies
-
 OSDR Finds an Optimal System of Distinct Representatives
-
 osfr Interface to the 'Open Science Framework' ('OSF')
-
 oshka Recursive Quoted Language Expansion
-
 oskeyring Raw System Credential Store Access from R
-
 OSLdecomposition Signal Component Analysis for Optically Stimulated Luminescence
-
 osmdata Import 'OpenStreetMap' Data as Simple Features or Spatial Objects
-
 osmextract Download and Import Open Street Map Data Extracts
-
 osmplotr Bespoke Images of 'OpenStreetMap' Data
-
 OSMscale Add a Scale Bar to 'OpenStreetMap' Plots
-
 OSNMTF Orthogonal Sparse Non-Negative Matrix Tri-Factorization
-
 osqp Quadratic Programming Solver using the 'OSQP' Library
-
 osrm Interface Between R and the OpenStreetMap-Based Routing Service OSRM
-
 osrmr Wrapper for the 'OSRM' API
-
 OSsurvival Assessing Surrogacy with a Censored Outcome
-
 Ostats O-Stats, or Pairwise Community-Level Niche Overlap Statistics
-
 OSTE Optimal Survival Trees Ensemble
-
 ot 'Open Tracing'
-
 OTE Optimal Trees Ensembles for Regression, Classification and Class Membership Probability Estimation
-
 otinference Inference for Optimal Transport
-
 otp One Time Password Generation and Verification
-
 otpr An R Wrapper for the 'OpenTripPlanner' REST API
-
 OTrecod Data Fusion using Optimal Transportation Theory
-
 otrimle Robust Model-Based Clustering
-
 OTRselect Variable Selection for Optimal Treatment Decision
-
 otsad Online Time Series Anomaly Detectors
-
 ottr An R Autograding Extension for Otter-Grader
-
 ottrpal Companion Tools for Open-Source Tools for Training Resources (OTTR)
-
 otuSummary Summarizing OTU Table Regarding the Composition, Abundance and Beta Diversity of Abundant and Rare Biospheres
-
 OTUtable North Temperate Lakes - Microbial Observatory 16S Time Series Data and Functions
-
 ouch Ornstein-Uhlenbeck Models for Phylogenetic Comparative Hypotheses
-
 outbreaker2 Bayesian Reconstruction of Disease Outbreaks by Combining Epidemiologic and Genomic Data
-
 outbreaks A Collection of Disease Outbreak Data
-
 outcomerate AAPOR Survey Outcome Rates
-
 outerbase Outer Product Regression
-
 outForest Multivariate Outlier Detection and Replacement
-
 outlierensembles A Collection of Outlier Ensemble Algorithms
-
 outliers Tests for Outliers
-
 OutliersO3 Draws Overview of Outliers (O3) Plots
-
 outliertree Explainable Outlier Detection Through Decision Tree Conditioning
-
 OutrankingTools Functions for Solving Multiple-criteria Decision-making Problems
-
 outreg Regression Table for Publication
-
 OUwie Analysis of Evolutionary Rates in an OU Framework
-
 overdisp Overdispersion in Count Data Multiple Regression Analysis
-
 overlap Estimates of Coefficient of Overlapping for Animal Activity Patterns
-
 overlapping Estimation of Overlapping in Empirical Distributions
-
 overlapptest Test Overlapping of Polygons Against Random Rotation
-
 overture Tools for Writing MCMC
-
 overviewR Easily Extracting Information About Your Data
-
 OVtool Omitted Variable Tool
-
 owd Open Working Directory
-
 owdbr Open Welfare Data Brazil
-
 OWEA Optimal Weight Exchange Algorithm for Optimal Designs for Three Models
-
 OwenQ Owen Q-Function
-
 owidR Import Data from Our World in Data
-
 owmr OpenWeatherMap API Wrapper
-
 ows4R Interface to OGC Web-Services (OWS)
-
 ox Shorthand if-Else
-
 oxcAAR Interface to 'OxCal' Radiocarbon Calibration
-
 OxyBS Processing of Oxy-Bisulfite Microarray Data
-
 oysteR Scans R Projects for Vulnerable Third Party Dependencies
-
 oz Plot the Australian Coastline and States
-
 ozmaps Australia Maps
 
 
