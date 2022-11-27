@@ -22066,3737 +22066,1871 @@ ProbYX Inference for the Stress-Strength Model R = P(Y PowerPoint
 
 
 r2r R-Object to R-Object Hash Maps
-
 r2redux R2 Statistic
-
 r2resize In-Text Resizing for Containers, Images and Data Tables in 'Shiny', 'Markdown' and 'Quarto' Documents
-
 r2rtf Easily Create Production-Ready Rich Text Format (RTF) Table and Figure
-
 R2sample Two Sample Problem Routines using Permutation
-
 r2shortcode Shorten Package Function Names
-
 r2spss Format R Output to Look Like SPSS
-
 r2sundials Wrapper for 'SUNDIALS' Solving ODE and Sensitivity Problem
-
 R2SWF Convert R Graphics to Flash Animations
-
 r2symbols Symbols for 'Markdown' and 'Shiny' Application
-
 R2ucare Goodness-of-Fit Tests for Capture-Recapture Models
-
 R2wd Write MS-Word documents from R
-
 R2WinBUGS Running 'WinBUGS' and 'OpenBUGS' from 'R' / 'S-PLUS'
-
 r3dmol Create Interactive 3D Visualizations of Molecular Data
-
 r3js 'WebGL'-Based 3D Plotting using the 'three.js' Library
-
 r3PG Simulating Forest Growth using the 3-PG Model
-
 R3port Report Functions to Create HTML and PDF Files
-
 R4CouchDB A R Convenience Layer for CouchDB 2.0
-
 r4googleads 'Google Ads API' Interface
-
 r4lineups Statistical Inference on Lineup Fairness
-
 r4ss R Code for Stock Synthesis
-
 r5r Rapid Realistic Routing with 'R5'
-
 R6 Encapsulated Classes with Reference Semantics
-
 R62S3 Automatic Method Generation from R6
-
 R6causal R6 Class for Structural Causal Models
-
 R6DS R6 Reference Class Based Data Structures
-
 r6extended Extension for 'R6' Base Class
-
 r6methods Make Methods for R6 Classes
-
 R6P Design Patterns in R
-
 ra4bayesmeta Reference Analysis for Bayesian Meta-Analysis
-
 rabhit Inference Tool for Antibody Haplotype
-
 rabi Generate Codes to Uniquely and Robustly Identify Individuals for Animal Behavior Studies
-
 RABR Simulations for Response Adaptive Block Randomization Design
-
 RAC R Package for Aqua Culture
-
 racademyocean Client for 'AcademyOcean API'
-
 RaceID Identification of Cell Types and Inference of Lineage Trees from Single-Cell RNA-Seq Data
-
 raceland Pattern-Based Zoneless Method for Analysis and Visualization of Racial Topography
-
 racir Rapid A/Ci Response (RACiR) Data Analysis
-
 ractivecampaign Loading Data from 'ActiveCampaign API v3'
-
 rADA Statistical Analysis and Cut-Point Determination of Immunoassays
-
 RADanalysis Normalization and Study of Rank Abundance Distributions
-
 radar Fundamental Formulas for Radar
-
 radarBoxplot Implementation of the Radar-Boxplot
-
 radarchart Radar Chart from 'Chart.js'
-
 RadData Nuclear Decay Data for Dosimetric Calculations - ICRP 107
-
 RadialVisGadgets Interactive Gadgets for Radial Visualization Approaches
-
 radiant Business Analytics using R and Shiny
-
 radiant.basics Basics Menu for Radiant: Business Analytics using R and Shiny
-
 radiant.data Data Menu for Radiant: Business Analytics using R and Shiny
-
 radiant.design Design Menu for Radiant: Business Analytics using R and Shiny
-
 radiant.model Model Menu for Radiant: Business Analytics using R and Shiny
-
 radiant.multivariate Multivariate Menu for Radiant: Business Analytics using R and Shiny
-
 RadioSonde Tools for Plotting Skew-T Diagrams and Wind Profiles
-
 radir Inverse-Regression Estimation of Radioactive Doses
-
 radlibs Build Your Own Madlibs!
-
 RadOnc Analytical Tools for Radiation Oncology
-
 radous Query Random User Data from the Random User Generator API
-
 radsafer Radiation Safety
-
 RADstackshelpR Optimize the De Novo Stacks Pipeline via R
-
 Radviz Project Multidimensional Data in 2D Space
-
 RAdwords Loading Google Adwords Data into R
-
 RAEN Random Approximate Elastic Net (RAEN) Variable Selection Method
-
 rafalib Convenience Functions for Routine Data Exploration
-
 Rage Life History Metrics from Matrix Population Models
-
 ragg Graphic Devices Based on AGG
-
 RagGrid A Wrapper of the 'JavaScript' Library 'agGrid'
-
 rags2ridges Ridge Estimation of Precision Matrices from High-Dimensional Data
-
 ragt2ridges Ridge Estimation of Vector Auto-Regressive (VAR) Processes
-
 ragtop Pricing Equity Derivatives with Extensions of Black-Scholes
-
 rai Revisiting-Alpha-Investing for Polynomial Regression
-
 rainbow Bagplots, Boxplots and Rainbow Plots for Functional Data
-
 RAINBOWR Genome-Wide Association Study with SNP-Set Methods
-
 raincin Ranking with Incomplete Information
-
 rainette The Reinert Method for Textual Data Clustering
-
 RainfallErosivityFactor The Rainfall-Runoff Erosivity Factor
-
 rainfarmr Stochastic Precipitation Downscaling with the RainFARM Method
-
 rairtable Efficient Wrapper for the 'Airtable' API
-
 RaJIVE Robust Angle Based Joint and Individual Variation Explained
-
 rakeR Easy Spatial Microsimulation (Raking) in R
-
 ralger Easy Web Scraping
-
 RALSA R Analyzer for Large-Scale Assessments
-
 RamanMP Analysis and Identification of Raman Spectra of Microplastics
-
 Ramble Parser Combinator for R
-
 rAmCharts JavaScript Charts Tool
-
 rAmCharts4 Interface to the JavaScript Library 'amCharts 4'
-
 ramchoice Revealed Preference and Attention Analysis in Random Limited Attention Models
-
 RAMClustR Mass Spectrometry Metabolomics Feature Clustering and Interpretation
-
 ramcmc Robust Adaptive Metropolis Algorithm
-
 rameritrade 'TD Ameritrade' API Interface for R
-
 ramify Additional Matrix Functionality
-
 ramlegacy Download and Read RAM Legacy Stock Assessment Database
-
 RAMP Regularized Generalized Linear Models with Interaction Effects
-
 RAMpath Structural Equation Modeling Using the Reticular Action Model (RAM) Notation
-
 ramps Bayesian Geostatistical Modeling with RAMPS
-
 RaMS R Access to Mass-Spec Data
-
 ramsvm Reinforced Angle-Based Multicategory Support Vector Machines
-
 randChecks Covariate Balance Checks: Randomization Tests and Graphical Diagnostics
-
 randcorr Generate a Random p x p Correlation Matrix
-
 randgeo Generate Random 'WKT' or 'GeoJSON'
-
 RandMeta Efficient Numerical Algorithm for Exact Inference in Meta Analysis
-
 rando Context Aware Random Numbers
-
 random True Random Numbers using RANDOM.ORG
-
 random.polychor.pa A Parallel Analysis with Polychoric Correlation Matrices
-
 randomcoloR Generate Attractive Random Colors
-
 RandomFieldsUtils Utilities for the Simulation and Analysis of Random Fields and Genetic Data
-
 randomForest Breiman and Cutler's Random Forests for Classification and Regression
-
 randomForestExplainer Explaining and Visualizing Random Forests in Terms of Variable Importance
-
 RandomForestsGLS Random Forests for Dependent Data
-
 randomForestSRC Fast Unified Random Forests for Survival, Regression, and Classification (RF-SRC)
-
 randomGLM Random General Linear Model Prediction
-
 randomizationInference Flexible Randomization-Based Inference
-
 randomizeBE Create a Random List for Crossover Studies
-
 randomizeR Randomization for Clinical Trials
-
 randomizr Easy-to-Use Tools for Common Forms of Random Assignment and Sampling
-
 randomLCA Random Effects Latent Class Analysis
-
 randomNames Generate Random Given and Surnames
-
 randomUniformForest Random Uniform Forests for Classification, Regression and Unsupervised Learning
-
 Randomuseragent Filtering and Randomly Sampling Real User-Agent Strings
-
 RandPro Random Projection with Classification
-
 randquotes Get Random Quotes from Quotes on Design API
-
 randtests Testing Randomness in R
-
 randtoolbox Toolbox for Pseudo and Quasi Random Number Generation and Random Generator Tests
-
 RandVar Implementation of Random Variables
-
 rangeBuilder Occurrence Filtering, Geographic Standardization and Generation of Species Range Polygons
-
 rangemap Simple Tools for Defining Species Ranges
-
 rangeMapper A Platform for the Study of Macro-Ecology of Life History Traits
-
 rangeModelMetadata Provides Templates for Metadata Files Associated with Species Range Models
-
 ranger A Fast Implementation of Random Forests
-
 RanglaPunjab Displays Palette of 5 Colors
-
 RankAggreg Weighted Rank Aggregation
-
 RankAggregator Aggregation of (Partial) Ordinal Rankings
-
 RankAggSIgFUR Polynomially Bounded Rank Aggregation under Kemeny's Axiomatic Approach
-
 Rankcluster Model-Based Clustering for Multivariate Partial Ranking Data
-
 rankdifferencetest Kornbrot's Rank Difference Test
-
 rankdist Distance Based Ranking Models
-
 rankFD Rank-Based Tests for General Factorial Designs
-
 rankhazard Rank-Hazard Plots
-
 rankICC Rank Intraclass Correlation for Clustered Data
-
 RankingProject The Ranking Project: Visualizations for Comparing Populations
-
 rankinPlot Convenient Plotting for the Modified Rankin Scale and Other Ordinal Outcome Data
-
 rankrate Statistical Tools for Preference Learning with Rankings and Ratings
-
 RankResponse Ranking Responses in a Single Response Question or a Multiple Response Question
-
 RANKS Ranking of Nodes with Kernelized Score Functions
-
 rankUncertainty Methods for Working with Uncertainty in Rankings
-
 RANN Fast Nearest Neighbour Search (Wraps ANN Library) Using L2 Metric
-
 rapbase Base Functions and Resources for Rapporteket
-
 rapiclient Dynamic OpenAPI/Swagger Client
-
 RApiDatetime R API Datetime
-
 rapidjsonr 'Rapidjson' C++ Header Files
-
 rapidoc Generates 'RapiDoc' Documentation from an 'OpenAPI' Specification
-
 RapidoPGS A Fast and Light Package to Compute Polygenic Risk Scores
-
 RapidPolygonLookup POLYGON LOOKUP USING KD TREES
-
 rapidraker Rapid Automatic Keyword Extraction (RAKE) Algorithm
-
 rapidxmlr 'Rapidxml' C++ Header Files
-
 RApiSerialize R API Serialization
-
 RAppArmor Bindings to AppArmor and Security Related Linux Tools
-
 rappdirs Application Directories: Determine Where to Save Data, Caches, and Logs
-
 rapport A Report Templating System
-
 rapportools Miscellaneous (Stats) Helper Functions with Sane Defaults for Reporting
-
 rappsflyer Work with AppsFlyer API
-
 RaProR Calculate Sketches using Random Projections to Reduce Large Data Sets
-
 rapsimng APSIM Next Generation
-
 RAPTOR Row and Position Tracheid Organizer
-
 raptr Representative and Adequate Prioritization Toolkit in R
-
 RAQSAPI A Simple Interface to the US EPA Air Quality System Data Mart API
-
 Raquifer Estimate the Water Influx into Hydrocarbon Reservoirs
-
 rare Linear Model with Tree-Based Lasso Regularization for Rare Features
-
 RareComb Combinatorial and Statistical Analyses of Rare Events
-
 Rarefy Rarefaction Methods
-
 rareNMtests Ecological and Biogeographical Null Model Tests for Comparing Rarefaction Curves
-
 Rarity Calculation of Rarity Indices for Species and Assemblages of Species
-
 rarms Access Data from the USDA ARMS Data API
-
 rARPACK Solvers for Large Scale Eigenvalue and SVD Problems
-
 RaschSampler Rasch Sampler
-
 rasclass Supervised Raster Image Classification
-
 RaSEn Random Subspace Ensemble Classification and Variable Screening
-
 rassta Raster-Based Spatial Stratification Algorithms
-
 raster Geographic Data Analysis and Modeling
-
 rasterbc Access Forest Ecology Layers for British Columbia in 2001-2018
-
 rasterdiv Diversity Indices for Numerical Matrices
-
 rasterDT Fast Raster Summary and Manipulation
-
 rasterImage An Improved Wrapper of image()
-
 rasterize Rasterize Graphical Output
-
 rasterKernelEstimates Kernel Based Estimates on in-Memory Raster Images
-
 rasterpdf Plot Raster Graphics in PDF Files
-
 rasterpic Create a Spatial Raster from Plain Images
-
 rasterVis Visualization Methods for Raster Data
-
 RAT Research Assessment Tools
-
 Rata Automated Test Assembly
-
 ratdat Portal Project Teaching Database
-
 ratelimitr Rate Limiting for R
-
 ratematrix Bayesian Estimation of the Evolutionary Rate Matrix
-
 rater Statistical Models of Repeated Categorical Rating Data
-
 rateratio.test Exact Rate Ratio Test
-
 raters A Modification of Fleiss' Kappa in Case of Nominal and Ordinal Variables
-
 ratesci Confidence Intervals for Comparisons of Binomial or Poisson Rates
-
 RATest Randomization Tests
-
 RAthena Connect to 'AWS Athena' using 'Boto3' ('DBI' Interface)
-
 RatingScaleReduction Rating Scale Reduction Procedure
-
 RationalExp Rationalizing Rational Expectations. Tests and Deviations
-
 rationalfun Manipulation of Rational Functions
-
 ratios Calculating Ratios Between Two Data Sets and Correction for Adhering Particles on Plants
-
 rATTAINS Access EPA 'ATTAINS' Data
-
 rattle Graphical User Interface for Data Science in R
-
 Ravages Rare Variant Analysis and Genetic Simulations
-
 ravedash Dashboard System for Reproducible Visualization of 'iEEG'
-
 raveio File-System Toolbox for RAVE Project
-
 ravelRy An Interface to the 'Ravelry' API
-
 raven.rdf An R Interface for Raven DataFrames (Beta0)
-
 RavenR Raven Hydrological Modelling Framework R Support and Analysis
-
 rAverage Parameter Estimation for the Averaging Model of Information Integration Theory
-
 ravetools Signal Processing Toolbox for Analyzing 'Electrophysiology' Data
-
 raw R Actuarial Workshops
-
 RawHummus Raw Data Quality Control Tool for LC-MS System
-
 rawKS Easily Get True-Positive Rate and False-Positive Rate and KS Statistic
-
 raws.profile Managing Profiles on Amazon Web Service
-
 rayimage Image Processing for Simulated Cameras
-
 raymolecule Parse and Render Molecular Structures in 3D
-
 rayrender Build and Raytrace 3D Scenes
-
 rayshader Create Maps and Visualize Data in 2D and 3D
-
 raytracing Rossby Wave Ray Tracing
-
 rayvertex 3D Software Rasterizer
-
 rb3 Download and Parse Public Data Released by B3 Exchange
-
 rbace 'Bielefeld' Academic Search Engine ('BASE') Client
-
 rbacon Age-Depth Modelling using Bayesian Statistics
-
 rBahadur Assortative Mating Simulation and Multivariate Bernoulli Variates
-
 rbart Bayesian Trees for Conditional Mean and Variance
-
 RBaseX 'BaseX' Client
-
 rBayesianOptimization Bayesian Optimization of Hyperparameters
-
 rbcb R Interface to Brazilian Central Bank Web Services
-
 rbch Extraction and Analysis of Data from the Bitcoin Cash (BCH) Blockchain
-
 rBDAT Implementation of BDAT Tree Taper Fortran Functions
-
 Rbeast Bayesian Change-Point Detection and Time Series Decomposition
-
 rbedrock Analysis and Manipulation of Data from Minecraft Bedrock Edition
-
 rbenchmark Benchmarking routine for R
-
 Rbent Robust Bent Line Regression
-
 rbenvo Built Environment Objects
-
 RBesT R Bayesian Evidence Synthesis Tools
-
 rBeta2009 The Beta Random Number and Dirichlet Random Vector Generating Functions
-
 RBF Robust Backfitting
-
 rbgm Tools for 'Box Geometry Model' (BGM) Files and Topology for the Atlantis Ecosystem Model
-
 Rbgs Reading and Background Subtraction in Videos
-
 rbhl Interface to the 'Biodiversity' 'Heritage' Library
-
 rbi Interface to 'LibBi'
-
 rbi.helpers 'RBi' Helper Functions
-
 rBiasCorrection Correct Bias in DNA Methylation Analyses
-
 rbibutils Read 'Bibtex' Files and Convert Between Bibliography Formats
-
 rbin Tools for Binning Data
-
 rbioacc Inference and Prediction of ToxicoKinetic (TK) Models
-
 rbioapi User-Friendly R Interface to Biologic Web Services' API
-
 rbiom Read/Write, Transform, and Summarize 'BIOM' Data
-
 rbiouml Interact with BioUML Server
-
 rbison Interface to the 'USGS' 'BISON' API
-
 rbit Binary Indexed Tree
-
 RblDataLicense R Interface to 'Bloomberg Data License'
-
 Rblpapi R Interface to 'Bloomberg'
-
 rblt Bio-Logging Toolbox
-
 rBMF Boolean Matrix Factorization
-
 rbmi Reference Based Multiple Imputation
-
 rbmn Handling Linear Gaussian Bayesian Networks
-
 RBMRB BMRB Data Access and Visualization
-
 RBNZ Download Data from the Reserve Bank of New Zealand Website
-
 rbokeh R Interface for Bokeh
-
 rbooster AdaBoost Framework for Any Classifier
-
 Rborist Extensible, Parallelizable Implementation of the Random Forest Algorithm
-
 rbounds Perform Rosenbaum Bounds Sensitivity Tests for Matched and Unmatched Data
-
 RBPcurve The Residual-Based Predictiveness Curve
-
 rbridge Restricted Bridge Estimation
-
 rbscCI Blyth-Still-Casella Confidence Interval
-
 rbtc Bitcoin API
-
 RBtest Regression-Based Approach for Testing the Type of Missing Data
-
 rbtt Alternative Bootstrap-Based t-Test Aiming to Reduce Type-I Error for Non-Negative, Zero-Inflated Data
-
 rbw Residual Balancing Weights for Marginal Structural Models
-
 RCA Relational Class Analysis
-
 rcage Regionalization of Multiscale Spatial Processes
-
 rcaiman CAnopy IMage ANalysis
-
 RCAL Regularized Calibrated Estimation
-
 RCALI Calculation of the Integrated Flow of Particles Between Polygons
-
 Rcan Cancer Registry Data Analysis and Visualisation
-
 rcanvec Access and Plot CanVec and CanVec+ Data for Rapid Basemap Creation in Canada
-
 Rcapture Loglinear Models for Capture-Recapture Experiments
-
 RCarb Dose Rate Modelling of Carbonate-Rich Samples
-
 rcarbon Calibration and Analysis of Radiocarbon Dates
-
 rcartocolor 'CARTOColors' Palettes
-
 rCAT Conservation Assessment Tools
-
 Rcatch22 Calculation of 22 CAnonical Time-Series CHaracteristics
-
 rCBA CBA Classifier
-
 rcbalance Large, Sparse Optimal Matching with Refined Covariate Balance
-
 rcbayes Estimate Rogers-Castro Migration Age Schedules with Bayesian Models
-
 RCBR Random Coefficient Binary Response Estimation
-
 rcbsubset Optimal Subset Matching with Refined Covariate Balance
-
 rcc Parametric Bootstrapping to Control Rank Conditional Coverage
-
 rccola Safely Manage API Keys and Load Data from a REDCap or Other Source
-
 RCCPCA "Retained Component Criterion for Principal Component Analysis"
-
 rcdd Computational Geometry
-
 rcDEA Robust and Conditional Data Envelopment Analysis (DEA)
-
 rcdk Interface to the 'CDK' Libraries
-
 rcdklibs The CDK Libraries Packaged for R
-
 RCDT Fast 2D Constrained Delaunay Triangulation
-
 RCEIM R Cross Entropy Inspired Method for Optimization
-
 RcellData Example Dataset for 'Rcell' Package
-
 Rcereal C++11 Header Files for 'cereal'
-
 RcextTools Analytical Procedures in Support of Brazilian Public Sector External Auditing
-
 RCGLS Download and Open Data Provided by the Copernicus Global Land Service
-
 Rcgmin Conjugate Gradient Minimization of Nonlinear Functions with Box Constraints
-
 rchallenge A Simple Data Science Challenge System
-
 rcheology Data on Base Packages for Current and Previous Versions of R
-
 rchess Chess Move, Generation/Validation, Piece Placement/ Movement, and Check/Checkmate/Stalemate Detection
-
 RChest Locating Distributional Changes in Highly Dependent Time Series
-
 RchivalTag Analyzing Archival Tagging Data
-
 Rchoice Discrete Choice (Binary, Poisson and Ordered) Models with Random Parameters
-
-rChoiceDialogs 'rChoiceDialogs' Collection
-
+rChoiceDialogs 'rChoiceDialogs' Collectio
 RChronoModel Post-Processing of the Markov Chain Simulated by ChronoModel or Oxcal
-
 rciplot Plot Jacobson-Truax Reliable Change Indices
-
 RCircos Circos 2D Track Plot
-
 rcites R Interface to the Species+ Database
-
 rcitoid Client for 'Citoid'
-
 RCLabels Manipulate Matrix Row and Column Labels with Ease
-
 RClickhouse 'Yandex Clickhouse' Interface for R with Basic 'dplyr' Support
-
 RClimacell R Wrapper for the 'Climacell' API
-
 rclipboard Shiny/R Wrapper for 'clipboard.js'
-
 RclusTool Graphical Toolbox for Clustering and Classification of Data Frames
-
 rCMA R-to-Java Interface for 'CMA-ES'
-
 rcmdcheck Run 'R CMD check' from 'R' and Capture Results
-
 Rcmdr R Commander
-
 RcmdrMisc R Commander Miscellaneous Functions
-
 RcmdrPlugin.aRnova R Commander Plug-in for Repeated-Measures ANOVA
-
 RcmdrPlugin.BiclustGUI 'Rcmdr' Plug-in GUI for Biclustering
-
 RcmdrPlugin.BWS1 R Commander Plug-in for Case 1 (Object Case) Best-Worst Scaling
-
 RcmdrPlugin.BWS2 R Commander Plug-in for Case 2 Best-Worst Scaling
-
 RcmdrPlugin.coin Rcmdr Coin Plug-in
-
 RcmdrPlugin.cpd R Commander Plug-in for Complex Pearson Distributions
-
 RcmdrPlugin.DCCV R Commander Plug-in for Dichotomous Choice Contingent Valuation
-
 RcmdrPlugin.DCE R Commander Plug-in for Discrete Choice Experiments
-
 RcmdrPlugin.depthTools R Commander Depth Tools Plug-in
-
 RcmdrPlugin.DoE R Commander Plugin for (Industrial) Design of Experiments
-
 RcmdrPlugin.EACSPIR Plugin de R-Commander para el Manual 'EACSPIR'
-
 RcmdrPlugin.EBM Rcmdr Evidence Based Medicine Plug-in Package
-
 RcmdrPlugin.EcoVirtual Rcmdr EcoVirtual Plugin
-
 RcmdrPlugin.Export Export R Output to LaTeX or HTML
-
 RcmdrPlugin.EZR R Commander Plug-in for the EZR (Easy R) Package
-
 RcmdrPlugin.FactoMineR Graphical User Interface for FactoMineR
-
 RcmdrPlugin.GWRM R Commander Plug-in for Fitting Generalized Waring Regression Models
-
 RcmdrPlugin.HH Rcmdr Support for the HH Package
-
 RcmdrPlugin.KMggplot2 R Commander Plug-in for Data Visualization with 'ggplot2'
-
 RcmdrPlugin.MA Graphical User Interface for Conducting Meta-Analyses in R
-
 RcmdrPlugin.MPAStats R Commander Plug-in for MPA Statistics
-
 RcmdrPlugin.NMBU R Commander Plug-in for University Level Applied Statistics
-
 RcmdrPlugin.orloca A GUI for Planar Location Problems
-
 RcmdrPlugin.PcaRobust R Commander Plug-in for Robust Principal Component Analysis
-
 RcmdrPlugin.RiskDemo R Commander Plug-in for Risk Demonstration
-
 RcmdrPlugin.RMTCJags R MTC Jags 'Rcmdr' Plugin
-
 RcmdrPlugin.ROC Rcmdr Receiver Operator Characteristic Plug-in Package
-
 RcmdrPlugin.SCDA Rcmdr Plugin for Designing and Analyzing Single-Case Experiments
-
 RcmdrPlugin.sos Efficiently search the R help pages
-
 RcmdrPlugin.survival R Commander Plug-in for the 'survival' Package
-
 RcmdrPlugin.sutteForecastR 'Rcmdr' Plugin for Alpha-Sutte Indicator 'sutteForecastR'
-
 RcmdrPlugin.TeachingDemos Rcmdr Teaching Demos Plug-in
-
 RcmdrPlugin.TeachStat R Commander Plugin for Teaching Statistical Methods
-
 RcmdrPlugin.temis Graphical Integrated Text Mining Solution
-
 RcmdrPlugin.UCA UCA Rcmdr Plug-in
-
 RcmdrPlugin.WorldFlora R Commander Plug-in for the 'WorldFlora' Package
-
 RCMinification Random Coefficient Minification Time Series Models
-
 rCNV Detect Copy Number Variants from SNPs Data
-
 rco The R Code Optimizer
-
 RColetum Access your Coletum's Data from API
-
 RColorBrewer ColorBrewer Palettes
-
 rcolors 270 'NCL' Color Tables in R Language
-
 Rcompadre Utilities for using the 'COM(P)ADRE' Matrix Model Database
-
 rcompanion Functions to Support Extension Education Program Evaluation
-
 rcompendium Create a Package or Research Compendium Structure
-
 rconfig Manage R Configuration at the Command Line
-
 RConics Computations on Conics
-
 rcoreoa Client for the CORE API
-
 rcorpora A Collection of Small Text Corpora of Interesting Data
-
 RCPA3 Data and Functions for R Companion to Political Analysis 3rd Ed
-
 Rcplex R Interface to CPLEX
-
 RCPmod Regions of Common Profiles Modelling with Mixtures-of-Experts
-
 Rcpp Seamless R and C++ Integration
-
 Rcpp11 R and C++11
-
 RcppAlgos High Performance Tools for Combinatorics and Computational Mathematics
-
 RcppAnnoy 'Rcpp' Bindings for 'Annoy', a Library for Approximate Nearest Neighbors
-
 RcppAPT 'Rcpp' Interface to the APT Package Manager
-
 RcppArmadillo 'Rcpp' Integration for the 'Armadillo' Templated Linear Algebra Library
-
 RcppBDT 'Rcpp' Bindings for the Boost Date_Time Library
-
 RcppBigIntAlgos Factor Big Integers with the Parallel Quadratic Sieve
-
 RcppCCTZ 'Rcpp' Bindings for the 'CCTZ' Library
-
 RcppCensSpatial Spatial Estimation and Prediction for Censored/Missing Responses
-
 RcppCGAL Rcpp Integration for CGAL
-
 RcppClassic Deprecated 'classic' 'Rcpp' 'API'
-
 RcppClassicExamples Examples using 'RcppClassic' to Interface R and C++
-
 RcppClock Seamless 'Rcpp' Benchmarking
-
 RcppCNPy Read-Write Support for 'NumPy' Files via 'Rcpp'
-
 RcppColors 'C++' Header Files for Color Conversion and Color Mappings
-
 RcppCWB 'Rcpp' Bindings for the 'Corpus Workbench' ('CWB')
-
 RcppDate 'date' C++ Header Library for Date and Time Functionality
-
 RcppDE Global Optimization by Differential Evolution in C++
-
 RcppDist 'Rcpp' Integration of Additional Probability Distributions
-
 RcppDL Deep Learning Methods via Rcpp
-
 RcppDynProg 'Rcpp' Dynamic Programming
-
 RcppEigen 'Rcpp' Integration for the 'Eigen' Templated Linear Algebra Library
-
 RcppEigenAD Compiles 'C++' Code using 'Rcpp', 'Eigen' and 'CppAD' to Produce First and Second Order Partial Derivatives
-
 RcppEnsmallen Header-Only C++ Mathematical Optimization Library for 'Armadillo'
-
 RcppExamples Examples using 'Rcpp' to Interface R and C++
-
 RcppFarmHash Interface to the Google 'FarmHash' Family of Hash Functions
-
 RcppFastFloat 'Rcpp' Bindings for the 'fast_float' Header-Only Library for Number Parsing
-
 RcppGetconf 'Rcpp' Interface for Querying System Configuration Variables
-
 RcppGreedySetCover Greedy Set Cover
-
 RcppGSL 'Rcpp' Integration for 'GNU GSL' Vectors and Matrices
-
 RcppHMM Rcpp Hidden Markov Model
-
 RcppHNSW 'Rcpp' Bindings for 'hnswlib', a Library for Approximate Nearest Neighbors
-
 RcppHungarian Solves Minimum Cost Bipartite Matching Problems
-
 RcppMeCab 'rcpp' Wrapper for 'mecab' Library
-
 RcppML Rcpp Machine Learning Library
-
 RcppMsgPack 'MsgPack' C++ Header Files and Interface Functions for R
-
 RcppNLoptExample 'Rcpp' Package Illustrating Header-Only Access to 'NLopt'
-
 RcppNumerical 'Rcpp' Integration for Numerical Computing Libraries
-
 RcppParallel Parallel Programming Tools for 'Rcpp'
-
 RcppProgress An Interruptible Progress Bar with OpenMP Support for C++ in R Packages
-
 RcppQuantuccia R Bindings to the Calendaring Functionality of 'QuantLib'
-
 RcppRedis 'Rcpp' Bindings for 'Redis' using the 'hiredis' Library
-
 RcppRoll Efficient Rolling / Windowed Operations
-
 RcppSimdJson 'Rcpp' Bindings for the 'simdjson' Header-Only Library for 'JSON' Parsing
-
 RcppSMC Rcpp Bindings for Sequential Monte Carlo
-
 RcppSpdlog R and C++ Interfaces to 'spdlog' C++ Header Library for Logging
-
 RcppStreams 'Rcpp' Integration of the 'Streamulus' 'DSEL' for Stream Processing
-
 RcppThread R-Friendly Threading in C++
-
 RcppTN Rcpp-Based Truncated Normal Distribution RNG and Family
-
 RcppTOML 'Rcpp' Bindings to Parser for Tom's Obvious Markup Language
-
 RcppUUID Generating Universally Unique Identificators
-
 RcppXPtrUtils XPtr Add-Ons for 'Rcpp'
-
 RcppXsimd Xsimd C++ Header-Only Library Files
-
 RcppXts Interface the 'xts' API via 'Rcpp'
-
 RcppZiggurat 'Rcpp' Integration of Different "Ziggurat" Normal RNG Implementations
-
 Rcrawler Web Crawler and Scraper
-
 RCreliability Correct Bias in Estimated Regression Coefficients
-
 rcrimeanalysis An Implementation of Crime Analysis Methods
-
 RCriteo Loading Criteo Data into R
-
 Rcriticor Pierre-Goldwin Correlogram
-
 rCRM Regularized Continual Reassessment Method
-
 RCRnorm An Integrated Regression Model for Normalizing 'NanoString nCounter' Data
-
 rcrossref Client for Various 'CrossRef' 'APIs'
-
 rcrypt Symmetric File Encryption Using GPG
-
 Rcsdp R Interface to the CSDP Semidefinite Programming Library
-
 RCSF Airborne LiDAR Filtering Method Based on Cloth Simulation
-
 rcssci Visualization of Restricted Cubic Splines
-
 Rcssplot Styling of Graphics using Cascading Style Sheets
-
 RCT Assign Treatments, Power Calculations, Balances, Impact Evaluation of Experiments
-
 RCT2 Designing and Analyzing Two-Stage Randomized Experiments
-
 rct3 Predict Fish Year-Class Strength from Survey Data
-
 RCTS Clustering Time Series While Resisting Outliers
-
 rcube Simulations and Visualizations of Rubik's Cube (with Mods)
-
-RCurl General Network (HTTP/FTP/...) Client Interface for R
-
+RCurl General Network (HTTP/FTP/...) Client Interface for 
 Rcurvep Concentration-Response Data Analysis using Curvep
-
 RCytoGPS Using Cytogenetics Data in R
-
 RCzechia Spatial Objects of the Czech Republic
-
 Rd2md Markdown Reference Manuals
-
 Rd2roxygen Convert Rd to 'Roxygen' Documentation
-
 rD3plot Interactive Networks, Timelines, Barplots, Galleries with 'D3.js'
-
 rdacca.hp Hierarchical and Variation Partitioning for Canonical Analysis
-
 rdaisi R Client for the Daisi Microservice Platform
-
 RDataCanvas Basic Runtime Support for Datacanvas.io
-
 rdatacite Client for the 'DataCite' API
-
 rDataPipeline Functions to Interact with the 'FAIR Data Pipeline'
-
 rdataretriever R Interface to the Data Retriever
-
 rdbnomics Download DBnomics Data
-
 rdd Regression Discontinuity Estimation
-
 rddapp Regression Discontinuity Design Application
-
 rdddr Companion Datasets and Functions for Blair, Coppock, and Humphreys (2022) "Research Design: Declare, Diagnose, Redesign"
-
 rddensity Manipulation Testing Based on Density Discontinuity
-
 rddi R Interface to DDI Codebook 2.5
-
 rddtools Toolbox for Regression Discontinuity Design ('RDD')
-
 rde Reproducible Data Embedding
-
 rDEA Robust Data Envelopment Analysis (DEA) for R
-
 rdecision Decision Analytic Modelling in Health Economics
-
 rDecode Descent-Based Calibrated Optimal Direct Estimation
-
 rdflib Tools to Manipulate and Query Semantic Data
-
 rdfp An Implementation of the 'DoubleClick for Publishers' API
-
 rdhs API Client and Dataset Management for the Demographic and Health Survey (DHS) Data
-
 rdi Repertoire Dissimilarity Index
-
 Rdiagnosislist Manipulate SNOMED CT Diagnosis Lists
-
 rdian Client Library for The Guardian
-
 Rdice A Collection of Functions to Experiment Dice Rolls
-
 RDieHarder R Interface to the 'DieHarder' RNG Test Suite
-
 Rdimtools Dimension Reduction and Estimation Methods
-
 rdist Calculate Pairwise Distances
-
 rdiversity Measurement and Partitioning of Similarity-Sensitive Biodiversity
-
 rdlocrand Local Randomization Methods for RD Designs
-
 RDML Importing Real-Time Thermo Cycler (qPCR) Data from RDML Format Files
-
 rdmulti Analysis of RD Designs with Multiple Cutoffs or Scores
-
 rDNAse Generating Various Numerical Representation Schemes of DNA Sequences
-
 rdnb R Interface to the 'Deutsche Nationalbibliothek (German National Library) API'
-
 RDnp Robust Test for Complete Independence in High-Dimensions
-
 rdoc Colourised R Documentation
-
 RDocumentation Integrate R with 'RDocumentation'
-
 rdomains Get the Category of Content Hosted by a Domain
-
 RDota2 An R Steam API Client for Valve's Dota2
-
 rdoxygen Create Doxygen Documentation for Source Code
-
 RDP The Ramer-Douglas-Peucker Algorithm
-
 Rdpack Update and Manipulate Rd Documentation Objects
-
 rdpower Power Calculations for RD Designs
-
 rDppDiversity Subset Searching Algorithm Using DPP Greedy MAP
-
 rdrobust Robust Data-Driven Statistical Inference in Regression-Discontinuity Designs
-
 Rdroolsjars Rdrools JARs
-
 rdrop2 Programmatic Interface to the 'Dropbox' API
-
 Rdrw Univariate and Multivariate Damped Random Walk Processes
-
 rdryad Access for Dryad Web Services
-
 RDS Respondent-Driven Sampling
-
 Rdsdp R Interface to DSDP Semidefinite Programming Library
-
 RDSsamplesize RDS Sample Size Estimation and Power Calculation
-
 RDStreeboot RDS Tree Bootstrap Method
-
 Rdta Data Transforming Augmentation for Linear Mixed Models
-
 rdtLite Provenance Collector
-
 Rduino A Microcontroller Interface
-
 Rduinoiot 'Arduino Iot Cloud API' R Client
-
 rdwd Select and Download Climate Data from 'DWD' (German Weather Service)
-
 rdwplus An Implementation of IDW-PLUS
-
 re2 R Interface to Google RE2 (C++) Regular Expression Library
-
 reactable Interactive Data Tables Based on 'React Table'
-
 reactablefmtr Streamlined Table Styling and Formatting for Reactable
-
 reactlog Reactivity Visualizer for 'shiny'
-
 reactR React Helpers
-
 ReacTran Reactive Transport Modelling in 1d, 2d and 3d
-
 read.dbc Read Data Stored in DBC (Compressed DBF) Files
-
 read.gb Open GenBank Files
-
 read.gt3x Parse 'ActiGraph' 'GT3X'/'GT3X+' 'Accelerometer' Data
-
 readABF Loads Axon Binary Files
-
 readabs Download and Tidy Time Series Data from the Australian Bureau of Statistics
-
 readbitmap Simple Unified Interface to Read Bitmap Images (BMP,JPEG,PNG,TIFF)
-
 readBrukerFlexData Reads Mass Spectrometry Data in Bruker *flex Format
-
 readbulk Read and Combine Multiple Data Files
-
 ReadDIM Read ESA SNAP Processed Raster Format in R
-
 reader Suite of Functions to Flexibly Read Data from Files
-
 readHAC Read Acoustic HAC Format
-
 readit Effortlessly Read Any Rectangular Data
-
 readJDX Import Data in the JCAMP-DX Format
-
 readMLData Reading Machine Learning Benchmark Data Sets in Different Formats
-
 readmnist Read MNIST Dataset
-
 readmoRe Utilities for Importing and Manipulating Biomedical Data Files
-
 readMzXmlData Reads Mass Spectrometry Data in mzXML Format
-
 readobj Fast Reader for 'Wavefront' OBJ 3D Scene Files
-
 readODS Read and Write ODS Files
-
 readOffice Read Text Out of Modern Office Files
-
 readr Read Rectangular Text Data
-
 readrba Download and Tidy Data from the Reserve Bank of Australia
-
 readroper Simply Read ASCII Single and Multicard Polling Datasets
-
 readsdmx Read SDMX-XML Data
-
 readsdr Translate Models from System Dynamics Software into 'R'
-
 readsparse Read and Write Sparse Matrices in 'SVMLight' and 'LibSVM' Formats
-
 readstata13 Import 'Stata' Data Files
-
 readSX Read 'SurveyXact' Data
-
 readtext Import and Handling for Plain and Formatted Text Files
-
 readtextgrid Read in a 'Praat' 'TextGrid' File
-
 readwritesqlite Enhanced Reading and Writing for 'SQLite' Databases
-
 readxl Read Excel Files
-
 readxlsb Read 'Excel' Binary (.xlsb) Workbooks
-
 realtest When Expectations Meet Reality: Realistic Unit Testing
-
 RealVAMS Multivariate VAM Fitting
-
 Rearrangement Monotonize Point and Interval Functional Estimates by Rearrangement
-
 rearrr Rearranging Data
-
 reasonabletools Clean Water Quality Data for NPDES Reasonable Potential Analyses
-
 REAT Regional Economic Analysis Toolbox
-
 REBayes Empirical Bayes Estimation and Inference
-
 rebird R Client for the eBird Database of Bird Observations
-
 rebmix Finite Mixture Modeling, Clustering & Classification
-
 rebus Build Regular Expressions in a Human Readable Way
-
 rebus.base Core Functionality for the 'rebus' Package
-
 rebus.datetimes Date and Time Extensions for the 'rebus' Package
-
 rebus.numbers Numeric Extensions for the 'rebus' Package
-
 rebus.unicode Unicode Extensions for the 'rebus' Package
-
 RECA Relevant Component Analysis for Supervised Distance Metric Learning
-
 recapr Two Event Mark-Recapture Experiment
-
 RecAssoRules Recursive Mining for Frequent Pattern and Confident Association Rules
-
 receptiviti Text Analysis Through the 'Receptiviti' API
-
 recexcavAAR 3D Reconstruction of Archaeological Excavations
-
 rechonest R Interface to Echo Nest API
-
 recipes Preprocessing and Feature Engineering Steps for Modeling
-
 reclin Record Linkage Toolkit
-
 reclin2 Record Linkage Toolkit
-
 recluster Ordination Methods for the Analysis of Beta-Diversity Indices
-
 recmap Compute the Rectangular Statistical Cartogram
-
 Recocrop Estimating Environmental Suitability for Plants
-
 recodeflow Interface Functions for PMML Creation, and Data Recoding
-
 recoder A Simple and Flexible Recoder
-
 recogito Interactive Annotation of Text and Images
-
 recolorize Color-Based Image Segmentation
-
 recom 'Recom' REmoves COMments of Rscript File for you
-
 recombinator Recombinate Nested Lists to Dataframes
-
 recometrics Evaluation Metrics for Implicit-Feedback Recommender Systems
-
 recommenderlab Lab for Developing and Testing Recommender Algorithms
-
 recommenderlabBX Book-Crossing Dataset (BX) for 'recommenderlab'
-
 recommenderlabJester Jester Dataset for 'recommenderlab'
-
 Recon Computational Tools for Economics
-
 reconstructKM Reconstruct Individual-Level Data from Published KM Plots
-
 reconstructr Session Reconstruction and Analysis
-
 recorder Toolkit to Validate New Data for a Predictive Model
-
 RecordLinkage Record Linkage Functions for Linking and Deduplicating Data Sets
-
 Records Record Values and Record Times
-
 RecordTest Inference Tools in Time Series Based on Record Statistics
-
 recosystem Recommender System using Matrix Factorization
-
 recurrentpseudo Creates Pseudo-Observations and Analysis for Recurrent Event Data
-
 recurse Computes Revisitation Metrics for Trajectory Data
-
 red IUCN Redlisting Tools
-
 reda Recurrent Event Data Analysis
-
 ReDaMoR Relational Data Modeler
-
 REdaS Companion Package to the Book 'R: Einführung durch angewandte Statistik'
-
 redcapAPI Interface to 'REDCap'
-
 REDCapExporter Automated Construction of R Data Packages from REDCap Projects
-
 REDCapR Interaction Between R and REDCap
-
 REDCapTidieR Extract 'REDCap' Databases into Tidy 'Tibble's
-
 redditadsR Get Reddit Ads Data via the 'Windsor.ai' API
-
 RedditExtractoR Reddit Data Extraction Toolkit
-
 reddPrec Reconstruction of Daily Data - Precipitation
-
 REddyProc Post Processing of (Half-)Hourly Eddy-Covariance Measurements
-
 REddyProcNCDF Reading Data from NetCDF Files for 'REddyProc'
-
 ReDirection Predict Dominant Direction of Reactions of a Biochemical Network
-
 RedisBaseContainer The Container for the DockerParallel Package
-
 Rediscover Identify Mutually Exclusive Mutations
-
 redist Simulation Methods for Legislative Redistricting
-
 redistmetrics Redistricting Metrics
-
 redland RDF Library Bindings in R
-
 redlistr Tools for the IUCN Red List of Ecosystems and Species
-
 rEDM Empirical Dynamic Modeling ('EDM')
-
 Redmonder Microsoft(r)-Inspired Color Palettes
-
 redoc Generates 'Redoc' Documentation from an 'OpenAPI' Specification
-
 redR REgularization by Denoising (RED)
-
 redux R Bindings to 'hiredis'
-
 REEMtree Regression Trees with Random Effects for Longitudinal (Panel) Data
-
 ref.ICAR Objective Bayes Intrinsic Conditional Autoregressive Model for Areal Data
-
 refdb A DNA Reference Library Manager
-
 refer Create Object References
-
 referenceIntervals Reference Intervals
-
 refineR Reference Interval Estimation using Real-World Data
-
 refinr Cluster and Merge Similar Values Within a Character Vector
-
 refitME Measurement Error Modelling using MCEM
-
 RefManageR Straightforward 'BibTeX' and 'BibLaTeX' Bibliography Management
-
 refnr Refining Data Table Using a Set of Formulas
-
 refreg Conditional Multivariate Reference Regions
-
 refreshr Work with Refreshable Datasets that Update their Data Automatically
-
 refset Subsets with Reference Semantics
-
 refuge Locate Trans and Intersex-Friendly Toilets
-
 refund Regression with Functional Data
-
 refund.shiny Interactive Plotting for Functional Data Analyses
-
 regclass Tools for an Introductory Class in Regression and Modeling
-
 regDIF Regularized Differential Item Functioning
-
 REGENT Risk Estimation for Genetic and Environmental Traits
-
 regexPipes Wrappers Around 'base::grep()' for Use with Pipes
-
 regexSelect Regular Expressions in 'shiny' Select Lists
-
 regfilter Elimination of Noisy Samples in Regression Datasets using Noise Filters
-
 reghelper Helper Functions for Regression Analysis
-
 regional Intra- and Inter-Regional Similarity
-
 regioncode Convert Region Names and Division Codes of China Over Years
-
 regions Processing Regional Statistics
-
 registr Curve Registration for Exponential Family Functional Data
-
 registry Infrastructure for R Package Registries
-
 RegKink Regression Kink with a Time-Varying Threshold
-
 reglogit Simulation-Based Regularized Logistic Regression
-
 regmed Regularized Mediation Analysis
-
 regmedint Regression-Based Causal Mediation Analysis with Interaction and Effect Modification Terms
-
 regnet Network-Based Regularization for Generalized Linear Models
-
 rego Automatic Time Series Forecasting and Missing Value Imputation
-
 regplot Enhanced Regression Nomogram Plot
-
 regport Regression Model Processing Port
-
 regr.easy Easy Linear, Quadratic and Cubic Regression Models
-
 regrap Reverse Graphical Approaches
-
 regress Gaussian Linear Models with Linear Covariance Structure
-
 RegressionFactory Expander Functions for Generating Full Gradient and Hessian from Single-Slot and Multi-Slot Base Distributions
-
 regressoR Regression Data Analysis System
-
 regrrr Toolkit for Compiling, (Post-Hoc) Testing, and Plotting Regression Results
-
 regRSM Random Subspace Method (RSM) for Linear Regression
-
 RegSDC Information Preserving Regression-Based Tools for Statistical Disclosure Control
-
 regsem Regularized Structural Equation Modeling
-
 regspec Non-Parametric Bayesian Spectrum Estimation for Multirate Data
-
 regsubseq Detect and Test Regular Sequences and Subsequences
-
 regtomean Regression Toward the Mean
-
 regtools Regression and Classification Tools
-
 RegularizedSCA Regularized Simultaneous Component Based Data Integration
-
 regweight Convenience Functions for Implicit Regression Weights
-
 rehh Searching for Footprints of Selection using 'Extended Haplotype Homozygosity' Based Tests
-
 rehh.data Data Only: Searching for Footprints of Selection using Haplotype Homozygosity Based Tests
-
 rehydratoR Downloads Tweets from a List of Tweet IDs
-
 ReinforcementLearning Model-Free Reinforcement Learning
-
 ReIns Functions from "Reinsurance: Actuarial and Statistical Aspects"
-
 reinstallr Search and Install Missing Packages
-
 reinsureR Reinsurance Treaties Application
-
 relaimpo Relative Importance of Regressors in Linear Models
-
 relatable Functions for Mapping Key-Value Pairs, Many-to-Many, One-to-Many, and Many-to-One Relations
-
 Relatedness Maximum Likelihood Estimation of Relatedness using EM Algorithm
-
 relations Data Structures and Algorithms for Relations
-
 reldist Relative Distribution Methods
-
 Relectoral Electoral Analysis
-
 relen Compute Relative Entropy
-
 relevance Calculate Relevance
-
 relevent Relational Event Models
-
 relgam Reluctant Generalized Additive Models
-
 reliabilitydiag Reliability Diagrams Using Isotonic Regression
-
 relimp Relative Contribution of Effects in a Regression Model
-
 RelimpPCR Relative Importance PCA Regression
-
 relliptical The Truncated Elliptical Family of Distributions
-
 relSim Relative Simulator
-
 relsurv Relative Survival
-
 rem Relational Event Models (REM)
-
 rema Rare Event Meta Analysis
-
 remaCor Random Effects Meta-Analysis for Correlated Test Statistics
-
 remap Regional Spatial Modeling with Continuous Borders
-
 rematch Match Regular Expressions with a Nicer 'API'
-
 rematch2 Tidy Output from Regular Expression Matching
-
 remedy 'RStudio' Addins to Simplify 'Markdown' Writing
-
 remindR Insert and Extract "Reminders" from Function Comments
-
 remiod Reference-Based Multiple Imputation for Ordinal/Binary Response
-
 rEMM Extensible Markov Model for Modelling Temporal Relationships Between Clusters
-
 remote Empirical Orthogonal Teleconnections in R
-
 remoter Remote R: Control a Remote R Session from a Local One
-
 remotes R Package Installation from Remote Repositories, Including 'GitHub'
-
 rempsyc Convenience Functions for Psychology
-
 remss Refining Evaluation Methodology on Stage System
-
 rENA Epistemic Network Analysis
-
 renderthis Render Slides to Different Formats
-
 REndo Fitting Linear Models with Endogenous Regressors using Latent Instrumental Variables
-
 Renext Renewal Method for Extreme Values Extrapolation
-
 renpow Renewable Power Systems and the Environment
-
 rentrez 'Entrez' in R
-
 renv Project Environments
-
 Renvlp Computing Envelope Estimators
-
 RenvModule Interface to Allow Full Use of the Environment Modules System for Unix
-
 renz R-Enzymology
-
 ReorderCluster Reordering the Dendrogram According to the Class Labels
-
 repairData Open Repair Alliance Datasets 2021
-
 repana Repeatable Analysis in R
-
 RepaymentPlan Calculation of Mortgage Plan or Repayment Plan
-
 repeated Non-Normal Repeated Measurements Models
-
 repec Access RePEc Data Through API
-
 repello Reports from Trello in R
-
 RepertoiR Repertoire Graphical Visualization
-
 repfdr Replicability Analysis for Multiple Studies of High Dimension
-
 replacer A Value Replacement Utility
-
 REPLesentR Presentations in the REPL
-
 Replicate Statistical Metrics for Multisite Replication Studies
-
 replicateBE Average Bioequivalence with Expanding Limits (ABEL)
-
 replicatedpp2w Two-Way ANOVA-Like Method to Analyze Replicated Point Patterns
-
 Replication Test Replications by Means of the Prior Predictive p-Value
-
 replicationInterval Replication Interval Functions
-
 ReplicationSuccess Design and Analysis of Replication Studies
-
 Repliscope Replication Timing Profiling using DNA Copy Number
-
 repmis Miscellaneous Tools for Reproducible Research
-
 repmod Create Report Table from Different Objects
-
 repo A Data-Centered Data Flow Manager
-
 RepoGenerator Generates a Project and Repo for Easy Initialization of a Workshop
-
 repolr Repeated Measures Proportional Odds Logistic Regression
-
 report Automated Reporting of Results and Statistical Models
-
 reporter Creates Statistical Reports
-
 reportfactory Lightweight Infrastructure for Handling Multiple R Markdown Documents
-
 reportr A General Message and Error Reporting System
-
 reportReg An Easy Way to Report Regression Analysis
-
 reportRmd Tidy Presentation of Clinical Reporting
-
 reportROC An Easy Way to Report ROC Analysis
-
 reporttools Generate "LaTeX"" Tables of Descriptive Statistics
-
 REPPlab R Interface to 'EPP-Lab', a Java Program for Exploratory Projection Pursuit
-
 REPPlabShiny 'REPPlab' via a Shiny Application
-
 repr Serializable Representations
-
 representr Create Representative Records After Entity Resolution
-
 represtools Reproducible Research Tools
-
 reprex Prepare Reproducible Example Code via the Clipboard
-
 reproducer Reproduce Statistical Analyses and Meta-Analyses
-
 reproj Coordinate System Transformations for Generic Map Data
-
 REPTILE Regulatory DNA Element Prediction
-
 repurrrsive Examples of Recursive Lists and Nested or Split Data Frames
-
 reqres Powerful Classes for HTTP Requests and Responses
-
 REQS R/EQS Interface
-
 request High Level 'HTTP' Client
-
 Require Installing and Loading R Packages for Reproducible Workflows
-
 requiRements Helper Package to Install Packages for R
-
 requireR R Source Code Modularizer
-
 rerandPower Power and Sample Size Calculations for Completely Randomized and Rerandomized Experiments
-
 rerddap General Purpose Client for 'ERDDAP' Servers
-
 rerddapXtracto Extracts Environmental Data from 'ERDDAP' Web Services
-
 reReg Recurrent Event Regression
-
 resample Resampling Functions
-
 resampledata Data Sets for Mathematical Statistics with Resampling in R
-
 resampledata3 Data Sets for "Mathematical Statistics with Resampling and R" (3rd Ed)
-
 rescue Bootstrap Imputation for Single-Cell RNA-Seq Data
-
 ResearchAssociate Retrieving Publications from PubMed Database Based on User Query
-
 resemble Memory-Based Learning in Spectral Chemometrics
-
 reservoir Tools for Analysis, Design, and Operation of Water Supply Storages
-
 resevol Simulate Agricultural Production and Evolution of Pesticide Resistance
-
 reshape Flexibly Reshape Data
-
 reshape2 Flexibly Reshape Data: A Reboot of the Reshape Package
-
 RESI Robust Effect Size Index (RESI) Estimation
-
 ResidentialEnergyConsumption Residential Energy Consumption Data
-
 ResistorArray Electrical Properties of Resistor Networks
-
 resourcer Resource Resolver
-
 ResourceSelection Resource Selection (Probability) Functions for Use-Availability Data
-
 ResPBIBD "Resolvable Partially Balanced Incomplete Block Designs (PBIBDs)"
-
 RespirAnalyzer Analysis Functions of Respiratory Data
-
 respirometry Tools for Conducting and Analyzing Respirometry Experiments
-
 responsePatterns Screening for Careless Responding Patterns
-
 respR Import, Process, Analyse, and Calculate Rates from Respirometry Data
-
 RESS Integrates R and Essentia
-
 restatapi Search and Retrieve Data from Eurostat Database
-
 restaurant Restaurant Data for Entity Resolution
-
 restez Create and Query a Local Copy of 'GenBank' in R
-
 restfulr R Interface to RESTful Web Services
-
 restimizeapi Functions for Working with the 'www.estimize.com' Web Services
-
 restoptr Ecological Restoration Planning
-
 RestoreNet Random-Effects Stochastic Reaction Networks
-
 restorepoint Debugging with Restore Points
-
 restriktor Restricted Statistical Estimation and Inference for Linear Models
-
 RestRserve A Framework for Building HTTP API
-
 resumer Build Resumes with R
-
 rethinker RethinkDB Client
-
 rethnicity Predicting Ethnic Group from Names
-
 reticulate Interface to 'Python'
-
 retriever Generate Disease-Specific Response Signatures from the LINCS-L1000 Data
-
 retrodesign Tools for Type S (Sign) and Type M (Magnitude) Errors
-
 retroharmonize Ex Post Survey Data Harmonization
-
 retrosheet Import Professional Baseball Data from 'Retrosheet'
-
 retry Repeated Evaluation
-
 reutils Talk to the NCBI EUtils
-
 reval Argument Table Generation for Sensitivity Analysis
-
 revdbayes Ratio-of-Uniforms Sampling for Bayesian Extreme Value Analysis
-
 revealedPrefs Revealed Preferences and Microeconomic Rationality
-
 revealjs R Markdown Format for 'reveal.js' Presentations
-
 RevEcoR Reverse Ecology Analysis on Microbiome
-
 reveneraR Connect to Your 'Revenera' (Formerly 'Revulytics') Data
-
 revengc Reverse Engineering Summarized Data
-
 reverseR Linear Regression Stability to Significance Reversal
-
 revgeo Reverse Geocoding with the Photon Geocoder for OpenStreetMap, Google Maps, and Bing
-
 ReviewR A Light-Weight, Portable Tool for Reviewing Individual Patient Records
-
 revpref Tools for Computational Revealed Preference Analysis
-
 revss Robust Estimation in Very Small Samples
-
 Revticulate Interaction with "RevBayes" in R
-
 revtools Tools to Support Evidence Synthesis
-
 revulyticsR Connect to Your 'Revulytics' Data
-
 rewie Data Preparation and Diagnostics for Random Effects Within Estimator
-
 rex Friendly Regular Expressions
-
 Rexperigen R Interface to Experigen
-
 rexpokit R Wrappers for EXPOKIT; Other Matrix Functions
-
 rextendr Call Rust Code from R using the 'extendr' Crate
-
 Rfacebook Access to Facebook API via R
-
 rfacebookstat Load Data from Facebook API Marketing
-
 rfacts R Interface to 'FACTS' on Unix-Like Systems
-
 rfars Download and Analyze Fatal Crash Data
-
 Rfast A Collection of Efficient and Extremely Fast R Functions
-
 Rfast2 A Collection of Efficient and Extremely Fast R Functions II
-
 RFCCA Random Forest with Canonical Correlation Analysis
-
 RFclust Random Forest Cluster Analysis
-
 RfEmpImp Multiple Imputation using Chained Random Forests
-
 rFerns Random Ferns Classifier
-
 rFIA Estimation of Forest Variables using the FIA Database
-
 rfieldclimate Client for the 'FieldClimate' API
-
 rfigshare An R Interface to 'figshare'
-
 rfinterval Predictive Inference for Random Forests
-
 rfishbase R Interface to 'FishBase'
-
 RFishBC Back-Calculation of Fish Length
-
 rfishdraw Automatically Generated Fish Drawings via JavaScript
-
 rfisheries 'Programmatic Interface to the 'openfisheries.org' API'
-
 rfishnet2 Exploratory Data Analysis for FishNet2 Data
-
 Rfit Rank-Based Estimation for Linear Models
-
 rflashtext FlashText Algorithm for Finding and Replacing Words
-
 rflexscan The Flexible Spatial Scan Statistic
-
 RFLPtools Tools to Analyse RFLP Data
-
 rflsgen Neutral Landscape Generator with Targets on Landscape Indices
-
 rfm Recency, Frequency and Monetary Value Analysis
-
 RFmerge Merging of Satellite Datasets with Ground Observations using Random Forests
-
 Rfmtool Fuzzy Measure Tools
-
 rfoaas R Interface to 'FOAAS'
-
 RFOC Graphics for Spherical Distributions and Earthquake Focal Mechanisms
-
 Rfolding The Folding Test of Unimodality
-
 rfordummies Code Examples to Accompany the Book "R for Dummies"
-
 rforensicbatwing BATWING for Calculating Forensic Trace-Suspect Match Probabilities
-
 rForest Forest Inventory and Analysis
-
 Rforestry Random Forests, Linear Trees, and Gradient Boosting for Inference and Interpretability
-
 RFormatter R Source Code Formatter
-
 rfPermute Estimate Permutation p-Values for Random Forest Importance Metrics
-
 RFPM Floating Percentile Model
-
 RFpredInterval Prediction Intervals with Random Forests and Boosted Forests
-
 Rfractran A 'FRACTRAN' Interpreter and Some Helper Functions
-
 rFSA Feasible Solution Algorithm for Finding Best Subsets and Interactions
-
 Rfssa Functional Singular Spectrum Analysis
-
 rFUSION Interface to FUSION
-
 rfUtilities Random Forests Model Selection and Performance Evaluation
-
 rfVarImpOOB Unbiased Variable Importance for Random Forests
-
 rfvimptest Sequential Permutation Testing of Random Forest Variable Importance Measures
-
 rfviz Interactive Visualization Tool for Random Forests
-
 Rga4gh An Interface to the GA4GH API
-
 rgabriel Gabriel Multiple Comparison Test and Plot the Confidence Interval on Barplot
-
 RGAN Generative Adversarial Nets (GAN) in R
-
 Rgb The R Genome Browser
-
 rgbif Interface to the Global Biodiversity Information Facility API
-
 RGBM LS-TreeBoost and LAD-TreeBoost for Gene Regulatory Network Reconstruction
-
 Rgbp Hierarchical Modeling and Frequency Method Checking on Overdispersed Gaussian, Poisson, and Binomial Data
-
 RGCCA Regularized and Sparse Generalized Canonical Correlation Analysis for Multiblock Data
-
 rgdal Bindings for the 'Geospatial' Data Abstraction Library
-
 rgdax Wrapper for 'Coinbase Pro (erstwhile GDAX)' Cryptocurrency Exchange
-
 RGE Response from Genotype to Environment
-
 RGeckoboard R API for Geckoboard
-
 rgee R Bindings for Calling the 'Earth Engine' API
-
 rgeedim Search, Composite, and Download 'Google Earth Engine' Imagery with the 'Python' Module 'geedim'
-
 rgen Random Sampling Distribution C++ Routines for Armadillo
-
 RGenData Generates Multivariate Nonnormal Data and Determines How Many Factors to Retain
-
 RGENERATE Tools to Generate Vector Time Series
-
 RGENERATEPREC Tools to Generate Daily-Precipitation Time Series
-
 RGenetics R packages for genetics research
-
 rgenius Get 'Genius' API Lyrics
-
 rgenoud R Version of GENetic Optimization Using Derivatives
-
 rgeoda R Library for Spatial Data Analysis
-
 RGeode Geometric Density Estimation
-
 rgeolocate IP Address Geolocation
-
 rgeomstats Interface to 'Geomstats'
-
 rgeopat2 Additional Functions for 'GeoPAT' 2
-
 rgeoprofile Geographic Profiling Methods for Serial Crime Analysis
-
 rgeos Interface to Geometry Engine - Open Source ('GEOS')
-
 rgexf Build, Import and Export GEXF Graph Files
-
 RGF Regularized Greedy Forest
-
 Rgff R Utilities for GFF Files
-
 rGhanaCensus 2021 Ghana Population and Housing Census Results as Data Frames
-
 rgho Access WHO Global Health Observatory Data from R
-
 RGIFT Create quizzes in GIFT Format
-
 RGISTools Handling Multiplatform Satellite Images
-
 rgl 3D Visualization Using OpenGL
-
 rgl2gltf Read and Write '.gltf' and '.glb' Files
-
 rglobi R Interface to Global Biotic Interactions
-
 Rglpk R/GNU Linear Programming Kit Interface
-
 rglplus Extension of the 'rgl' 3D Visualization Package
-
 rglwidget 'rgl' in 'htmlwidgets' Framework
-
 RGMM Robust Mixture Model
-
 rgnparser Parse Scientific Names
-
 rgoogleads Loading Data from 'Google Ads API'
-
 RGoogleAnalyticsPremium Unsampled Data in R for Google Analytics Premium Accounts
-
 RGoogleFit R Interface to Google Fit API
-
 RgoogleMaps Overlays on Static Maps
-
 rgoogleslides R Interface to Google Slides
-
 rgplates R Interface for the GPlates Web Service and Desktop Application
-
 rgraph6 Representing Graphs as 'graph6', 'digraph6' or 'sparse6' Strings
-
 RGraphics Data and Functions from the Book R Graphics, Third Edition
-
 rgrass Interface Between 'GRASS' Geographical Information System and 'R'
-
 rgrass7 Deprecated Interface Between GRASS Geographical Information System and R
-
 rgrassdoc Consult 'Grass GIS' Documentation in the RStudio Viewer or your Browser
-
 RGreenplum Interface to 'Greenplum' Database
-
 RGremlinsConjoint Estimate the "Gremlins in the Data" Model for Conjoint Studies
-
 rGroovy Groovy Language Integration
-
 rgsp Repetitive Group Sampling Plan Based on Cpk
-
 rgtmx Manage GTmetrix Tests in R
-
 rgugik Search and Retrieve Spatial Data from 'GUGiK'
-
 rGV Analysis of Continuous Glucose Monitor Data
-
 rgw Goodman-Weare Affine-Invariant Sampling
-
 RH2 DBI/RJDBC Interface to H2 Database
-
 rhandsontable Interface to the 'Handsontable.js' Library
-
 RHawkes Renewal Hawkes Process
-
 RHclust Vectors in Partitioning
-
 rhcoclust Robust Hierarchical Co-Clustering to Identify Significant Co-Cluster
-
 rheroicons A Zero Dependency 'SVG' Icon Library for 'Shiny'
-
 rhierbaps Clustering Genetic Sequence Data Using the HierBAPS Algorithm
-
 rhino A Framework for Enterprise Shiny Applications
-
 rhli An R Implementation of the FIS MarketMap C-Toolkit
-
 rhmc Hamiltonian Monte Carlo
-
 RHMS Hydrologic Modelling System for R Users
-
 rhnerm Random Heteroscedastic Nested Error Regression
-
 rhoR Rho for Inter Rater Reliability
-
 rhosa Higher-Order Spectral Analysis
-
 rhosp Side Effect Risks in Hospital : Simulation and Estimation
-
 RHPCBenchmark Benchmarks for High-Performance Computing Environments
-
 RhpcBLASctl Control the Number of Threads on 'BLAS'
-
 RHRT Heart Rate Turbulence Analysis
-
 RHRV Heart Rate Variability Analysis of ECG Data
-
 RHSDB Ryan-Holm Step-Down Bonferroni or Sidak Procedure
-
 rhub Connect to 'R-hub'
-
 RHybridFinder Identification of Hybrid Peptides in Immunopeptidomic Analyses
-
 rhymer Wrapper for the 'Datamuse' API to Find Rhyming and Associated Words
-
 rhype Work with Hypergraphs in R
-
 ri2 Randomization Inference for Randomized Experiments
-
 RI2by2 Randomization Inference for Treatment Effects on a Binary Outcome
-
 RIA Radiomics Image Analysis Toolbox for Medial Images
-
 riAFTBART A Flexible Approach for Causal Inference with Multiple Treatments and Clustered Survival Outcomes
-
 rib An Implementation of 'Interactive Brokers' API
-
 ribd Pedigree-based Relatedness Coefficients
-
 RIbench Benchmark Suite for Indirect Methods for RI Estimation
-
 ricegeneann Gene Annotation of Rice (Oryza Sativa L.spp.japonica)
-
 riceidconverter Convert Biological ID from RAP or MSU to SYMBOL for Oryza Sativa
-
 riceware A Diceware Passphrase Implementation
-
 rich Computes and Compares Species Richnesses
-
 ricu Intensive Care Unit Data with R
-
 RIdeogram Drawing SVG Graphics to Visualize and Map Genome-Wide Data on Idiograms
-
 ridge Ridge Regression with Automatic Selection of the Penalty Parameter
-
 ridigbio Interface to the iDigBio Data API
-
 ridittools Useful Functions for Ridit Analysis
-
 riem Accesses Weather Data from the Iowa Environment Mesonet
-
 Riemann Learning with Data on Riemannian Manifolds
-
 RiemBase Functions and C++ Header Files for Computation on Manifolds
-
 Riex IEX Stocks and Market Data
-
 rifle Sparse Generalized Eigenvalue Problem
-
 RIFS Random Iterated Function System
-
 Rigma Access to the 'Figma' API
-
 rigr Regression, Inference, and General Data Analysis Tools in R
-
 riingo An R Interface to the 'Tiingo' Stock Price API
-
 Rilostat ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service
-
 rim R's Interface to Maxima, Bringing Symbolic Computation into R
-
 RImageJROI Read 'ImageJ' Region of Interest (ROI) Files
-
 RImagePalette Extract the Colors from Images
-
 RImpact Calculates Measures of Scholarly Impact
-
 rimu Responses in Multiplex
-
 rinat Access 'iNaturalist' Data Through APIs
-
 ring Circular / Ring Buffers
-
 ringostat Load Data from 'Ringostat API'
-
 RInno An Installation Framework for Shiny Apps
-
 RInside C++ Classes to Embed R in C++ (and C) Applications
-
 RInSp R Individual Specialization
-
 rintcal Radiocarbon Calibration Curves
-
 rIntervalTree An Interval Tree Tool for Real Numbers
-
 rintimg View Images on Full Screen in 'RMarkdown' Documents and 'shiny' Applications
-
 rintrojs Wrapper for the 'Intro.js' Library
-
 rio A Swiss-Army Knife for Data I/O
-
 rioja Analysis of Quaternary Science Data
-
 rIP Detects Fraud in Online Surveys by Tracing, Scoring, and Visualizing IP Addresses
-
 Rip46 Utils for IP4 and IP6 Addresses
-
 ripserr Calculate Persistent Homology with Ripser-Based Engines
-
 Rirt Data Analysis and Parameter Estimation Using Item Response Theory
-
 RISCA Causal Inference and Prediction in Cohort-Based Analyses
-
 rise Conduct RISE Analysis
-
 rIsing High-Dimensional Ising Model Selection
-
 Risk Computes 26 Financial Risk Measures for Any Continuous Distribution
-
 riskclustr Functions to Study Etiologic Heterogeneity
-
 riskCommunicator G-Computation to Estimate Interpretable Epidemiological Effects
-
 riskmetric Risk Metrics to Evaluating R Packages
-
 riskParityPortfolio Design of Risk Parity Portfolios
-
 RiskPortfolios Computation of Risk-Based Portfolios
-
 riskPredictClustData Assessing Risk Predictions for Clustered Data
-
 riskR Risk Management
-
 riskRegression Risk Regression Models and Prediction Scores for Survival Analysis with Competing Risks
-
 risksetROC Riskset ROC Curve Estimation from Censored Survival Data
-
 riskSimul Risk Quantification for Stock Portfolios under the T-Copula Model
-
 riskyr Rendering Risk Literacy more Transparent
-
 RISmed Download Content from NCBI Databases
-
 Rita Automated Transformations, Normality Testing, and Reporting
-
 Ritc Isothermal Titration Calorimetry (ITC) Data Analysis
-
 ritis Integrated Taxonomic Information System Client
-
 RItools Randomization Inference Tools
-
 riv Robust Instrumental Variables Estimator
-
 RiverBuilder River Generation for Given Data Sets
-
 riverconn Common Fragmentation and Connectivity Indices for Riverscapes
-
 riverdist River Network Distance Computation and Applications
-
 RiverLoad Load Estimation of River Compounds with Different Methods
-
 rivernet Read, Analyze and Plot River Networks
-
 riverplot Sankey or Ribbon Plots
-
 Rivivc In Vitro in Vivo Correlation Linear Level "A"
-
 rivr Steady and Unsteady Open-Channel Flow Computation
-
 rjade A Clean, Whitespace-Sensitive Template Language for Writing HTML
-
 RJafroc Artificial Intelligence Systems and Observer Performance
-
 rjags Bayesian Graphical Models using MCMC
-
 rJava Low-Level R to Java Interface
-
 rjazz Official Client for 'Jazz'
-
-RJcluster A Fast Clustering Algorithm for High Dimensional Data Based on the Gram Matrix Decomposition
-
+RJcluster A Fast Clstering Algorithm for High Dimensional Data Based on the Gram Matrix Decomposition
 RJDBC Provides Access to Databases Through the JDBC Interface
-
 RJDemetra Interface to 'JDemetra+' Seasonal Adjustment Software
-
 rjdmarkdown 'rmarkdown' Extension for Formatted 'RJDemetra' Outputs
-
 rjdqa Quality Assessment for Seasonal Adjustment
-
 rje Miscellaneous Useful Functions for Statistics
-
 rjmcmc Reversible-Jump MCMC Using Post-Processing
-
 rJPSGCS R-Interface to Gene Drop Simulation from JPSGCS
-
 rjqpd The Johnson Quantile-Parameterised Distribution
-
 RJSDMX R Interface to SDMX Web Services
-
 rjson JSON for R
-
 rjsoncons 'C++' Header-Only 'jsoncons' Library for 'JSON' Queries
-
 RJSONIO Serialize R Objects to JSON, JavaScript Object Notation
-
 RJSplot Interactive Graphs with R
-
 rjstat Handle 'JSON-stat' Format in R
-
 rjtools Preparing, Checking, and Submitting Articles to the 'R Journal'
-
 rjwsacruncher Interface to the 'JWSACruncher' of 'JDemetra+'
-
 rkafka Using Apache 'Kafka' Messaging Queue Through 'R'
-
 rkafkajars External Jars Required for Package 'rkafka'
-
 RKEA R/KEA Interface
-
 RKEAjars R/KEA Interface Jars
-
 RKEEL Using KEEL in R Code
-
 RKEELdata Datasets from 'KEEL' for it Use in 'RKEEL'
-
 RKEELjars Java Executable .jar Files for 'RKEEL'
-
 RKelly Translate Odds and Probabilities
-
 rKenyaForex Historical Data for Kenya Foreign Exchange Prices
-
 rkeops Kernel Operations on GPU or CPU, with Autodiff, without Memory Overflows
-
 RKHSMetaMod Ridge Group Sparse Optimization Problem for Estimation of a Meta Model Based on Reproducing Kernel Hilbert Spaces
-
 RkMetrics Hybrid Mortality Estimation
-
 rKolada Access Data from the 'Kolada' Database
-
 rKOMICS Minicircle Sequence Cluster (MSC) Analyses
-
 RKorAPClient 'KorAP' Web Service Client Package
-
 rkt Mann-Kendall Test, Seasonal and Regional Kendall Tests
-
 RKUM Robust Kernel Unsupervised Methods
-
 rkvo Read Key/Value Pair Observations
-
 Rlab Functions and Datasets Required for ST370 Class
-
 Rlabkey Data Exchange Between R and 'LabKey' Server
-
 rLakeAnalyzer Lake Physics Tools
-
 rlang Functions for Base Types and Core R and 'Tidyverse' Features
-
 rlas Read and Write 'las' and 'laz' Binary File Formats Used for Remote Sensing Data
-
 rlc Create Interactive Linked Charts with Minimal Code
-
 rlcv Robust Likelihood Cross Validation Bandwidth Selection
-
 Rlda Bayesian LDA for Mixed-Membership Clustering Analysis
-
 rLDCP Text Generation from Data
-
 rle Common Functions for Run-Length Encoded Vectors
-
 RLeafAngle Estimates, Plots and Evaluates Leaf Angle Distribution Functions, Calculates Extinction Coefficients
-
 rleafmap Interactive Maps with R and Leaflet
-
 rlecuyer R Interface to RNG with Multiple Streams
-
 rlemon R Access to LEMON Graph Algorithms
-
 rless Leaner Style Sheets
-
 rlfsm Simulations and Statistical Inference for Linear Fractional Stable Motions
-
 rLFT Processing Linear Features
-
 Rlgt Bayesian Exponential Smoothing Models with Trend Modifications
-
 Rlibeemd Ensemble Empirical Mode Decomposition (EEMD) and Its Complete Variant (CEEMDAN)
-
 rLiDAR LiDAR Data Processing and Visualization
-
 rliger Linked Inference of Genomic Experimental Relationships
-
 Rlinkedin Access to the LinkedIn API via R
-
 Rlinsolve Iterative Solvers for (Sparse) Linear System of Equations
-
 rlist A Toolbox for Non-Tabular Data Manipulation
-
 rlmDataDriven Robust Regression with Data Driven Tuning Parameter
-
 rlme Rank-Based Estimation and Prediction in Random Effects Nested Models
-
 Rlof R Parallel Implementation of Local Outlier Factor(LOF)
-
 rlog A Simple, Opinionated Logging Utility
-
 RLogicalOps Process Logical Operations
-
 RLRsim Exact (Restricted) Likelihood Ratio Tests for Mixed and Additive Models
-
 RLT Reinforcement Learning Trees
-
 rLTP R Interface to the 'LTP'-Cloud Service
-
 RLumCarlo Monte-Carlo Methods for Simulating Luminescence Phenomena
-
 RLumModel Solving Ordinary Differential Equations to Understand Luminescence
-
 RLumShiny 'Shiny' Applications for the R Package 'Luminescence'
-
 rly Tools to Create Formal Language Parser
-
 RM.weights Weighted Rasch Modeling and Extensions using Conditional Maximum Likelihood
-
 RM2006 RiskMetrics 2006 Methodology
-
 rma.exact Exact Confidence Intervals for Random Effects Meta-Analyses
-
 RMaCzek Czekanowski's Diagrams
-
 rmake Makefile Generator for R Analytical Projects
-
 RMallow Fit Multi-Modal Mallows' Models to Ranking Data
-
-Rmalschains Continuous Optimization using Memetic Algorithms with Local Search Chains (MA-LS-Chains) in R
-
+Rmalschains Continous Optimization using Memetic Algorithms with Local Search Chains (MA-LS-Chains) in R
 rmangal 'Mangal' Client
-
 rmapshaper Client for 'mapshaper' for 'Geospatial' Operations
-
 rmapzen Client for 'Mapzen' and Related Map APIs
-
 rmarchingcubes Calculate 3D Contour Meshes Using the Marching Cubes Algorithm
-
 rmargint Robust Marginal Integration Procedures
-
 RMariaDB Database Interface and MariaDB Driver
-
 RmarineHeatWaves Detect Marine Heat Waves and Marine Cold Spells
-
 RMark R Code for Mark Analysis
-
 rmarkdown Dynamic Documents for R
-
 RMAT Random Matrix Analysis Toolkit
-
 rmatio Read and Write 'Matlab' Files
-
 RMAWGEN Multi-Site Auto-Regressive Weather GENerator
-
 rmBayes Performing Bayesian Inference for Repeated-Measures Designs
-
 RMBC Robust Model Based Clustering
-
 RMCC Airborne LiDAR Filtering Method Based on Multiscale Curvature
-
 rmcfs The MCFS-ID Algorithm for Feature Selection and Interdependency Discovery
-
 rmcorr Repeated Measures Correlation
-
 rmda Risk Model Decision Analysis
-
 rmdcev Kuhn-Tucker and Multiple Discrete-Continuous Extreme Value Models
-
 rmdfiltr 'Lua'-Filters for R Markdown
-
 rmdformats HTML Output Formats and Templates for 'rmarkdown' Documents
-
 rmdHelpers Helper Functions for Rmd Documents
-
 rmdpartials Partial 'rmarkdown' Documents to Prettify your Reports
-
 rmdplugr Plugins for R Markdown Formats
-
 rmdshower 'R' 'Markdown' Format for 'shower' Presentations
-
 rmdwc Count Words, Chars and Non-Whitespace Chars in R Markdown Docs
-
 rMEA Synchrony in Motion Energy Analysis (MEA) Time-Series
-
 RmecabKo An 'Rcpp' Interface for Eunjeon Project
-
 rmeta Meta-Analysis
-
 rmetalog The Metalog Distribution
-
 rmgarch Multivariate GARCH Models
-
 rmi Mutual Information Estimators
-
 rMIDAS Multiple Imputation with Denoising Autoencoders
-
 rminer Data Mining Classification and Regression Methods
-
 rminizinc R Interface to 'MiniZinc'
-
 rminqa Derivative-Free Optimization in R using C++
-
 rmio Provides 'mio' C++11 Header Files
-
 rMisbeta A Robust Missing Imputation Method for Gene Expression Data
-
 Rmisc Ryan Miscellaneous
-
 Rmixmod Classification with Mixture Modelling
-
 RMixpanel API for Mixpanel
-
 RMixtComp Mixture Models with Heterogeneous and (Partially) Missing Data
-
 RMixtCompIO Minimal Interface of the C++ 'MixtComp' Library for Mixture Models with Heterogeneous and (Partially) Missing Data
-
 RMixtCompUtilities Utility Functions for 'MixtComp' Outputs
-
 RMKdiscrete Sundry Discrete Probability Distributions
-
 RMLPCA Maximum Likelihood Principal Component Analysis
-
 RMM Revenue Management Modeling
-
 RMOA Connect R with MOA for Massive Online Analysis
-
 RMOAjars External jars Required for Package RMOA
-
 Rmolt Graphic Visualization of the Birds' Molt
-
 rmonad A Monadic Pipeline System
-
 rmoo Multi-Objective Optimization in R
-
 RMOPI Risk Management and Optimization for Portfolio Investment
-
 Rmosek The R to MOSEK Optimization Interface
-
 rMOST Estimates Pareto-Optimal Solution for Hiring with 3 Objectives
-
 Rmpfr R MPFR - Multiple Precision Floating-Point Reliable
-
 Rmpi Interface (Wrapper) to MPI (Message-Passing Interface)
-
 RMPSH Recursive Modified Pattern Search on Hyper-Rectangle
-
 rmpw Causal Mediation Analysis Using Weighting Approach
-
 rMR Importing Data from Loligo Systems Software, Calculating Metabolic Rates and Critical Tensions
-
 rms Regression Modeling Strategies
-
 rmsb Bayesian Regression Modeling Strategies
-
 rmsfact Amazing Random Facts About the World's Greatest Hacker
-
 rmsfuns Quickly View Data Frames in 'Excel', Build Folder Paths and Create Date Vectors
-
 RMSNumpress 'Rcpp' Bindings to Native C++ Implementation of MS Numpress
-
 Rmst Computerized Adaptive Multistage Testing
-
 rmt Restricted Mean Time in Favor of Treatment
-
 RMT4DS Computation of Random Matrix Models
-
 RMThreshold Signal-Noise Separation in Random Matrices by using Eigenvalue Spectrum Analysis
-
 RMTL Regularized Multi-Task Learning
-
 RMTstat Distributions, Statistics and Tests Derived from Random Matrix Theory
-
 rmumps Wrapper for MUMPS Library
-
 rmutil Utilities for Nonlinear Regression and Repeated Measurements Models
-
 RMVL Mappable Vector Library for Handling Large Datasets
-
 rMVP Memory-Efficient, Visualize-Enhanced, Parallel-Accelerated GWAS Tool
-
 rmweather Tools to Conduct Meteorological Normalisation on Air Quality Data
-
 RMySQL Database Interface and 'MySQL' Driver for R
-
 rmytarget Load Data from 'MyTarget API v2 and v3'
-
 rmzqc Creation, Reading and Validation of 'mzqc' Files
-
 RNAseqNet Log-Linear Poisson Graphical Model with Hot-Deck Multiple Imputation
-
 RNAseqQC Quality Control for RNA-Seq Data
-
 RNAsmc RNA Secondary Structure Module Mining, Comparison and Plotting
-
 rnassqs Access Data from the NASS 'Quick Stats' API
-
 rnaturalearth World Map Data from Natural Earth
-
 rnaturalearthdata World Vector Map Data from Natural Earth Used in 'rnaturalearth'
-
 RnavGraphImageData Image Data Used in the Loon Package Demos
-
 RNaviCell Visualization of High-Throughput Data on Large-Scale Biological Networks
-
 rnbp Wrapper for the National Bank of Poland API
-
 RNCBIEUtilsLibs EUtils libraries for use in the R environment
-
 RNCEP Obtain, Organize, and Visualize NCEP Weather Data
-
 rncl An Interface to the Nexus Class Library
-
 RND Risk Neutral Density Extraction Package
-
 rNeighborGWAS Testing Neighbor Effects in Marker-Based Regressions
-
 rNeighborQTL Interval Mapping for Quantitative Trait Loci Underlying Neighbor Effects
-
-RNentropy Entropy Based Method for the Detection of Significant Variation in Gene Expression Data
-
+RNentropy Entrpy Based Method for the Detection of Significant Variation in Gene Expression Data
 rneos XML-RPC Interface to NEOS
-
-rnetcarto Fast Network Modularity and Roles Computation by Simulated Annealing (Rgraph C Library Wrapper for R)
-
+rnetcarto Fast Network Modulariy and Roles Computation by Simulated Annealing (Rgraph C Library Wrapper for R)
 RNetCDF Interface to 'NetCDF' Datasets
-
 RNetLogo Provides an Interface to the Agent-Based Modelling Platform 'NetLogo'
-
 RNewsflow Tools for Comparing Text Messages Across Time and Media
-
 RNeXML Semantically Rich I/O for the 'NeXML' Format
-
 RNGforGPD Random Number Generation for Generalized Poisson Distribution
-
 rngSetSeed Seeding the Default RNG with a Numeric Vector
-
 rngtools Utility Functions for Working with Random Number Generators
-
 rngWELL Toolbox for WELL Random Number Generators
-
 RNHANES Facilitates Analysis of CDC NHANES Data
-
 RNifti Fast R and C++ Access to NIfTI Images
-
 RNiftyReg Image Registration Using the 'NiftyReg' Library
-
 Rnightly A Wrapper of the 'JavaScript' Library 'Nightly'
-
 rnmamod Bayesian Network Meta-Analysis with Missing Participants
-
 Rnmr1D Perform the Complete Processing of a Set of Proton Nuclear Magnetic Resonance Spectra
-
 rnn Recurrent Neural Network
-
 rnoaa 'NOAA' Weather Data from R
-
 rNOMADS An R Interface to the NOAA Operational Model Archive and Distribution System
-
 RNOmni Rank Normal Transformation Omnibus Test
-
 rnpn Interface to the National 'Phenology' Network 'API'
-
 rnr Rosenbaum and Rubin Sensitivity
-
 rnrfa UK National River Flow Archive Data from R
-
 Rnumerai Interface to the Numerai Machine Learning Tournament API
-
 Rnvd3 An Incomplete Wrapper of the 'nvd3' JavaScript Library
-
 roadoi Find Free Versions of Scholarly Publications via Unpaywall
-
 roahd Robust Analysis of High Dimensional Data
-
 ROAuth R Interface For OAuth
-
 RobAStBase Robust Asymptotic Statistics
-
 RobAStRDA Interpolation Grids for Packages of the 'RobASt' - Family of Packages
-
 robber Using Block Model to Estimate the Robustness of Ecological Network
-
 robcbi Conditionally Unbiased Bounded Influence Estimates
-
 robCompositions Compositional Data Analysis
-
 robcor Robust Correlations
-
 robcp Robust Change-Point Tests
-
 roben Robust Bayesian Variable Selection for Gene-Environment Interactions
-
 robeth R Functions for Robust Statistics
-
 robets Forecasting Time Series with Robust Exponential Smoothing
-
 RobExtremes Optimally Robust Estimation for Extreme Value Distributions
-
 robfilter Robust Time Series Filters
-
 robFitConGraph Graph-Constrained Robust Covariance Estimation
-
 robflreg Robust Functional Linear Regression
-
 RobGARCHBoot Robust Bootstrap Forecast Densities for GARCH Models
-
 robin ROBustness in Network
-
 RobinHood Interface for the RobinHood.com No Commission Investing Platform
-
 robis Ocean Biodiversity Information System (OBIS) Client
-
 RobKF Innovative and/or Additive Outlier Robust Kalman Filtering
-
 RobLox Optimally Robust Influence Curves and Estimators for Location and Scale
-
 RobLoxBioC Infinitesimally Robust Estimators for Preprocessing -Omics Data
-
 RoBMA Robust Bayesian Meta-Analyses
-
 robmed (Robust) Mediation Analysis
-
 robmixglm Robust Generalized Linear Models (GLM) using Mixtures
-
 RobMixReg Robust Mixture Regression
-
 robnptests Robust Nonparametric Two-Sample Tests for Location/Scale
-
 roboBayes Robust Online Bayesian Monitoring
-
 robomit Robustness Checks for Omitted Variable Bias
-
 robotstxt A 'robots.txt' Parser and 'Webbot'/'Spider'/'Crawler' Permissions Checker
-
 RobPer Robust Periodogram and Periodicity Detection Methods
-
 robreg3S Three-Step Regression and Inference for Cellwise and Casewise Contamination
-
 robregcc Robust Regression with Compositional Covariates
-
 RobRex Optimally Robust Influence Curves for Regression and Scale
-
 RoBSA Robust Bayesian Survival Analysis
-
 robsel Robust Selection Algorithm
-
 robservable Import an Observable Notebook as HTML Widget
-
 robslopes Fast Algorithms for Robust Slopes
-
 RobStatTM Robust Statistics: Theory and Methods
-
 robsurvey Robust Survey Statistics Estimation
-
 RoBTT Robust Bayesian T-Test
-
 robumeta Robust Variance Meta-Regression
-
 robust Port of the S+ "Robust Library"
-
 robust2sls Outlier Robust Two-Stage Least Squares Inference and Testing
-
 RobustAFT Truncated Maximum Likelihood Fit and Robust Accelerated Failure Time Regression for Gaussian and Log-Weibull Case
-
 RobustANOVA Robust One-Way ANOVA Tests under Heteroscedasticity and Nonnormality
-
 robustarima Robust ARIMA Modeling
-
 robustbase Basic Robust Statistics
-
 RobustBayesianCopas Robust Bayesian Copas Selection Model
-
 robustbetareg Robust Beta Regression
-
 RobustBF Robust Solution to the Behrens-Fisher Problem
-
 robustBLME Robust Bayesian Linear Mixed-Effects Models using ABC
-
 RobustCalibration Robust Calibration of Imperfect Mathematical Models
-
 robustcov Collection of Robust Covariance and (Sparse) Precision Matrix Estimators
-
 robustDA Robust Mixture Discriminant Analysis
-
 robusTest Calibrated Correlation, Two-Sample Tests
-
 robustETM Robust Methods using Exponential Tilt Model
-
 RobustGaSP Robust Gaussian Stochastic Process Emulation
-
 robustHD Robust Methods for High-Dimensional Data
-
 RobustIV Robust Instrumental Variable Methods in Linear Models
-
 RobustLinearReg Robust Linear Regressions
-
 robustlm Robust Variable Selection with Exponential Squared Loss
-
 robustlmm Robust Linear Mixed Effects Models
-
 robustmeta Robust Inference for Meta-Analysis with Influential Outlying Studies
-
 robustrank Robust Rank-Based Tests
-
 RobustRankAggreg Methods for Robust Rank Aggregation
-
 robustrao An Extended Rao-Stirling Diversity Index to Handle Missing Data
-
 robustreg Robust Regression Functions
-
 robustsae Robust Bayesian Small Area Estimation
-
 robustsur Robust Estimation for Seemingly Unrelated Regression Models
-
 robustX 'eXtra' / 'eXperimental' Functionality for Robust Statistics
-
 robvis Visualize the Results of Risk-of-Bias (ROB) Assessments
-
 Robyn Semi-Automated Marketing Mix Modeling (MMM) from Meta Marketing Science
-
 ROCaggregator Aggregate Multiple ROC Curves into One Global ROC
-
 rocbc Statistical Inference for Box-Cox Based Receiver Operating Characteristic Curves
-
 rocc ROC Based Classification
-
 roccv ROC for Cross Validation Results
-
 ROCFTP.MMS Perfect Sampling
-
 ROCit Performance Assessment of Binary Classifier with Visualization
-
 rockchalk Regression Estimation and Presentation
-
 rocker Database Interface Class
-
 ROCket Simple and Fast ROC Curves
-
 RockFab Rock Fabric and Strain Analysis Tools
-
 rockr 'Rock' R Server Client
-
 roclang Functions for Diffusing Function Documentations into 'Roxygen' Comments
-
 rocNIT Non-Inferiority Test for Paired ROC Curves
-
 rocnp Work with Romanian Personal Numeric Codes PNC / CNP
-
 ROCnReg ROC Curve Inference with and without Covariates
-
 rococo Robust Rank Correlation Coefficient and Test
-
 ROCpsych Compute and Compare Diagnostic Test Statistics Across Groups
-
 ROCR Visualizing the Performance of Scoring Classifiers
-
 ROCS Receiver Operating Characteristics Surface
-
 ROCSI Receiver Operating Characteristic Based Signature Identification
-
 rocsvm.path The Entire Solution Paths for ROC-SVM
-
 rocTree Receiver Operating Characteristic (ROC)-Guided Classification and Survival Tree
-
 RODBC ODBC Database Access
-
 RODBCDBI Provides Access to Databases Through the ODBC Interface
-
 rodd Optimal Discriminating Designs
-
 rODE Ordinary Differential Equation (ODE) Solvers Written in R Using S4 Classes
-
 rodeo A Code Generator for ODE-Based Models
-
 rofanova Robust Functional Analysis of Variance
-
 roger Automated Grading of R Scripts
-
 Rogue Identify Rogue Taxa in Sets of Phylogenetic Trees
-
 ROI R Optimization Infrastructure
-
 ROI.models.globalOptTests 'ROI' Optimization Problems Based on 'globalOptTests'
-
 ROI.models.miplib 'ROI' Access to 'MIPLIB' 2010 Benchmark Instances
-
 ROI.models.netlib 'ROI' Optimization Problems Based on 'NETLIB-LP'
-
 ROI.plugin.alabama 'alabama' Plug-in for the 'R' Optimization Infrastructure
-
 ROI.plugin.cplex ROI Plug-in CPLEX
-
 ROI.plugin.deoptim 'DEoptim' and 'DEoptimR' Plugin for the 'R' Optimization Interface
-
 ROI.plugin.ecos 'ECOS' Plugin for the 'R' Optimization Infrastructure
-
 ROI.plugin.glpk 'ROI' Plug-in 'GLPK'
-
 ROI.plugin.highs 'HiGHS' Plugin for the 'R' Optimization Infrastructure
-
 ROI.plugin.ipop 'ipop' Plug-in for the 'R' Optimization Interface
-
 ROI.plugin.lpsolve 'lp_solve' Plugin for the 'R' Optimization Infrastructure
-
 ROI.plugin.msbinlp 'Multi-Solution' Binary Linear Problem Plug-in for the 'R' Optimization Interface
-
 ROI.plugin.neos 'NEOS' Plug-in for the 'R' Optimization Interface
-
 ROI.plugin.nloptr 'nloptr' Plug-in for the 'R' Optimization Infrastructure
-
 ROI.plugin.optimx 'optimx' Plug-in for the 'R' Optimization Infrastructure
-
 ROI.plugin.osqp 'osqp' Plugin for the 'R' Optimization Infrastructure
-
 ROI.plugin.qpoases 'qpOASES' Plugin for the 'R' Optimization Infrastructure
-
 ROI.plugin.quadprog 'quadprog' Plug-in for the 'R' Optimization Infrastructure
-
 ROI.plugin.scs 'SCS' Plug-in for the 'R' Optimization Infrastructure
-
 ROI.plugin.symphony 'SYMPHONY' Plug-in for the 'R' Optimization Interface
-
 roistats Convenience Functions for Applying Basic Stats to Sub-Groups
-
 roll Rolling and Expanding Statistics
-
 rollbar Error Tracking and Logging
-
 rolldown R Markdown Output Formats for Storytelling
-
 rollinglda Construct Consistent Time Series from Textual Data
-
 rollmatch Rolling Entry Matching
-
 rollRegres Fast Rolling and Expanding Window Linear Regression
-
 roloc Convert Colour Specification to Colour Name
-
 rolocISCCNBS A Colour List and Colour Metric Based on the ISCC-NBS System of Color Designation
-
 rolog Query 'SWI'-'Prolog' from R
-
 ROlogit Fit Rank-Ordered Logit (RO-Logit) Model
-
 rolr Finding Optimal Three-Group Splits Based on a Survival Outcome
-
 RolWinMulCor Subroutines to Estimate Rolling Window Multiple Correlation
-
 ROMDB Get 'OMDB' API Multiple Information
-
 romic R for High-Dimensional Omic Data
-
 RonFHIR Read and Search Interface to the 'HL7 FHIR' REST API
-
 Rook HTTP Web Server for R
-
 ROOPSD R Object Oriented Programming for Statistical Distribution
-
 roots Reconstructing Ordered Ontogenic Trajectories
-
 RootsExtremaInflections Finds Roots, Extrema and Inflection Points of a Curve
-
 rootSolve Nonlinear Root Finding, Equilibrium and Steady-State Analysis of Ordinary Differential Equations
-
 rootWishart Distribution of Largest Root for Single and Double Wishart Settings
-
 rope Model Selection with FDR Control of Selected Variables
-
 ropenblas Download, Compile and Link 'OpenBLAS' Library with R
-
 ROpenCVLite Helper Package for Installing OpenCV with R
-
 ropendata Query and Download 'Rapid7' 'Cybersecurity' Data Sets
-
 ROpenDota Access OpenDota Services in R
-
 ROpenFIGI R Interface to OpenFIGI
-
 ropensecretsapi R Package for the OpenSecrets.org API
-
 ROpenWeatherMap R Interface to OpenWeatherMap API
-
 roperators Additional Operators to Help you Write Cleaner R Code
-
 ropercenter Reproducible Data Retrieval from the Roper Center Data Archive
-
 Ropj Import Origin(R) Project Files
-
 roprov Low-Level Support for Provenance Capture Between in-Memory R Objects
-
 ROptEst Optimally Robust Estimation
-
 ROptEstOld Optimally Robust Estimation - Old Version
-
 roptim General Purpose Optimization in R using C++
-
 roptions Option Strategies and Valuation
-
 ROptRegTS Optimally Robust Estimation for Regression-Type Models
-
 ROptSpace Matrix Reconstruction from a Few Entries
-
 ROracle OCI Based Oracle Database Interface for R
-
 rorcid Interface to the 'Orcid.org' API
-
 rorqual.morpho Morphological Allometry of Rorquals
-
 ROSE Random Over-Sampling Examples
-
 Rosenbrock Extended Rosenbrock-Type Densities for Markov Chain Monte Carlo (MCMC) Sampler Benchmarking
-
 rosetta Parallel Use of Statistical Packages in Teaching
-
 rosetteApi 'Rosette' API
-
 rosm Plot Raster Map Tiles from Open Street Map and Other Sources
-
 rospca Robust Sparse PCA using the ROSPCA Algorithm
-
 rotasym Tests for Rotational Symmetry on the Hypersphere
-
 rotationForest Fit and Deploy Rotation Forest Models
-
 rotations Working with Rotation Data
-
 rotl Interface to the 'Open Tree of Life' API
-
 rotor Log Rotation and Conditional Backups
-
 roughnet Visualize Networks using 'roughjs'
-
 RoughSets Data Analysis Using Rough Set and Fuzzy Rough Set Theories
-
 roughsf Visualize Spatial Data using 'roughjs'
-
 round Rounding to Decimal Digits
-
 RoundAndRound Plot Objects Moving in Orbits
-
 roundhouse Random Chuck Norris Facts
-
 Routliers Robust Outliers Detection
-
 routr A Simple Router for HTTP and WebSocket Requests
-
 roxut Document Unit Tests Roxygen-Style
-
 roxygen2 In-Line Documentation for R
-
 roxygen2md 'Roxygen' to 'Markdown'
-
 roxytest Various Tests with 'roxygen2'
-
 rPACI Placido Analysis of Corneal Irregularity
-
 rPackedBar Packed Bar Charts with 'plotly'
-
 rpact Confirmatory Adaptive Clinical Trial Design and Analysis
-
 Rpadrino Interact with the 'PADRINO' IPM Database
-
 rPAex Automatic Detection of Experimental Unit in Precision Agriculture
-
 RPANDA Phylogenetic ANalyses of DiversificAtion
-
 rpanel Simple Interactive Controls for R using the 'tcltk' Package
-
 rPanglaoDB Download and Merge Single-Cell RNA-Seq Data from the PanglaoDB Database
-
 rpart Recursive Partitioning and Regression Trees
-
 rpart.LAD Least Absolute Deviation Regression Trees
-
 rpart.plot Plot 'rpart' Models: An Enhanced Version of 'plot.rpart'
-
 rpartScore Classification Trees for Ordinal Responses
-
 rPBK Inference and Prediction of Generic Physiologically-Based Kinetic Models
-
 rpca RobustPCA: Decompose a Matrix into Low-Rank and Sparse Components
-
 Rpdb Read, Write, Visualize and Manipulate PDB Files
-
 rpdo Pacific Decadal Oscillation Index Data
-
 RpeakChrom Tools for Chromatographic Column Characterization and Modelling Chromatographic Peak
-
 RPEGLMEN Gamma and Exponential Generalized Linear Models with Elastic Net Penalty
-
 RPEIF Computation and Plots of Influence Functions for Risk and Performance Measures
-
 RPEnsemble Random Projection Ensemble Classification
-
 RPESE Estimates of Standard Errors for Risk and Performance Measures
-
 RPEXE.RPEXT Reduced Piecewise Exponential Estimate/Test Software
-
 rpf Response Probability Functions
-
 RPhosFate Soil and Chemical Substance Emission and Transport Model
-
 Rphylopars Phylogenetic Comparative Tools for Missing Data and Within-Species Variation
-
 rphylopic Get 'Silhouettes' of 'Organisms' from 'Phylopic'
-
 rpinterest Access Pinterest API
-
 rpivotTable Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
-
 rplos Interface to the Search API for 'PLoS' Journals
-
 rplotengine R as a Plotting Engine
-
 rpls Robust Partial Least Squares
-
 rplum Bayesian Age-Depth Modelling of Cores Dated by Pb-210
-
 RPMG Graphical User Interface (GUI) for Interactive R Analysis Sessions
-
 RPMM Recursively Partitioned Mixture Model
-
 rpmodel P-Model
-
 rpms Recursive Partitioning for Modeling Survey Data
-
 rpnf Point and Figure Package
-
 Rpoet 'PoetryDB' API Wrapper
-
 Rpolyhedra Polyhedra Database
-
 Rpoppler PDF Tools Based on Poppler
-
 rportfolio Portfolio Theory
-
 rpostgis R Interface to a 'PostGIS' Database
-
 RPostgres Rcpp Interface to PostgreSQL
-
 RPostgreSQL R Interface to the 'PostgreSQL' Database System
-
 rPowerSampleSize Sample Size Computations Controlling the Type-II Generalized Family-Wise Error Rate
-
 RPPairwiseDesign Resolvable partially pairwise balanced design and Space-filling design via association scheme
-
 RPPanalyzer Reads, Annotates, and Normalizes Reverse Phase Protein Array Data
-
 RPPASPACE Reverse-Phase Protein Array Super Position and Concentration Evaluation
-
 rpql Regularized PQL for Joint Selection in GLMMs
-
 rPraat Interface to Praat
-
 rpredictit Interface to the 'PredictIt' API
-
 rPref Database Preferences and Skyline Computation
-
 RPresto DBI Connector to Presto
-
 rprev Estimating Disease Prevalence from Registry Data
-
 rprime Functions for Working with 'Eprime' Text Files
-
 rprintf Adaptive Builder for Formatted Strings
-
-RprobitB Bayesian Probit Choice Modeling
-
+RprobitB Bayesian Probit Choice Modelin
 RProbSup Calculates Probability of Superiority
-
 Rprofet WOE Transformation and Scorecard Builder
-
 rprojroot Finding Files in Project Subdirectories
-
 rprojtree Create Folders and Files Structure for Data Science Projects
-
 RProtoBuf R Interface to the 'Protocol Buffers' 'API' (Version 2 or 3)
-
 RPscoring Relative Placement Algorithm
-
 rpsftm Rank Preserving Structural Failure Time Models
-
 RPtests Goodness of Fit Tests for High-Dimensional Linear Regression Models
-
 rptR Repeatability Estimation for Gaussian and Non-Gaussian Data
-
 RPublica ProPublica API Client
-
 rpubs Extract Code Block from Rpubs Article
-
 RPushbullet R Interface to the Pushbullet Messaging Service
-
 RPyGeo ArcGIS Geoprocessing via Python
-
 rpymat Easy to Configure an Isolated 'Python' Environment
-
 rQCC Robust Quality Control Chart
-
 rqdatatable 'rquery' for 'data.table'
-
 RQEntangle Quantum Entanglement of Bipartite System
-
 rqPen Penalized Quantile Regression
-
 Rquake Seismic Hypocenter Determination
-
 RQuantLib R Interface to the 'QuantLib' Library
-
 Rquefts Quantitative Evaluation of the Native Fertility of Tropical Soils
-
 rquery Relational Query Generator for Data Manipulation at Scale
-
 rr Statistical Methods for the Randomized Response Technique
-
 rr2 R2s for Regression Models
-
 Rramas Matrix Population Models
-
 rRAP Real-Time Adaptive Penalization for Streaming Lasso Models
-
 rrapply Revisiting Base Rapply
-
 rrat Robust Regression with Asymmetric Heavy-Tail Noise Distributions
-
 RRate Estimating Replication Rate for Genome-Wide Association Studies
-
 Rraven Connecting R and 'Raven' Sound Analysis Software
-
 rrBLUP Ridge Regression and Other Kernels for Genomic Selection
-
 RRBoost A Robust Boosting Algorithm
-
 rrcov Scalable Robust Estimators with High Breakdown Point
-
 rrcov3way Robust Methods for Multiway Data Analysis, Applicable also for Compositional Data
-
 rrcovHD Robust Multivariate Methods for High Dimensional Data
-
 rrcovNA Scalable Robust Estimators with High Breakdown Point for Incomplete Data
-
 Rrdap RDAP Server Querying
-
 Rrdrand 'DRNG' on Intel CPUs with the 'RdRand' Instruction for R
-
 rrecsys Environment for Evaluating Recommender Systems
-
 rredlist 'IUCN' Red List Client
-
 RRedshiftSQL R Interface to the 'Redshift' Database
-
 rrefine r Client for OpenRefine API
-
 rreg Visualization for Norwegian Health Quality Registries
-
 rrepast Invoke 'Repast Simphony' Simulation Models
-
 rres Realized Relatedness Estimation and Simulation
-
 RRF Regularized Random Forest
-
 RRI Residual Randomization Inference for Regression Models
-
 rriskDistributions Fitting Distributions to Given Data or Known Quantiles
-
 rrMixture Reduced-Rank Mixture Models
-
 RRMLRfMC Reduced-Rank Multinomial Logistic Regression for Markov Chains
-
 RRNA Secondary Structure Plotting for RNA
-
 rrnni Manipulate with RNNI Tree Space
-
 rroad Road Condition Analysis
-
 rrpack Reduced-Rank Regression
-
 RRphylo Phylogenetic Ridge Regression Methods for Comparative Studies
-
 RRPP Linear Model Evaluation with Randomized Residuals in a Permutation Procedure
-
 rrr Reduced-Rank Regression
-
 RRreg Correlation and Regression Analyses for Randomized Response Data
-
 RRRR Online Robust Reduced-Rank Regression Estimation
-
 rrscale Robust Re-Scaling to Better Recover Latent Effects in Data
-
 rrtable Reproducible Research with a Table of R Codes
-
 RRTCS Randomized Response Techniques for Complex Surveys
-
 rrum Bayesian Estimation of the Reduced Reparameterized Unified Model with Gibbs Sampling
-
 RSA Response Surface Analysis
-
 RSADBE Data related to the book "R Statistical Application Development by Example"
-
 rsae Robust Small Area Estimation
-
 rSAFE Surrogate-Assisted Feature Extraction
-
 RSAGA SAGA Geoprocessing and Terrain Analysis
-
 Rsagacmd Linking R with the Open-Source 'SAGA-GIS' Software
-
 RSAlgaeR Builds Empirical Remote Sensing Models of Water Quality Variables and Analyzes Long-Term Trends
-
 rsample General Resampling Infrastructure
-
 Rsampling Ports the Workflow of "Resampling Stats" Add-in to R
-
 RSarules Random Sampling Association Rules from a Transaction Dataset
-
 RSauceLabs R Wrapper for 'SauceLabs' REST API
-
 RSBJson Handle R Requests from R Service Bus Applications with JSON Payloads
-
 rsbp Part Information from the Registry of Standard Biological Parts
-
 RSC Robust and Sparse Correlation Matrix
-
 rSCA An R Package for Stepwise Cluster Analysis
-
 rscala Bridge Between 'R' and 'Scala' with Callbacks
-
 RSCAT Shadow-Test Approach to Computerized Adaptive Testing
-
 rscc R Source Code Similarity Evaluation by Variable/Function Names
-
 RScelestial Scelestial: Steiner Tree Based Single-Cell Lineage Tree Inference
-
 rscimark SciMark 2.0 Benchmark for Scientific and Numerical Computing
-
 RSclient Client for Rserve
-
 Rsconctdply Deploys Multiple 'Shiny' Apps using Configuration File
-
 rsconnect Deployment Interface for R Markdown Documents and Shiny Applications
-
 rscontract Generic implementation of the 'RStudio' connections contract
-
 rscopus Scopus Database 'API' Interface
-
 rscorecard A Method to Download Department of Education College Scorecard Data
-
 RSDA R to Symbolic Data Analysis
-
 rsdepth Ray Shooting Depth (i.e. RS Depth) Functions for Bivariate Analysis
-
 RSDK Sudoku with R
-
 rsdmx Tools for Reading SDMX Data and Metadata
-
 rsdNE Response Surface Designs with Neighbour Effects (rsdNE)
-
 RSE Number of Newly Discovered Rare Species Estimation
-
 rSEA Simultaneous Enrichment Analysis
-
 rseedcalc Estimating the Proportion of Genetically Modified Seeds in Seedlots via Multinomial Group Testing
-
 RSEIS Seismic Time Series Analysis Tools
-
 RSelenium R Bindings for 'Selenium WebDriver'
-
 rsem Robust Structural Equation Modeling with Missing Data and Auxiliary Variables
-
 RSentiment Analyse Sentiment of English Sentences
-
 Rserve Binary R server
-
 rsetse Strain Elevation Tension Spring Embedding
-
 rsf Report of Statistical Findings in 'bookdown'
-
 rSFA Slow Feature Analysis
-
 Rsfar Seasonal Functional Autoregressive Models
-
 Rsgf SGF (Smart Game File) File Format Import
-
 RSGHB Functions for Hierarchical Bayesian Estimation: A Flexible Approach
-
 rSHAPE Simulated Haploid Asexual Population Evolution
-
 rshift Paleoecology Functions for Regime Shift Analysis
-
 RSiena Siena - Simulation Investigation for Empirical Network Analysis
-
 RsimMosaic R Simple Image Mosaic Creation Library
-
 rsimsum Analysis of Simulation Studies Including Monte Carlo Error
-
 rsinaica Download Data from Mexico's Air Quality Information System
-
 RSIP Remote Sensing and Image Processing
-
 RSiteCatalyst R Client for Adobe Analytics API V1.4
-
 RSizeBiased Hypothesis Testing Based on R-Size Biased Samples
-
 RSKC Robust Sparse K-Means
-
 rskey Create Custom 'Rstudio' Keyboard Shortcuts
-
 rsleep Analysis of Sleep Data
-
 rslp A Stemming Algorithm for the Portuguese Language
-
 rslurm Submit R Calculations to a 'Slurm' Cluster
-
 rsm Response-Surface Analysis
-
 RSmallTelescopes Empirical Small Telescopes Analysis
-
 RSmartlyIO Loading Facebook and Instagram Advertising Data from 'Smartly.io'
-
 rsmatrix Matrices for Repeat-Sales Price Indexes
-
 Rsmlx R Speaks 'Monolix'
-
 RSNNS Neural Networks using the Stuttgart Neural Network Simulator (SNNS)
-
 rsnps Get 'SNP' ('Single-Nucleotide' 'Polymorphism') Data on the Web
-
 RSocrata Download or Upload 'Socrata' Data Sets
-
 rsoi Import Various Northern and Southern Hemisphere Climate Indices
-
 Rsolnp General Non-Linear Optimization
-
 rsolr R to Solr Interface
-
 Rsomoclu Somoclu
-
 rspa Adapt Numerical Records to Fit (in)Equality Restrictions
-
 rsparkling R Interface for H2O Sparkling Water
-
 rsparse Statistical Learning on Sparse Matrices
-
 Rspc Nelson Rules for Control Charts
-
 rSPDE Rational Approximations of Fractional Stochastic Partial Differential Equations
-
 RSpectra Solvers for Large-Scale Eigenvalue and SVD Problems
-
 rSpectral Spectral Modularity Clustering
-
 RSpincalc Conversion Between Attitude Representations of DCM, Euler Angles, Quaternions, and Euler Vectors
-
 rspiro Implementation of Spirometry Equations
-
 rspm 'RStudio' Package Manager
-
 Rspotify Access to Spotify API
-
 rsppfp R's Shortest Path Problem with Forbidden Subpaths
-
 rsprite2 Identify Distributions that Match Reported Sample Parameters (SPRITE)
-
 rsq R-Squared and Related Measures
-
 RSQL Database Agnostic Package to Generate and Process 'SQL' Queries in R
-
 RSQLite SQLite Interface for R
-
 rsqliteadmin A GUI to Manage SQLite Databases
-
 RSqlParser Parse 'SQL' Statements
-
 RsqMed Total Mediation Effect Size Measure (R-Squared Measure) under Moderate or High-Dimensional Mediator Settings
-
 Rssa A Collection of Methods for Singular Spectrum Analysis
-
 RSSampling Ranked Set Sampling
-
 RsSimulx Extension of 'lixoftConnectors' for 'Simulx'
-
 RSSL Implementations of Semi-Supervised Learning Approaches for Classification
-
 RSSOP Simulation of Supply Reservoir Systems using Standard Operation Policy
-
 rstac Client Library for SpatioTemporal Asset Catalog
-
 rstack Stack Data Type as an 'R6' Class
-
 rstackdeque Persistent Fast Amortized Stack and Queue Data Structures
-
 rstan R Interface to Stan
-
 rstanarm Bayesian Applied Regression Modeling via Stan
-
 rstanemax Emax Model Analysis with 'Stan'
-
 rstantools Tools for Developing R Packages Interfacing with 'Stan'
-
 RStata A Bit of Glue Between R and Stata
-
 rstatix Pipe-Friendly Framework for Basic Statistical Tests
-
 rstatscn R Interface for China National Data
-
 Rstg STG : Feature Selection using STochastic Gates
-
 rstiefel Random Orthonormal Matrix Generation and Optimization on the Stiefel Manifold
-
 rstoat R Interface to the 'STOAT' Platform
-
 RStoolbox Tools for Remote Sensing Data Analysis
-
 RStorm Simulate and Develop Streaming Processing
-
 RstoxData Tools to Read and Manipulate Fisheries Data
-
 rstpm2 Smooth Survival Models, Including Generalized Survival Models
-
 rStrava Access the 'Strava' API
-
 rstream Streams of Random Numbers
-
 RStripe A Convenience Interface for the Stripe Payment API
-
 rstudio.prefs Set 'RStudio' Preferences
-
 rstudioapi Safely Access the RStudio API
-
 rsubgroup Subgroup Discovery and Analytics
-
 rsurface Design of Rotatable Central Composite Experiments and Response Surface Analysis
-
 Rsurrogate Robust Estimation of the Proportion of Treatment Effect Explained by Surrogate Marker Information
-
 RSurveillance Design and Analysis of Disease Surveillance Activities
-
 RSurvey Geographic Information System Application
-
 rsurveycto Interact with Data on 'SurveyCTO'
-
 rsvd Randomized Singular Value Decomposition
-
 rsvddpd Robust Singular Value Decomposition using Density Power Divergence
-
-rsvg Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays
-
+rsvg Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Array
 rswipl Embed 'SWI'-'Prolog'
-
 Rsymphony SYMPHONY in R
-
 rsyncrosim The R Interface to 'SyncroSim'
-
-rsyntax Extract Semantic Relations from Text by Querying and Reshaping Syntax
-
+rsyntax Extract Semantic Relations from Text by Querying and Reshaping Synta
 rsyslog Interface to the 'syslog' System Logger
-
 rt Interface to the 'Request Tracker' API
-
 rt.test Robustified t-Test
-
 rt3 Tic-Tac-Toe Package for R
-
 rTableICC Random Generation of Contingency Tables
-
 rtables Reporting Tables
-
 Rtapas Random Tanglegram Partitions
-
 rtape Manage and manipulate large collections of R objects stored as tape-like files
-
 Rtauchen Discretization of AR(1) Processes
-
 RTaxometrics Taxometric Analysis
-
 RTCC Detecting Trait Clustering in Environmental Gradients
-
 rTCRBCRr Repertoire Analysis of the Detected Clonotype
-
 RTD Simple TD API Client
-
 RtD3 Rt Visualization in D3
-
 RTDE Robust Tail Dependence Estimation
-
 rtdists Response Time Distributions
-
 rtematres The rtematres API package
-
 rtemps R Templates for Reproducible Data Analyses
-
 rTensor Tools for Tensor Analysis and Decomposition
-
 rTensor2 MultiLinear Algebra
-
 rTephra Tephra Transport Modeling
-
 rtern A Ternary Conditional Operator for R
-
 RTextTools Automatic Text Classification via Supervised Learning
-
 rtf Rich Text Format (RTF) Output
-
 rTG Methods to Analyse Seasonal Radial Tree Growth Data
-
 rtgstat Client for 'TGStat API'
-
 Rthingsboard 'ThingsBoard' API
-
 rticles Article Formats for R Markdown
-
 rticulate Ultrasound Tongue Imaging
-
 rtiddlywiki R Interface for 'TiddlyWiki'
-
 rtide Tide Heights
-
 rties Modeling Interpersonal Dynamics
-
 RTIGER HMM-Based Model for Genotyping and Cross-Over Identification
-
 rtika R Interface to 'Apache Tika'
-
 rtip Inequality, Welfare and Poverty Indices and Curves using the EU-SILC Data
-
 rtist A Color Palette Generator
-
 rtk Rarefaction Tool Kit
-
 rtkore 'STK++' Core Library Integration to 'R' using 'Rcpp'
-
 RTL Risk Tool Library - Trading, Risk, 'Analytics' for Commodities
-
 rTLS Tools to Process Point Clouds Derived from Terrestrial Laser Scanning
-
 rtmpt Fitting RT-MPT Models
-
 Rtnmin Truncated Newton Function Minimization with Bounds Constraints
-
 rtodoist Create and Manage Todolist using 'Todoist.com' API
-
 RTOMO Visualization for Seismic Tomography
-
 rtoot Collecting and Analyzing Mastodon Data
-
 rtop Interpolation of Data with Variable Spatial Support
-
 rTorch R Bindings to 'PyTorch'
-
 Rtrack Spatial Navigation Strategy Analysis
-
 RTransferEntropy Measuring Information Flow Between Time Series with Shannon and Renyi Transfer Entropy
-
 rtrek Datasets and Functions Relating to Star Trek
-
 rtrend Trend Estimating Tools
-
 rtrends Analyze Download Logs from the CRAN RStudio Mirror
-
 RTriangle Triangle - A 2D Quality Mesh Generator and Delaunay Triangulator
-
 rtrim Trends and Indices for Monitoring Data
-
 rTRIPLEXCWFlux Carbon-Water Coupled Model
-
 rTRNG Advanced and Parallel Random Number Generation via 'TRNG'
-
 Rtropical Data Analysis Tools over Space of Phylogenetic Trees Using Tropical Geometry
-
 rtry Preprocessing Plant Trait Data
-
 rts Raster Time Series Analysis
-
 rts2 Real-Time Disease Surveillance
-
-rtsdata R Time Series Intelligent Data Storage
-
+rtsdata R Time Series Intelligent Data Storag
 Rtsne T-Distributed Stochastic Neighbor Embedding using a Barnes-Hut Implementation
-
 rtson Typed JSON
-
 rtsplot Time Series Plot
-
 rtsVis Raster Time Series Visualization
-
 Rttf2pt1 'ttf2pt1' Program
-
 RTTWebClient Web Client to 'TickTrader'
-
 Rtwalk The R Implementation of the 't-walk' MCMC Algorithm
-
 rtweet Collecting Twitter Data
-
 rtype A strong type system for R
-
 rtypeform Interface to 'typeform' Results
-
 rubias Bayesian Inference from the Conditional Genetic Stock Identification Model
-
 rucm Implementation of Unobserved Components Model (UCM)
-
 rucrdtw R Bindings for the UCR Suite
-
 rugarch Univariate GARCH Models
-
 ruimtehol Learn Text 'Embeddings' with 'Starspace'
-
 ruin Simulation of Various Risk Processes
-
 ruler Tidy Data Validation Reports
-
 rules Model Wrappers for Rule-Based Models
-
 rUM R Templates from the University of Miami
-
 rumidas Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
-
 runcharter Automatically Plot, Analyse and Revises Limits of Multiple Run Charts
-
 runes Convert Strings to Elder Futhark Runes
-
 runexp Softball Run Expectancy using Markov Chains and Simulation
-
 RUnit R Unit Test Framework
-
 runjags Interface Utilities, Model Templates, Parallel Computing Methods and Additional Distributions for MCMC Models in JAGS
-
 runner Running Operations for Vectors
-
 runonce Run Once and Save Result
-
 runstats Fast Computation of Running Statistics for Time Series
-
 Runuran R Interface to the 'UNU.RAN' Random Variate Generators
-
 rusda Interface to USDA Databases
-
 rusk Beautiful Graphical Representation of Multiplication Tables on a Modular Circle
-
 rust Ratio-of-Uniforms Simulation with Transformation
-
 ruta Implementation of Unsupervised Neural Architectures
-
 rutifier Chilean Rol Unico Tributario
-
 ruv Detect and Remove Unwanted Variation using Negative Controls
-
 RUVIIIC RUV-III-C
-
 rv Simulation-Based Random Variable Objects
-
 RVA RNAseq Visualization Automation
-
 RVAideMemoire Testing and Plotting Procedures for Biostatistics
-
 rvalues R-Values for Ranking in High-Dimensional Settings
-
 Rvcg Manipulations of Triangular Meshes Based on the 'VCGLIB' API
-
 rvcheck R/Package Version Check
-
 RVCompare Compare Real Valued Random Variables
-
 RVenn Set Operations for Many Sets
-
 RVerbalExpressions Create Regular Expressions Easily
-
 rversions Query 'R' Versions, Including 'r-release' and 'r-oldrel'
-
 rvertnet Search 'Vertnet', a 'Database' of Vertebrate Specimen Records
-
 rvest Easily Harvest (Scrape) Web Pages
-
 rvg R Graphics Devices for Vector Graphics Output
-
 rvHPDT Calling Haplotype-Based and Variant-Based Pedigree Disequilibrium Test for Rare Variants in Pedigrees
-
 RViennaCL 'ViennaCL' C++ Header Files
-
 rviewgraph Animated Graph Layout Viewer
-
 rvinecopulib High Performance Algorithms for Vine Copula Modeling
-
 RVIpkg Regional Vulnerability Index
-
 rvkstat R Interface to API 'vk.com'
-
 rvmethod Radial Velocity Method for Detecting Exoplanets
-
 Rvmmin Variable Metric Nonlinear Function Minimization
-
 Rvoterdistance Calculates the Distance Between Voter and Multiple Polling Locations
-
 RVowpalWabbit R Interface to the Vowpal Wabbit
-
 rwa Perform a Relative Weights Analysis
-
 rwalkr API to Melbourne Pedestrian Data
-
 rwarrior R Warrior - An AI Programming Game
-
 Rwave Time-Frequency Analysis of 1-D Signals
-
 rwavelet Wavelet Analysis
-
 rwc Random Walk Covariance Models
-
 Rwclust Random Walk Clustering on Weighted Graphs
-
 RWDataPlyr Read and Manipulate Data from 'RiverWare'
-
 RweaveExtra Sweave Drivers with Extra Tricks Up their Sleeve
-
 rwebstat Download Data from the Webstat API
-
 RWeka R/Weka Interface
-
 RWekajars R/Weka Interface Jars
-
 rwfec R Wireless, Forward Error Correction
-
 rwhatsapp Import and Handling for 'WhatsApp' Chat Logs
-
 Rwhois WHOIS Server Querying
-
 rwicc Regression with Interval-Censored Covariates
-
 RWiener Wiener Process Distribution Functions
-
 RWildbook Interface for the 'Wildbook' Wildlife Data Management Framework
-
 rWind Download, Edit and Include Wind and Sea Currents Data in Ecological and Evolutionary Analysis
-
 RWinEdt R Interface to 'WinEdt'
-
 rWishart Random Wishart Matrix Generation
-
 RWmisc Miscellaneous Spatial Functions
-
 Rwofost WOFOST Crop Growth Simulation Model
-
 Rwordseg Chinese Word Segmentation
-
 rworldmap Mapping Global Data
-
 rworldxtra Country boundaries at high resolution
-
 RWsearch Lazy Search in R Packages, Task Views, CRAN, the Web. All-in-One Download
-
 rwstats Chinese Character Frequency in Real World
-
 rwt 'Rice Wavelet Toolbox' Wrapper
-
 Rwtss Client for Web Time-Series Service
-
 rwty R We There Yet? Visualizing MCMC Convergence in Phylogenetics
-
 rwunderground R Interface to Weather Underground API
-
 RXKCD Get XKCD Comic from R
-
 RXMCDA Functions to Parse and Create XMCDA Files
-
 RxnSim Functions to Compute Chemical Reaction Similarity
-
 rxode2 Facilities for Simulating from ODE-Based Models
-
 rxode2et Event Table Functions for 'rxode2'
-
 rxode2ll Log-Likelihood Functions for 'rxode2'
-
 rxode2parse Parsing and Code Generation Functions for 'rxode2'
-
 rxode2random Random Number Generation Functions for 'rxode2'
-
 rxSeq Combined Total and Allele Specific Reads Sequencing Study
-
 RXshrink Maximum Likelihood Shrinkage using Generalized Ridge or Least Angle Regression
-
 rxylib Import XY-Data into R
-
 Ryacas R Interface to the 'Yacas' Computer Algebra System
-
 Ryacas0 Legacy 'Ryacas' (Interface to 'Yacas' Computer Algebra System)
-
 ryandexdirect Load Data From 'Yandex Direct'
-
 RYandexTranslate R Interface to Yandex Translate API
-
 rym R Interface to Yandex Metrica API
-
 ryouready Companion to the Forthcoming Book - R you Ready?
-
 rYoutheria Access to the YouTheria Mammal Trait Database
-
 rytstat Work with 'YouTube API'
-
 RZabbix R Module for Working with the 'Zabbix API'
-
 rzentra Client for the 'ZENTRA Cloud' API
-
 RZigZag Zig-Zag Sampler
-
 rzmq R Bindings for 'ZeroMQ'
-
 RZooRoH Partitioning of Individual Autozygosity into Multiple Homozygous-by-Descent Classes
 
 
