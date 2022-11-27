@@ -17881,1093 +17881,549 @@ myTAI Evolutionary Transcriptomics
 
 
 n1qn1 Port of the 'Scilab' 'n1qn1' Module for Unconstrained BFGS Optimization
-
 N2H4 Handling Methods for Naver News Text Crawling
-
 N2R Fast and Scalable Approximate k-Nearest Neighbor Search Methods using 'N2' Library
-
 na.tools Comprehensive Library for Working with Missing (NA) Values in Vectors
-
 naaccr Read Cancer Records in the NAACCR Format
-
 nabor Wraps 'libnabo', a Fast K Nearest Neighbour Library for Low Dimensions
-
 NACHO NanoString Quality Control Dashboard
-
 NADA Nondetects and Data Analysis for Environmental Data
-
 NADA2 Data Analysis for Censored Environmental Data
-
 NADIA NA Data Imputation Algorithms
-
 nadiv (Non)Additive Genetic Relatedness Matrices
-
 NAEPirtparams IRT Parameters for the National Assessment of Education Progress
-
 NAEPprimer The NAEP Primer
-
 naflex Flexible Options for Handling Missing Values
-
 naijR Operations to Ease Data Analyses Specific to Nigeria
-
 naive Empirical Extrapolation of Time Feature Patterns
-
 naivebayes High Performance Implementation of the Naive Bayes Algorithm
-
 naivereg Nonparametric Additive Instrumental Variable Estimator and Related IV Methods
-
 nakagami Functions for the Nakagami Distribution
-
 NAM Nested Association Mapping
-
 name Tools for Working with Names
-
 namedCapture Named Capture Regular Expressions
-
 namedropR Create Visual Citations for Presentations and Posters
-
 NameNeedle Using Needleman-Wunsch to Match Sample Names
-
 namer Names Your 'R Markdown' Chunks
-
 namespace Provide namespace managment functions not (yet) present in base R
-
 nametagger Named Entity Recognition in Texts using 'NameTag'
-
 nandb Number and Brightness Image Analysis
-
 naniar Data Structures, Summaries, and Visualisations for Missing Data
-
 nanonext NNG (Nanomsg Next Gen) Lightweight Messaging Library
-
 nanop Tools for Nanoparticle Simulation and Calculation of PDF and Total Scattering Structure Function
-
 nanostringr Performs Quality Control, Data Normalization, and Batch Effect Correction for 'NanoString nCounter' Data
-
 nanotime Nanosecond-Resolution Time Support for R
-
 NAP Non-Local Alternative Priors in Psychology
-
 naptanr Call the 'NaPTAN' API Through R
-
 naptime A Flexible and Robust Sys.sleep() Replacement
-
 nardl Nonlinear Cointegrating Autoregressive Distributed Lag Model
-
 narray Subset- And Name-Aware Array Utility Functions
-
 naryn Native Access Medical Record Retriever for High Yield Analytics
-
 nasadata Interface to Various NASA API's
-
 nasapower NASA POWER API Client
-
 nasaweather Collection of datasets from the ASA 2006 data expo
-
 NasdaqDataLink API Wrapper for Nasdaq Data Link
-
 naspaclust Nature-Inspired Spatial Clustering
-
 nat NeuroAnatomy Toolbox for Analysis of 3D Image Data
-
 nat.nblast NeuroAnatomy Toolbox ('nat') Extension for Assessing Neuron Similarity and Clustering
-
 nat.templatebrains NeuroAnatomy Toolbox ('nat') Extension for Handling Template Brains
-
 nat.utils File System Utility Functions for 'NeuroAnatomy Toolbox'
-
 natcpp Fast C++ Primitives for the 'NeuroAnatomy Toolbox'
-
 natmanager Install the 'Natverse' Packages from Scratch
-
 NatParksPalettes Color Palettes Inspired by National Parks
-
 natserv 'NatureServe' Interface
-
 natstrat Obtain Unweighted Natural Strata that Balance Many Covariates
-
 natural Estimating the Error Variance in a High-Dimensional Linear Model
-
 naturaList Classify Occurrences by Confidence Levels in the Species ID
-
 naturalsort Natural Ordering
-
 NatureSounds Animal Sounds for Bioacustic Analysis
-
 navigatr Navigation Menu for Pipe-Friendly Data Processing
-
 nawtilus Navigated Weighting for the Inverse Probability Weighting
-
 NB.MClust Negative Binomial Model-Based Clustering
-
 NBAloveR Help Basketball Data Analysis
-
 nbapalettes An NBA Jersey Palette Generator
-
 NBBDesigns Neighbour Balanced Block Designs (NBBDesigns)
-
 NBBttest Negative Binomial Beta t-Test
-
 nbc4va Bayes Classifier for Verbal Autopsy Data
-
 NbClust Determining the Best Number of Clusters in a Data Set
-
 nbconvertR Vignette Engine Wrapping Jupyter Notebooks
-
 NBDdirichlet NBD-Dirichlet Model of Consumer Buying Behavior for Marketing Research
-
 NBDesign Design and Monitoring of Clinical Trials with Negative Binomial Endpoint
-
 nberwp NBER Working Papers
-
 nbfar Negative Binomial Factor Regression Models ('nbfar')
-
 NBLDA Negative Binomial Linear Discriminant Analysis
-
 nbody Gravitational N-Body Simulation
-
 nbpMatching Functions for Optimal Non-Bipartite Matching
-
 NBPSeq Negative Binomial Models for RNA-Sequencing Data
-
 NBR Network-Based R-Statistics using Mixed Effects Models
-
 NBShiny Interactive Document for Working with Naive Bayes Classification
-
 NBShiny2 Interactive Document for Working with Naive Bayes Classification
-
 NBShiny3 Interactive Document for Working with Naive Bayes Classification
-
 nbTransmission Naive Bayes Transmission Analysis
-
 nc Named Capture to Data Tables
-
 NCA Necessary Condition Analysis
-
 ncappc NCA Calculations and Population Model Diagnosis
-
 ncar Noncompartmental Analysis for Pharmacokinetic Report
-
 ncbit Retrieve and Build NBCI Taxonomic Data
-
 ncdf4 Interface to Unidata netCDF (Version 4 or Earlier) Format Data Files
-
 ncdf4.helpers Helper Functions for Use with the 'ncdf4' Package
-
 ncdfgeom 'NetCDF' Geometry and Time Series
-
 ncdump Extract Metadata from 'NetCDF' Files as Data Frames
-
 nCDunnett Noncentral Dunnett's Test Distribution
-
 ncf Spatial Covariance Functions
-
 ncmeta Straightforward 'NetCDF' Metadata
-
 NCmisc Miscellaneous Functions for Creating Adaptive Functions and Scripts
-
 ncodeR Techniques for Automated Classifiers
-
 nCopula Hierarchical Archimedean Copulas Constructed with Multivariate Compound Distributions
-
 nCov2019 Exploring 'COVID'-19 Statistics
-
 ncpen Unified Algorithm for Non-convex Penalized Estimation for Generalized Linear Models
-
 NCSampling Nearest Centroid (NC) Sampling
-
 NCSCopula Non-Central Squared Copula Models Estimation
-
 NCutYX Clustering of Omics Data of Multiple Types with a Multilayer Network Representation
-
 ncvreg Regularization Paths for SCAD and MCP Penalized Regression Models
-
 nda Network-Based Dimensionality Reduction and Analysis
-
 ndi Neighborhood Deprivation Indices
-
 ndjson Wicked-Fast Streaming 'JSON' ('ndjson') Reader
-
 ndl Naive Discriminative Learning
-
 NDP Interactive Presentation for Working with Normal Distribution
-
 ndtv Network Dynamic Temporal Visualizations
-
 neariso Near-Isotonic Regression
-
 neat Efficient Network Enrichment Analysis Test
-
 neatmaps Heatmaps for Multiple Network Data
-
 neatRanges Tidy Up Date/Time Ranges
-
 neatStats Neat and Painless Statistical Reporting
-
 nebula Negative Binomial Mixed Models Using Large-Sample Approximation for Differential Expression Analysis of ScRNA-Seq Data
-
 Necklaces Necklaces and Bracelets
-
 needmining A Simple Needmining Implementation
-
 needs Attaches and Installs Packages
-
 NegativeControlOutcomeAdjustment Estimation of Vaccine Efficacy using Negative Control Outcomes
-
 NegBinBetaBinreg Negative Binomial and Beta Binomial Bayesian Regression Models
-
 negenes Estimating the Number of Essential Genes in a Genome
-
 negligible A Collection of Functions for Negligible Effect/Equivalence Testing
-
 Neighboot Neighborhood Bootstrap Method for RDS
-
 neighbours Neighbourhood Functions for Local-Search Algorithms
-
 neighbr Classification, Regression, Clustering with K Nearest Neighbors
-
 neldermead R Port of the 'Scilab' Neldermead Module
-
 neo2R Neo4j to R
-
 neo4jshell Querying and Managing 'Neo4J' Databases in 'R'
-
 neo4r A 'Neo4J' Driver
-
 NEONiso Tools to Calibrate and Work with NEON Atmospheric Isotope Data
-
 neonOS Basic Data Wrangling for NEON Observational Data
-
 neonstore NEON Data Store
-
 neonUtilities Utilities for Working with NEON Data
-
 nephro Utilities for Nephrology
-
 NEpiC Network Assisted Algorithm for Epigenetic Studies Using Mean and Variance Combined Signals
-
 neptune MLOps Metadata Store - Experiment Tracking and Model Registry for Production Teams
-
 nesRdata National Eutrophication Survey Data
-
 NestedCategBayesImpute Modeling, Imputing and Generating Synthetic Versions of Nested Categorical Data in the Presence of Impossible Combinations
-
 nestedcv Nested Cross-Validation with 'glmnet' and 'caret'
-
 NestedMenu A Nested Menu Widget for 'Shiny' Applications
-
 nestedmodels Tidy Modelling for Nested Data
-
 nestfs Cross-Validated (Nested) Forward Selection
-
 NestMRMC Single Reader Between-Cases AUC Estimator in Nested Data
-
 nestr Build Nesting or Hierarchical Structures
-
 net4pg Handle Ambiguity of Protein Identifications from Shotgun Proteomics
-
 netassoc Inference of Species Associations from Co-Occurrence Data
-
 netchain Inferring Causal Effects on Collective Outcomes under Interference
-
 netClust Model-Based Clustering of Network Data
-
 NetCluster Clustering for networks
-
 netcmc Spatio-Network Generalised Linear Mixed Models for Areal Unit and Network Data
-
 netCoin Interactive Analytic Networks
-
 netcom NETwork COMparison Inference
-
 netcontrol Control Theory Methods for Networks
-
 NetCoupler Inference of Causal Links Between a Network and an External Variable
-
 NetDA Network-Based Discriminant Analysis Subject to Multi-Label Classes
-
 NetExplorer Network Explorer
-
 NetFACS Network Applications to Facial Communication Data
-
 netgen Network Generator for Combinatorial Graph Problems
-
 netgsa Network-Based Gene Set Analysis
-
 netgwas Network-Based Genome Wide Association Studies
-
 netie Antigen T Cell Interaction Estimation
-
 NetIndices Estimating Network Indices, Including Trophic Structure of Foodwebs in R
-
 NetInt Methods for Unweighted and Weighted Network Integration
-
 netjack Tools for Working with Samples of Networks
-
 netmap Represent Network Objects on a Map
-
 netmediate Micro-Macro Analysis for Social Networks
-
 netmeta Network Meta-Analysis using Frequentist Methods
-
 netmhc2pan Interface to 'NetMHCIIpan'
-
 NetMix Dynamic Mixed-Membership Network Regression Model
-
 NetOrigin Origin Estimation for Propagation Processes on Complex Networks
-
 netplot Beautiful Graph Drawing
-
 NetPreProc Network Pre-Processing and Normalization
-
 netrankr Analyzing Partial Rankings in Networks
-
 netregR Regression of Network Responses
-
 NetRep Permutation Testing Network Module Preservation Across Datasets
-
 netropy Statistical Entropy Analysis of Network Data
-
 nets Network Estimation for Time Series
-
 NetSci Calculates Basic Network Measures Commonly Used in Network Medicine
-
 netseg Measures of Network Segregation and Homophily
-
 netSEM Network Structural Equation Modeling
-
 netShiny Tool for Comparison and Visualization of Multiple Networks
-
 NetSimR Actuarial Functions for Non-Life Insurance Modelling
-
 netstat Retrieve Network Statistics Including Available TCP Ports
-
 NetSwan Network Strengths and Weaknesses Analysis
-
 nett Network Analysis and Community Detection
-
 nettskjemar Connect to the 'nettskjema.no' API of the University of Oslo
-
 netUtils Miscellaneous Functions for Network Analysis
-
 NetWeaver Graphic Presentation of Complex Genomic and Network Data Analysis
-
 network Classes for Relational Data
-
 networkABC Network Reverse Engineering with Approximate Bayesian Computation
-
 NetworkChange Bayesian Package for Network Changepoint Analysis
-
 NetworkComparisonTest Statistical Comparison of Two Networks Based on Three Invariance Measures
-
 networkD3 D3 JavaScript Network Graphs from R
-
 NetworkDistance Distance Measures for Networks
-
 networkDynamic Dynamic Extensions for Network Objects
-
 networkDynamicData Dynamic (Longitudinal) Network Datasets
-
 NetworkExtinction Extinction Simulation in Ecological Networks
-
 networkGen Network Maze Generator
-
 NetworkInference Inferring Latent Diffusion Networks
-
 networkR Network Analysis and Visualization
-
 NetworkRiskMeasures Risk Measures for (Financial) Networks
-
 networkscaleup Network Scale-Up Models for Aggregated Relational Data
-
 NetworkToolbox Methods and Measures for Brain, Cognitive, and Psychometric Network Analysis
-
 networktools Tools for Identifying Important Nodes in Networks
-
 networktree Recursive Partitioning of Network Models
-
 neuralnet Training of Neural Networks
-
 NeuralNetTools Visualization and Analysis Tools for Neural Networks
-
 NeuralSens Sensitivity Analysis of Neural Networks
-
 neurobase 'Neuroconductor' Base Package with Helper Functions for 'nifti' Objects
-
 neuroblastoma Neuroblastoma copy number profiles
-
 neurocInstall 'Neuroconductor' Installer
-
 NeuroDecodeR Decode Information from Neural Activity
-
 neurohcp Human 'Connectome' Project Interface
-
 neuroim Data Structures and Handling for Neuroimaging Data
-
 neuromplex Neural Multiplexing Analysis
-
 neuronorm Preprocessing of Structural MRI for Multiple Neurodegenerative Diseases
-
 neuRosim Simulate fMRI Data
-
 neutralitytestr Test for a Neutral Evolutionary Model in Cancer Sequencing Data
-
 neverhpfilter An Alternative to the Hodrick-Prescott Filter
-
 Newdistns Computes Pdf, Cdf, Quantile and Random Numbers, Measures of Inference for 19 General Families of Distributions
-
 newFocus True Discovery Guarantee by Combining Partial Closed Testings
-
 NewmanOmics Extending the Newman Studentized Range Statistic to Transcriptomics
-
 newsanchor Client for the News API
-
 newscatcheR Programmatically Collect Normalized News from (Almost) Any Website
-
 newsmap Semi-Supervised Model for Geographical Document Classification
-
 newsmd Creation of NEWS.md File
-
 newTestSurvRec Statistical Tests to Compare Curves with Recurrent Events
-
 nextGenShinyApps Advanced Tools for Building the Next Generation of 'Shiny' Applications and Dashboards
-
 nFactors Parallel Analysis and Other Non Graphical Solutions to the Cattell Scree Test
-
 NFCP N-Factor Commodity Pricing Through Term Structure Estimation
-
 nfer Event Stream Abstraction using Interval Logic
-
 nfl4th Functions to Calculate Optimal Fourth Down Decisions in the National Football League
-
 nflfastR Functions to Efficiently Access NFL Play by Play Data
-
 nflplotR NFL Logo Plots in 'ggplot2'
-
 nflreadr Download 'nflverse' Data
-
 nflseedR Functions to Efficiently Simulate and Evaluate NFL Seasons
-
 NFLSimulatoR Simulating Plays and Drives in the NFL
-
 nflverse Easily Install and Load the 'nflverse'
-
 nftbart Nonparametric Failure Time Bayesian Additive Regression Trees
-
 NFWdist The Standard Distribution Functions for the 3D NFW Profile
-
 ngboostForecast Probabilistic Time Series Forecasting
-
 NGBVS Bayesian Variable Selection for SNP Data using Normal-Gamma
-
 NGLVieweR Interactive 3D Visualization of Molecular Structures
-
 ngram Fast n-Gram 'Tokenization'
-
 ngramr Retrieve and Plot Google n-Gram Data
-
 ngramrr A Simple General Purpose N-Gram Tokenizer
-
 ngspatial Fitting the Centered Autologistic and Sparse Spatial Generalized Linear Mixed Models for Areal Data
-
 NHANES Data from the US National Health and Nutrition Examination Study
-
 nhanesA NHANES Data Retrieval
-
 nhdplusTools NHDPlus Tools
-
 nhdR Tools for Working with the National Hydrography Dataset
-
 nhlapi A Minimum-Dependency 'R' Interface to the 'NHL' API
-
 NHLData Scores for Every Season Since the Founding of the NHL in 1917
-
 nhlscrape Scrapes the 'NHL' API for Statistical Analysis
-
 nhm Non-Homogeneous Markov and Hidden Markov Multistate Models
-
 NHMSAR Non-Homogeneous Markov Switching Autoregressive Models
-
 NHPoisson Modelling and Validation of Non Homogeneous Poisson Processes
-
 nhs.predict Breast Cancer Survival and Therapy Benefits
-
 NHSDataDictionaRy NHS Data Dictionary Toolset for NHS Lookups
-
 nhsnumber Tools for Working with NHS Number Checksums
-
 NHSRdatasets NHS and Healthcare-Related Data for Education and Training
-
 NHSRplotthedots Draw XmR Charts for NHSE/I 'Making Data Count' Programme
-
 nhstplot Plot Null Hypothesis Significance Tests
-
 niaidMI Markov Model Multiple Imputation for NIAID OS
-
 nic Nature Inspired Colours
-
 nice Get or Set UNIX Niceness
-
 NicheBarcoding Niche-model-Based Species Identification
-
 nicheROVER Niche Region and Niche Overlap Metrics for Multidimensional Ecological Niches
-
 nifti.io Read and Write NIfTI Files
-
 NightDay Night and Day Boundary Plot Function
-
 nightmares Common Analysis with Remote Sensing Data
-
 nilde Nonnegative Integer Solutions of Linear Diophantine Equations with Applications
-
 NiLeDAM Monazite Dating for the NiLeDAM Team
-
 nima Nima Hejazi's R Toolbox
-
 NIMAA Nominal Data Mining Analysis
-
 nimble MCMC, Particle Filtering, and Programmable Hierarchical Modeling
-
 nimbleAPT Adaptive Parallel Tempering for 'NIMBLE'
-
 nimbleCarbon Bayesian Analyses of Radiocarbon Dates with NIMBLE
-
 nimbleEcology Distributions for Ecological Models in 'nimble'
-
 nimbleNoBounds Transformed Distributions for Improved MCMC Efficiency
-
 nimbleSCR Spatial Capture-Recapture (SCR) Methods Using 'nimble'
-
 nimbleSMC Sequential Monte Carlo Methods for 'nimble'
-
 nipals Principal Components Analysis using NIPALS or Weighted EMPCA, with Gram-Schmidt Orthogonalization
-
 nipnTK National Information Platforms for Nutrition Anthropometric Data Toolkit
-
 NipponMap Japanese Map Data and Functions
-
 NIPTeR Fast and Accurate Trisomy Prediction in Non-Invasive Prenatal Testing
-
 NIRStat Novel Statistical Methods for Studying Near-Infrared Spectroscopy (NIRS) Time Series Data
-
 NISTnls Nonlinear least squares examples from NIST
-
 NISTunits Fundamental Physical Constants and Unit Conversions from NIST
-
 NitrogenUptake2016 Data and Source Code From: Nitrogen Uptake and Allocation Estimates for Spartina Alterniflora and Distichlis Spicata
-
 nivm Noninferiority Tests with Variable Margins
-
 nixmass Snow Water Equivalent Modeling with the 'Delta.snow' Model and Empirical Regression Models
-
 njgeo Tools for Geocoding Addresses in New Jersey using the 'NJOGIS' API
-
 nJira SQL Like Query Interface for 'Jira'
-
 njtr1 Download, Analyze & Clean New Jersey Car Crash Data
-
 nlaR Interface to the National Lakes Assessment
-
 NlcOptim Solve Nonlinear Optimization with Nonlinear Constraints
-
 nlcv Nested Loop Cross Validation
-
 nleqslv Solve Systems of Nonlinear Equations
-
 NlinTS Models for Non Linear Causality Detection in Time Series
-
 nlist Lists of Numeric Atomic Objects
-
 nlive Automated Estimation of Sigmoidal and Piecewise Linear Mixed Models
-
 nlme Linear and Nonlinear Mixed Effects Models
-
 nlmeU Datasets and Utility Functions Enhancing Functionality of 'nlme' Package
-
 nlmeVPC Visual Model Checking for Nonlinear Mixed Effect Model
-
 nlmixr2 Nonlinear Mixed Effects Models in Population PK/PD
-
 nlmixr2data Nonlinear Mixed Effects Models in Population PK/PD, Data
-
 nlmixr2est Nonlinear Mixed Effects Models in Population PK/PD, Estimation Routines
-
 nlmixr2extra Nonlinear Mixed Effects Models in Population PK/PD, Extra Support Functions
-
 nlmixr2lib A Model Library for 'nlmixr2'
-
 nlmixr2plot Nonlinear Mixed Effects Models in Population PK/PD, Plot Functions
-
 nlmrt Functions for Nonlinear Least Squares Solutions
-
 nlMS Non-Linear Model Selection
-
 nlnet Nonlinear Network, Clustering, and Variable Selection Based on DCOL
-
 nloptr R Interface to NLopt
-
 NLP Natural Language Processing Infrastructure
-
 NLPclient Stanford 'CoreNLP' Annotation Client
-
 nlpred Estimators of Non-Linear Cross-Validated Risks Optimized for Small Samples
-
 NLPutils Natural Language Processing Utilities
-
 nlraa Nonlinear Regression for Agricultural Applications
-
 nlreg Higher Order Inference for Nonlinear Heteroscedastic Models
-
 NLRoot searching for the root of equation
-
 nlrr Non-Linear Relative Risk Estimation and Plotting
-
 nlrx Setup, Run and Analyze 'NetLogo' Model Simulations from 'R' via 'XML'
-
 nls.multstart Robust Non-Linear Regression using AIC Scores
-
 nls2 Non-Linear Regression with Brute Force
-
 nlsem Fitting Structural Equation Mixture Models
-
 nlshelper Convenient Functions for Non-Linear Regression
-
 nlshrink Non-Linear Shrinkage Estimation of Population Eigenvalues and Covariance Matrices
-
 nlsic Non Linear Least Squares with Inequality Constraints
-
 nlsMicrobio Nonlinear Regression in Predictive Microbiology
-
 nlsmsn Fitting Nonlinear Models with Scale Mixture of Skew-Normal Distributions
-
 nlsr Functions for Nonlinear Least Squares Solutions - Updated 2022
-
 nlstac An R Package for Fitting Separable Nonlinear Models
-
 nlstools Tools for Nonlinear Regression Analysis
-
 nlt A Nondecimated Lifting Transform for Signal Denoising
-
 nltm Non-Linear Transformation Models
-
 nlts Nonlinear Time Series Analysis
-
 nLTT Calculate the NLTT Statistic
-
 nlWaldTest Wald Test of Nonlinear Restrictions and Nonlinear CI
-
 nmadb Network Meta-Analysis Database API
-
 NMADiagT Network Meta-Analysis of Multiple Diagnostic Tests
-
 nmaINLA Network Meta-Analysis using Integrated Nested Laplace Approximations
-
 NMAoutlier Detecting Outliers in Network Meta-Analysis
-
 nmaplateplot The Plate Plot for Network Meta-Analysis Results
-
 nmarank Complex Hierarchy Questions in Network Meta-Analysis
-
 nmathresh Thresholds and Invariant Intervals for Network Meta-Analysis
-
 NMcalc Basic Calculations for PK/PD Modeling
-
 NMdata Preparation, Checking and Post-Processing Data for PK/PD Modeling
-
 NMF Algorithms and Framework for Nonnegative Matrix Factorization (NMF)
-
 NMFN Non-Negative Matrix Factorization
-
 NMI Normalized Mutual Information of Community Structure in Network
-
 Nmisc Miscellaneous Functions Used at 'Numeract LLC'
-
 Nmix Bayesian Inference on Univariate Normal Mixtures
-
 nmixgof Goodness of Fit Checks for Binomial N-Mixture Models
-
 NMMIPW Inverse Probability Weighting under Non-Monotone Missing
-
 NMOF Numerical Methods and Optimization in Finance
-
 NMproject Script Based 'NONMEM' Model Development
-
 nmslibR Non Metric Space (Approximate) Library
-
 NMTox Dose-Response Relationship Analysis of Nanomaterial Toxicity
-
 NMVANOVA Novice Model Variation ANOVA
-
 nmw Understanding Nonlinear Mixed Effects Modeling for Population Pharmacokinetics
-
 nna Nearest-Neighbor Analysis
-
 NNbenchmark Datasets and Functions to Benchmark Neural Network Packages
-
 nncc Nearest Neighbors Matching of Case-Control Data
-
 nnet Feed-Forward Neural Networks and Multinomial Log-Linear Models
-
 nnfor Time Series Forecasting with Neural Networks
-
 nnGarrote Non-Negative Garrote Estimation with Penalized Initial Estimators
-
 nngeo k-Nearest Neighbor Join for Spatial Data
-
 nnlasso Non-Negative Lasso and Elastic Net Penalized Generalized Linear Models
-
 nnlib2Rcpp A Tool for Creating Custom Neural Networks in C++ and using Them in R
-
 nnls The Lawson-Hanson algorithm for non-negative least squares (NNLS)
-
 NNMIS Nearest Neighbor Based Multiple Imputation for Survival Data with Missing Covariates
-
 NNS Nonlinear Nonparametric Statistics
-
 nnspat Nearest Neighbor Methods for Spatial Patterns
-
 nnt The Number Needed to Treat (NNT) for Survival Endpoint
-
 NNTbiomarker Calculate Design Parameters for Biomarker Validation Studies
-
 nnTensor Non-Negative Tensor Decomposition
-
 NO.PING.PONG Incorporating Previous Findings When Evaluating New Data
-
 noaaoceans Collect Ocean Data from NOAA
-
 noaastormevents Explore NOAA Storm Events Database
-
 noah Create Unique Pseudonymous Animal Names
-
 NobBS Nowcasting by Bayesian Smoothing
-
 noctua Connect to 'AWS Athena' using R 'AWS SDK' 'paws' ('DBI' Interface)
-
 nodbi 'NoSQL' Database Connector
-
 node2vec Algorithmic Framework for Representational Learning on Graphs
-
 nodeSub Simulate DNA Alignments Using Node Substitutions
-
 nodiv Compares the Distribution of Sister Clades Through a Phylogeny
-
 nofrills Low-Cost Anonymous Functions
-
 noia Implementation of the Natural and Orthogonal InterAction (NOIA) model
-
 noise Estimation of Intrinsic and Extrinsic Noise from Single-Cell Data
-
 noisemodel Noise Models for Classification Datasets
-
 noisyCE2 Cross-Entropy Optimisation of Noisy Functions
-
 noisyr Noise Quantification in High Throughput Sequencing Output
-
 noisySBM Noisy Stochastic Block Mode: Graph Inference by Multiple Testing
-
 nombre Number Names
-
 nomclust Hierarchical Cluster Analysis of Nominal Data
-
 nominatimlite Interface with 'Nominatim' API Service
-
 nomisr Access 'Nomis' UK Labour Market Data
-
 nomnoml Sassy 'UML' Diagrams
-
 nomogramEx Extract Equations from a Nomogram
-
 nomogramFormula Calculate Total Points and Probabilities for Nomogram
-
 nomordR Randomization Test for Sequences of Nominal Values
-
 NonCompart Noncompartmental Analysis for Pharmacokinetic Data
-
 noncompliance Causal Inference in the Presence of Treatment Noncompliance Under the Binary Instrumental Variable Model
-
 noncomplyR Bayesian Analysis of Randomized Experiments with Non-Compliance
-
 nonet Weighted Average Ensemble without Training Labels
-
 nonlinearICP Invariant Causal Prediction for Nonlinear Models
-
 NonlinearTSA Nonlinear Time Series Analysis
-
 nonlinearTseries Nonlinear Time Series Analysis
-
 nonmem2R Loading NONMEM Output Files with Functions for Visual Predictive Checks (VPC) and Goodness of Fit (GOF) Plots
-
 nonmemica Create and Evaluate NONMEM Models in a Project Context
-
 nonneg.cg Non-Negative Conjugate-Gradient Minimizer
-
 nonnest2 Tests of Non-Nested Models
-
 NonNorMvtDist Multivariate Lomax (Pareto Type II) and Its Related Distributions
-
 nonpar A Collection of Nonparametric Hypothesis Tests
-
 nonparaeff Nonparametric Methods for Measuring Efficiency and Productivity
-
 nonparametric.bayes Project Code - Nonparametric Bayes
-
 Nonpareil Metagenome Coverage Estimation and Projections for 'Nonpareil'
-
 NonParRolCor a Non-Parametric Statistical Significance Test for Rolling Window Correlation
-
 NonProbEst Estimation in Nonprobability Sampling
-
 nopaco Non-Parametric Concordance Coefficient
-
 nopp Nash Optimal Party Positions
-
 nor1mix Normal aka Gaussian (1-d) Mixture Models (S3 Classes and Methods)
-
 nord Arctic Ice Studio's Nord and Group of Seven Inspired Colour Palettes for 'ggplot2'
-
 nordklimdata1 Dataset for Climate Analysis with Data from the Nordic Region
-
 norgeo Tracking Geo Code Change of Regional Granularity in Norway
-
 norm Analysis of Multivariate Normal Datasets with Missing Values
-
 norm2 Analysis of Incomplete Multivariate Data under a Normal Model
-
 NORMA Builds General Noise SVRs
-
 NormalityAssessment A Graphical User Interface for Testing Normality Visually
-
 normalizeH Normalize Hadamard Matrix
-
 NormalLaplace The Normal Laplace Distribution
-
 normalp Routines for Exponential Power Distribution
-
 normalr Normalisation of Multiple Variables in Large-Scale Datasets
-
 NormExpression Normalize Gene Expression Data using Evaluated Methods
-
 NormPsy Normalisation of Psychometric Tests
-
 nortest Tests for Normality
-
 nortestARMA Neyman Smooth Tests of Normality for the Errors of ARMA Models
-
 nortsTest Assessing Normality of Stationary Process
-
 nose nose Package for R
-
 nosoi A Forward Agent-Based Transmission Chain Simulator
-
 NostalgiR Advanced Text-Based Plots
-
 not Narrowest-Over-Threshold Change-Point Detection
-
 notifyme Send Alerts to your Cellphone and Phillips Hue Lights
-
 NovelDistns Computes PDF, CDF, Quantile, Random Numbers and Measures of Inference for 3 General Families of Distributions
-
 novelforestSG Dataset from the Novel Forests of Singapore
-
 noweb The 'noweb' System for R
-
 Nozzle.R1 Nozzle Reports
-
 np Nonparametric Kernel Smoothing Methods for Mixed Data Types
-
 nparACT Non-Parametric Measures of Actigraphy Data
-
 nparcomp Multiple Comparisons and Simultaneous Confidence Intervals
-
 nparLD Nonparametric Analysis of Longitudinal Data in Factorial Experiments
-
 nparMD Nonparametric Analysis of Multivariate Data in Factorial Designs
-
 nparsurv Nonparametric Tests for Main Effects, Simple Effects and Interaction Effect in a Factorial Design with Censored Data
-
 NPBayesImputeCat Non-Parametric Bayesian Multiple Imputation for Categorical Data
-
 NPCD Nonparametric Methods for Cognitive Diagnosis
-
 NPCirc Nonparametric Circular Methods
-
 npcopTest Non Parametric Test for Detecting Changes in the Copula
-
 npcp Some Nonparametric CUSUM Tests for Change-Point Detection in Possibly Multivariate Observations
-
 npcs Neyman-Pearson Classification via Cost-Sensitive Learning
-
 npcure Nonparametric Estimation in Mixture Cure Models
-
 npde Normalised Prediction Distribution Errors for Nonlinear Mixed-Effect Models
-
 npExact Exact Nonparametric Hypothesis Tests for the Mean, Variance and Stochastic Inequality
-
 NPflow Bayesian Nonparametrics for Automatic Gating of Flow-Cytometry Data
-
 nph Planning and Analysing Survival Studies under Non-Proportional Hazards
-
 NPHazardRate Nonparametric Hazard Rate Estimation
-
 NPHMC Sample Size Calculation for the Proportional Hazards Mixture Cure Model
-
 nphPower Sample Size Calculation under Non-Proportional Hazards
-
 nphRCT Non-Proportional Hazards in Randomized Controlled Trials
-
 npi Access the U.S. National Provider Identifier Registry API
-
 npIntFactRep Nonparametric Interaction Tests for Factorial Designs with Repeated Measures
-
 NPIstats Nonparametric Predictive Inference
-
 nplplot Plotting Linkage and Association Results
-
 nplr N-Parameter Logistic Regression
-
 nplyr A Grammar of Nested Data Manipulation
-
 npmlda Nonparametric Models for Longitudinal Data
-
 NPMLEcmprsk Type-Specific Failure Rate and Hazard Rate on Competing Risks Data
-
 npmlreg Nonparametric Maximum Likelihood Estimation for Random Effect Models
-
 npmr Nuclear Penalized Multinomial Regression
-
 npmv Nonparametric Comparison of Multivariate Samples
-
 npordtests Nonparametric Tests for Equality of Location Against Ordered Alternatives
-
 NPP Normalized Power Prior Bayesian Analysis
-
 nppbib Nonparametric Partially-Balanced Incomplete Block Design Analysis
-
 npphen Vegetation Phenological Cycle and Anomaly Detection using Remote Sensing Data
-
 NPRED Predictor Identifier: Nonparametric Prediction
-
 npreg Nonparametric Regression via Smoothing Splines
-
 npregderiv Nonparametric Estimation of the Derivatives of a Regression Function
-
 npregfast Nonparametric Estimation of Regression Models with Factor-by-Curve Interactions
-
 nprobust Nonparametric Robust Estimation and Inference Methods using Local Polynomial Regression and Kernel Density Estimation
-
 nproc Neyman-Pearson (NP) Classification Algorithms and NP Receiver Operating Characteristic (NP-ROC) Curves
-
 npROCRegression Kernel-Based Nonparametric ROC Regression Modelling
-
 nprotreg Nonparametric Rotations for Sphere-Sphere Regression
-
 npsf Nonparametric and Stochastic Efficiency and Productivity Analysis
-
 npsr Validate Instrumental Variables using NPS
-
 npsurv Nonparametric Survival Analysis
-
 npsurvSS Sample Size and Power Calculation for Common Non-Parametric Tests in Survival Analysis
-
 nptest Nonparametric Bootstrap and Permutation Tests
-
 npwbs Nonparametric Multiple Change Point Detection Using WBS
-
 NRejections Metrics for Multiple Testing with Correlated Outcomes
-
 nricens NRI for Risk Prediction Models with Time to Event and Binary Response Data
-
 NSAE Nonstationary Small Area Estimation
-
 nsapi Connect to the NS (Dutch Railways) API
-
 nsarfima Methods for Fitting and Simulating Non-Stationary ARFIMA Models
-
 nscancor Non-Negative and Sparse CCA
-
 NScluster Simulation and Estimation of the Neyman-Scott Type Spatial Cluster Models
-
 nsdr Nonlinear Sufficient Dimension Reduction
-
 nse Numerical Standard Errors Computation in R
-
 nse2r Fetch Data from 'National Stock Exchange (India)'
-
 nseval Tools for Lazy and Non-Standard Evaluation
-
 nsga2R Elitist Non-Dominated Sorting Genetic Algorithm
-
 nsga3 An Implementation of Non-Dominated Sorting Genetic Algorithm III for Feature Selection
-
 NSM3 Functions and Datasets to Accompany Hollander, Wolfe, and Chicken - Nonparametric Statistical Methods, Third Edition
-
 nsm3data Datasets to Accompany Hollander, Wolfe, and Chicken NSM3
-
 NSO1212 National Statistical Office of Mongolia's Open Data API Handler
-
 nsp Inference for Multiple Change-Points in Linear Models
-
 nspmix Nonparametric and Semiparametric Mixture Estimation
-
 nsprcomp Non-Negative and Sparse PCA
-
 nsRFA Non-Supervised Regional Frequency Analysis
-
 nsROC Non-Standard ROC Curve Analysis
-
 nsrr Interface to National Sleep Research Resource
-
 NST Normalized Stochasticity Ratio
-
 nsyllable Count Syllables in Character Vectors
-
 nucim Nucleome Imaging Toolbox
-
 NUCOMBog NUtrient Cycling and COMpetition Model Undisturbed Open Bog Ecosystems in a Temperate to Sub-Boreal Climate
-
 nullabor Tools for Graphical Inference
-
 numbat Haplotype-Aware CNV Analysis from scRNA-Seq
-
 numberofalleles Compute the Probability Distribution of the Number of Alleles in a DNA Mixture
-
 numbers Number-Theoretic Functions
-
 numbersBR Validate, Compare and Format Identification Numbers from Brazil
-
 numDeriv Accurate Numerical Derivatives
-
 Numero Statistical Framework to Define Subgroups in Complex Datasets
-
 numform Tools to Format Numbers for Publication
-
 numGen Number Series Generator
-
 numKM Create a Kaplan-Meier Plot with Numbers at Risk
-
 numOSL Numeric Routines for Optically Stimulated Luminescence Dating
-
 NutrienTrackeR Food Composition Information and Dietary Assessment
-
 nutriNetwork Structure Learning with Copula Graphical Model
-
 NVCSSL Nonparametric Varying Coefficient Spike-and-Slab Lasso
-
 nvctr The n-vector Approach to Geographical Position Calculations using an Ellipsoidal Model of Earth
-
 nVennR Create n-Dimensional, Quasi-Proportional Venn Diagrams
-
 nvmix Multivariate Normal Variance Mixtures
-
 nycflights13 Flights that Departed NYC in 2013
-
 nzelect New Zealand Election Data
-
 nzffdr Import, Clean and Update Data from the New Zealand Freshwater Fish Database
-
 nzilbb.labbcat Accessing Data Stored in 'LaBB-CAT' Instances
-
 nzpullover Driving Offences in New Zealand Between 2009 and 2016
 
 
