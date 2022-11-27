@@ -19823,2223 +19823,1114 @@ ozmaps Australia Maps
 
 
 pa Performance Attribution for Equity Portfolios
-
 PabonLasso Pabon Lasso Graphs and Comparing Situations of a Unit in Two Different Times
-
 PAC Partition-Assisted Clustering and Multiple Alignments of Networks
-
 pack Convert values to/from raw vectors
-
 packageDiff Compare R Package Differences
-
 packageRank Computation and Visualization of Package Download Counts and Percentiles
-
 packagetrackr Track R Package Downloads from RStudio's CRAN Mirror
-
 packcircles Circle Packing
-
 packDAMipd Decision Analysis Modelling Package with Parameters Estimation Ability from Individual Patient Level Data
-
 packer An Opinionated Framework for Using 'JavaScript'
-
 packHV A few Useful Functions for Statisticians
-
 packMBPLSDA Multi-Block Partial Least Squares Discriminant Analysis
-
 packrat A Dependency Management System for Projects and their R Package Dependencies
-
 PACLasso Penalized and Constrained Lasso Optimization
-
 pacman Package Management Tool
-
 paco Procrustes Application to Cophylogenetic Analysis
-
 pacotest Testing for Partial Copulas and the Simplifying Assumption in Vine Copulas
-
 pacs Supplementary Tools for R Packages Developers
-
 pacviz Pac-Man Visualization Package
-
 PACVr Plastome Assembly Coverage Visualization
-
 Pade Padé Approximant Coefficients
-
 padr Quickly Get Datetime Data Ready for Analysis
-
 pafdR Book Companion for Processing and Analyzing Financial Data with R
-
 PAFit Generative Mechanism Estimation in Temporal Complex Networks
-
 pafr Read, Manipulate and Visualize 'Pairwise mApping Format' Data
-
 pagedown Paginate the HTML Output of R Markdown with CSS for Print
-
 pagemap Create Mini Map for Web Pages
-
 pagenum Put Page Numbers on Graphics
-
 pageviews An API Client for Wikimedia Traffic Data
-
 pagoda2 Single Cell Analysis and Differential Expression
-
 pagoo Analyze Bacterial Pangenomes in R with 'Pagoo'
-
 PAGWAS Pathway Analysis Methods for Genomewide Association Data
-
 painbow Use XKCD's "Painbow" Colormap in ggplot2
-
 painter Creation and Manipulation of Color Palettes
-
 paintingr Painting Palettes Generator
-
 paintmap Plotting Paintmaps
-
 PairedData Paired Data Analysis
-
 pairsD3 D3 Scatterplot Matrices
-
 PairViz Visualization using Graph Traversal
-
 pairwise Rasch Model Parameters by Pairwise Algorithm
-
 pairwiseCI Confidence Intervals for Two Sample Comparisons
-
 pak Another Approach to Package Installation
-
 PakPC2017 Pakistan Population Census 2017
-
 PakPMICS2014Ch Multiple Indicator Cluster Survey (MICS) 2014 Child Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2014HH Multiple Indicator Cluster Survey (MICS) 2014 Household Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2014HL Multiple Indicator Cluster Survey (MICS) 2014 Household Listing Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2014Wm Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2018 Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan
-
 PakPMICS2018bh Multiple Indicator Cluster Survey (MICS) 2017-18 Birth History of Children Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2018fs Multiple Indicator Cluster Survey (MICS) 2017-18 Children Age 5-17 Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2018hh Multiple Indicator Cluster Survey (MICS) 2017-18 Household Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2018mm Multiple Indicator Cluster Survey (MICS) 2017-18 Maternal Mortality Questionnaire Data for Punjab, Pakistan
-
 PakPMICS2018mn Multiple Indicator Cluster Survey (MICS) 2017-18 Men Questionnaire Data for Punjab, Pakistan
-
 palaeoSig Significance Tests for Palaeoenvironmental Reconstructions
-
 palaeoverse Prepare and Explore Data for Palaeobiological Analyses
-
 palasso Paired Lasso Regression
-
 pald Partitioned Local Depth for Community Structure in Data
-
 paleobioDB Download and Process Data from the Paleobiology Database
-
 paleobuddy Simulating Diversification Dynamics
-
 paleofire Analysis of Charcoal Records from the Global Charcoal Database
-
 paleomorph Geometric Morphometric Tools for Paleobiology
-
 paleopop Pattern-Oriented Modeling Framework for Coupled Niche-Population Paleo-Climatic Models
-
 paleotree Paleontological and Phylogenetic Analyses of Evolution
-
 paleoTS Analyze Paleontological Time-Series
-
 paletteer Comprehensive Collection of Color Palettes
-
 paletteknife Create Colour Scales and Legend from Continuous or Categorical Vectors
-
 palettesForR GPL Palettes Copied from 'Gimp' and 'Inkscape'
-
 palettetown Use Pokemon Inspired Colour Palettes
-
 palinsol Insolation for Palaeoclimate Studies
-
 palm Fitting Point Process Models via the Palm Likelihood
-
 palmerpenguins Palmer Archipelago (Antarctica) Penguin Data
-
 palmid RdRP Analysis Suite
-
 PALMO Identify Intra and Inter-Donor Variations in Bulk or Single Cell Longitudinal Dataset
-
 palmtree Partially Additive (Generalized) Linear Model Trees
-
 palr Colour Palettes for Data
-
 pals Color Palettes, Colormaps, and Tools to Evaluate Them
-
 PamBinaries Read and Process 'Pamguard' Binary Data
-
 pamctdp Principal Axes Methods for Contingency Tables with Partition Structures on Rows and Columns
-
 PAmeasures Prediction and Accuracy Measures for Nonlinear Models and for Right-Censored Time-to-Event Data
-
 PAMhm Generate Heatmaps Based on Partitioning Around Medoids (PAM)
-
 pamm Power Analysis for Random Effects in Mixed Models
-
 PAMmisc Miscellaneous Functions for Passive Acoustic Analysis
-
 pammtools Piece-Wise Exponential Additive Mixed Modeling Tools for Survival Analysis
-
 PAMpal Load and Process Passive Acoustic Data
-
 pampe Implementation of the Panel Data Approach Method for Program Evaluation
-
 pamr Pam: Prediction Analysis for Microarrays
-
 pan Multiple Imputation for Multivariate Panel or Clustered Data
-
 pAnalysis Benchmarking and Rescaling R2 using Noise Percentile Analysis
-
 PanCanVarSel Pan-Cancer Variable Selection
-
 pander An R 'Pandoc' Writer
-
 pandoc Manage and Run Universal Converter 'Pandoc' from 'R'
-
 pandocfilters Pandoc Filters for R
-
 panelaggregation Aggregate Longitudinal Survey Data
-
 PanelCount Random Effects and/or Sample Selection Models for Panel Count Data
-
 PanelMatch Matching Methods for Causal Inference with Time-Series Cross-Sectional Data
-
 panelr Regression Models and Utilities for Repeated Measures and Panel Data
-
 panelvar Panel Vector Autoregression
-
 panelView Visualizing Panel Data
-
 panelWranglR Panel Data Wrangling Tools
-
 pangaear Client for the 'Pangaea' Database
-
 PanJen A Semi-Parametric Test for Specifying Functional Form
-
 panstarrs Interface to the Pan-STARRS API
-
 PantaRhei Plots Sankey Diagrams
-
 papaja Prepare American Psychological Association Journal Articles with R Markdown
-
 papci Prevalence Adjusted PPV Confidence Interval
-
 papeR A Toolbox for Writing Pretty Papers and Reports
-
 paperplanes Distance Recordings from a Paper Plane Folding/Flying Experiment
-
 parade Pen's Income Parades
-
 paradox Define and Work with Parameter Spaces for Complex Algorithms
-
 parallelDist Parallel Distance Matrix Computation using Multiple Threads
-
 ParallelDSM Parallel Digital Soil Mapping using Machine Learning
-
 ParallelLogger Support for Parallel Computation, Logging, and Function Automation
-
 parallelly Enhancing the 'parallel' Package
-
 parallelMap Unified Interface to Parallelization Back-Ends
-
 parallelMCMCcombine Combining Subset MCMC Samples to Estimate a Posterior Density
-
 parallelML A Parallel-Voting Algorithm for many Classifiers
-
 parallelpam Parallel Partitioning-Around-Medoids (PAM) for Big Sets of Data
-
 ParallelPC Paralellised Versions of Constraint Based Causal Discovery Algorithms
-
 parallelPlot 'Htmlwidget' for a Parallel Coordinates Plot
-
 parameters Processing of Model Parameters
-
 ParamHelpers Helpers for Parameters in Black-Box Optimization, Tuning and Machine Learning
-
 paramhetero Numeric and Visual Comparisons of Heterogeneity in Parametric Models
-
 paramlink Parametric Linkage and Other Pedigree Analysis in R
-
 paramlink2 Parametric Linkage Analysis
-
 params Simplify Parameters
-
 paramtest Run a Function Iteratively While Varying Parameters
-
 paran Horn's Test of Principal Components/Factors
-
 ParBayesianOptimization Parallel Bayesian Optimization of Hyperparameters
-
 parcats Interactive Parallel Categories Diagrams for 'easyalluvial'
-
 ParDNAcopy Parallel implementation of the "segment" function of package "DNAcopy"
-
 Pareto The Pareto, Piecewise Pareto and Generalized Pareto Distribution
-
 ParetoPosStable Computing, Fitting and Validating the PPS Distribution
-
 parglm Parallel GLM
-
 pARI Permutation-Based All-Resolutions Inference Method
-
 parlitools Tools for Analysing UK Politics
-
 parma Portfolio Allocation and Risk Management Applications
-
 parmigene Parallel Mutual Information Estimation for Gene Network Reconstruction
-
 parmsurvfit Parametric Models for Survival Data
-
 paropt Parameter Optimizing of ODE-Systems
-
 parqr Read in Multi-Part Parquet Files
-
 parsec Partial Orders in Socio-Economics
-
 parsedate Recognize and Parse Dates in Various Formats, Including All ISO 8601 Formats
-
 parsel Parallel Dynamic Web-Scraping Using 'RSelenium'
-
 parsermd Formal Parser and Related Tools for R Markdown Documents
-
 parseRPDR Parse and Manipulate Research Patient Data Registry ('RPDR') Text Queries
-
 parSim Parallel Simulation Studies
-
 parsnip A Common API to Modeling and Analysis Functions
-
 PartCensReg Estimation and Diagnostics for Partially Linear Censored Regression Models Based on Heavy-Tailed Distributions
-
 partDSA Partitioning Using Deletion, Substitution, and Addition Moves
-
 partialised Partialised Functions
-
 Partiallyoverlapping Partially Overlapping Samples Tests
-
 particle.swarm.optimisation Optimisation with Particle Swarm Optimisation
-
 particles A Graph Based Particle Simulator Based on D3-Force
-
 partition Agglomerative Partitioning Framework for Dimension Reduction
-
 partitionBEFsp Methods for Calculating the Loreau & Hector 2001 BEF Partition
-
 partitionComparison Implements Measures for the Comparison of Two Partitions
-
 partitionMetric Compute a distance metric between two partitions of a set
-
 partitions Additive Partitions of Integers
-
 partools Tools for the 'Parallel' Package
-
 partR2 Partitioning R2 in GLMMs
-
 partsm Periodic Autoregressive Time Series Models
-
 parttime Partial Datetime Handling
-
 party A Laboratory for Recursive Partytioning
-
 partykit A Toolkit for Recursive Partytioning
-
 parzer Parse Messy Geographic Coordinates
-
 PAS Polygenic Analysis System (PAS)
-
 pasadr An Implementation of Process-Aware Stealthy Attack Detection(PASAD)
-
 PASenseWear Summarize Daily Physical Activity from 'SenseWear' Accelerometer Data
-
 pass.lme Power and Sample Size for Linear Mixed Effect Models
-
 PASSED Calculate Power and Sample Size for Two Sample Mean Tests
-
 PAsso Assessing the Partial Association Between Ordinal Variables
-
 passport Travel Smoothly Between Country Name and Code Formats
-
 passt Probability Associator Time (PASS-T)
-
 password Create Random Passwords
-
 pasteAsComment 'RStudio' Addin to Paste the Clipboard as a Comment Block or a 'roxygen' Block
-
 pastecs Package for Analysis of Space-Time Ecological Series
-
 PASWR Probability and Statistics with R
-
 PASWR2 Probability and Statistics with R, Second Edition
-
 patchDVI Package to Patch '.dvi' or '.synctex' Files
-
 patchSynctex Communication Between Editor and Viewer for Literate Programs
-
 patchwork The Composer of Plots
-
 patentr Access USPTO Bulk Data in Tidy Rectangular Format
-
 patentsview An R Client to the 'PatentsView' API
-
 path.chain Concise Structure for Chainable Paths
-
 pathdiagram Basic Functions for Drawing Path Diagrams
-
 pathfindR Enrichment Analysis Utilizing Active Subnetworks
-
 pathfindR.data Data Package for 'pathfindR'
-
 pathlit An SDK for the PathLit Engine
-
 pathmapping Compute Deviation and Correspondence Between Spatial Paths
-
 pathmodelfit Path Component Fit Indices for Latent Structural Equation Models
-
 paths An Imputation Approach to Estimating Path-Specific Causal Effects
-
 pathviewr Wrangle, Analyze, and Visualize Animal Movement Data
-
 pathwayTMB Pathway Based Tumor Mutational Burden
-
 patientProfilesVis Visualization of Patient Profiles
-
 patrick Parameterized Unit Testing
-
 patternator Feature Extraction from Female Brown Anole Lizard Dorsal Patterns
-
 patternize Quantification of Color Pattern Variation
-
 patternplot Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images
-
-Patterns Deciphering Biological Networks with Patterned Heterogeneous Measurements
-
+Patterns Deciphering Biological Networks with Patterned Heterogeneous Measurement
 PAutilities Streamline Physical Activity Research
-
 pavo Perceptual Analysis, Visualization and Organization of Spectral Colour Data
-
 pawacc Physical Activity with Accelerometers
-
 paws Amazon Web Services Software Development Kit
-
 paws.analytics 'Amazon Web Services' Analytics Services
-
 paws.application.integration 'Amazon Web Services' Application Integration Services
-
 paws.common Paws Low-Level Amazon Web Services API
-
 paws.compute 'Amazon Web Services' Compute Services
-
 paws.cost.management 'Amazon Web Services' Cost Management Services
-
 paws.customer.engagement 'Amazon Web Services' Customer Engagement Services
-
 paws.database 'Amazon Web Services' Database Services
-
 paws.developer.tools 'Amazon Web Services' Developer Tools Services
-
 paws.end.user.computing 'Amazon Web Services' End User Computing Services
-
 paws.machine.learning 'Amazon Web Services' Machine Learning Services
-
 paws.management 'Amazon Web Services' Management & Governance Services
-
 paws.networking 'Amazon Web Services' Networking & Content Delivery Services
-
 paws.security.identity 'Amazon Web Services' Security, Identity, & Compliance Services
-
 paws.storage 'Amazon Web Services' Storage Services
-
 pbANOVA Parametric Bootstrap for ANOVA Models
-
 pbapply Adding Progress Bar to '*apply' Functions
-
 pbatR Pedigree/Family-Based Genetic Association Tests Analysis and Power
-
 pbbd Position Balanced and Nearly Position Balanced Block Designs
-
 pbcc Percentile-Based Control Chart
-
 PBD Protracted Birth-Death Model of Diversification
-
 pbdMPI Programming with Big Data – Interface to MPI
-
 pbdSLAP Programming with Big Data – Scalable Linear Algebra Packages
-
 pbdZMQ Programming with Big Data – Interface to 'ZeroMQ'
-
 PBIBD Partially Balanced Incomplete Block Designs
-
 PBImisc A Set of Datasets Used in My Classes or in the Book 'Modele Liniowe i Mieszane w R, Wraz z Przykladami w Analizie Danych'
-
 PBIR Estimating the Probability of Being in Response and Related Outcomes
-
 pbivnorm Vectorized Bivariate Normal CDF
-
 pbixr Access Data and Metadata from 'Microsoft' 'Power BI' Documents
-
 pbkrtest Parametric Bootstrap, Kenward-Roger and Satterthwaite Based Methods for Test in Mixed Models
-
 pbm Protein Binding Models
-
 pbmcapply Tracking the Progress of Mc*pply with Progress Bar
-
 PBNPA Permutation Based Non-Parametric Analysis of CRISPR Screen Data
-
 pbo Probability of Backtest Overfitting
-
 pBrackets Plot Brackets
-
 PBRF The Probability of Being in Response Function and Its Variance Estimates
-
 pbs Periodic B Splines
-
 PBSadmb ADMB for R Using Scripts or GUI
-
 PBSddesolve Solver for Delay Differential Equations
-
 PBSmapping Mapping Fisheries Data and Spatial Analysis Tools
-
 PBSmodelling GUI Tools Made Easy: Interact with Models and Explore Data
-
 pbv Probabilities for Bivariate Normal Distribution
-
 pca3d Three Dimensional PCA Plots
-
 PCA4TS Segmenting Multiple Time Series by Contemporaneous Linear Transformation
-
 pcadapt Fast Principal Component Analysis for Outlier Detection
-
 PCADSC Tools for Principal Component Analysis-Based Data Structure Comparisons
-
 pcal Calibration of P-Values for Point Null Hypothesis Testing
-
 pcaL1 L1-Norm PCA Methods
-
 pcalg Methods for Graphical Models and Causal Inference
-
 pCalibrate Bayesian Calibrations of p-Values
-
 pcalls Pricing of Different Types of Call
-
 PCAmatchR Match Cases to Controls Based on Genotype Principal Components
-
 PCAmixdata Multivariate Analysis of Mixed Data
-
 pcaone Randomized Singular Value Decomposition Algorithms with 'RcppEigen'
-
 pcaPP Robust PCA by Projection Pursuit
-
 pcatsAPIclientR 'PCATS' API Client
-
 pccc Pediatric Complex Chronic Conditions
-
 PCDimension Finding the Number of Significant Principal Components
-
 pcdpca Dynamic Principal Components for Periodically Correlated Functional Time Series
-
 pcds Proximity Catch Digraphs and Their Applications
-
 pcensmix Model Fitting to Progressively Censored Mixture Data
-
 pcev Principal Component of Explained Variance
-
 pcFactorStan Stan Models for the Paired Comparison Factor Model
-
 PCFAM Computation of Ancestry Scores with Mixed Families and Unrelated Individuals
-
 pcg Preconditioned Conjugate Gradient Algorithm for solving Ax=b
-
 pcgen Reconstruction of Causal Networks for Data with Random Genetic Effects
-
 PCGSE Principal Component Gene Set Enrichment
-
 pch Piecewise Constant Hazard Models for Censored and Truncated Data
-
 pchc Bayesian Network Learning with the PCHC and Related Algorithms
-
 PCICt Implementation of POSIXct Work-Alike for 365 and 360 Day Calendars
-
 pcIRT IRT Models for Polytomous and Continuous Item Responses
-
 PCL Proximal Causal Learning
-
 pcLasso Principal Components Lasso
-
 PCLassoReg Group Regression Models for Risk Protein Complex Identification
-
 pcmabc Approximate Bayesian Computations for Phylogenetic Comparative Methods
-
 PCMBase Simulation and Likelihood Calculation of Phylogenetic Comparative Models
-
 PCMBaseCpp Fast Likelihood Calculation for Phylogenetic Comparative Models
-
 PCMRS Model Response Styles in Partial Credit Models
-
 pcnetmeta Patient-Centered Network Meta-Analysis
-
 pco Panel Cointegration Tests
-
 pCODE Estimation of an Ordinary Differential Equation Model by Parameter Cascade Method
-
 PCovR Principal Covariates Regression
-
 pcoxtime Penalized Cox Proportional Hazard Model for Time-Dependent Covariates
-
 PCPS Principal Coordinates of Phylogenetic Structure
-
 pcr Analyzing Real-Time Quantitative PCR Data
-
 PCRedux Quantitative Polymerase Chain Reaction (qPCR) Data Mining and Machine Learning Toolkit
-
 PCS Calculate the Probability of Correct Selection (PCS)
-
 pcse Panel-Corrected Standard Error Estimation in R
-
 PCSinR Parallel Constraint Satisfaction Networks in R
-
 pcsstools Tools for Regression Using Pre-Computed Summary Statistics
-
 pcSteiner Convenient Tool for Solving the Prize-Collecting Steiner Tree Problem
-
 pcts Periodically Correlated and Periodically Integrated Time Series
-
 pda Privacy-Preserving Distributed Algorithms
-
 pdc Permutation Distribution Clustering
-
 PDE Extract Tables and Sentences from PDFs with User Interface
-
 pder Panel Data Econometrics with R
-
 pdfCluster Cluster Analysis via Nonparametric Density Estimation
-
 PDFEstimator Multivariate Nonparametric Probability Density Estimator
-
 pdfetch Fetch Economic and Financial Time Series Data from Public Sources
-
 pdfminer Read Portable Document Format (PDF) Files
-
 pdfsearch Search Tools for PDF Files
-
 pdftables Programmatic Conversion of PDF Tables
-
 pdftools Text Extraction, Rendering and Converting of PDF Documents
-
 pdi Phenotypic Index Measures for Oak Decline Severity
-
 pdist Partitioned Distance Function
-
 PDM Photogrammetric Distances Measurer
-
 PDMIF Fits Heterogeneous Panel Data Models
-
 pdmod Proximal/Distal Modeling Framework for Pavlovian Conditioning Phenomena
-
 PDN Personalized Disease Network
-
 pdp Partial Dependence Plots
-
 PdPDB Pattern Discovery in PDB Structures of Metalloproteins
-
 pdqr Work with Custom Distribution Functions
-
 PDQutils PDQ Functions via Gram Charlier, Edgeworth, and Cornish Fisher Approximations
-
 pdR Threshold Model and Unit Root Tests in Cross-Section and Time Series Data
-
 PDSCE Positive Definite Sparse Covariance Estimators
-
 PDShiny 'Probability Distribution Shiny'
-
 pdSpecEst An Analysis Toolbox for Hermitian Positive Definite Matrices
-
 PDtoolkit Collection of Tools for PD Rating Model Development and Validation
-
 pdxTrees Data Package of Portland, Oregon Trees
-
 pdynmc Moment Condition Based Estimation of Linear Dynamic Panel Data Models
-
 peacesciencer Tools and Data for Quantitative Peace Science Research
-
 PEACH Pareto Enrichment Analysis for Combining Heterogeneous Datasets
-
 Peacock.test Two and Three Dimensional Kolmogorov-Smirnov Two-Sample Tests
-
 peacots Periodogram Peaks in Correlated Time Series
-
 PeakError Compute the Label Error of Peak Calls
-
 peakRAM Monitor the Total and Peak RAM Used by an Expression or Function
-
 PeakSegDisk Disk-Based Constrained Change-Point Detection
-
 PeakSegDP Dynamic Programming Algorithm for Peak Detection in ChIP-Seq Data
-
 PeakSegJoint Joint Peak Detection in Several ChIP-Seq Samples
-
 PeakSegOptimal Optimal Segmentation Subject to Up-Down Constraints
-
 pearson7 Maximum Likelihood Inference for the Pearson VII Distribution with Shape Parameter 3/2
-
 PearsonDS Pearson Distribution System
-
 PearsonICA Independent Component Analysis using Score Functions from the Pearson System
-
 pec Prediction Error Curves for Risk Prediction Models in Survival Analysis
-
 pecora Permutation Conditional Random Tests
-
 pedalfast.data PEDALFAST Data
-
 pedbp Pediatric Blood Pressure
-
 pedbuildr Pedigree Reconstruction
-
 pedgene Gene-Level Variant Association Tests for Pedigree Data
-
 pedigree Pedigree Functions
-
 pedigreemm Pedigree-based mixed-effects models
-
 pedmod Pedigree Models
-
 pedmut Mutation Models for Pedigree Likelihood Computations
-
 pedometrics Miscellaneous Pedometric Tools
-
 pedprobr Probability Computations on Pedigrees
-
 pedquant Public Economic Data and Quantitative Analysis
-
 pedSimulate Pedigree, Genetic Merit, Phenotype, and Genotype Simulation
-
 pedsuite Easy Installation of the 'ped suite' Packages for Pedigree Analysis
-
 pedtools Creating and Working with Pedigrees and Marker Data
-
 peermodels Client-Side R API Wrapper for Peer Models Network Model Repository
-
 PeerPerformance Luck-Corrected Peer Performance Analysis in R
-
 pegas Population and Evolutionary Genetics Analysis System
-
 PEGroupTesting Population Proportion Estimation using Group Testing
-
 PEIMAN2 Post-Translational Modification Enrichment, Integration, and Matching Analysis
-
 PEIP Geophysical Inverse Theory and Optimization
-
 PEkit Partition Exchangeability Toolkit
-
 pell Data About Historic Pell Grant Distribution in the US
-
 PELVIS Probabilistic Sex Estimate using Logistic Regression, Based on VISual Traits of the Human Os Coxae
-
 pema Penalized Meta-Analysis
-
 pems.utils Portable Emissions (and Other Mobile) Measurement System Utilities
-
 penAFT Fit the Regularized Gehan Estimator with Elastic Net and Sparse Group Lasso Penalties
-
 penalized L1 (Lasso and Fused Lasso) and L2 (Ridge) Penalized Estimation in GLMs and in the Cox Model
-
 penalizedLDA Penalized Classification using Fisher's Linear Discriminant
-
 penalizedSVM Feature Selection SVM using Penalty Functions
-
 penaltyLearning Penalty Learning
-
 pencal Penalized Regression Calibration (PRC)
-
 pencopulaCond Estimating Non-Simplified Vine Copulas Using Penalized Splines
-
 PenCoxFrail Regularization in Cox Frailty Models
-
 pendensity Density Estimation with a Penalized Mixture Approach
-
 penDvine Flexible Pair-Copula Estimation in D-Vines using Bivariate Penalized Splines
-
 penfa Single- And Multiple-Group Penalized Factor Analysis
-
 PenIC Semiparametric Regression Analysis of Interval-Censored Data using Penalized Splines
-
 penMSM Estimating Regularized Multi-state Models Using L1 Penalties
-
 penPHcure Variable Selection in PH Cure Model with Time-Varying Covariates
-
 penppml Penalized Poisson Pseudo Maximum Likelihood Regression
-
 pense Penalized Elastic Net S/MM-Estimator of Regression
-
 pensim Simulation of High-Dimensional Data and Parallelized Repeated Penalized Regression
-
 peopleanalytics Data Sets for Craig Starbuck's Book, "The Fundamentals of People Analytics: With Applications in R"
-
 peopleanalyticsdata Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics
-
 pepe Data Manipulation
-
 peperr Parallelised Estimation of Prediction Error
-
 peppm Piecewise Exponential Distribution with Random Time Grids
-
 pepr Reading Portable Encapsulated Projects
-
 PepSAVIms PepSAVI-MS Data Analysis
-
 peptider Evaluation of Diversity in Nucleotide Libraries
-
 Peptides Calculate Indices and Theoretical Physicochemical Properties of Protein Sequences
-
 pequod Moderated Regression Package
-
 peramo Permutation Tests for Randomization Model
-
 Perc Using Percolation and Conductance to Find Information Flow Certainty in a Direct Network
-
 perccal Implementing Double Bootstrap Linear Regression Confidence Intervals Using the 'perc-cal' Method
-
 perccalc Estimate Percentiles from an Ordered Categorical Variable
-
 percentiles Calculate (Stratified) Percentiles
-
 perfectphyloR Reconstruct Perfect Phylogenies from DNA Sequence Data
-
 PerFit Person Fit
-
 PerfMeas Performance Measures for Ranking and Classification Tasks
-
 performance Assessment of Regression Models Performance
-
 PerformanceAnalytics Econometric Tools for Performance and Risk Analysis
-
 performanceEstimation An Infra-Structure for Performance Estimation of Predictive Models
-
 pergola Toolbox for Polyploid Genetic Data
-
 peRiodiCS Functions for Generating Periodic Curves
-
 PeriodicTable Periodic Table of the Elements
-
 periscope Enterprise Streamlined 'Shiny' Application Framework
-
 perm Exact or Asymptotic Permutation Tests
-
 PermAlgo Permutational Algorithm to Simulate Survival Data
-
 PERMANOVA Multivariate Analysis of Variance Based on Distances and Permutations
-
 permGS Permutational Group Sequential Test for Time-to-Event Data
-
 permimp Conditional Permutation Importance
-
 permPATH Permutation Based Gene Expression Pathway Analysis
-
 permubiome A Permutation Based Test for Biomarker Discovery in Microbiome Data
-
 permuco Permutation Tests for Regression, (Repeated Measures) ANOVA/ANCOVA and Comparison of Signals
-
 PermutationR Conduct Permutation Analysis of Variance in R
-
 permutations The Symmetric Group: Permutations of a Finite Set
-
 permute Functions for Generating Restricted Permutations of Data
-
 permutes Permutation Tests for Time Series Data
-
 perry Resampling-Based Prediction Error Estimation for Regression Models
-
 perryExamples Examples for Integrating Prediction Error Estimation into Regression Models
-
 persDx Estimating Personalized Diagnostics Rules
-
 PerseusR Perseus R Interop
-
 persiandictionary English to Persian dictionary
-
 PersianStemmer Persian Stemmer for Text Analysis
-
 PersomicsArray Automated Persomics Array Image Extraction
-
 personalized Estimation and Validation Methods for Subgroup Identification and Personalized Medicine
-
 personalized2part Two-Part Estimation of Treatment Rules for Semi-Continuous Data
-
 personalr Automated Personal Package Setup
-
 personr Test Your Personality
-
 perspectev Permutation of Species During Turnover Events
-
 peRspective Interface to the 'Perspective' API
-
 perturbR Random Perturbation of Count Matrices
-
 peruse A Tidy API for Sequence Iteration and Set Comprehension
-
 pesel Automatic Estimation of Number of Principal Components in PCA
-
 PesticideLoadIndicator Computes Danish Pesticide Load Indicator
-
 pestr Interface to Download Data on Pests and Hosts from 'EPPO'
-
 PetfindeR 'Petfinder' API Wrapper
-
 petitr Relative Growth Rate
-
 petrinetR Building, Visualizing, Exporting and Replaying Petri Nets
-
 pewdata Reproducible Retrieval of Pew Research Center Datasets
-
 pexm Loading a JAGS Module for the Piecewise Exponential Distribution
-
 pez Phylogenetics for the Environmental Sciences
-
 pfa Estimates False Discovery Proportion Under Arbitrary Covariance Dependence
-
 pfica Independent Component Analysis for Univariate Functional Data
-
 PFIM Population Fisher Information Matrix
-
 pgam Poisson-Gamma Additive Models
-
 pgdraw Generate Random Samples from the Polya-Gamma Distribution
-
 PGEE Penalized Generalized Estimating Equations in High-Dimension
-
 pgee.mixed Penalized Generalized Estimating Equations for Bivariate Mixed Outcomes
-
 pgirmess Spatial Analysis and Data Mining for Field Ecologists
-
 pglm Panel Generalized Linear Models
-
 PGM2 Nested Resolvable Designs and their Associated Uniform Designs
-
 pGMGM Estimating Multiple Gaussian Graphical Models (GGM) in Penalized Gaussian Mixture Models (GMM)
-
 pgmm Parsimonious Gaussian Mixture Models
-
 pgnorm The p-Generalized Normal Distribution
-
 pGPx Pseudo-Realizations for Gaussian Process Excursions
-
 pgraph Build Dependency Graphs using Projection
-
 PGRdup Discover Probable Duplicates in Plant Genetic Resources Collections
-
 pgsc Computes Powell's Generalized Synthetic Control Estimator
-
 pgTools Functions for Generating PostgreSQL Statements/Scripts
-
 pguIMP 'pguIMP'
-
 PH1XBAR Phase I Shewhart X-Bar Chart
-
 ph2bayes Bayesian Single-Arm Phase II Designs
-
 ph2bye Phase II Clinical Trial Design Using Bayesian Methods
-
 ph2mult Phase II Clinical Trial Design for Multinomial Endpoints
-
 phacking Sensitivity Analysis for p-Hacking in Meta-Analyses
-
 PhageCocktail Design of the Best Phage Cocktail
-
 phangorn Phylogenetic Reconstruction and Analysis
-
 pharmaRTF Enhanced RTF Wrapper for Use with Existing Table Packages
-
 pharmr Interface to the 'Pharmpy' 'Pharmacometrics' Library
-
 phase Analyse Biological Time-Series Data
-
 Phase123 Simulating and Conducting Phase 123 Trials
-
 Phase12Compare Simulates SPSO and Efftox Phase 12 Trials with Correlated Outcomes
-
 phase1PRMD Personalized Repeated Measurement Design for Phase I Clinical Trials
-
 phase1RMD Repeated Measurement Design for Phase I Clinical Trial
-
 phaseR Phase Plane Analysis of One- And Two-Dimensional Autonomous ODE Systems
-
 PhaseTypeR General-Purpose Phase-Type Functions
-
 phateR PHATE - Potential of Heat-Diffusion for Affinity-Based Transition Embedding
-
 PHclust Poisson Hurdle Clustering for Sparse Microbiome Data
-
 phd Permutation Testing in High-Dimensional Linear Models
-
 pheatmap Pretty Heatmaps
-
 PheCAP High-Throughput Phenotyping with EHR using a Common Automated Pipeline
-
 phecodemap Visualization for PheCode Mapping with ICD-9 and ICD-10-CM Codes
-
 PHEindicatormethods Common Public Health Statistics and their Confidence Intervals
-
 phenesse Estimate Phenological Metrics using Presence-Only Data
-
 phenex Auxiliary Functions for Phenological Data Analysis
-
 PHENIX Phenotypic Integration Index
-
 phenmod Auxiliary Functions for Phenological Data Processing, Modelling and Result Handling
-
 phenModel Insect Phenology Model Evaluation Based on Daily Temperatures
-
 pheno Auxiliary Functions for Phenological Data Analysis
-
 phenocamr Facilitates 'PhenoCam' Data Access and Time Series Post-Processing
-
 phenoCDM Continuous Development Models for Incremental Time-Series Analysis
-
 phenofit Extract Remote Sensing Vegetation Phenology
-
 phenology Tools to Manage a Parametric Function that Describes Phenology and More
-
 phenomap Projecting Satellite-Derived Phenology in Space
-
 phenopix Process Digital Images of a Vegetation Cover
-
 PheNorm Unsupervised Gold-Standard Label Free Phenotyping Algorithm for EHR Data
-
 Phenotype A Tool for Phenotypic Data Processing
-
 PhenotypeSimulator Flexible Phenotype Simulation from Different Genetic and Noise Models
-
 phers Calculate Phenotype Risk Scores
-
 PHeval Evaluation of the Proportional Hazards Assumption with a Standardized Score Process
-
 PheVis Automatic Phenotyping of Electronic Health Record at Visit Resolution
-
 phia Post-Hoc Interaction Analysis
-
 phiDelta Tool for Phi Delta Analysis of Features
-
 philentropy Similarity and Distance Quantification Between Probability Functions
-
 PhilipsHue R Interface to the Philips Hue API
-
 PHInfiniteEstimates Tools for Inference in the Presence of a Monotone Likelihood
-
 PhitestR Analyzing the Heterogeneity of Single-Cell Populations
-
 phm Phrase Mining
-
 phonenumber Convert Letters to Numbers and Back as on a Telephone Keypad
-
 phonfieldwork Linguistic Phonetic Fieldwork Tools
-
 phonics Phonetic Spelling Algorithms
-
 phonR Tools for Phoneticians and Phonologists
-
 phonTools Tools for Phonetic and Acoustic Analyses
-
 phosphoricons 'Phosphor' Icons for R
-
 photobiology Photobiological Calculations
-
 photobiologyFilters Spectral Transmittance and Spectral Reflectance Data
-
 photobiologyInOut Read Spectral and Logged Data from Foreign Files
-
 photobiologyLamps Spectral Irradiance Data for Lamps
-
 photobiologyLEDs Spectral Data for Light-Emitting-Diodes
-
 photobiologyPlants Plant Photobiology Related Functions and Data
-
 photobiologySensors Spectral Response Data for Light Sensors
-
 photobiologySun Data for Sunlight Spectra
-
 photobiologyWavebands Waveband Definitions for UV, VIS, and IR Radiation
-
 PhotosynQ Connect to PhotosynQ
-
 photosynthesis Tools for Plant Ecophysiology & Modeling
-
 phreeqc R Interface to Geochemical Modeling Software
-
 PHSMM Penalised Maximum Likelihood Estimation for Hidden Semi-Markov Models
-
 phuassess Proportional Habitat Use Assessment
-
 PhViD PharmacoVigilance Signal Detection
-
 Phxnlme Run Phoenix NLME and Perform Post-Processing
-
 phyclust Phylogenetic Clustering (Phyloclustering)
-
 phyext2 An Extension (for Package 'SigTree') of Some of the Classes in Package 'phylobase'
-
 phylin Spatial Interpolation of Genetic Data
-
 phylobase Base Package for Phylogenetic Structures and Comparative Data
-
 phylocanvas Interactive Phylogenetic Trees Using the 'Phylocanvas' JavaScript Library
-
 phyloclim Integrating Phylogenetics and Climatic Niche Modeling
-
 phylocomr Interface to 'Phylocom'
-
 PhylogeneticEM Automatic Shift Detection using a Phylogenetic EM
-
 PHYLOGR Functions for Phylogenetically Based Statistical Analyses
-
 phylogram Dendrograms for Evolutionary Analysis
-
 phylolm Phylogenetic Linear Regression
-
 phylometrics Estimating Statistical Errors of Phylogenetic Metrics
-
 phylopath Perform Phylogenetic Path Analysis
-
 phyloregion Biogeographic Regionalization and Macroecology
-
 phylosamp The Probability of Transmission Given Phylogenetic Linkage
-
 phyloseqGraphTest Graph-Based Permutation Tests for Microbiome Data
-
 phylosignal Exploring the Phylogenetic Signal in Continuous Traits
-
 phylotate Phylogenies with Annotations
-
 phylotools Phylogenetic Tools for Eco-Phylogenetics
-
 phyloTop Calculating Topological Properties of Phylogenies
-
 phyr Model Based Phylogenetic Analysis
-
 phyreg The Phylogenetic Regression of Grafen (1989)
-
 PhysActBedRest Marks Periods of 'Bedrest' in Actigraph Accelerometer Data
-
 PhysicalActivity Process Accelerometer Data for Physical Activity Measurement
-
 physiology Calculate physiologic characteristics of awake and anesthetized adults, children and infants
-
 PhySortR A Fast, Flexible Tool for Sorting Phylogenetic Trees
-
 phytools Phylogenetic Tools for Comparative Biology (and Other Things)
-
 piar Price Index Aggregation
-
 picante Integrating Phylogenies and Ecology
-
 picasso Pathwise Calibrated Sparse Shooting Algorithm
-
 PICBayes Bayesian Models for Partly Interval-Censored Data
-
 picker Pick Data Points from a Deck.gl Scatterplot
-
 picR Predictive Information Criteria for Model Selection
-
 pid Process Improvement using Data
-
 PieceExpIntensity Bayesian Model to Find Changepoints Based on Rates and Count Data
-
 piecemaker Tools for Preparing Text for Tokenizers
-
 piecepackr Board Game Graphics
-
 piecewiseSEM Piecewise Structural Equation Modeling
-
 piggyback Managing Larger Data on a GitHub Repository
-
 PIGShift Polygenic Inverse Gamma Shifts
-
 Pijavski Global Univariate Minimization
-
 pillar Coloured Formatting for Columns
-
 pim Fit Probabilistic Index Models
-
 pimeta Prediction Intervals for Random-Effects Meta-Analysis
-
-pinfsc50 Sequence ('FASTA'), Annotation ('GFF') and Variants ('VCF') for 17 Samples of 'P. Infestans" and 1 'P. Mirabilis'
-
+pinfsc50 Sequence ('FASTA'), Annotation ('GFF') and Variants ('VCF') for 17 Samples of 'P. Infestans" and 1 'P. Mirabilis
 pingers Identify, Ping, and Log Internet Provider Connection Data
-
 pingr Check if a Remote Computer is Up
-
 pinnacle.API A Wrapper for the Pinnacle API
-
 pinnacle.data Market Odds Data from Pinnacle
-
 pinochet Data About the Victims of the Pinochet Regime, 1973-1990
-
 pinp 'pinp' is not 'PNAS'
-
 pins Pin, Discover and Share Resources
-
 PINSPlus Clustering Algorithm for Data Integration and Disease Subtyping
-
 PINstimation Estimation of the Probability of Informed Trading
-
 pinterestadsR Access to Pinterest Ads via the 'Windsor.ai' API
-
 pinyin Convert Chinese Characters into Pinyin, Sijiao, Wubi or Other Codes
-
 pipe.design Dual-Agent Dose Escalation for Phase I Trials using the PIPE Design
-
 pipebind Flexible Binding for Complex Function Evaluation with the Base R |> Pipe
-
 pipefittr Convert Nested Functions to Pipes
-
 pipeGS Permutation p-Value Estimation for Gene Set Tests
-
 pipeliner Machine Learning Pipelines for R
-
 pipenostics Diagnostics, Reliability and Predictive Maintenance of Pipeline Systems
-
 pipeR Multi-Paradigm Pipeline Implementation
-
 pirate Generated Effect Modifier
-
 piratings Calculate Pi Ratings for Teams Competing in Sport Matches
-
 piRF Prediction Intervals for Random Forests
-
 pirouette Create a Bayesian Posterior from a Phylogeny
-
 pisaRT Small Example Response and Response Time Data from PISA 2018
-
 pitchRx Tools for Harnessing 'MLBAM' 'Gameday' Data and Visualizing 'pitchfx'
-
 piton Parsing Expression Grammars in Rcpp
-
 pivmet Pivotal Methods for Bayesian Relabelling and k-Means Clustering
-
 pivotaltrackR A Client for the 'Pivotal Tracker' API
-
 pivottabler Create Pivot Tables
-
 piwikproR Access 'Piwik Pro' Website Statistics
-
 pixarfilms Pixar Films and Achievements
-
 pixelclasser Classifies Image Pixels by Colour
-
 pixelpuzzle Puzzle Game for the R Console
-
 pixels Tools for Working with Image Pixels
-
 pixiedust Tables so Beautifully Fine-Tuned You Will Believe It's Magic
-
 pixmap Bitmap Images / Pixel Maps
-
 PK Basic Non-Compartmental Pharmacokinetics
-
 PKconverter The Parameter Converter of the Pharmacokinetic Models
-
 pkdata Creates Pharmacokinetic/Pharmacodynamic (PK/PD) Data
-
 pkgbuild Find Tools Needed to Build R Packages
-
 pkgcache Cache 'CRAN'-Like Metadata and R Packages
-
 pkgcond Classed Error and Warning Conditions
-
 pkgconfig Private Configuration for 'R' Packages
-
 pkgdepends Package Dependency Resolution and Downloads
-
 pkgdepR Statically Determine Function Dependencies Between Packages
-
 pkgdown Make Static HTML Documentation for a Package
-
 pkgfilecache Download and Manage Optional Package Data
-
 pkggraph A Consistent and Intuitive Platform to Explore the Dependencies of Packages on the Comprehensive R Archive Network Like Repositories
-
 pkgKitten Create Simple Packages Which Do not Upset R Package Checks
-
 pkglite Compact Package Representations
-
 pkgload Simulate Package Installation and Attach
-
 pkgndep Analyze Dependency Heaviness of R Packages
-
 pkgnet Get Network Representation of an R Package
-
 pkgnews Retrieve R Package News Files
-
 pkgsearch Search and Query CRAN R Packages
-
 pkgstats Metrics of R Packages
-
 pkgverse Build a Meta-Package Universe
-
 PKI Public Key Infrastucture for R Based on the X.509 Standard
-
 PKLMtest Classification Based MCAR Test
-
 pkmon Least-Squares Estimator under k-Monotony Constraint for Discrete Functions
-
 PKNCA Perform Pharmacokinetic Non-Compartmental Analysis
-
 PKPDsim Tools for Performing Pharmacokinetic-Pharmacodynamic Simulations
-
 pkr Pharmacokinetics in R
-
 pks Probabilistic Knowledge Structures
-
 pKSEA Prediction-Based Kinase-Substrate Enrichment Analysis
-
 pksensi Global Sensitivity Analysis in Physiologically Based Kinetic Modeling
-
 PL94171 Tabulate P.L. 94-171 Redistricting Data Summary Files
-
 plac A Pairwise Likelihood Augmented Cox Estimator for Left-Truncated Data
-
 placer PLastic ACcumulation Estimate using R (PLACER)
-
 places Clusters GPS Data into Places
-
 PlackettLuce Plackett-Luce Models for Rankings
-
 plainview Plot Raster Images Interactively on a Plain HTML Canvas
-
 plan Tools for Project Planning
-
 PlaneGeometry Plane Geometry
-
 Planesmuestra Functions for Calculating Dodge Romig, MIL STD 105E and MIL STD 414 Acceptance Sampling Plan
-
 PlanetNICFI Processing of the 'Planet NICFI' Satellite Imagery
-
 planets Simple and Accessible Data from all Known Planets
-
 planningML A Sample Size Calculator for Machine Learning Applications in Healthcare
-
 plantecophys Modelling and Analysis of Leaf Gas Exchange Data
-
 plantecowrap Enhancing Capabilities of 'plantecophys'
-
 plaqr Partially Linear Additive Quantile Regression
-
 PlasmaMutationDetector Tumor Mutation Detection in Plasma
-
 PlasmaMutationDetector2 Tumor Mutation Detection in Plasma using Barcoding
-
 Plasmidprofiler Visualization of Plasmid Profile Results
-
 plater Read, Tidy, and Display Data from Microtiter Plates
-
 platetools Tools and Plots for Multi-Well Plates
-
 PlatformDesign Optimal Two-Period Multiarm Platform Design with New Experimental Arms Added During the Trial
-
 platowork Data from a Test of the PlatoWork tDCS Headset
-
 plattice Lattice Plot for Panel Data
-
 Platypus Single-Cell Immune Repertoire and Gene Expression Analysis
-
 PlayerRatings Dynamic Updating Methods for Player Ratings Estimation
-
 plde Penalized Log-Density Estimation Using Legendre Polynomials
-
 pleio Pleiotropy Test for Multiple Traits on a Genetic Marker
-
 pleiotest Fast Sequential Pleiotropy Test
-
 pleLMA Pseudo-Likelihood Estimation of Log-Multiplicative Association Models
-
 PLFD Portmanteau Local Feature Discrimination for Matrix-Variate Data
-
 plfm Probabilistic Latent Feature Analysis
-
 plfMA A GUI to View, Design and Export Various Graphs of Data
-
 plgp Particle Learning of Gaussian Processes
-
 pliman Tools for Plant Image Analysis
-
 plink IRT Separate Calibration Linking Methods
-
 plinkFile 'PLINK' (and 'GCTA') File Helpers
-
 plinkQC Genotype Quality Control with 'PLINK'
-
 PLIS Multiplicity Control using Pooled LIS Statistic
-
 plm Linear Models for Panel Data
-
 PLMIX Bayesian Analysis of Finite Mixtures of Plackett-Luce Models for Partial Rankings/Orderings
-
 PLmixed Estimate (Generalized) Linear Mixed Models with Factor Structures
-
 pln Polytomous Logit-Normit (Graded Logistic) Model Estimation
-
 PLNmodels Poisson Lognormal Models
-
 plnr A System for Planing Analyses
-
 plogr The 'plog' C++ Logging Library
-
 PLordprob Multivariate Ordered Probit Model via Pairwise Likelihood
-
 PLORN Prediction with Less Overfitting and Robust to Noise
-
 plot.matrix Visualizes a Matrix as Heatmap
-
 plot3D Plotting Multi-Dimensional Data
-
 plot3Drgl Plotting Multi-Dimensional Data - Using 'rgl'
-
 plot3logit Ternary Plots for Trinomial Regression Models
-
 plotBart Diagnostic and Plotting Functions to Supplement 'bartCause'
-
 plotbb Grammar of Graphics for 'base' Plot
-
 PlotContour Plot Contour Line
-
 plotdap Easily Visualize Data from 'ERDDAP' Servers via the 'rerddap' Package
-
 plotDK Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas
-
 plotfunctions Various Functions to Facilitate Visualization of Data and Analysis
-
 plotGMM Tools for Visualizing Gaussian Mixture Models
-
 plothelper New Plots Based on 'ggplot2' and Functions to Create Regular Shapes
-
 plotHMM Plot Hidden Markov Models
-
 plotKML Visualization of Spatial and Spatio-Temporal Objects in Google Earth
-
 plotluck 'ggplot2' Version of "I'm Feeling Lucky!"
-
 plotly Create Interactive Web Graphics via 'plotly.js'
-
 plotlyGeoAssets Render 'Plotly' Maps without an Internet Connection
-
 plotMCMC MCMC Diagnostic Plots
-
 plotMElm Plot Marginal Effects from Linear Models
-
 plotmm Tidy Tools for Visualizing Mixture Models
-
 plotmo Plot a Model's Residuals, Response, and Partial Dependence Plots
-
 plotpc Plot Principal Component Histograms Around a Scatter Plot
-
 PlotPrjNetworks Useful Networking Tools for Project Management
-
 plotprotein Development of Visualization Tools for Protein Sequence
-
 plotrix Various Plotting Functions
-
 plotROC Generate Useful ROC Curve Charts for Print and Interactive Use
-
 plotrr Making Visual Exploratory Data Analysis with Nested Data Easier
-
 plotscale Scale Graphics Devices Using Plot Dimensions
-
 plotSEMM Graphing Nonlinear Relations Among Latent Variables from Structural Equation Mixture Models
-
 plotwidgets Spider Plots, ROC Curves, Pie Charts and More for Use in Other Plots
-
 plpoisson Prediction Limits for Poisson Distribution
-
 PLreg Power Logit Regression for Modeling Bounded Data
-
 PLRModels Statistical Inference in Partial Linear Regression Models
-
 pls Partial Least Squares and Principal Component Regression
-
 plsdof Degrees of Freedom and Statistical Inference for Partial Least Squares Regression
-
 plsgenomics PLS Analyses for Genomics
-
 PLSiMCpp Methods for Partial Linear Single Index Model
-
 plsmod Model Wrappers for Projection Methods
-
 plsmselect Linear and Smooth Predictor Modelling with Penalisation and Variable Selection
-
 plsRbeta Partial Least Squares Regression for Beta Regression Models
-
 plsRcox Partial Least Squares Regression for Cox Models and Related Techniques
-
 plsRglm Partial Least Squares Regression for Generalized Linear Models
-
 plsVarSel Variable Selection in Partial Least Squares
-
 pltesim Simulate Probabilistic Long-Term Effects in Models with Temporal Dependence
-
 plu Dynamically Pluralize Phrases
-
 plugdensity Plug-in Kernel Density Estimation
-
 plumber An API Generator for R
-
 plumberDeploy Plumber Deployment
-
 plumbertableau Turn 'Plumber' APIs into 'Tableau' Extensions
-
 plumbr Mutable and Dynamic Data Models
-
 pluralize Pluralize and 'Singularize' Any (English) Word
-
 pluscode Encoder for Google 'Pluscodes'
-
 plusser A Google+ Interface for R
-
 plyr Tools for Splitting, Applying and Combining Data
-
 PMA Penalized Multivariate Analysis
-
 PMA2 Penalized Multivariate Analysis
-
 PMAPscore Identify Prognosis-Related Pathways Altered by Somatic Mutation
-
 pmc Phylogenetic Monte Carlo
-
 pmclust Parallel Model-Based Clustering using Expectation-Gathering-Maximization Algorithm for Finite Mixture Gaussian Model
-
 PMCMR Calculate Pairwise Multiple Comparisons of Mean Rank Sums
-
 PMCMRplus Calculate Pairwise Multiple Comparisons of Mean Rank Sums Extended
-
 pmd Paired Mass Distance Analysis for GC/LC-MS Based Non-Targeted Analysis and Reactomics Analysis
-
 pmetar Processing METAR Weather Reports
-
 pmhtutorial Minimal Working Examples for Particle Metropolis-Hastings
-
 pmlbr Interface to the Penn Machine Learning Benchmarks Data Repository
-
 pmledecon Deconvolution Density Estimation using Penalized MLE
-
 pmml Generate PMML for Various Models
-
 pmmlTransformations Transforms Input Data from a PMML Perspective
-
 pmparser Create and Maintain a Relational Database of Data from PubMed/MEDLINE
-
 pmr Probability Models for Ranking Data
-
 pmsampsize Calculates the Minimum Sample Size Required for Developing a Multivariable Prediction Model
-
 pmultinom One-Sided Multinomial Probabilities
-
 pmwg Particle Metropolis Within Gibbs
-
 PMwR Portfolio Management with R
-
 pmxpartab Parameter Tables for PMx Analyses
-
 pmxTools Pharmacometric and Pharmacokinetic Toolkit
-
 PNADcIBGE Downloading, Reading and Analyzing PNADC Microdata
-
 PNAR Poisson Network Autoregressive Models
-
 png Read and write PNG images
-
 PNSIBGE Downloading, Reading and Analyzing PNS Microdata
-
 PNWColors Color Palettes Inspired by Nature in the US Pacific Northwest
-
 PoA Finds the Price of Anarchy for Routing Games
-
 pocketapi Wrapper Around the 'Pocket' API
-
 POCRE Penalized Orthogonal-Components Regression
-
 pocrm Dose Finding in Drug Combination Phase I Trials Using PO-CRM
-
 POD Probability of Detection for Qualitative PCR Methods
-
 PoDBAY Vaccine Efficacy Estimation Package
-
 podcleaner Legacy Scottish Post Office Directories Cleaner
-
 poems Pattern-Oriented Ensemble Modeling System
-
 POET Principal Orthogonal ComplEment Thresholding (POET) Method
-
 pogit Bayesian Variable Selection for a Poisson-Logistic Model
-
 PogromcyDanych DataCrunchers (PogromcyDanych) is the Massive Online Open Course that Brings R and Statistics to the People
-
 poibin The Poisson Binomial Distribution
-
 PoiClaClu Classification and Clustering of Sequencing Data Based on a Poisson Model
-
 poilog Poisson Lognormal and Bivariate Poisson Lognormal Distribution
-
 POINT Protein Structure Guided Local Test
-
 pointblank Data Validation and Organization of Metadata for Local and Remote Tables
-
 pointdensityP Point Density for Geospatial Data
-
 PointedSDMs Fit Models Derived from Point Processes to Species Distributions using 'inlabru'
-
 PointFore Interpretation of Point Forecasts as State-Dependent Quantiles and Expectiles
-
 pointr Working Comfortably with Pointers and Shortcuts to R Objects
-
 pointRes Analyzing Pointer Years and Components of Resilience
-
 poio Input/Output Functionality for "PO" and "POT" Message Translation Files
-
 PoisBinNonNor Data Generation with Poisson, Binary and Continuous Components
-
 poisbinom A Faster Implementation of the Poisson-Binomial Distribution
-
 PoisBinOrd Data Generation with Poisson, Binary and Ordinal Components
-
 PoisBinOrdNonNor Generation of Up to Four Different Types of Variables
-
 PoisBinOrdNor Data Generation with Poisson, Binary, Ordinal and Normal Components
-
 poisDoubleSamp Confidence Intervals with Poisson Double Sampling
-
 poisFErobust Poisson Fixed Effects Robust
-
 poismf Factorization of Sparse Counts Matrices Through Poisson Likelihood
-
 PoisNonNor Simultaneous Generation of Count and Continuous Data
-
 PoisNor Simultaneous Generation of Multivariate Data with Poisson and Normal Marginals
-
 poisson Simulating Homogenous & Non-Homogenous Poisson Processes
-
 poisson.glm.mix Fit High Dimensional Mixtures of Poisson GLMs
-
 PoissonBinomial Efficient Computation of Ordinary and Generalized Poisson Binomial Distributions
-
 poissonMT Robust M-Estimators Based on Transformations for Poisson Model
-
 PoissonMultinomial The Poisson-Multinomial Distribution
-
 PoissonPCA Poisson-Noise Corrected PCA
-
 poissonreg Model Wrappers for Poisson Regression
-
 poistweedie Poisson-Tweedie Exponential Family Models
-
 poker Play Texas Hold Em Poker
-
 polaroid Create Hex Stickers with 'shiny'
-
 poLCA Polytomous Variable Latent Class Analysis
-
 PolicyPortfolios Tools for Managing, Measuring and Visualizing Policy Portfolios
-
 policytree Policy Learning via Doubly Robust Empirical Welfare Maximization over Trees
-
 polimetrics R Tools for Political Measures
-
 poliscidata Datasets and Functions Featured in Pollock and Edwards, an R Companion to Essentials of Political Analysis, Second Edition
-
 polished Authentication, User Administration, and Hosting for 'shiny' Apps
-
 polite Be Nice on the Web
-
 politeness Detecting Politeness Features in Text
-
 polle Policy Learning
-
 pollen Analysis of Aerobiological Data
-
 pollimetry Estimate Pollinator Body Size and Co-Varying Ecological Traits
-
 pollster Calculate Crosstab and Topline Tables of Weighted Survey Data
-
 polmineR Verbs and Nouns for Corpus Analysis
-
 polspline Polynomial Spline Routines
-
 polyaAeppli Implementation of the Polya-Aeppli Distribution
-
 polyapost Simulating from the Polya Posterior
-
 Polychrome Qualitative Palettes with Many Colors
-
 polyclip Polygon Clipping
-
 polycor Polychoric and Polyserial Correlations
-
 PolycrossDesigns Polycross Designs ("PolycrossDesigns")
-
 polyCub Cubature over Polygonal Domains
-
 polyfreqs Bayesian Population Genomics in Autopolyploids
-
 PolygonSoup Mesh from Polygon Soup
-
 PolyHaplotyper Assignment of Haplotypes Based on SNP Dosages in Diploids and Polyploids
-
 polylabelr Find the Pole of Inaccessibility (Visual Center) of a Polygon
-
 polymapR Linkage Analysis in Outcrossing Polyploids
-
 polyMatrix Infrastructure for Manipulation Polynomial Matrices
-
 polynom A Collection of Functions to Implement a Class for Univariate Polynomial Manipulations
-
 PolynomF Polynomials in R
-
 PolyPatEx Paternity Exclusion in Autopolyploid Species
-
 polypharmacy Calculate Several Polypharmacy Indicators
-
 polypoly Helper Functions for Orthogonal Polynomials
-
 polyqtlR QTL Analysis in Autopolyploid Bi-Parental F1 Populations
-
 polyRAD Genotype Calling with Uncertainty from Sequencing Data in Polyploids and Diploids
-
 polyreg Polynomial Regression
-
 polysat Tools for Polyploid Microsatellite Analysis
-
 polySegratio Simulate and Test Marker Dosage for Dominant Markers in Autopolyploids
-
 polySegratioMM Bayesian Mixture Models for Marker Dosage in Autopolyploids
-
 PolyTrend Trend Classification Algorithm
-
 polywog Bootstrapped Basis Regression with Oracle Model Selection
-
 POMaSPU Adaptive Association Tests for Multiple Phenotypes using Proportional Odds Model (POM-aSPU)
-
 pomcheckr Graphical Check for Proportional Odds Assumption
-
 pomdp Infrastructure for Partially Observable Markov Decision Processes (POMDP)
-
 pomdpSolve Interface to 'pomdp-solve' for Partially Observable Markov Decision Processes
-
 Pomic Pattern Oriented Modelling Information Criterion
-
 pomodoro Predictive Power of Linear and Tree Modeling
-
 pomp Statistical Inference for Partially Observed Markov Processes
-
 pompom Person-Oriented Method and Perturbation on the Model
-
 pompp Presence-Only for Marked Point Process
-
 pooh Partial Orders and Relations
-
 pool Object Pooling
-
 PooledCohort Predict 10-Year Risk for Atherosclerotic Cardiovascular Disease
-
 PooledMeanGroup Pooled Mean Group Estimation of Dynamic Heterogenous Panels
-
 poolfstat Computing f-Statistics and Building Admixture Graphs Based on Allele Count or Pool-Seq Read Count Data
-
 pooling Fit Poolwise Regression Models
-
 poolr Methods for Pooling P-Values from (Dependent) Tests
-
 PoolTestR Prevalence and Regression for Pool-Tested (Group-Tested) Data
-
 poolVIM Gene-Based Association Tests using the Actual Impurity Reduction (AIR) Variable Importance
-
 poorman A Poor Man's Dependency Free Recreation of 'dplyr'
-
 pop A Flexible Syntax for Population Dynamic Modelling
-
 pop.lion Models for Simulating Lion Populations
-
 pop.wolf Models for Simulating Wolf Populations
-
 popbayes Bayesian Model to Estimate Population Trends from Counts Series
-
 popbio Construction and Analysis of Matrix Population Models
-
 popdemo Demographic Modelling Using Projection Matrices
-
 PoPdesign Posterior Predictive (PoP) Design for Phase I Clinical Trials
-
 PopED Population (and Individual) Optimal Experimental Design
-
 popEpi Functions for Epidemiological Analysis using Population Data
-
 popgenr Accompaniment to Population Genetics with R: An Introduction for Life Scientists
-
 PopGenReport A Simple Framework to Analyse Population and Landscape Genetic Data
-
 popkin Estimate Kinship and FST under Arbitrary Population Structure
-
 popPCR Classify Digital PCR Droplets by Fitting Fluorescence Populations
-
 poppr Genetic Analysis of Populations with Mixed Reproduction
-
 popPyramid Population Pyramids
-
 popReconstruct Reconstruct Human Populations of the Recent Past
-
 popsom An Efficient Implementation of Kohonen's Self-Organizing Maps (SOMs) with Starburst Visualizations
-
 popstudy Applied Techniques to Demographic and Time Series Analysis
-
 poptrend Estimate Smooth and Linear Trends from Population Count Survey Data
-
 population Models for Simulating Populations
-
 PopulationGrowthR Linear Population Growth Scenarios
-
 populationPDXdesign Designing Population PDX Studies
-
 populR Population Downscaling
-
 PopVar Genomic Breeding Tools: Genetic Variance Prediction and Cross-Validation
-
 porridge Ridge-Type Penalized Estimation of a Potpourri of Models
-
 port4me Get the Same, Personal, Free 'TCP' Port over and over
-
 PortalHacienda Acceder Con R a Los Datos Del Portal De Hacienda
-
 portalr Create Useful Summaries of the Portal Data
-
 portfolio Analysing Equity Portfolios
-
 portfolio.optimization Contemporary Portfolio Optimization
-
 PortfolioAnalytics Portfolio Analysis, Including Numerical Methods for Optimization of Portfolios
-
 portfolioBacktest Automated Backtesting of Portfolios over Multiple Datasets
-
 PortfolioEffectEstim High Frequency Price Estimators by PortfolioEffect
-
 PortfolioEffectHFT High Frequency Portfolio Analytics by PortfolioEffect
-
 PortfolioOptim Small/Large Sample Portfolio Optimization
-
 PortRisk Portfolio Risk Analysis
-
 portsort Factor-Based Portfolio Sorts
-
 portvine Vine Based (Un)Conditional Portfolio Risk Measure Estimation
-
 POSetR Partially Ordered Sets in R
-
 PoSI Valid Post-Selection Inference for Linear LS Regression
-
 PosRatioDist Quotient of Random Variables Conditioned to the Positive Quadrant
-
 POSSA Power Simulation for Sequential Analyses and Multiple Hypotheses
-
 postcards Create Beautiful, Simple Personal Websites
-
 PostcodesioR API Wrapper Around 'Postcodes.io'
-
 posterdown Generate PDF Conference Posters Using R Markdown
-
 posterior Tools for Working with Posterior Distributions
-
 PosteriorBootstrap Non-Parametric Sampling with Parallel Monte Carlo
-
 postGGIR Data Processing after Running 'GGIR' for Accelerometer Data
-
 postGIStools Tools for Interacting with 'PostgreSQL' / 'PostGIS' Databases
-
 postHoc Tools for Post-Hoc Analysis
-
 postinfectious Estimating the Incubation Period Distribution of Post-Infectious Syndrome
-
 postlightmercury Parses Web Pages using Postlight Mercury
-
 postlogic Infix and Postfix Logic Operators
-
 POSTm Phylogeny-Guided OTU-Specific Association Test for Microbiome Data
-
 postpack Utilities for Processing Posterior Samples Stored in 'mcmc.lists'
-
 POT Generalized Pareto Distribution and Peaks Over Threshold
-
 potential Implementation of the Potential Model
-
 potools Tools for Internationalization and Portability in R Packages
-
 potts Markov Chain Monte Carlo for Potts Models
-
 PottsUtils Utility Functions of the Potts Models
-
 pould Phased or Unphased Linkage Disequilibrium
-
 POUMM The Phylogenetic Ornstein-Uhlenbeck Mixed Model
-
 POV Partition of Variation Variance Component Analysis Method
-
 povcalnetR Client for the 'Povcalnet' API
-
 pow.int Binary Exponentiation
-
 powdist Power and Reversal Power Distributions
-
 powdR Full Pattern Summation of X-Ray Powder Diffraction Data
-
 Power2Stage Power and Sample-Size Distribution of 2-Stage Bioequivalence Studies
-
 powerbiR An Interface to the 'Power BI REST APIs'
-
 powerbydesign Power Estimates for ANOVA Designs
-
 powerCompRisk Power Analysis Tool for Joint Testing Hazards with Competing Risks Data
-
 powerEQTL Power and Sample Size Calculation for Bulk Tissue and Single-Cell eQTL Analysis
-
 powerGWASinteraction Power Calculations for GxE and GxG Interactions for GWAS
-
 powerjoin Extensions of 'dplyr' and 'fuzzyjoin' Join Functions
-
 powerLATE Generalized Power Analysis for LATE
-
 poweRlaw Analysis of Heavy Tailed Distributions
-
 powerly Sample Size Analysis for Psychological Networks and More
-
 powerMediation Power/Sample Size Calculation for Mediation Analysis
-
 PowerNormal Power Normal Distribution
-
 powerpkg Power Analyses for the Affected Sib Pair and the TDT Design
-
 powerplus Exponentiation Operations
-
 powerSurvEpi Power and Sample Size Calculation for Survival Analysis of Epidemiological Studies
-
 PowerTOST Power and Sample Size for (Bio)Equivalence Studies
-
 PowerUpR Power Analysis Tools for Multilevel Randomized Experiments
-
 powRICLPM Perform Power Analysis for the Random Intercept Cross-Lagged Panel Model
-
 PP Person Parameter Estimation
-
 PP3 Three-Dimensional Exploratory Projection Pursuit
-
 ppcc Probability Plot Correlation Coefficient Test
-
 PPCI Projection Pursuit for Cluster Identification
-
 ppclust Probabilistic and Possibilistic Cluster Analysis
-
 ppcong Interfacing with ProPublica's 'Congress' API
-
 ppcor Partial and Semi-Partial (Part) Correlation
-
 ppcSpatial Spatial Analysis of Pakistan Population Census
-
 ppdiag Diagnosis and Visualizations Tools for Temporal Point Processes
-
 PPforest Projection Pursuit Classification Forest
-
 ppgam Generalised Additive Point Process Models
-
 ppgmmga Projection Pursuit Based on Gaussian Mixtures and Evolutionary Algorithms
-
 ppitables Lookup Tables to Generate Poverty Likelihoods and Rates using the Poverty Probability Index (PPI)
-
 ppmf Read Census Privacy Protected Microdata Files
-
 ppmHR Privacy-Protecting Hazard Ratio Estimation in Distributed Data Networks
-
 PPMR Probabilistic Two Sample Mendelian Randomization
-
 ppmSuite A Collection of Models that Employ a Product Partition Distribution as a Prior on Partitions
-
 PPQplan Process Performance Qualification (PPQ) Plans in Chemistry, Manufacturing and Controls (CMC) Statistical Analysis
-
 PPRL Privacy Preserving Record Linkage
-
 pps PPS Sampling
-
 ppsbm Clustering in Longitudinal Networks
-
 ppseq Design Clinical Trials using Sequential Predictive Probability Monitoring
-
 PPSFS Partial Profile Score Feature Selection in High-Dimensional Generalized Linear Interaction Models
-
 ppsr Predictive Power Score
-
 PPTcirc Projected Polya Tree for Circular Data
-
 PPtreeViz Projection Pursuit Classification Tree Visualization
-
 pqantimalarials web tool for estimating under-five deaths caused by poor-quality antimalarials in sub-Saharan Africa
-
 PQLseq Efficient Mixed Model Analysis of Count Data in Large-Scale Genomic Sequencing Studies
-
 pqrfe Penalized Quantile Regression with Fixed Effects
-
 prabclus Functions for Clustering and Testing of Presence-Absence, Abundance and Multilocus Genetic Data
-
 pracma Practical Numerical Math Functions
-
 PracticalEquiDesign Design of Practical Equivalence Trials
-
 PracTools Tools for Designing and Weighting Survey Samples
-
 prais Prais-Winsten Estimator for AR(1) Serial Correlation
-
 praise Praise Users
-
 praznik Tools for Information-Based Feature Selection and Scoring
-
 prcbench Testing Workbench for Precision-Recall Curves
-
 prclust Penalized Regression-Based Clustering Method
-
 prcr Person-Centered Analysis
-
 PRDA Conduct a Prospective or Retrospective Design Analysis
-
 pre Prediction Rule Ensembles
-
 PRECAST Embedding and Clustering with Alignment for Spatial Datasets
-
 precintcon Precipitation Intensity, Concentration and Anomaly Analysis
-
 pRecipe Precipitation R Recipes
-
 precisely Estimate Sample Size Based on Precision Rather than Power
-
 precisePlacement Suite of Functions to Help Get Plot Elements Exactly Where You Want Them
-
 PreciseSums Accurate Floating Point Sums and Products
-
 precmed Precision Medicine
-
 precommit Pre-Commit Hooks
-
 precrec Calculate Accurate Precision-Recall and ROC (Receiver Operator Characteristics) Curves
-
 PredCRG Computational Prediction of Proteins Encoded by Circadian Genes
-
 predfairness Discrimination Mitigation for Machine Learning Models
-
 predhy Genomic Prediction of Hybrid Performance
-
 predict3d Draw Three Dimensional Predict Plot Using Package 'rgl'
-
 PredictABEL Assessment of Risk Prediction Models
-
 prediction Tidy, Type-Safe 'prediction()' Methods
-
 predictionInterval Prediction Interval Functions for Assessing Replication Study Results
-
 PredictionR Prediction for Future Data from any Continuous Distribution
-
 predictMe Visualize Individual Prediction Performance
-
 predictmeans Predicted Means for Linear and Semi Parametric Models
-
 predictoR Predictive Data Analysis System
-
 predictrace Predict the Race and Gender of a Given Name Using Census and Social Security Administration Data
-
 predieval Assessing Performance of Prediction Models for Predicting Patient-Level Treatment Benefit
-
 predint Prediction Intervals
-
 predkmeans Covariate Adaptive Clustering
-
 PredPsych Predictive Approaches in Psychology
-
 predReliability Estimates Reliability of Individual Supervised Learning Predictions
-
 predtools Prediction Model Tools
-
 predtoolsTS Time Series Prediction Tools
-
 prefeR R Package for Pairwise Preference Elicitation
-
 preferably A 'pkgdown' Template
-
 preference 2-Stage Preference Trial Design and Analysis
-
 prefmod Utilities to Fit Paired Comparison Models for Preferences
-
 PreKnitPostHTMLRender Pre-Knitting Processing and Post HTML-Rendering Processing
-
 PReMiuM Dirichlet Process Bayesian Clustering, Profile Regression
-
 prenoms Names Given to Babies in Quebec Between 1980 and 2020
-
 prepdat Preparing Experimental Data for Statistical Analysis
-
 pRepDesigns Partially Replicated (p-Rep) Designs
-
 prepplot Prepare Figure Region for Base Graphics
-
 PreProcess Basic Functions for Pre-Processing Microarrays
-
 PreProcessing Various Preprocessing Transformations of Numeric Data Matrices
-
 PREPShiny Interactive Document for Preprocessing the Dataset
-
 preputils Utilities for Preparation of Data Analysis
-
 prereg R Markdown Templates to Preregister Scientific Studies
-
 preregr Specify (Pre)Registrations and Export Them Human- And Machine-Readably
-
 PresenceAbsence Presence-Absence Model Evaluation
-
 presens Interface for PreSens Fiber Optic Data
-
 presenter Present Data with Style
-
 presentes Registry of Victims of State Terrorism in Argentina
-
 preseqR Predicting Species Accumulation Curves
-
 PResiduals Probability-Scale Residuals and Residual Correlations
-
 presize Precision Based Sample Size Calculation
-
 presmTP Methods for Transition Probabilities
-
 PressPurt Indeterminacy of Networks via Press Perturbations
-
 prettifyAddins 'RStudio' Addins to Prettify 'JavaScript', 'C++', 'Python', and More
-
 prettyB Pretty Base Graphics
-
 prettycode Pretty Print R Code in the Terminal
-
 PrettyCols Pretty Colour Palettes
-
 prettydoc Creating Pretty Documents from R Markdown
-
 prettyglm Pretty Summaries of Generalized Linear Model Coefficients
-
 prettyGraphs Publication-Quality Graphics
-
 prettymapr Scale Bar, North Arrow, and Pretty Margins in R
-
 prettyR Pretty Descriptive Stats
-
 prettyunits Pretty, Human Readable Formatting of Quantities
-
 prevalence Tools for Prevalence Assessment Studies
-
 prevederer Wrapper for the 'Prevedere' API
-
 previsionio 'Prevision.io' R SDK
-
 PrevMap Geostatistical Modelling of Spatially Referenced Prevalence Data
-
 prevR Estimating Regional Trends of a Prevalence from a DHS and Similar Surveys
-
 prevtoinc Prevalence to Incidence Calculations for Point-Prevalence Studies in a Nosocomial Setting
-
 prewas Data Pre-Processing for Bacterial Genome-Wide Association Studies
-
 pRF Permutation Significance for Random Forests
-
 PriceIndices Calculating Bilateral and Multilateral Price Indexes
-
 priceR Economics and Pricing Tools
-
 pricesensitivitymeter Van Westendorp Price Sensitivity Meter Analysis
-
 prim Patient Rule Induction Method (PRIM)
-
 PRIMAL Parametric Simplex Method for Sparse Learning
-
 primate Tools and Methods for Primatological Data Science
-
 primefactr Use Prime Factorization for Computations
-
 primePCA Projected Refinement for Imputation of Missing Entries in PCA
-
 primer Functions and Data for the Book, a Primer of Ecology with R
-
 primerTree Visually Assessing the Specificity and Informativeness of Primer Pairs
-
 primes Fast Functions for Prime Numbers
-
 PRIMME Eigenvalues and Singular Values and Vectors from Large Matrices
-
 princurve Fit a Principal Curve in Arbitrary Dimension
-
 printr Automatically Print R Objects to Appropriate Formats According to the 'knitr' Output Format
-
 prinvars Principal Variables
-
 prioGene Candidate Gene Prioritization for Non-Communicable Diseases Based on Functional Information
-
 PriorGen Generates Prior Distributions for Proportions
-
 prioriactions Multi-Action Conservation Planning
-
 prioritizr Systematic Conservation Prioritization in R
-
 prioritizrdata Conservation Planning Datasets
-
 prioritylasso Analyzing Multiple Omics Data with an Offset Approach
-
 prism Access Data from the Oregon State Prism Climate Project
-
 PRISM.forecast Penalized Regression with Inferred Seasonality Module - Forecasting Unemployment Initial Claims using 'Google Trends' Data
-
 PRISMA Protocol Inspection and State Machine Analysis
-
 PRISMA2020 Make Interactive 'PRISMA' Flow Diagrams
-
 prismadiagramR Creates a Prisma Diagram using 'DiagrammeR'
-
 PRISMAstatement Plot Flow Charts According to the "PRISMA" Statement
-
 prismatic Color Manipulation Tools
-
 prismjs Server-Side Syntax Highlighting
-
 prisonbrief Downloads and Parses World Prison Brief Data
-
 prithulib Perform Random Experiments
-
 PrivateLR Differentially Private Regularized Logistic Regression
-
 prnsamplr Permanent Random Number Sampling
-
 pro Point-Process Response Model for Optogenetics
-
 ProAE PRO-CTCAE Scoring, Analysis, and Graphical Tools
-
 probably Tools for Post-Processing Class Probability Estimates
-
 ProbBayes Probability and Bayesian Modeling
-
 ProbeDeveloper Develop Hybridization Probes
-
 ProbitSpatial Probit with Spatial Dependence, SAR, SEM and SARAR Models
-
 ProbMarg Computing Logit & Probit Predicted Probabilities & Marginal Effects
-
 probout Unsupervised Multivariate Outlier Probabilities for Large Datasets
-
 ProbReco Score Optimal Probabilistic Forecast Reconciliation
-
 ProbSamplingI Probabilistic Sampling Design and Strategies
-
 PROBShiny Interactive Document for Working with Basic Probability
-
 ProbYX Inference for the Stress-Strength Model R = P(Y PowerPoint
 
 
