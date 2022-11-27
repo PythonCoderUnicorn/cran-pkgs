@@ -474,13 +474,13 @@ APfun, Geo-Processing Helper Functions
 aphid ,Analysis with Profile Hidden Markov Models
 aphylo, Statistical Inference and Prediction of Annotations in Phylogenetic Trees
 api2lm, Functions and Data Sets for the Book 'A Progressive Introduction to Linear Models'
-APIS ,Auto-Adaptive Parentage Inference Software Tolerant to Missing Parents
-apisensr ,Interface to 'episensr' for Sensitivity Analysis of Epidemiological Results
+APIS , Auto-Adaptive Parentage Inference Software Tolerant to Missing Parents
+apisensr , Interface to 'episensr' for Sensitivity Analysis of Epidemiological Results
 aplore3, Datasets from Hosmer Lemeshow and Sturdivant "Applied Logistic Regression" (3rd Ed. 2013)
 aplot ,Decorate a 'ggplot' with Associated Information
 aplpack, Another Plot Package: 'Bagplots' 'Iconplots' 'Summaryplots' Slider Functions and Others
 APML0, Augmented and Penalized Minimization Method L0
-apng ,Convert Png Files into Animated Png
+apng , Convert Png Files into Animated Png
 apollo, Tools for Choice Model Estimation and Application
 APPEstimation, Adjusted Prediction Model Performance Estimation
 appleadsR ,Get Apple Search Ads Data via the 'Windsor.ai' API
