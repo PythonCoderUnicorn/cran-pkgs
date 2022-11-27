@@ -14810,3049 +14810,1527 @@ LZeroSpikeInference Exact Spike Train Inference via L0 Optimization
 
 
 m2b Movement to Behaviour Inference using Random Forest
-
 m2r Interface to 'Macaulay2'
-
 M2SMF Multi-Modal Similarity Matrix Factorization for Integrative Multi-Omics Data Analysis
-
 M2SMJF Multi-Modal Similarity Matrix Joint Factorization
-
 m5 'M5 Forecasting' Challenges Data
-
 m61r Package About Data Manipulation in Pure Base R
-
 MAAPER Analysis of Alternative Polyadenylation Using 3' End-Linked Reads
-
 maat Multiple Administrations Adaptive Testing
-
 mable Maximum Approximate Bernstein/Beta Likelihood Estimation
-
 MABOUST Multi-Armed Bayesian Ordinal Utility-Based Sequential Trial
-
 macc Mediation Analysis of Causality under Confounding
-
 MACER Molecular Acquisition, Cleaning, and Evaluation in R 'MACER'
-
 MachineShop Machine Learning Models and Tools
-
 macleish Retrieve Data from MacLeish Field Station
-
 maclogp Measures of Uncertainty for Model Selection
-
 macrocol Colombian Macro-Financial Time Series Generator
-
 mactivate Multiplicative Activation
-
 maczic Mediation Analysis for Count and Zero-Inflated Count Data
-
 MAd Meta-Analysis with Mean Differences
-
 mada Meta-Analysis of Diagnostic Accuracy
-
 maddison The Maddison Project Database
-
 madgrad 'MADGRAD' Method for Stochastic Optimization
-
 maditr Fast Data Aggregation, Modification, and Filtering with Pipes and 'data.table'
-
 madness Automatic Differentiation of Multivariate Operations
-
 MADPop MHC Allele-Based Differencing Between Populations
-
 madr Model Averaged Double Robust Estimation
-
 madrat May All Data be Reproducible and Transparent (MADRaT) *
-
 mads Multi-Analysis Distance Sampling
-
 madsim A Flexible Microarray Data Simulation Model
-
 Maeswrap Wrapper Functions for MAESTRA/MAESPA
-
 magclass Data Class and Tools for Handling Spatial-Temporal Data
-
 MAGEE Mixed Model Association Test for GEne-Environment Interaction
-
 magi MAnifold-Constrained Gaussian Process Inference
-
 magic Create and Investigate Magic Squares
-
 magicaxis Pretty Scientific Plotting with Minor-Tick and Log Minor-Tick Support
-
 magicfor Magic Functions to Obtain Results from for Loops
-
 magick Advanced Graphics and Image-Processing in R
-
 magickGUI GUI Tools for Interactive Image Processing with 'magick'
-
 magicLamp 'WeMo Switch' Smart Plug Utilities
-
 magmaR R-Client for 'Magma' of the 'UCSF Mount Etna Data Library'
-
 MAGNAMWAR A Pipeline for Meta-Genome Wide Association
-
 magree Implements the O'Connell-Dobson-Schouten Estimators of Agreement for Multiple Observers
-
 magrittr A Forward-Pipe Operator for R
-
 maGUI A Graphical User Interface for Microarray Data Analysis and Annotation
-
 maic Matching-Adjusted Indirect Comparison
-
 maicChecks Assessing the Numerical Feasibility for Conducting a Matching-Adjusted Indirect Comparison (MAIC)
-
 mail Sending Email Notifications from R
-
 mailchimpR Get Mailchimp Data via the 'Windsor.ai' API
-
 mailmerge Mail Merge Using R Markdown Documents and 'gmailr'
-
 mailR A Utility to Send Emails from R
-
 mailtoR Creates a Friendly User Interface for Emails Sending in 'shiny'
-
 MainExistingDatasets Main Existing Human Datasets
-
 MAINT.Data Model and Analyse Interval Data
-
 MajKMeans k-Means Algorithm with a Majorization-Minimization Method
-
 makedummies Create Dummy Variables from Categorical Data
-
 MakefileR Create 'Makefiles' Using R
-
 makeFlow Visualizing Sequential Classifications
-
 makemyprior Intuitive Construction of Joint Priors for Variance Parameters
-
 makePalette Make Palette
-
 makepipe Pipeline Tools Inspired by 'GNU Make'
-
 makeProject Creates an empty package framework for the LCFD format
-
 maketools Exploring and Testing the Toolchain and System Libraries
-
 makeunique Make Character Strings Unique
-
 MakeYourPalette Make Your Palette
-
 MAKL Multiple Approximate Kernel Learning (MAKL)
-
 malan MAle Lineage ANalysis
-
 malani Machine Learning Assisted Network Inference
-
 malariaAtlas An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project'
-
 malaytextr Text Mining for Bahasa Malaysia
-
 MALDIquant Quantitative Analysis of Mass Spectrometry Data
-
 MALDIquantForeign Import/Export Routines for 'MALDIquant'
-
 MALDIrppa MALDI Mass Spectrometry Data Robust Pre-Processing and Analysis
-
 mallet An R Wrapper for the Java Mallet Topic Modeling Toolkit
-
 malvinas Islas Malvinas, Georgias Del Sur y Sándwich Del Sur
-
 MAMS Designing Multi-Arm Multi-Stage Studies
-
 ManagedCloudProvider Providing the Kubernetes-Like Functions for the Non-Kubernetes Cloud Service
-
 managelocalrepo Manage a CRAN-Style Local Repository
-
 MANCIE Matrix Analysis and Normalization by Concordant Information Enhancement
-
 mand Multivariate Analysis for Neuroimaging Data
-
 MandalaR Building Mandalas from Parametric Equations of Classical Curves
-
 mandelbrot Generates Views on the Mandelbrot Set
-
 manet Multiple Allocation Model for Actor-Event Networks
-
 mangoTraining Mango Solutions Training Datasets
-
 Mangrove Risk Prediction on Trees
-
 manhattanly Interactive Q-Q and Manhattan Plots Using 'plotly.js'
-
 manhplot The Manhattan++ Plot
-
 manifestoR Access and Process Data and Documents of the Manifesto Project
-
-manifold Operations for Riemannian Manifolds
-
+manifold Operations for Riemannian Manifold
 ManifoldOptim An R Interface to the 'ROPTLIB' Library for Riemannian Manifold Optimization
-
 manipulate Interactive Plots for RStudio
-
 manipulateWidget Add Even More Interactivity to Interactive Charts
-
 ManlyMix Manly Mixture Modeling and Model-Based Clustering
-
 MAnorm2 Tools for Normalizing and Comparing ChIP-seq Samples
-
 MANOVA.RM Resampling-Based Analysis of Multivariate Data and Repeated Measures Designs
-
 MantaID A Machine-Learning Based Tool to Automate the Identification of Biological Database IDs
-
 manydata A Portal for Global Governance Data
-
 manymodelr Build and Tune Several Models
-
 manymome Mediation, Moderation and Moderated-Mediation After Model Fitting
-
 ManyTests Multiple Testing Procedures of Cox (2011) and Wong and Cox (2007)
-
 MaOEA Many Objective Evolutionary Algorithm
-
 maotai Tools for Matrix Algebra, Optimization and Inference
-
 MAP Multimodal Automated Phenotyping
-
 Map2NCBI Mapping Markers to the Nearest Genomic Feature
-
 MAPA Multiple Aggregation Prediction Algorithm
-
 mapaccuracy Unbiased Thematic Map Accuracy and Area
-
 mapbayr MAP-Bayesian Estimation of PK Parameters
-
 mapboxapi R Interface to 'Mapbox' Web Services
-
 mapboxer An R Interface to 'Mapbox GL JS'
-
 mapcan Tools for Plotting Canadian Choropleth Maps and Choropleth Alternatives
-
 mapchina China Administrative Divisions Geospatial Shapefile Data
-
 mapdata Extra Map Databases
-
 mapdeck Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
-
 MapeBay Multivariate Analysis of Variance Panel, PERMANOVA and Bayesian
-
 mapedit Interactive Editing of Spatial Data in R
-
 mapfit PH/MAP Parameter Estimation
-
 MapGAM Mapping Smoothed Effect Estimates from Individual-Level Data
-
 mapi Mapping Averaged Pairwise Information
-
 mapiso Create Contour Polygons from Regular Grids
-
 MAPITR MArginal ePIstasis Test for Regions
-
 maple Bayesian Analysis of Multi-Sample Spatial Transcriptomics Experiments
-
 mapme.biodiversity Efficient Monitoring of Global Biodiversity Portfolios
-
 mapmisc Utilities for Producing Maps
-
 mapping Automatic Download, Linking, Manipulating Coordinates for Maps
-
 mappings Functions for Transforming Categorical Variables
-
 mapplots Data Visualisation on Maps
-
 mappoly Genetic Linkage Maps in Autopolyploids
-
 mappp Map in Parallel with Progress
-
 mapproj Map Projections
-
 mapr Visualize Species Occurrence Data
-
 mapReasy Producing Administrative Boundary Map with Additional Features Embedded
-
 maps Draw Geographical Maps
-
 mapsapi 'sf'-Compatible Interface to 'Google Maps' APIs
-
 mapscanner Print Maps, Draw on Them, Scan Them Back in
-
 mapsf Thematic Cartography
-
 mapsFinland Maps of Finland
-
 mapSpain Administrative Boundaries of Spain
-
 mapsPERU Maps of Peru
-
 mapsRinteractive Local Adaptation and Evaluation of Digital Soil Maps
-
 maptiles Download and Display Map Tiles
-
 maptools Tools for Handling Spatial Objects
-
 maptpx MAP Estimation of Topic Models
-
 maptree Mapping, Pruning, and Graphing Tree Models
-
 mapview Interactive Viewing of Spatial Data in R
-
 mAr Multivariate AutoRegressive Analysis
-
 mar1s Multiplicative AR(1) with Seasonal Processes
-
 maraca The Maraca Plot: Visualization of Hierarchical Composite Endpoints in Clinical Trials
-
 march Markov Chains
-
 marcher Migration and Range Change Estimation in R
-
 marelac Tools for Aquatic Sciences
-
 MareyMap Estimation of Meiotic Recombination Rates Using Marey Maps
-
 marg Approximate Marginal Inference for Regression-Scale Models
-
 margaret Scientometric Analysis Minciencias
-
 MargCond Joint Marginal-Conditional Model
-
 marginaleffects Marginal Effects, Marginal Means, Predictions, and Contrasts
-
 marginalizedRisk Estimating Marginalized Risk
-
 MarginalMediation Marginal Mediation
-
 margins Marginal Effects for Model Objects
-
 marima Multivariate ARIMA and ARIMA-X Analysis
-
 mark Miscellaneous, Analytic R Kernels
-
 markdown Render Markdown with 'commonmark'
-
 markdownInput Shiny Module for a Markdown Input with Result Preview
-
 marked Mark-Recapture Analysis for Survival and Abundance Estimation
-
 markerpen Marker Gene Detection via Penalized Principal Component Analysis
-
 MarketMatching Market Matching and Causal Impact Inference
-
 marketr Tidy Calculation of Marketing Metrics Plus Quick Analysis
-
 markets Estimation Methods for Markets in Equilibrium and Disequilibrium
-
 markmyassignment Automatic Marking of R Assignments
-
 markophylo Markov Chain Models for Phylogenetic Trees
-
 markovchain Easy Handling Discrete Time Markov Chains
-
 Markovchart Markov Chain-Based Cost-Optimal Control Charts
-
 markovMSM Methods for Checking the Markov Condition in Multi-State Survival Data
-
 MarkowitzR Statistical Significance of the Markowitz Portfolio
-
 marmap Import, Plot and Analyze Bathymetric and Topographic Data
-
 marp Model-Averaged Renewal Process
-
 marqLevAlg A Parallelized General-Purpose Optimization Based on Marquardt-Levenberg Algorithm
-
 MARSANNhybrid MARS Based ANN Hybrid Model
-
 MARSS Multivariate Autoregressive State-Space Modeling
-
 MARSSVRhybrid MARS SVR Hybrid
-
 MARVEL Revealing Splicing Dynamics at Single-Cell Resolution
-
 mas Membership Association Studies
-
 maSAE Mandallaz' Model-Assisted Small Area Estimators
-
 mase Model-Assisted Survey Estimators
-
 mashr Multivariate Adaptive Shrinkage
-
 maskRangeR Mask Species Geographic Ranges
-
 mason Build Data Structures for Common Statistical Analysis
-
 MASS Support Functions and Datasets for Venables and Ripley's MASS
-
 masscor Mass Measurement Corrections
-
 MASSExtra Some 'MASS' Enhancements
-
 Massign Simple Matrix Construction
-
 massiveGST Competitive Gene Sets Test with the Mann-Whitney-Wilcoxon Test
-
 MASSTIMATE Body Mass Estimation Equations for Vertebrates
-
 MasterBayes ML and MCMC Methods for Pedigree Reconstruction and Analysis
-
 mastif Mast Inference and Forecasting
-
 MAT Multidimensional Adaptive Testing
-
 MATA Model-Averaged Tail Area (MATA) Confidence Interval and Distribution
-
 matahari Spy on Your R Session
-
 match2C Match One Sample using Two Criteria
-
 matchbook Wrapper for the 'Matchbook' API
-
 Matching Multivariate and Propensity Score Matching with Balance Optimization
-
 matchingMarkets Analysis of Stable Matchings
-
 matchingR Matching Algorithms in R and C++
-
 MatchIt Nonparametric Preprocessing for Parametric Causal Inference
-
 MatchLinReg Combining Matching and Linear Regression for Causal Inference
-
 matchmaker Flexible Dictionary-Based Cleaning
-
 matchMulti Optimal Multilevel Matching using a Network Algorithm
-
 matchr Pattern Matching and Enumerated Types in R
-
 MatchThem Matching and Weighting Multiply Imputed Datasets
-
 matconv A Code Converter from the Matlab/Octave Language to R
-
 materialmodifier Apply Photo Editing Effects
-
 mathjaxr Using 'Mathjax' in Rd Files
-
 mathpix Support for the 'Mathpix' API (Image to 'LaTeX')
-
 matlab 'MATLAB' Emulation Package
-
 matlab2r Translation Layer from MATLAB to R
-
 matlabr An Interface for MATLAB using System Calls
-
 matlib Matrix Functions for Teaching and Learning Linear Algebra and Multivariate Statistics
-
 matman Material Management
-
 MatManlyMix Matrix Clustering with Gaussian and Manly Mixture Models
-
 matpow Matrix Powers
-
 matricks Useful Tricks for Matrix Manipulation
-
 Matrix Sparse and Dense Matrix Classes and Methods
-
 matrixcalc Collection of Functions for Matrix Calculations
-
 MatrixCorrelation Matrix Correlation Coefficients
-
 matrixdist Statistics for Matrix Distributions
-
 MatrixEQTL Matrix eQTL: Ultra Fast eQTL Analysis via Large Matrix Operations
-
 MatrixExtra Extra Methods for Sparse Matrices
-
 matrixLaplacian Normalized Laplacian Matrix and Laplacian Map
-
 MatrixLDA Penalized Matrix-Normal Linear Discriminant Analysis
-
 MatrixMixtures Model-Based Clustering via Matrix-Variate Mixture Models
-
 MatrixModels Modelling with Sparse and Dense Matrices
-
 matrixNormal The Matrix Normal Distribution
-
 matrixProfile Matrix Profile
-
 matrixprofiler Matrix Profile for R
-
 matrixsampling Simulations of Matrix Variate Distributions
-
 matrixStats Functions that Apply to Rows and Columns of Matrices (and to Vectors)
-
 matrixStrucTest Tests of Matrix Structure for Construct Validation
-
 matrixTests Fast Statistical Hypothesis Tests on Rows and Columns of Matrices
-
 matsbyname An Implementation of Matrix Mathematics
-
 matsindf Matrices in Data Frames
-
 MatSkew Matrix Skew-T Parameter Estimation
-
 matuR Athlete Maturation and Biobanding
-
 mau Decision Models with Multi Attribute Utility Theory
-
 mauricer Work with 'BEAST2' Packages
-
 MAVE Methods for Dimension Reduction
-
 maxcombo The Group Sequential Max-Combo Test for Comparing Survival Curves
-
 MaxentVariableSelection Selecting the Best Set of Relevant Environmental Variables along with the Optimal Regularization Multiplier for Maxent Niche Modeling
-
 maximin Space-Filling Design under Maximin Distance
-
 maxLik Maximum Likelihood Estimation and Related Tools
-
 maxlike Model Species Distributions by Estimating the Probability of Occurrence Using Presence-Only Data
-
 maxmatching Maximum Matching for General Weighted Graph
-
 MaxMC Maximized Monte Carlo
-
 maxnet Fitting 'Maxent' Species Distribution Models with 'glmnet'
-
 maxnodf Approximate Maximisation of Nestedness in Bipartite Graphs
-
 MaxPro Maximum Projection Designs
-
 MaxSkew Orthogonal Data Projections with Maximal Skewness
-
 maxstat Maximally Selected Rank Statistics
-
 maybe The Maybe Monad
-
 MazamaCoreUtils Utility Functions for Production R Code
-
 MazamaLocationUtils Manage Spatial Metadata for Known Locations
-
 MazamaRollUtils Efficient Rolling Functions
-
 MazamaSpatialPlots Thematic Plots for Mazama Spatial Datasets
-
 MazamaSpatialUtils Spatial Data Download and Utility Functions
-
 MazamaTimeSeries Core Functionality for Environmental Time Series
-
 mazealls Generate Recursive Mazes
-
 mazeGen Elithorn Maze Generator
-
 mazeinda Monotonic Association on Zero-Inflated Data
-
 mazing Utilities for Making and Plotting Mazes
-
 MBA Multilevel B-Spline Approximation
-
 MBAnalysis Multiblock Exploratory and Predictive Data Analysis
-
 mbbefd Maxwell Boltzmann Bose Einstein Fermi Dirac Distribution and Destruction Rate Modelling
-
 MBC Multivariate Bias Correction of Climate Model Outputs
-
 MBCbook Companion Package for the Book "Model-Based Clustering and Classification for Data Science" by Bouveyron et al. (2019, ISBN:9781108644181).
-
 mbclusterwise Clusterwise Multiblock Analyses
-
 mbend Matrix Bending
-
 MBESS The MBESS R Package
-
 mbest Moment-Based Estimation for Hierarchical Models
-
 MBHdesign Spatial Designs for Ecological and Environmental Surveys
-
 mbir Magnitude-Based Inferences
-
 mblm Median-Based Linear Models
-
 MBmca Nucleic Acid Melting Curve Analysis
-
 mbmixture Microbiome Mixture Analysis
-
 MBNMAdose Dose-Response MBNMA Models
-
 MBNMAtime Run Time-Course Model-Based Network Meta-Analysis (MBNMA) Models
-
 mboost Model-Based Boosting
-
 mboxr Reading, Extracting, and Converting an Mbox File into a Tibble
-
 mbr Mass Balance Reconstruction
-
 mbrdr Model-Based Response Dimension Reduction
-
 mbRes Exploration of Multiple Biomarker Responses using Effect Size
-
 mbrglm Median Bias Reduction in Binomial-Response GLMs
-
 MBSGS Multivariate Bayesian Sparse Group Selection with Spike and Slab
-
 MBSP Multivariate Bayesian Model with Shrinkage Priors
-
 mbsts Multivariate Bayesian Structural Time Series
-
 mBvs Bayesian Variable Selection Methods for Multivariate Data
-
 mc.heterogeneity A Monte Carlo Based Heterogeneity Test for Meta-Analysis
-
 mc2d Tools for Two-Dimensional Monte-Carlo Simulations
-
 MCARtest Optimal Nonparametric Testing of Missing Completely at Random
-
 MCAvariants Multiple Correspondence Analysis Variants
-
 mcb Model Confidence Bounds
-
 MCBackscattering Monte Carlo Simulation for Surface Backscattering
-
 mcbette Model Comparison Using 'babette'
-
 mcBFtest Monte Carlo Based Tests for the Behrens Fisher Problem as an Alternative to Welch's t-Approximation
-
 mcbiopi Matrix Computation Based Identification of Prime Implicants
-
 mcboost Multi-Calibration Boosting
-
 mcca Multi-Category Classification Accuracy
-
 mccca Visualizing Class Specific Heterogeneous Tendencies in Categorical Data
-
 mccf1 Creates the MCC-F1 Curve and Calculates the MCC-F1 Metric and the Best Threshold
-
 mcclust Process an MCMC Sample of Clusterings
-
 mccmeiv Analysis of Matched Case Control Data with a Mismeasured Exposure that is Accompanied by Instrumental Variables
-
 mccr The Matthews Correlation Coefficient
-
 MCDA Support for the Multicriteria Decision Aiding Process
-
 mcemGLM Maximum Likelihood Estimation for Generalized Linear Mixed Models
-
 mcen Multivariate Cluster Elastic Net
-
 mcga Machine Coded Genetic Algorithms for Real-Valued Optimization Problems
-
 mcglm Multivariate Covariance Generalized Linear Models
-
 MChtest Monte Carlo Hypothesis Tests with Sequential Stopping
-
 MCI Multiplicative Competitive Interaction (MCI) Model
-
 MCID Estimating the Minimal Clinically Important Difference
-
 MCL Markov Cluster Algorithm
-
 mclcar Estimating Conditional Auto-Regressive (CAR) Models using Monte Carlo Likelihood Methods
-
 mclm Mastering Corpus Linguistics Methods
-
 mclogit Multinomial Logit Models, with or without Random Effects or Overdispersion
-
 mclust Gaussian Mixture Modelling for Model-Based Clustering, Classification, and Density Estimation
-
 mclustAddons Addons for the 'mclust' Package
-
 mclustcomp Measures for Comparing Clusters
-
 MCM Estimating and Testing Intergenerational Social Mobility Effect
-
 mcmc Markov Chain Monte Carlo
-
 MCMC.OTU Bayesian Analysis of Multivariate Counts Data in DNA Metabarcoding and Ecology
-
 MCMC.qpcr Bayesian Analysis of qRT-PCR Data
-
 MCMC4Extremes Posterior Distribution of Extreme Value Models in R
-
 mcmcabn Flexible Implementation of a Structural MCMC Sampler for DAGs
-
 mcmcderive Derive MCMC Parameters
-
 mcmcensemble Ensemble Sampler for Affine-Invariant MCMC
-
 MCMCglmm MCMC Generalised Linear Mixed Models
-
 mcmcOutput Functions to Store, Manipulate and Display Markov Chain Monte Carlo (MCMC) Output
-
 MCMCpack Markov Chain Monte Carlo (MCMC) Package
-
 mcmcplots Create Plots from MCMC Output
-
 MCMCprecision Precision of Discrete Parameters in Transdimensional MCMC
-
 mcmcr Manipulate MCMC Samples
-
 mcmcsae Markov Chain Monte Carlo Small Area Estimation
-
 mcmcse Monte Carlo Standard Errors for MCMC
-
 MCMCtreeR Prepare MCMCtree Analyses and Plot Bayesian Divergence Time Analyses Estimates on Trees
-
 MCMCvis Tools to Visualize, Manipulate, and Summarize MCMC Output
-
 mcMST A Toolbox for the Multi-Criteria Minimum Spanning Tree Problem
-
 mco Multiple Criteria Optimization Algorithms and Related Functions
-
 Mcomp Data from the M-Competitions
-
 mcompanion Objects and Methods for Multi-Companion Matrices
-
 mcount Marginalized Count Regression Models
-
 mcp Regression with Multiple Change Points
-
 MCPAN Multiple Comparisons Using Normal Approximation
-
 mcparallelDo A Simplified Interface for Running Commands on Parallel Processes
-
 MCPMod Design and Analysis of Dose-Finding Studies
-
 MCPModGeneral A Supplement to the 'DoseFinding' Package for the General Case
-
 MCPModPack Simulation-Based Design and Analysis of Dose-Finding Trials
-
 mcprofile Testing Generalized Linear Hypotheses for Generalized Linear Model Parameters by Profile Deviance
-
 MCPtests Multiples Comparisons Procedures
-
 mcr Method Comparison Regression
-
 mcreplicate Multi-Core Replicate
-
 MCS Model Confidence Set Procedure
-
 MCSim Determine the Optimal Number of Clusters
-
 mcStats Visualize Results of Statistical Hypothesis Tests
-
 mctest Multicollinearity Diagnostic Measures
-
 mctq Tools to Process the Munich ChronoType Questionnaire (MCTQ)
-
 mcunit Unit Tests for MC Methods
-
 mcvis Multi-Collinearity Visualization
-
 mcwr Markov Chains with Rewards
-
 md Selecting Bandwidth for Kernel Density Estimator with Minimum Distance Method
-
 md.log Produces Markdown Log File with a Built-in Function Call
-
 mda Mixture and Flexible Discriminant Analysis
-
 mDAG Inferring Causal Network from Mixed Observational Data Using a Directed Acyclic Graph
-
 mdapack Medical Data Analysis Pack
-
 mdatools Multivariate Data Analysis for Chemometrics
-
 MDBED Moran-Downton Bivariate Exponential Distribution
-
 mdbr Work with Microsoft Access Files
-
 mde Missing Data Explorer
-
 mded Measuring the Difference Between Two Empirical Distributions
-
 mdendro Extended Agglomerative Hierarchical Clustering
-
 MDFS MultiDimensional Feature Selection
-
 mdftracks Read and Write 'MTrackJ Data Files'
-
 mdgc Missing Data Imputation Using Gaussian Copulas
-
 mdhglm Multivariate Double Hierarchical Generalized Linear Models
-
 MDimNormn Multi-Dimensional MA Normalization for Plate Effect
-
 mdir.logrank Multiple-Direction Logrank Test
-
 MDMAPR Molecular Detection Mapping and Analysis Platform
-
 mdmb Model Based Treatment of Missing Data
-
 MDMR Multivariate Distance Matrix Regression
-
 MDOLS Inference of Quadratic Functional for Moderate-Dimensional OLS
-
 mdpeer Graph-Constrained Regression with Enhanced Regularization Parameters Selection
-
 MDplot Visualising Molecular Dynamics Analyses
-
 MDPtoolbox Markov Decision Processes Toolbox
-
 mds Medical Devices Surveillance
-
 mdscore Improved Score Tests for Generalized Linear Models
-
 mdsdt Functions for Analysis of Data with General Recognition Theory
-
 MDSGUI A GUI for interactive MDS in R
-
 MDSMap High Density Genetic Linkage Mapping using Multidimensional Scaling
-
 mdsOpt Searching for Optimal MDS Procedure for Metric and Interval-Valued Data
-
 MDSPCAShiny Interactive Document for Working with Multidimensional Scaling and Principal Component Analysis
-
 MDSS Modeling Human Dentin Serial Sectioning
-
 mdthemes Markdown Themes for 'ggplot2'
-
 mdw Maximum Diversity Weighting
-
 meanr Sentiment Analysis Scorer
-
 meanShiftR A Computationally Efficient Mean Shift Implementation
-
 meantables Make Quick Descriptive Tables for Continuous Variables
-
 measurementProtocol Send Data from R to the Measurement Protocol
-
 measurements Tools for Units of Measurement
-
 measures Performance Measures for Statistical Learning
-
 measuRing Detection and Control of Tree-Ring Widths on Scanned Image Sections
-
 meboot Maximum Entropy Bootstrap for Time Series
-
 MEclustnet Fit the Mixture of Experts Latent Position Cluster Model to Network Data
-
 meconetcomp Compare Microbial Networks of 'trans_network' Class of 'microeco' Package
-
 mecor Measurement Error Correction in Linear Models with a Continuous Outcome
-
 MED Mediation by Tilted Balancing
-
 MedDietCalc Multi Calculator to Compute Scores of Adherence to Mediterranean Diet
-
 mederrRank Bayesian Methods for Identifying the Most Harmful Medication Errors
-
 medExtractR Extraction of Medication Information from Clinical Text
-
 medfate Mediterranean Forest Simulation
-
 medflex Flexible Mediation Analysis Using Natural Effect Models
-
 mediacloudr Wrapper for the 'mediacloud.org' API
-
 MediaK Calculate MeDiA_K Distance
-
 Mediana Clinical Trial Simulations
-
 MedianaDesigner Power and Sample Size Calculations for Clinical Trials
-
 MediaNews Media News Extraction for Text Analysis
-
 mediateP Mediation Analysis Based on the Product Method
-
 mediation Causal Mediation Analysis
-
 mediationsens Simulation-Based Sensitivity Analysis for Causal Mediation Studies
-
 medicaldata Data Package for Medical Datasets
-
 medicalrisk Medical Risk and Comorbidity Tools for ICD-9-CM Data
-
 medicare Tools for Obtaining and Cleaning Medicare Public Use Files
-
 meditations Prints a Random Quote from Marcus Aurelius' Book Meditations
-
 MEDITS Analysis of MEDITS-Like Survey Data
-
 MedLEA Morphological and Structural Features of Medicinal Leaves
-
 medrxivr Access and Search MedRxiv and BioRxiv Preprint Data
-
 medScan Large Scale Single Mediator Hypothesis Testing
-
 MEDseq Mixtures of Exponential-Distance Models with Covariates
-
 MedSurvey Linear Mediation Analysis for Complex Surveys Using Balanced Repeated Replication
-
 meerva Analysis of Data with Measurement Error Using a Validation Subsample
-
 meetupapi Access 'Meetup' API
-
 mefa Multivariate Data Handling in Ecology and Biogeography
-
 mefa4 Multivariate Data Handling with S4 Classes and Sparse Matrices
-
 Mega2R Accessing and Processing a 'Mega2' Genetic Database
-
 MEGENA Multiscale Clustering of Geometrical Network
-
 meifly Interactive Model Exploration using 'GGobi'
-
 mekko Variable Width Bar Charts: Bar Mekko
-
 melt Multiple Empirical Likelihood Tests
-
 meltr Read Non-Rectangular Text Data
-
 meltt Matching Event Data by Location, Time and Type
-
 mem The Moving Epidemic Method
-
 memapp The Moving Epidemic Method Web Application
-
 meme Create Meme
-
 memery Internet Memes for Data Analysts
-
 memgene Spatial Pattern Detection in Genetic Distance Data Using Moran's Eigenvector Maps
-
 memify Constructing Functions That Keep State
-
 memisc Management of Survey Data and Presentation of Analysis Results
-
 memo In-Memory Caching of Repeated Computations (Memoization)
-
 memochange Testing for Structural Breaks under Long Memory and Testing for Changes in Persistence
-
 memofunc Function Memoization
-
 memoiR R Markdown and Bookdown Templates to Publish Documents
-
 memoise 'Memoisation' of Functions
-
 memor A 'rmarkdown' Template that Can be Highly Customized
-
 memoria Quantifying Ecological Memory in Palaeoecological Datasets and Other Long Time-Series
-
 MEMSS Data Sets from Mixed-Effects Models in S
-
 memuse Memory Estimation Utilities
-
 MendelianRandomization Mendelian Randomization Package
-
 MEPDF Creation of Empirical Density Functions Based on Multivariate Data
-
 Mercator Clustering and Visualizing Distance Matrices
-
 merDeriv Case-Wise and Cluster-Wise Derivatives for Mixed Effects Models
-
 mergedblocks Merged Block Randomization
-
 mergeTrees Aggregating Trees
-
 merlin Mixed Effects Regression for Linear, Non-Linear and User-Defined Models
-
 MERO Performing Monte Carlo Expectation Maximization Random Forest Imputation for Biological Data
-
 merror Accuracy and Precision of Measurements
-
 merTools Tools for Analyzing Mixed Effect Regression Models
-
 MeshAgreement Agreement Measures for 3D Meshes
-
 meshed Bayesian Regression with Meshed Gaussian Processes
-
 MeshesTools Some Tools for 3D Meshes
-
 MESS Miscellaneous Esoteric Statistical Scripts
-
 messaging Conveniently Issue Messages, Warnings, and Errors
-
 messydates A Flexible Class for Messy Dates
-
 meta General Package for Meta-Analysis
-
 meta.shrinkage Meta-Analyses for Simultaneously Estimating Individual Means
-
 meta4diag Meta-Analysis for Diagnostic Test Studies
-
 MetaAnalyser An Interactive Visualisation of Meta-Analysis as a Physical Weighing Machine
-
 metaBLUE BLUE for Combining Location and Scale Information in a Meta-Analysis
-
 metaBMA Bayesian Model Averaging for Random and Fixed Effects Meta-Analysis
-
 metaboData Example Metabolomics Data Sets
-
 MetabolAnalyze Probabilistic Latent Variable Models for Metabolomic Data
-
 metabolic Datasets and Functions for Reproducing Meta-Analyses
-
 MetabolicSurv A Biomarker Validation Approach for Classification and Predicting Survival Using Metabolomics Signature
-
 MetabolomicsBasics Basic Functions to Investigate Metabolomics Data Matrices
-
 metabolomicsR Tools for Metabolomics Data
-
 MetaboQC Normalize Metabolomic Data using QC Signal
-
 metabup Bayesian Meta-Analysis Using Basic Uncertain Pooling
-
 metacart Meta-CART: A Flexible Approach to Identify Moderators in Meta-Analysis
-
 metaCluster Metagenomic Clustering
-
 metacoder Tools for Parsing, Manipulating, and Graphing Taxonomic Abundance Data
-
 metacom Analysis of the 'Elements of Metacommunity Structure'
-
 MetaComp EDGE Taxonomy Assignments Visualization
-
 metaconfoundr Visualize 'Confounder' Control in Meta-Analyses
-
 metacor Meta-Analysis of Correlation Coefficients
-
 metacore A Centralized Metadata Object Focus on Clinical Trial Data Programming Workflows
-
 MetaculR Analyze Metaculus Predictions and Questions
-
 MetaCycle Evaluate Periodicity in Large Scale Data
-
 metadat Meta-Analysis Datasets
-
 metaDigitise Extract and Summarise Data from Published Figures
-
 metadynminer Tools to Read, Analyze and Visualize Metadynamics HILLS Files from 'Plumed'
-
 metadynminer3d Tools to Read, Analyze and Visualize Metadynamics 3D HILLS Files from 'Plumed'
-
 metaEnsembleR Automated Intuitive Package for Meta-Ensemble Learning
-
 metafolio Metapopulation Simulations for Conserving Salmon Through Portfolio Optimization
-
 metafor Meta-Analysis Package for R
-
 metaforest Exploring Heterogeneity in Meta-Analysis using Random Forests
-
 metafuse Fused Lasso Approach in Regression Coefficient Clustering
-
 metagam Meta-Analysis of Generalized Additive Models
-
 metagear Comprehensive Research Synthesis Tools for Systematic Reviews and Meta-Analysis
-
 metaggR Calculate the Knowledge-Weighted Estimate
-
 MetaheuristicFPA An Implementation of Flower Pollination Algorithm in R
-
 metaheuristicOpt Metaheuristic for Optimization
-
 MetaIntegration Ensemble Meta-Prediction Framework
-
 MetaIntegrator Meta-Analysis of Gene Expression Data
-
 metajam Easily Download Data and Metadata from 'DataONE'
-
 MetaLandSim Landscape and Range Expansion Simulation
-
 metaLik Likelihood Inference in Meta-Analysis and Meta-Regression Models
-
 MetaLonDA Metagenomics Longitudinal Differential Abundance Method
-
 MetAlyzer Read and Analyze 'MetIDQ&trade;' Software Output Files
-
 metaMA Meta-Analysis for MicroArrays
-
 metamedian Meta-Analysis of Medians
-
 metamer Create Data with Identical Statistics
-
 metamicrobiomeR Microbiome Data Analysis & Meta-Analysis with GAMLSS-BEZI & Random Effects
-
 metamisc Meta-Analysis of Diagnosis and Prognosis Research Studies
-
 metaMix Bayesian Mixture Analysis for Metagenomic Community Profiling
-
 metan Multi Environment Trials Analysis
-
 metansue Meta-Analysis of Studies with Non-Statistically Significant Unreported Effects
-
 metap Meta-Analysis of Significance Values
-
 metapack Bayesian Meta-Analysis and Network Meta-Analysis
-
 metaplot Data-Driven Plot Design
-
 metaplus Robust Meta-Analysis and Meta-Regression
-
 metapost Interface to 'MetaPost'
-
 metapower Power Analysis for Meta-Analysis
-
 metaprotr Metaproteomics Post-Processing Analysis
-
 metarep Replicability-Analysis Tools for Meta-Analysis
-
 metaRMST Meta-Analysis of RMSTD
-
 metaRNASeq Meta-Analysis of RNA-Seq Data
-
 metaSDTreg Regression Models for Meta Signal Detection Theory
-
 metaSEM Meta-Analysis using Structural Equation Modeling
-
 metasens Statistical Methods for Sensitivity Analysis in Meta-Analysis
-
 MetaSKAT Meta Analysis for SNP-Set (Sequence) Kernel Association Test
-
 MetaStan Bayesian Meta-Analysis via 'Stan'
-
 MetaSubtract Subtracting Summary Statistics of One or more Cohorts from Meta-GWAS Results
-
 metaSurvival Meta-Analysis of a Single Survival Curve
-
 metatest Fit and Test Metaregression Models
-
 metathis HTML Metadata Tags for 'R Markdown' and 'Shiny'
-
 metatools Enable the Use of 'metacore' to Help Create and Check Dataset
-
 metaumbrella Umbrella Review Package for R
-
 MetaUtility Utility Functions for Conducting and Interpreting Meta-Analyses
-
 metavcov Computing Variances and Covariances, Visualization and Missing Data Solution for Multivariate Meta-Analysis
-
 metaviz Forest Plots, Funnel Plots, and Visual Funnel Plot Inference for Meta-Analysis
-
 metawho Meta-Analytical Implementation to Identify Who Benefits Most from Treatments
-
 MetBrewer Color Palettes Inspired by Works at the Metropolitan Museum of Art
-
 meteo Spatio-Temporal Analysis and Mapping of Meteorological Observations
-
 meteoEVT Computation and Visualization of Energetic and Vortical Atmospheric Quantities
-
 meteoForecast Numerical Weather Predictions
-
 meteoland Landscape Meteorology Tools
-
 meteor Meteorological Data Manipulation
-
 meteorits Mixture-of-Experts Modeling for Complex Non-Normal Distributions
-
 meteospain Access to Spanish Meteorological Stations Services
-
 meteR Fitting and Plotting Tools for the Maximum Entropy Theory of Ecology (METE)
-
 MEtest A Homogeneity Test under the Presence of Measurement Errors
-
 metevalue E-Value in the Omics Data Association Studies
-
 MetGen Stochastic Weather Generator
-
 MethComp Analysis of Agreement in Method Comparison Studies
-
 methcon5 Identify and Rank CpG DNA Methylation Conservation Along the Human Genome
-
 MethodCompare Bias and Precision Plots
-
 MeTo Meteorological Tools
-
 metools Macroeconomics Tools
-
 MetProc Separate Metabolites into Likely Measurement Artifacts and True Metabolites
-
 metR Tools for Easier Analysis of Meteorological Fields
-
 metrica Prediction Performance Metrics
-
 Metrics Evaluation Metrics for Machine Learning
-
 metricsgraphics Create Interactive Charts with the JavaScript 'MetricsGraphics' Library
-
 MetricsWeighted Weighted Metrics, Scoring Functions and Performance Measures for Machine Learning
-
 metrix Water Quality Metrics Calculator
-
 metro Washington Metropolitan Area Transit Authority API
-
 metRology Support for Metrological Applications
-
 metropolis The Metropolis Algorithm
-
 mets Analysis of Multivariate Event Times
-
 MetSizeR A Shiny App for Sample Size Estimation in Metabolomic Experiments
-
 metsyn Interface with the Meteo France Synop Data API
-
 mev Modelling of Extreme Values
-
 mewAvg A Fixed Memeory Moving Expanding Window Average
-
 mexhaz Mixed Effect Excess Hazard Models
-
 mexicolors Mexican Politics-Inspired Color Palette Generator
-
 mExplorer Identifying Master Gene Regulators from Gene Expression and DNA-Binding Data
-
 mfaces Fast Covariance Estimation for Multivariate Sparse Functional Data
-
 MFAg Multiple Factor Analysis (MFA)
-
 mFD Compute and Illustrate the Multiple Facets of Functional Diversity
-
 mfdb MareFrame DB Querying Library
-
 MFDFA MultiFractal Detrended Fluctuation Analysis
-
 mFDP Flexible Control of the mFDP
-
 mfe Meta-Feature Extractor
-
 mfGARCH Mixed-Frequency GARCH Models
-
 mFilter Miscellaneous Time Series Filters
-
 mFLICA Leadership-Inference Framework for Multivariate Time Series
-
 MFO Maximal Fat Oxidation and Kinetics Calculation
-
 mfp Multivariable Fractional Polynomials
-
 MFPCA Multivariate Functional Principal Component Analysis for Data Observed on Different Dimensional Domains
-
 mfpp 'Matrix-Based Flexible Project Planning'
-
 MFSIS Moder-Free Sure Independent Screening Procedures
-
 MFT The Multiple Filter Test for Change Point Detection
-
 mfx Marginal Effects, Odds Ratios and Incidence Rate Ratios for GLMs
-
 mgarchBEKK Simulating, Estimating and Diagnosing MGARCH (BEKK and mGJR) Processes
-
 MGBT Multiple Grubbs-Beck Low-Outlier Test
-
 mgc Multiscale Graph Correlation
-
 mgcv Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
-
 mgcViz Visualisations for Generalized Additive Models
-
 MGDrivE Mosquito Gene Drive Explorer
-
 MGDrivE2 Mosquito Gene Drive Explorer 2
-
 mggd Multivariate Generalised Gaussian Distribution; Kullback-Leibler Divergence
-
 MGL Module Graphical Lasso
-
 mglasso Multiscale Graphical Lasso
-
 MGLM Multivariate Response Generalized Linear Models
-
 mglmn Model Averaging for Multivariate GLM with Null Models
-
 mgm Estimating Time-Varying k-Order Mixed Graphical Models
-
 MGMM Missingness Aware Gaussian Mixture Models
-
 MGMS2 'MGMS2' for Polymicrobial Samples
-
 MGSDA Multi-Group Sparse Discriminant Analysis
-
 mgss A Matrix-Free Multigrid Preconditioner for Spline Smoothing
-
 mgsub Safe, Multiple, Simultaneous String Substitution
-
 mgwrsar GWR and MGWR with Spatial Autocorrelation
-
 mhazard Nonparametric and Semiparametric Methods for Multivariate Failure Time Data
-
 mhcnuggetsr Call MHCnuggets
-
 MHCtools Analysis of MHC Data in Non-Model Species
-
 MHDA Massive Hierarchically Data Analysis
-
 mHG Minimum-Hypergeometric Test
-
 mHMMbayes Multilevel Hidden Markov Models Using Bayesian Estimation
-
 mhsmm Inference for Hidden Markov and Semi-Markov Models
-
 mhtboot Multiple Hypothesis Test Based on Distribution of p Values
-
 MHTdiscrete Multiple Hypotheses Testing for Discrete Data
-
 MHTmult Multiple Hypotheses Testing for Multiple Families/Groups Structure
-
 MHTrajectoryR Bayesian Model Selection in Logistic Regression for the Detection of Adverse Drug Reactions
-
 mhurdle Multiple Hurdle Tobit Models
-
 mi Missing Data Imputation and Model Checking
-
 mi4p Multiple Imputation for Proteomics
-
 MIAmaxent A Modular, Integrated Approach to Maximum Entropy Distribution Modeling
-
 micar 'Mica' Data Web Portal Client
-
 micd Multiple Imputation in Causal Graph Discovery
-
 mice Multivariate Imputation by Chained Equations
-
 miceadds Some Additional Multiple Imputation Functions, Especially for 'mice'
-
 miceafter Data and Statistical Analyses after Multiple Imputation
-
 micEcon Microeconomic Analysis and Modelling
-
 micEconAids Demand Analysis with the Almost Ideal Demand System (AIDS)
-
 micEconCES Analysis with the Constant Elasticity of Substitution (CES) Function
-
 micEconIndex Price and Quantity Indices
-
 micEconSNQP Symmetric Normalized Quadratic Profit Function
-
 miceFast Fast Imputations Using 'Rcpp' and 'Armadillo'
-
 micemd Multiple Imputation by Chained Equations with Multilevel Data
-
 miceRanger Multiple Imputation by Chained Equations with Random Forests
-
 michelRodange The Works (in Luxembourguish) of Michel Rodange
-
 miclust Multiple Imputation in Cluster Analysis
-
 micompr Multivariate Independent Comparison of Observations
-
 miCoPTCM Promotion Time Cure Model with Mis-Measured Covariates
-
 microbats An Implementation of Bat Algorithm in R
-
 microbenchmark Accurate Timing Functions
-
 microbial Do 16s Data Analysis and Generate Figures
-
 MicrobiomeStat Statistical Methods for Microbiome Compositional Data
-
 microclass Methods for Taxonomic Classification of Prokaryotes
-
 microcontax The ConTax Data Package
-
 MicroDatosEs Utilities for Official Spanish Microdata
-
 microeco Microbial Community Ecology Data Analysis
-
 microhaplot Microhaplotype Constructor and Visualizer
-
 MicroMacroMultilevel Micro-Macro Multilevel Modeling
-
 micromap Linked Micromap Plots
-
 micromapST Linked Micromap Plots for U. S. and Other Geographic Areas
-
 MicroMoB Discrete Time Simulation of Mosquito-Borne Pathogen Transmission
-
 MicroNiche Microbial Niche Measurements
-
 micropan Microbial Pan-Genome Analysis
-
 microplot Microplots (Sparklines) in 'LaTeX', 'Word', 'HTML', 'Excel'
-
 microPop Process-Based Modelling of Microbial Populations
-
 microsamplingDesign Finding Optimal Microsampling Designs for Non-Compartmental Pharmacokinetic Analysis
-
 microseq Basic Biological Sequence Handling
-
 microservices Breakdown a Monolithic Application to a Suite of Services
-
 microsimulation Discrete Event Simulation in R and C++, with Tools for Cost-Effectiveness Analysis
-
 Microsoft365R Interface to the 'Microsoft 365' Suite of Cloud Services
-
 microSTASIS Microbiota STability ASsessment via Iterative cluStering
-
 microsynth Synthetic Control Methods with Micro- And Meso-Level Data
-
 MicSim Performing Continuous-Time Microsimulation
-
 MICsplines The Computing of Monotonic Spline Bases and Constrained Least-Squares Estimates
-
 MiDA Microarray Data Analysis
-
 midas Turn HTML 'Shiny'
-
 midas2 Bayesian Drug-Combination Platform Design(MIDAS-2)
-
 midasml Estimation and Prediction Methods for High-Dimensional Mixed Frequency Time Series Data
-
 midasr Mixed Data Sampling Regression
-
 midastouch Multiple Imputation by Distance Aided Donor Selection
-
 MIDASwrappeR Microcluster-Based Detector of Anomalies in Edge Streams
-
 MIDN Nearly Exact Sample Size Calculation for Exact Powerful Nonrandomized Tests for Differences Between Binomial Proportions
-
 midrangeMCP Multiples Comparisons Procedures Based on Studentized Midrange and Range Distributions
-
 miesmuschel Mixed Integer Evolution Strategies
-
 mifa Multiple Imputation for Exploratory Factor Analysis
-
 migest Methods for the Indirect Estimation of Bilateral Migration
-
 migraph Tools for Multimodal Network Analysis
-
 migrate Create Credit State Migration (Transition) Matrices
-
 migration.indices Migration Indices
-
 migui Graphical User Interface to the 'mi' Package
-
 miic Learning Causal or Non-Causal Graphical Models Using Information Theory
-
 MIIPW IPW and Mean Score Methods for Time-Course Missing Data
-
 MIIVsem Model Implied Instrumental Variable (MIIV) Estimation of Structural Equation Models
-
 mikropml User-Friendly R Package for Supervised Machine Learning Pipelines
-
 mildsvm Multiple-Instance Learning with Support Vector Machines
-
 miLineage Association Tests for Microbial Lineages on a Taxonomic Tree
-
 milorGWAS Mixed Logistic Regression for Genome-Wide Analysis Studies (GWAS)
-
 milr Multiple-Instance Logistic Regression with LASSO Penalty
-
 mime Map Filenames to MIME Types
-
 mimi Main Effects and Interactions in Mixed and Incomplete Data
-
 MiMIR Metabolomics-Based Models for Imputing Risk
-
 MIMSunit Algorithm to Compute Monitor Independent Movement Summary Unit (MIMS-Unit)
-
 mimsy Calculate MIMS Dissolved Gas Concentrations Without Getting a Headache
-
 MinBAR Determining the Minimal Background Area for Species Distribution Models
-
 mind Multivariate Model Based Inference for Domains
-
 MindOnStats Data sets included in Utts and Heckard's Mind on Statistics
-
 mindr Generate Mind Maps with R
-
 mineCitrus Extract and Analyze Median Molecule Intensity from 'citrus' Output
-
 mined Minimum Energy Designs
-
 MinEDfind A Bayesian Design for Minimum Effective Dosing-Finding Trial
-
 minerva Maximal Information-Based Nonparametric Exploration for Variable Analysis
-
 miniCRAN Create a Mini Version of CRAN Containing Only Selected Packages
-
 minidown Create Simple Yet Powerful HTML Documents with Light Weight CSS Frameworks
-
 miniGUI Tcl/Tk Quick and Simple Function GUI
-
 minimalRSD Minimally Changed CCD and BBD
-
 minimap Create Tile Grid Maps
-
 minimax The Minimax Distribution Family
-
 minimaxdesign Minimax and Minimax Projection Designs
-
 miniMeta Web Application to Run Meta-Analyses
-
 Minirand Minimization Randomization
-
 miniUI Shiny UI Widgets for Small Screens
-
 MinkowskiSum Minkowski Addition Between 3D Meshes
-
 minMSE Implementation of the minMSE Treatment Assignment Method for One or Multiple Treatment Groups
-
 minpack.lm R Interface to the Levenberg-Marquardt Nonlinear Least-Squares Algorithm Found in MINPACK, Plus Support for Bounds
-
 minqa Derivative-Free Optimization Algorithms by Quadratic Approximation
-
 minque Various Linear Mixed Model Analyses
-
 minsample1 The Minimum Sample Size
-
 minsample2 The Minimum Sample Size
-
 minSNPs Resolution-Optimised SNPs Searcher
-
 MINTplates Encode "License-Plates" from Sequences and Decode Them Back
-
 minval MINimal VALidation for Stoichiometric Reactions
-
 mipfp Multidimensional Iterative Proportional Fitting and Alternative Models
-
 mipplot An Open-Source Tool for Visualization of Climate Mitigation Scenarios
-
 mirai Minimalist Async Evaluation Framework for R
-
 miRecSurv Left-Censored Recurrent Events Survival Models
-
 MIRES Measurement Invariance Assessment Using Random Effects Models and Shrinkage
-
 miRetrieve miRNA Text Mining in Abstracts
-
 MiRKAT Microbiome Regression-Based Analysis Tests
-
 MiRNAQCD Micro-RNA Quality Control and Diagnosis
-
 miRNAss Genome-Wide Discovery of Pre-miRNAs with few Labeled Examples
-
 MiRSEA 'MicroRNA' Set Enrichment Analysis
-
 mirt Multidimensional Item Response Theory
-
 mirtCAT Computerized Adaptive Testing with Multidimensional Item Response Theory
-
 miRtest Combined miRNA- And mRNA-Testing
-
 mirtjml Joint Maximum Likelihood Estimation for High-Dimensional Item Factor Analysis
-
 mirtsvd SVD-Based Estimation for Exploratory Item Factor Analysis
-
 misaem Linear Regression and Logistic Regression with Missing Covariates
-
 misc3d Miscellaneous 3D Plots
-
 miscF Miscellaneous Functions
-
 miscFuncs Miscellaneous Useful Functions Including LaTeX Tables, Kalman Filtering and Development Tools
-
 miscIC Misclassified Interval Censored Time-to-Event Data
-
 misclassGLM Computation of Generalized Linear Models with Misclassified Covariates Using Side Information
-
 miscset Miscellaneous Tools Set
-
 miscTools Miscellaneous Tools and Utilities
-
 mise Clears the Workspace (Mise en Place)
-
 miselect Variable Selection for Multiply Imputed Data
-
 mispitools Missing Person Identification Tools
-
 mispr Multiple Imputation with Sequential Penalized Regression
-
 misPRIME Partial Replacement Imputation Estimation for Missing Covariates
-
 MiSPU Microbiome Based Sum of Powered Score (MiSPU) Tests
-
 MisRepARMA Misreported Time Series Analysis
-
 misreport Statistical Analysis of Misreporting on Sensitive Survey Questions
-
 missCompare Intuitive Missing Data Imputation Framework
-
 missDeaths Simulating and Analyzing Time to Event Data in the Presence of Population Mortality
-
 missDiag Comparing Observed and Imputed Values under MAR and MCAR
-
 missForest Nonparametric Missing Value Imputation using Random Forest
-
 missingHE Missing Outcome Data in Health Economic Evaluation
-
 MissingPlotLSD Missing Plot in LSD
-
 MissingPlotRBD Missing Plot in RBD
-
 missMDA Handling Missing Values with Multivariate Data Analysis
-
 missMethods Methods for Missing Data
-
 missoNet Missingness in Multi-Task Regression with Network Estimation
-
 Missplot Missing Plot Technique in Design of Experiment
-
 missRanger Fast Imputation of Missing Values
-
 missSBM Handling Missing Data in Stochastic Block Models
-
 missSOM Self-Organizing Maps with Built-in Missing Data Imputation
-
 mistat Data Sets, Functions and Examples from the Book: "Modern Industrial Statistics" by Kenett, Zacks and Amberti
-
 mistr Mixture and Composite Distributions
-
 mistral Methods in Structural Reliability
-
 misty Miscellaneous Functions 'T. Yanagida'
-
 mitml Tools for Multiple Imputation in Multilevel Modeling
-
 MitoHEAR Quantification of Mitochondrial DNA Heteroplasmy
-
 mitools Tools for Multiple Imputation of Missing Data
-
 mitre Cybersecurity MITRE Standards Data and Digraphs
-
 MittagLeffleR Mittag-Leffler Family of Distributions
-
 miWQS Multiple Imputation Using Weighted Quantile Sum Regression
-
 mix Estimation/Multiple Imputation for Mixed Categorical and Continuous Data
-
 mixAK Multivariate Normal Mixture Models and Mixtures of Generalized Linear Mixed Models Including Model Based Clustering
-
 MixAll Clustering and Classification using Model-Based Mixture Models
-
 mixAR Mixture Autoregressive Models
-
 mixcat Mixed Effects Cumulative Link and Logistic Regression Models
-
 mixchar Mixture Model for the Deconvolution of Thermal Decay Curves
-
 mixComp Estimation of Order of Mixture Distributions
-
 mixcure Mixture Cure Models
-
 mixdir Cluster High Dimensional Categorical Datasets
-
 mixdist Finite Mixture Distribution Models
-
 mixedCCA Sparse Canonical Correlation Analysis for High-Dimensional Mixed Data
-
 mixedClust Co-Clustering of Mixed Type Data
-
 MixedIndTests Tests of Randomness and Tests of Independence
-
 mixedLSR Mixed, Low-Rank, and Sparse Multivariate Regression on High-Dimensional Data
-
 mixedMem Tools for Discrete Multivariate Mixed Membership Models
-
 MixedPoisson Mixed Poisson Models
-
 MixedPsy Statistical Tools for the Analysis of Psychophysical Data
-
 mixedsde Estimation Methods for Stochastic Differential Mixed Effects Models
-
 MixedTS Mixed Tempered Stable Distribution
-
 mixexp Design and Analysis of Mixture Experiments
-
 MIXFIM Evaluation of the FIM in NLMEMs using MCMC
-
 MixfMRI Mixture fMRI Clustering Analysis
-
 mixgb Multiple Imputation Through 'XGBoost'
-
 MixGHD Model Based Clustering, Classification and Discriminant Analysis Using the Mixture of Generalized Hyperbolic Distributions
-
 mixhvg Mixture of Multiple Highly Variable Feature Selection Methods
-
 mixIndependR Genetics and Independence Testing of Mixed Genetic Panels
-
 mixKernel Omics Data Integration Using Kernel Methods
-
 mixl Simulated Maximum Likelihood Estimation of Mixed Logit Models for Large Datasets
-
 mixlm Mixed Model ANOVA and Statistics for Education
-
 MixMAP Implements the MixMAP Algorithm
-
 MixMatrix Classification with Matrix Variate Normal and t Distributions
-
 mixmeta An Extended Mixed-Effects Framework for Meta-Analysis
-
 mixopt Mixed Variable Optimization
-
 MixOptim Mixture Optimization Algorithm
-
 mixPHM Mixtures of Proportional Hazard Models
-
 mixpoissonreg Mixed Poisson Regression for Overdispersed Count Data
-
 mixR Finite Mixture Modeling for Raw and Binned Data
-
 mixRaschTools Plotting and Average Theta Functions for Multiple Class Mixed Rasch Models
-
 mixreg Functions to Fit Mixtures of Regressions
-
 MixRF A Random-Forest-Based Approach for Imputing Clustered Incomplete Data
-
 MixSAL Mixtures of Multivariate Shifted Asymmetric Laplace (SAL) Distributions
-
 MixSIAR Bayesian Mixing Models in R
-
 MixSim Simulating Data to Study Performance of Clustering Algorithms
-
 mixsmsn Fitting Finite Mixture of Scale Mixture of Skew-Normal Distributions
-
 mixSPE Mixtures of Power Exponential and Skew Power Exponential Distributions for Use in Model-Based Clustering and Classification
-
 mixsqp Sequential Quadratic Programming for Fast Maximum-Likelihood Estimation of Mixture Proportions
-
 mixSSG Clustering Using Mixtures of Sub Gaussian Stable Distributions
-
 mixtools Tools for Analyzing Finite Mixture Models
-
 mixtox Dose Response Curve Fitting and Mixture Toxicity Assessment
-
 mixtur Modelling Continuous Report Visual Short-Term Memory Studies
-
 mixture Mixture Models for Clustering and Classification
-
 MixtureInf Inference for Finite Mixture Models
-
 MixtureMissing Robust Model-Based Clustering for Data Sets with Missing Values at Random
-
 MixtureRegLTIC Mixture Regression Models for Left-Truncated and Interval-Censored Data
-
 MixTwice Large-Scale Hypothesis Testing by Variance Mixing
-
 MixviR Analysis and Exploration of Mixed Microbial Genomic Samples
-
 mize Unconstrained Numerical Optimization Algorithms
-
 mizer Multi-Species sIZE Spectrum Modelling in R
-
 MKclass Statistical Classification
-
 MKdescr Descriptive Statistics
-
 mkin Kinetic Evaluation of Chemical Degradation Data
-
 MKinfer Inferential Statistics
-
 MKLE Maximum Kernel Likelihood Estimation
-
 MKMeans A Modern K-Means (MKMeans) Clustering Algorithm
-
 MKmisc Miscellaneous Functions from M. Kohl
-
 mknapsack Multiple Knapsack Problem Solver
-
 MKomics Omics Data Analysis
-
 MKpower Power Analysis and Sample Size Calculation
-
 mkssd Efficient Multi-Level k-Circulant Supersaturated Designs
-
 ML.MSBD Maximum Likelihood Inference on Multi-State Trees
-
 ML2Pvae Variational Autoencoder Models for IRT Parameter Estimation
-
 mlapi Abstract Classes for Building 'scikit-learn' Like API
-
 mlbench Machine Learning Benchmark Problems
-
 mlbstats Major League Baseball Player Statistics Calculator
-
 MLCIRTwithin Latent Class Item Response Theory (LC-IRT) Models under Within-Item Multidimensionality
-
 MLCM Maximum Likelihood Conjoint Measurement
-
 MLDataR Collection of Machine Learning Datasets for Supervised Machine Learning
-
 mldr Exploratory Data Analysis and Manipulation of Multi-Label Data Sets
-
 mldr.datasets R Ultimate Multilabel Dataset Repository
-
 MLDS Maximum Likelihood Difference Scaling
-
 mle.tools Expected/Observed Fisher Information and Bias-Corrected Maximum Likelihood Estimate(s)
-
 mlearning Machine Learning Algorithms with Unified Interface and Confusion Matrices
-
 MLEce Statistical Inference for Asymptotic Efficient Closed-Form Estimators
-
 MLEcens Computation of the MLE for Bivariate Interval Censored Data
-
 mlegp Maximum Likelihood Estimates of Gaussian Processes
-
 mlergm Multilevel Exponential-Family Random Graph Models
-
 MLeval Machine Learning Model Evaluation
-
 mlf Machine Learning Foundations
-
 mlfit Iterative Proportional Fitting Algorithms for Nested Structures
-
 mlflow Interface to 'MLflow'
-
 MLFS Machine Learning Forest Simulator
-
 MLGdata Datasets for Use with Salvan, Sartori and Pace (2020)
-
 MLGL Multi-Layer Group-Lasso
-
 MLID Multilevel Index of Dissimilarity
-
 mlma Multilevel Mediation Analysis
-
 mlmc Multi-Level Monte Carlo
-
 MLmetrics Machine Learning Evaluation Metrics
-
 mlmhelpr Multilevel/Mixed Model Helper Functions
-
 mlmi Maximum Likelihood Multiple Imputation
-
 MLML2R Maximum Likelihood Estimation of DNA Methylation and Hydroxymethylation Proportions
-
 mlmm.gwas Pipeline for GWAS Using MLMM
-
 mlmmm ML estimation under multivariate linear mixed models with missing values
-
 MLModelSelection Model Selection in Multivariate Longitudinal Data Analysis
-
 MLMOI Estimating Frequencies, Prevalence and Multiplicity of Infection
-
 mlmRev Examples from Multilevel Modelling Software Review
-
 mlmtools Multi-Level Model Assessment Kit
-
 mlmts Machine Learning Algorithms for Multivariate Time Series
-
 MLMusingR Practical Multilevel Modeling
-
 mlogit Multinomial Logit Models
-
 mlogitBMA Bayesian Model Averaging for Multinomial Logit Models
-
 mlpack 'Rcpp' Integration for the 'mlpack' Library
-
 MLpreemption Maximum Likelihood Estimation of the Niche Preemption Model
-
 MLPUGS Multi-Label Prediction Using Gibbs Sampling (and Classifier Chains)
-
 mlpwr A Power Analysis Toolbox to Find Cost-Efficient Study Designs
-
 mlquantify Algorithms for Class Distribution Estimation
-
 mlr Machine Learning in R
-
 mlr3 Machine Learning in R - Next Generation
-
 mlr3benchmark Analysis and Visualisation of Benchmark Experiments
-
 mlr3cluster Cluster Extension for 'mlr3'
-
 mlr3data Collection of Machine Learning Data Sets for 'mlr3'
-
 mlr3db Data Base Backend for 'mlr3'
-
 mlr3fairness Fairness Auditing and Debiasing for 'mlr3'
-
 mlr3filters Filter Based Feature Selection for 'mlr3'
-
 mlr3fselect Feature Selection for 'mlr3'
-
 mlr3hyperband Hyperband for 'mlr3'
-
 mlr3learners Recommended Learners for 'mlr3'
-
 mlr3mbo Flexible Bayesian Optimization
-
 mlr3measures Performance Measures for 'mlr3'
-
 mlr3misc Helper Functions for 'mlr3'
-
 mlr3oml Connector Between 'mlr3' and 'OpenML'
-
 mlr3pipelines Preprocessing Operators and Pipelines for 'mlr3'
-
 mlr3shiny Machine Learning in 'shiny' with 'mlr3'
-
 mlr3spatial Support for Spatial Objects Within the 'mlr3' Ecosystem
-
 mlr3spatiotempcv Spatiotemporal Resampling Methods for 'mlr3'
-
 mlr3tuning Hyperparameter Optimization for 'mlr3'
-
 mlr3tuningspaces Search Spaces for Hyperparameter Tuning
-
 mlr3verse Easily Install and Load the 'mlr3' Package Family
-
 mlr3viz Visualizations for 'mlr3'
-
 mlrCPO Composable Preprocessing Operators and Pipelines for Machine Learning
-
 mlrintermbo Model-Based Optimization for 'mlr3' Through 'mlrMBO'
-
 mlrMBO Bayesian Optimization and Model-Based Optimization of Expensive Black-Box Functions
-
 mlrpro Stepwise Regression with Assumptions Checking
-
 mlsbm Efficient Estimation of Bayesian SBMs & MLSBMs
-
 mlsjunkgen Use the MLS Junk Generator Algorithm to Generate a Stream of Pseudo-Random Numbers
-
 mlt Most Likely Transformations
-
 mlt.docreg Most Likely Transformations: Documentation and Regression Tests
-
 mltest Classification Evaluation Metrics
-
 mltools Machine Learning Tools
-
 mlVAR Multi-Level Vector Autoregression
-
 MLVSBM A Stochastic Block Model for Multilevel Networks
-
 mlxR Simulation of Longitudinal Data
-
 MLZ Mean Length-Based Estimators of Mortality using TMB
-
 MM The Multiplicative Multinomial Distribution
-
 MM2S Single-Sample Classifier of Medulloblastoma Subtypes for Medulloblastoma Patient Samples, Mouse Models, and Cell Lines
-
 MM2Sdata Gene Expression Datasets for the 'MM2S' Package
-
 MM4LMM Inference of Linear Mixed Models Through MM Algorithm
-
 mma Multiple Mediation Analysis
-
 mmabig Multiple Mediation Analysis for Big Data Sets
-
 MMAC Data for Mathematical Modeling and Applied Calculus
-
 mmand Mathematical Morphology in Any Number of Dimensions
-
 mmap Map Pages of Memory
-
 mmapcharr Memory-Map Character Files
-
 mmaqshiny Explore Air-Quality Mobile-Monitoring Data
-
 mMARCH.AC Processing of Accelerometry Data with 'GGIR' in mMARCH
-
 mmb Arbitrary Dependency Mixed Multivariate Bayesian Models
-
 mmc Multivariate Measurement Error Correction
-
 mmcif Mixed Multivariate Cumulative Incidence Functions
-
 mmcm Modified Maximum Contrast Method
-
 MMD Minimal Multilocus Distance (MMD) for Source Attribution and Loci Selection
-
 MMDai Multivariate Multinomial Distribution Approximation and Imputation for Incomplete Categorical Data
-
 MMDCopula Robust Estimation of Copulas by Maximum Mean Discrepancy
-
 MMDvariance Detecting Differentially Variable Genes Using the Mixture of Marginal Distributions
-
 mme Multinomial Mixed Effects Models
-
 mmeln Estimation of Multinormal Mixture Distribution
-
 MMeM Multivariate Mixed Effects Model
-
 MMINP Microbe-Metabolite Interactions-Based Metabolic Profiles Predictor
-
 MMLR Fitting Markov-Modulated Linear Regression Models
-
 mmmgee Simultaneous Inference for Multiple Linear Contrasts in GEE Models
-
 mmod Modern Measures of Population Differentiation
-
 mmodely Modeling Multivariate Origins Determinants - Evolutionary Lineages in Ecology
-
 mMPA Implementation of Marker-Assisted Mini-Pooling with Algorithm
-
 mmpca Integrative Analysis of Several Related Data Matrices
-
 mmpf Monte-Carlo Methods for Prediction Functions
-
 mmpp Various Similarity and Distance Metrics for Marked Point Processes
-
 mmr Matrix Multiplication on Data.frames
-
 MMRcaseselection Case Classification and Selection Based on Regression Results
-
 mmrm Mixed Models for Repeated Measures
-
 mmsample Multivariate Matched Sampling
-
 mmtsne Multiple Maps t-SNE
-
 MMVBVS Missing Multivariate Bayesian Variable Selection
-
 MMWRweek Convert Dates to MMWR Day, Week, and Year
-
 MNARclust Clustering Data with Non-Ignorable Missingness using Semi-Parametric Mixture Models
-
 MNB Diagnostic Tools for a Multivariate Negative Binomial Model
-
 mnis Easy Downloading Capabilities for the Members' Name Information Service
-
 mniw The Matrix-Normal Inverse-Wishart Distribution
-
 mnj Machine Learning and Judgement
-
 mnlfa Moderated Nonlinear Factor Analysis
-
 MNLpred Simulated Predicted Probabilities for Multinomial Logit Models
-
 MNLR Interactive Shiny Presentation for Working with Multinomial Logistic Regression
-
 MNM Multivariate Nonparametric Methods. An Approach Based on Spatial Signs and Ranks
-
 mnonr A Generator of Multivariate Non-Normal Random Numbers
-
 mnorm Multivariate Normal Distribution
-
 mnormt The Multivariate Normal and t Distributions, and Their Truncated Versions
-
 MNP Fitting the Multinomial Probit Model
-
 mnreadR MNREAD Parameters Estimation and Curve Plotting
-
 MNS Mixed Neighbourhood Selection
-
 mnt Affine Invariant Tests of Multivariate Normality
-
 mob Monotonic Optimal Binning
-
 MobileTrigger Run Reports, Models, and Scripts from a Mobile Device
-
 mobilityIndexR Calculates Transition Matrices and Mobility Indices
-
 mobirep Models Bivariate Dependence and Produces Bivariate Return Periods
-
 MoBPS Modular Breeding Program Simulator
-
 mobr Measurement of Biodiversity
-
 MOCCA Multi-Objective Optimization for Collecting Cluster Alternatives
-
 mockery Mocking Library for R
-
 mockr Mocking in R
-
 mockthat Function Mocking for Unit Testing
-
 mod Lightweight and Self-Contained Modules for Code Organization
-
 mod09nrt Extraction of Bands from MODIS Surface Reflectance Product MOD09 NRT
-
 mod2rm Moderation Analysis for Two-Instance Repeated Measures Designs
-
 Modalclust Hierarchical Modal Clustering
-
 modchart A 'shiny' Module for Creating Charts of Various Types
-
 modeest Mode Estimation
-
 modehunt Multiscale Analysis for Density Functions
-
 model4you Stratified and Personalised Models Based on Model-Based Trees and Forests
-
 modelbased Estimation of Model-Based Predictions, Contrasts and Means
-
 modelc A Linear Model to 'SQL' Compiler
-
 Modelcharts Classification Model Charts
-
 modeldata Data Sets Useful for Modeling Examples
-
 modeldb Fits Models Inside the Database
-
 modelDown Make Static HTML Website for Predictive Models
-
 modelenv Provide Tools to Register Models for Use in 'tidymodels'
-
 Modeler Classes and Methods for Training and Using Binary Prediction Models
-
 modelgrid A Framework for Creating, Managing and Training Multiple Caret Models
-
 modelimpact Functions to Assess the Business Impact of Churn Prediction Models
-
 modeLLtest Compare Models with Cross-Validated Log-Likelihood
-
 ModelMatrixModel Create Model Matrix and Save the Transforming Parameters
-
 ModelMetrics Rapid Calculation of Model Metrics
-
 modelObj A Model Object Framework for Regression Analysis
-
 modelplotr Plots to Evaluate the Business Performance of Predictive Models
-
 modelr Modelling Functions that Work with the Pipe
-
 modelROC Model Based ROC Analysis
-
 modelStudio Interactive Studio for Explanatory Model Analysis
-
 modelsummary Summary Tables and Plots for Statistical Models and Data: Beautiful, Customizable, and Publication-Ready
-
 modeltests Testing Infrastructure for Broom Model Generics
-
 modeltime The Tidymodels Extension for Time Series Modeling
-
 modeltime.ensemble Ensemble Algorithms for Time Series Forecasting with Modeltime
-
 modeltime.gluonts 'GluonTS' Deep Learning
-
 modeltime.h2o Modeltime 'H2O' Machine Learning
-
 modeltime.resample Resampling Tools for Time Series Forecasting
-
 modeltools Tools and Classes for Statistical Models
-
 modelwordcloud Model Word Clouds
-
 moderndive Tidyverse-Friendly Introductory Linear Regression
-
 modernVA An Implementation of Two Modern Education-Based Value-Added Models
-
 modest Model-Based Dose-Escalation Trials
-
 ModEstM Mode Estimation, Even in the Multimodal Case
-
 modesto Modeling and Analysis of Stochastic Systems
-
 modEvA Model Evaluation and Analysis
-
 modgetxl A 'shiny' Module for Reading Excel Sheets
-
 modi Multivariate Outlier Detection and Imputation for Incomplete Survey Data
-
 modifiedmk Modified Versions of Mann Kendall and Spearman's Rho Trend Tests
-
 MODIS Acquisition and Processing of MODIS Products
-
 MODISTools Interface to the 'MODIS Land Products Subsets' Web Services
-
 MODIStsp Find, Download and Process MODIS Land Products Data
-
 modmarg Calculating Marginal Effects and Levels with Errors
-
 modMax Community Structure Detection via Modularity Maximization
-
 modnets Modeling Moderated Networks
-
 modopt.matlab 'MatLab'-Style Modeling of Optimization Problems
-
 modQR Multiple-Output Directional Quantile Regression
-
 ModStatR Statistical Modelling in Action with R
-
 ModTools Tools for Building Regression and Classification Models
-
 modTurPoint Estimate ED50 Based on Modified Turning Point Method
-
 moduleColor Basic Module Functions
-
 modules Self Contained Units of Source Code
-
 modygliani MOlecular DYnamics GLobal ANalysis
-
 MoEClust Gaussian Parsimonious Clustering Models with Covariates and a Noise Component
-
 moexer Interact with Moscow Exchange Informational and Statistical Server ('ISS')
-
 MOFAT Maximum One-Factor-at-a-Time Designs
-
 mogavs Multiobjective Genetic Algorithm for Variable Selection in Regression
-
 mojson A Serialization-Style Flattening and Description for JSON
-
 mokken Conducts Mokken Scale Analysis
-
 moko Multi-Objective Kriging Optimization
-
 molaR Dental Surface Complexity Measurement Tools
-
 MoLE Modeling Language Evolution
-
 MolgenisArmadillo Armadillo Client for the Armadillo Service
-
 MolgenisAuth 'OpenID Connect' Discovery and Authentication
-
 MOLHD Multiple Objective Latin Hypercube Design
-
 molic Multivariate Outlier Detection in Contingency Tables
-
 molnet Predicting Differential Drug Response using Multi-Omics Networks
-
 mombf Bayesian Model Selection and Averaging for Non-Local and Local Priors
-
 momentchi2 Moment-Matching Methods for Weighted Sums of Chi-Squared Random Variables
-
 momentfit Methods of Moments
-
 moments Moments, Cumulants, Skewness, Kurtosis and Related Tests
-
 momentuHMM Maximum Likelihood Analysis of Animal Movement Behavior Using Multivariate Hidden Markov Models
-
 Momocs Morphometrics using R
-
 MoMPCA Inference and Clustering for Mixture of Multinomial Principal Component Analysis
-
 momr Mining Metaomics Data (MetaOMineR)
-
 MomTrunc Moments of Folded and Doubly Truncated Multivariate Distributions
-
 monaco The 'Monaco' Editor as a HTML Widget
-
 monashtipr An R API Wrapper for the Monash University Probabilistic Footy Tipping Competition
-
 mondate Keep Track of Dates in Terms of Months
-
 Mondrian A Simple Graphical Representation of the Relative Occurrence and Co-Occurrence of Events
-
 MonetDB.R Connect MonetDB to R
-
 mongolite Fast and Simple 'MongoDB' Client for R
-
 mongopipe Query MongoDB Documents with R
-
 monitoR Acoustic Template Detection in R
-
 monmlp Multi-Layer Perceptron Neural Network with Optional Monotonicity Constraints
-
 monobin Monotonic Binning for Credit Rating Models
-
 monobinShiny Shiny User Interface for 'monobin' Package
-
 monochromeR Easily Create, View and Use Monochrome Colour Palettes
-
 monoClust Perform Monothetic Clustering with Extensions to Circular Data
-
 monographaR Taxonomic Monographs Tools
-
 MonoInc Monotonic Increasing
-
 monomvn Estimation for MVN and Student-t Data with Monotone Missingness
-
 MonoPhy Explore Monophyly of Taxonomic Groups in a Phylogeny
-
 MonoPoly Functions to Fit Monotone Polynomials
-
 monoreg Bayesian Monotonic Regression Using a Marked Point Process Construction
-
 monotone Performs Monotone Regression
-
 monotonicity Test for Monotonicity in Expected Asset Returns, Sorted by Portfolios
-
 monreg Nonparametric Monotone Regression
-
 Monte.Carlo.se Monte Carlo Standard Errors
-
 MonteCarlo Automatic Parallelized Monte Carlo Simulations
-
 MonteCarloSEM Monte Carlo Data Simulation Package
-
 moodleR Helper Functions to Work with 'Moodle' Data
-
 moonBook Functions and Datasets for the Book by Keon-Woong Moon
-
 moose Mean Squared Out-of-Sample Error Projection
-
 mopac Collection of Datasets Pertaining to Loop 1 "Mopac"
-
 MOQA Basic Quality Data Assurance for Epidemiological Research
-
 moranajp Morphological Analysis for Japanese
-
 moreparty A Toolbox for Conditional Inference Trees and Random Forests
-
 morph 3D Segmentation of Voxels into Morphologic Classes
-
 morphemepiece Morpheme Tokenization
-
 morphemepiece.data Data for Morpheme Tokenization
-
 Morpho Calculations and Visualisations Related to Geometric Morphometrics
-
 morphomap Morphometric Maps, Bone Landmarking and Cross Sectional Geometry
-
 Morphoscape Computation and Visualization of Adaptive Landscapes
-
 MorphoTools2 Multivariate Morphometric Analysis
-
 morse Modelling Reproduction and Survival Data in Ecotoxicology
-
 mortAAR Analysis of Archaeological Mortality Data
-
 MortalityGaps The Double-Gap Life Expectancy Forecasting Model
-
 MortalityLaws Parametric Mortality Models, Life Tables and HMD
-
-MortalityTables A Framework for Various Types of Mortality / Life Tables
-
+MortalityTables A Framework for Various Types of Mortality / Life Table
 MortCast Estimation and Projection of Age-Specific Mortality Rates
-
 mortyr Wrapper to 'The Rick and Morty' API
-
 mosaic Project MOSAIC Statistics and Mathematics Teaching Utilities
-
 mosaicCalc R-Language Based Calculus Operations for Teaching
-
 mosaicCore Common Utilities for Other MOSAIC-Family Packages
-
 mosaicData Project MOSAIC Data Sets
-
 mosaicModel An Interface to Statistical Modeling Independent of Model Architecture
-
 mosmafs Multi-Objective Simultaneous Model and Feature Selection
-
 mosqcontrol Mosquito Control Resource Optimization
-
 MOSS Multi-Omic Integration via Sparse Singular Value Decomposition
-
 MOST Multiphase Optimization Strategy
-
 mosum Moving Sum Based Procedures for Changes in the Mean
-
 MoTBFs Learning Hybrid Bayesian Networks using Mixtures of Truncated Basis Functions
-
 MOTE Effect Size and Confidence Interval Calculator
-
 motif Local Pattern Analysis
-
 motifcluster Motif-Based Spectral Clustering of Weighted Directed Networks
-
 motifr Motif Analysis in Multi-Level Networks
-
 motmot Models of Trait Macroevolution on Trees
-
 motoRneuron Analyzing Paired Neuron Discharge Times for Time-Domain Synchronization
-
 moult Models for Analysing Moult in Birds
-
 mountainplot Mountain Plots, Folded Empirical Cumulative Distribution Plots
-
 mousetrap Process and Analyze Mouse-Tracking Data
-
 move Visualizing and Analyzing Animal Track Data
-
 movecost Calculation of Slope-Dependant Accumulated Cost Surface, Least-Cost Paths, Least-Cost Corridors, Least-Cost Networks Related to Human Movement Across the Landscape
-
 moveHMM Animal Movement Modelling using Hidden Markov Models
-
 moveVis Movement Data Visualization
-
 moveWindSpeed Estimate Wind Speeds from Bird Trajectories
-
 movMF Mixtures of von Mises-Fisher Distributions
-
 mp Multidimensional Projection Techniques
-
 mpath Regularized Linear Models
-
 mpathsenser Process and Analyse Data from m-Path Sense
-
 MPBoost Treatment Allocation in Clinical Trials by the Maximal Procedure
-
 MPCI Multivariate Process Capability Indices (MPCI)
-
 MPDiR Data Sets and Scripts for Modeling Psychophysical Data in R
-
 MPGE A Two-Step Approach to Testing Overall Effect of Gene-Environment Interaction for Multiple Phenotypes
-
 MPI Computation of Multidimensional Poverty Index (MPI)
-
 MPLikelihoodWB Modified Profile Likelihood Estimation for Weibull Shape and Regression Parameters
-
 mplot Graphical Model Stability and Variable Selection Procedures
-
 MplusAutomation An R Package for Facilitating Large-Scale Latent Variable Analyses in Mplus
-
 MplusTrees Decision Trees with Structural Equation Models Fit in 'Mplus'
-
 mpm Multivariate Projection Methods
-
 mpmcorrelogram Multivariate Partial Mantel Correlogram
-
 mpmi Mixed-Pair Mutual Information Estimators
-
 MPN Most Probable Number and Other Microbial Enumeration Techniques
-
 mpoly Symbolic Computation and More with Multivariate Polynomials
-
 mpower Power Analysis via Monte Carlo Simulation for Correlated Data
-
 mppR Multi-Parent Population QTL Analysis
-
 mpr Multi-Parameter Regression (MPR)
-
 MPR.genotyping Maximum Parsimony of Recombination to Infer Parental Genotypes
-
 MPS Estimating Through the Maximum Product Spacing Approach
-
 MPSEM Modeling Phylogenetic Signals using Eigenvector Maps
-
 mpspline2 Mass-Preserving Spline Functions for Soil Data
-
 MPsychoR Modern Psychometrics with R
-
 mpt Multinomial Processing Tree Models
-
 MPTinR Analyze Multinomial Processing Tree Models
-
 MPTmultiverse Multiverse Analysis of Multinomial Processing Tree Models
-
 MPV Data Sets from Montgomery, Peck and Vining
-
 mpwR Standardized Comparison of Workflows in Mass Spectrometry-Based Bottom-Up Proteomics
-
 MQMF Modelling and Quantitative Methods in Fisheries
-
 Mqrcm M-Quantile Regression Coefficients Modeling
-
 mr.pivw Penalized Inverse-Variance Weighted Estimator for Mendelian Randomization
-
 mr.raps Two Sample Mendelian Randomization using Robust Adjusted Profile Score
-
 mra Mark-Recapture Analysis
-
 mratios Ratios of Coefficients in the General Linear Model
-
 mrbayes Bayesian Summary Data Models for Mendelian Randomization Studies
-
 mrbin Metabolomics Data Analysis Functions
-
 mrbsizeR Scale Space Multiresolution Analysis of Random Signals
-
 MRCE Multivariate Regression with Covariance Estimation
-
 mrds Mark-Recapture Distance Sampling
-
 mreg Fits Regression Models When the Outcome is Partially Missing
-
 mregions Marine Regions Data from 'Marineregions.org'
-
 mrf Multiresolution Forecasting
-
 mrf2d Markov Random Field Models for Image Analysis
-
 MRFA Fitting and Predicting Large-Scale Nonlinear Regression Problems using Multi-Resolution Functional ANOVA (MRFA) Approach
-
 MRFcov Markov Random Fields with Additional Covariates
-
 mrfDepth Depth Measures in Multivariate, Regression and Functional Settings
-
 mrfse Markov Random Field Structure Estimator
-
 mrgsim.parallel Simulate with 'mrgsolve' in Parallel
-
 mrgsim.sa Sensitivity Analysis with 'mrgsolve'
-
 mrgsolve Simulate from ODE-Based Models
-
 MRHawkes Multivariate Renewal Hawkes Process
-
 mri Modified Rand and Wallace Indices
-
 MRmediation A Causal Mediation Method with Methylated Region (MR) as the Mediator
-
 mrMLM Multi-Locus Random-SNP-Effect Mixed Linear Model Tools for GWAS
-
 mrMLM.GUI Multi-Locus Random-SNP-Effect Mixed Linear Model Tools for Genome-Wide Association Study with Graphical User Interface
-
 mRMRe Parallelized Minimum Redundancy, Maximum Relevance (mRMR)
-
 mro Multiple Correlation
-
 MRPC PC Algorithm with the Principle of Mendelian Randomization
-
 mRpostman An IMAP Client for R
-
 MRQoL Minimal Clinically Important Difference and Response Shift Effect for Health-Related Quality of Life
-
 MRReg MDL Multiresolution Linear Regression Framework
-
 mrregression Regression Analysis for Very Large Data Sets via Merge and Reduce
-
 MRS Multi-Resolution Scanning for Cross-Sample Differences
-
 MrSGUIDE Multiple Responses Subgroup Identification using 'GUIDE' Algorithm
-
 MRTSampleSize A Sample Size Calculator for Micro-Randomized Trials
-
 MRTSampleSizeBinary Sample Size Calculator for MRT with Binary Outcomes
-
 ms.sev Package for Calculation of ARMSS, Local MSSS and Global MSSS
-
 msae Multivariate Fay Herriot Models for Small Area Estimation
-
 msaeDB Difference Benchmarking for Multivariate Small Area Estimation
-
 msaeHB Multivariate Small Area Estimation using Hierarchical Bayesian Method
-
 msaenet Multi-Step Adaptive Estimation Methods for Sparse Regressions
-
 msaeOB Optimum Benchmarking for Multivariate Small Area Estimation
-
 msaeRB Ratio Benchmarking for Multivariate Small Area Estimation
-
 msaFACE Moving Subset Analysis FACE
-
 msamp Estimate Sample Size to Detect Bacterial Contamination in a Product Lot
-
 msaR Multiple Sequence Alignment for R Shiny
-
 MSbox Mass Spectrometry Tools
-
 msBP Multiscale Bernstein Polynomials for Densities
-
 msce Hazard of Multi-Stage Clonal Expansion Models
-
 mschart Chart Generation for 'Microsoft Word' and 'Microsoft PowerPoint' Documents
-
 MSclassifR Automated Classification of Mass Spectra
-
 MSclust Multiple-Scaled Clustering
-
 MSCMT Multivariate Synthetic Control Method Using Time Series
-
 MScombine Combine Data from Positive and Negative Ionization Mode Finding Common Entities
-
 mscp Multiscale Change Point Detection via Gradual Bandwidth Adjustment in Moving Sum Processes
-
 MSCquartets Analyzing Gene Tree Quartets under the Multi-Species Coalescent
-
 MSCsimtester Tests of Multispecies Coalescent Gene Tree Simulator Output
-
 mscstexta4r R Client for the Microsoft Cognitive Services Text Analytics REST API
-
 mscstts R Client for the Microsoft Cognitive Services 'Text-to-Speech' REST API
-
 mscsweblm4r R Client for the Microsoft Cognitive Services Web Language Model REST API
-
 msd Method of Successive Dichotomizations
-
 msda Multi-Class Sparse Discriminant Analysis
-
 msde Bayesian Inference for Multivariate Stochastic Differential Equations
-
 MSEtool Management Strategy Evaluation Toolkit
-
 MSG Data and Functions for the Book Modern Statistical Graphics
-
 MSGARCH Markov-Switching GARCH Models
-
 MSGARCHelm Hybridization of MS-GARCH and ELM Model
-
 msgl Multinomial Sparse Group Lasso
-
 MSGLasso Multivariate Sparse Group Lasso for the Multivariate Multiple Linear Regression with an Arbitrary Group Structure
-
 msgpackR A library to serialize or unserialize data in MessagePack format
-
 msgps Degrees of Freedom of Elastic Net, Adaptive Lasso and Generalized Elastic Net
-
 msgr Extends Messages, Warnings and Errors by Adding Levels and Log Files
-
 mshap Multiplicative SHAP Values for Two-Part Models
-
 msig An R Package for Exploring Molecular Signatures Database
-
 msigdbr MSigDB Gene Sets for Multiple Organisms in a Tidy Data Format
-
 mSigTools Mutational Signature Analysis Tools
-
 mSimCC Micro Simulation Model for Cervical Cancer Prevention
-
 MSiP 'MassSpectrometry' Interaction Prediction
-
 msir Model-Based Sliced Inverse Regression
-
 mskcc.oncotree Interface to the 'OncoTree' API
-
 msltrend Improved Techniques to Estimate Trend, Velocity and Acceleration from Sea Level Records
-
 msm Multi-State Markov and Hidden Markov Models in Continuous Time
-
 msma Multiblock Sparse Multivariable Analysis
-
 msme Functions and Datasets for "Methods of Statistical Model Estimation"
-
 msmtools Building Augmented Data to Run Multi-State Models with 'msm' Package
-
 MSMwRA Multivariate Statistical Methods with R Applications
-
 msos Data Sets and Functions Used in Multivariate Statistics: Old School by John Marden
-
 MSPRT A Modified Sequential Probability Ratio Test (MSPRT)
-
 MSQC Multivariate Statistical Quality Control
-
 MSRDT Multi-State Reliability Demonstration Tests (MSRDT)
-
 mssm Multivariate State Space Models
-
 msSPChelpR Helper Functions for Second Primary Cancer Analyses
-
 MSSQL Tools to Work with Microsoft SQL Server Databases via 'RODBC'
-
 MST Multivariate Survival Trees
-
 mstate Data Preparation, Estimation and Prediction in Multi-State Models
-
 mStats Epidemiological Data Analysis
-
 mstclustering "MST-Based Clustering"
-
 mstDIF A Collection of DIF Tests for Multistage Tests
-
 mSTEM Multiple Testing of Local Extrema for Detection of Change Points
-
 MSTest Hypothesis Testing for Markov Switching Models
-
 mstherm Analyze MS/MS Protein Melting Data
-
 mstknnclust MST-kNN Clustering Algorithm
-
 mstR Procedures to Generate Patterns under Multistage Testing
-
 mstrio Interface for 'MicroStrategy' REST API
-
 msu Multivariate Symmetric Uncertainty and Other Measurements
-
 MSwM Fitting Markov Switching Models
-
 mt Metabolomics Data Analysis Toolbox
-
 MTA Multiscalar Territorial Analysis
-
 MTAR Multi-Trait Analysis of Rare-Variant Association Study
-
 mtb My Toolbox for Assisting Document Editing and Data Presenting
-
 mtdesign Mander and Thompson Designs
-
 MTDrh Mass Transportation Distance Rank Histogram
-
 MTE Maximum Tangent Likelihood Estimation for Linear Regression
-
 mthapower Sample Size and Power for Association Studies Involving Mitochondrial DNA Haplogroups
-
 mtlgmm Unsupervised Multi-Task and Transfer Learning on Gaussian Mixture Models
-
 MTLR Survival Prediction with Multi-Task Logistic Regression
-
 MTPS Multi-Task Prediction using Stacking Algorithms
-
 MtreeRing A Shiny Application for Automatic Measurements of Tree-Ring Widths on Digital Images
-
 MTS All-Purpose Toolkit for Analyzing Multivariate Time Series (MTS) and Estimating Multivariate Volatility Models
-
 mtsdi Multivariate Time Series Data Imputation
-
 MTSYS Methods in Mahalanobis-Taguchi (MT) System
-
 MUACz Generate MUAC and BMI z-Scores and Percentiles for Children and Adolescents
-
 MuChPoint Multiple Change Point
-
 muckrock Data on Freedom of Information Act Requests
-
 mudata2 Interchange Tools for Multi-Parameter Spatiotemporal Data
-
 mudfold Multiple UniDimensional unFOLDing
-
 mueRelativeRisk Relative Risk Based on the Ratio of Median Unbiased Estimates
-
 muhaz Hazard Function Estimation in Survival Analysis
-
 muHVT Constructing Hierarchical Voronoi Tessellations and Overlay Heatmap for Data Analysis
-
 muir Exploring Data with Tree Data Structures
-
 MullerPlot Generates Muller Plot from Population/Abundance/Frequency Dynamics Data
-
 mully Create, Modify and Visualize Multi-Layered Networks
-
 mulset Multiset Intersection Generator
-
 MultAlloc Optimal Allocation in Stratified Sampling
-
 MultBiplotR Multivariate Analysis Using Biplots in R
-
 multbxxc Auxiliary Routines for Influx Software
-
 multcomp Simultaneous Inference in General Parametric Models
-
 multcompView Visualizations of Paired Comparisons
-
 multDM Multivariate Version of the Diebold-Mariano Test
-
 MultEq Multiple Equivalence Tests and Simultaneous Confidence Intervals
-
 multfisher Optimal Exact Tests for Multiple Binary Endpoints
-
 multgee GEE Solver for Correlated Nominal or Ordinal Multinomial Responses
-
 multiActionButton Multi Action Button for 'Shiny' Applications
-
 multiApply Apply Functions to Multiple Multidimensional Arrays or Vectors
-
 multiAssetOptions Finite Difference Method for Multi-Asset Option Valuation
-
 MultiATSM Multicountry Term Structure of Interest Rates Models
-
 MultiBD Multivariate Birth-Death Processes
-
 multibiplotGUI Multibiplot Analysis in R
-
 multiblock Multiblock Data Fusion in Statistics and Machine Learning
-
 multibridge Evaluating Multinomial Order Restrictions with Bridge Sampling
-
 multiCA Multinomial Cochran-Armitage Trend Test
-
 multicastR A Companion to the Multi-CAST Collection
-
 multichull A Generic Convex-Hull-Based Model Selection Method
-
 multiclassPairs Build MultiClass Pair-Based Classifiers using TSPs or RF
-
 multicmp Flexible Modeling of Multivariate Count Data via the Multivariate Conway-Maxwell-Poisson Distribution
-
 multiColl Collinearity Detection in a Multiple Linear Regression Model
-
 multicolor Add Multiple Colors to your Console & RMarkdown Output
-
 multicool Permutations of Multisets in Cool-Lex Order
-
 multid Multivariate Difference Between Two Groups
-
 multiDimBio Multivariate Analysis and Visualization for Biological Data
-
 multidplyr A Multi-Process 'dplyr' Backend
-
 multifamm Multivariate Functional Additive Mixed Models
-
 multifear Multiverse Analyses for Conditioning Data
-
 MultiFit Multiscale Fisher's Independence Test for Multivariate Dependence
-
 multifunc Analysis of Ecological Drivers on Ecosystem Multifunctionality
-
 multifwf Read Fixed Width Format Files Containing Lines of Different Type
-
 MultiGlarmaVarSel Variable Selection in Sparse Multivariate GLARMA Models
-
 multigraph Plot and Manipulate Multigraphs
-
 multigraphr Probability Models and Statistical Analysis of Random Multigraphs
-
 multigroup Multigroup Data Analysis
-
 MultiGroupO MultiGroup Method and Simulation Data Analysis
-
 MultiJoin Enables Efficient Joining of Data File on Common Fields using the Unix Utility Join
-
 MultiKink Estimation and Inference for Multi-Kink Quantile Regression
-
 multilateral Generalised Function to Calculate a Variety of Multilateral Price Index Methods
-
 multilaterals Transitive Index Numbers for Cross-Sections and Panel Data
-
 MultiLCIRT Multidimensional Latent Class Item Response Theory Models
-
 multilevel Multilevel Functions
-
 multilevelmod Model Wrappers for Multi-Level Models
-
 multilevelPSA Multilevel Propensity Score Analysis
-
 multilevelTools Multilevel and Mixed Effects Model Diagnostics and Effect Sizes
-
 multilinguer Gentle Language Installer for R User
-
 multimark Capture-Mark-Recapture Analysis using Multiple Non-Invasive Marks
-
 multiMarker Latent Variable Model to Infer Food Intake from Multiple Biomarkers
-
 multimode Mode Testing and Exploring
-
 multimorbidity Harmonizing Various Comorbidity, Multimorbidity, and Frailty Measures
-
 multiness MULTIplex NEtworks with Shared Structure
-
 multinet Analysis and Mining of Multilayer Social Networks
-
 multinets Multilevel Networks Analysis
-
 multinma Bayesian Network Meta-Analysis of Individual and Aggregate Data
-
 MultinomialCI Simultaneous Confidence Intervals for Multinomial Proportions According to the Method by Sison and Glaz
-
 multinomialLogitMix Clustering Multinomial Count Data under the Presence of Covariates
-
 multinomineq Bayesian Inference for Multinomial Models with Inequality Constraints
-
 multIntTestFunc Provides Test Functions for Multivariate Integration
-
 MultiObjMatch Multi-Objective Matching Algorithm
-
 multiocc Fits Multivariate Spatio-Temporal Occupancy Model
-
 MultiOrd Generation of Multivariate Ordinal Variates
-
 multipanelfigure Infrastructure to Assemble Multi-Panel Figures (from Grobs)
-
 MultiPhen A Package to Test for Multi-Trait Association
-
 MultipleBreakpoints Estimating Multiple Breakpoints for a Sequence of Realizations of Bernoulli Variables
-
 MultipleBubbles Test and Detection of Explosive Behaviors for Time Series
-
 multipleNCC Weighted Cox-Regression for Nested Case-Control Data
-
 MultipleRegression Multiple Regression Analysis
-
 multiplestressR Additive and Multiplicative Null Models for Multiple Stressor Data
-
 multiplex Algebraic Tools for the Analysis of Multiple Social Networks
-
 MultiplierDEA Multiplier Data Envelopment Analysis and Cross Efficiency
-
 multipol Multivariate Polynomials
-
 multiRDPG Multiple Random Dot Product Graphs
-
 multirich Calculate Multivariate Richness via UTC and sUTC
-
 multiridge Fast Cross-Validation for Multi-Penalty Ridge Regression
-
 MultiRNG Multivariate Pseudo-Random Number Generation
-
 MultiRobust Multiply Robust Methods for Missing Data Problems
-
 multiROC Calculating and Visualizing ROC and PR Curves Across Multi-Class Classifications
-
 MultiRR Bias, Precision, and Power for Multi-Level Random Regressions
-
 MultIS Reconstruction of Clones from Integration Site Readouts and Visualization
-
 MultiscaleDTM Multi-Scale Geomorphometric Terrain Attributes
-
 multiselect Selecting Combinations of Predictors by Leveraging Multiple AUCs for an Ordered Multilevel Outcome
-
 multisensi Multivariate Sensitivity Analysis
-
 multisite.accuracy Estimation of Accuracy in Multisite Machine-Learning Models
-
 MultisiteMediation Causal Mediation Analysis in Multisite Trials
-
 MultiSkew Measures, Tests and Removes Multivariate Skewness
-
 multisom Clustering a Data Set using Multi-SOM Algorithm
-
 multispatialCCM Multispatial Convergent Cross Mapping
-
 MultiStatM Multivariate Statistical Methods
-
 multitaper Spectral Analysis Tools using the Multitaper Method
-
 multiUS Functions for the Courses Multivariate Analysis and Computer Intensive Methods
-
 multivar Penalized Estimation of Multiple-Subject Vector Autoregressive (multi-VAR) Models
-
 multivariance Measuring Multivariate Dependence Using Distance Multivariance
-
 MultivariateAnalysis Pacote Para Analise Multivariada
-
 MultivariateRandomForest Models Multivariate Cases Using Random Forests
-
 MultiVarMI Multiple Imputation for Multivariate Data
-
 MultiVarSel Variable Selection in a Multivariate Linear Model
-
 multivator A Multivariate Emulator
-
 multiverse 'Explorable Multiverse' Data Analysis and Reports
-
 multiview Cooperative Learning for Multi-View Analysis
-
 multiwave Estimation of Multivariate Long-Memory Models Parameters
-
 multiway Component Models for Multi-Way Data
-
 MultiwayRegression Perform Tensor-on-Tensor Regression
-
 multiwayvcov Multi-Way Standard Error Clustering
-
 MultNonParam Multivariate Nonparametric Methods
-
 MultOrdRS Model Multivariate Ordinal Responses Including Response Styles
-
 MultSurvTests Permutation Tests for Multivariate Survival Analysis
-
 multxpert Common Multiple Testing Procedures and Gatekeeping Procedures
-
 MulvariateRandomForestVarImp Variable Importance Measures for Multivariate Random Forests
-
 MuMIn Multi-Model Inference
-
 mumm Multiplicative Mixed Models using the Template Model Builder
-
 munfold Metric Unfolding
-
 munsell Utilities for Using Munsell Colours
-
 munsellinterpol Interpolate Munsell Renotation Data from Hue/Chroma to CIE/RGB
-
 muRL Mailmerge using R, LaTeX, and the Web
-
 murphydiagram Murphy Diagrams for Forecast Comparisons
-
 muRty Murty's Algorithm for k-Best Assignments
-
 MUS Monetary Unit Sampling and Estimation Methods, Widely Used in Auditing
-
 musclesyneRgies Extract Muscle Synergies from Electromyography
-
 music Learn and Experiment with Music Theory
-
 musica Multiscale Climate Model Assessment
-
 mustashe Stash and Load Objects
-
 mutoss Unified Multiple Testing Procedures
-
 mutossGUI A Graphical User Interface for the MuToss Project
-
 mutSignatures Decipher Mutational Signatures from Somatic Mutational Catalogs
-
 mutualinf Computation and Decomposition of the Mutual Information Index
-
 MuViCP MultiClass Visualizable Classification using Combination of Projections
-
 MVA An Introduction to Applied Multivariate Analysis with R
-
 mvabund Statistical Methods for Analysing Multivariate Abundance Data
-
 MVar Multivariate Analysis
-
 MVar.pt Analise multivariada (brazilian portuguese)
-
 MvBinary Modelling Multivariate Binary Data with Blocks of Specific One-Factor Distribution
-
 mvbutils Workspace Organization, Code and Documentation Editing, Package Prep and Editing, Etc
-
 mvctm Multivariate Variance Components Tests for Multilevel Data
-
 mvdalab Multivariate Data Analysis Laboratory
-
 mverse Tidy Multiverse Analysis Made Simple
-
 mvgb Multivariate Probabilities of Scale Mixtures of Multivariate Normal Distributions via the Genz and Bretz (2002) QRSVN Method
-
 mvglmmRank Multivariate Generalized Linear Mixed Models for Ranking Sports Teams
-
 mvGPS Causal Inference using Multivariate Generalized Propensity Score
-
 mvinfluence Influence Measures and Diagnostic Plots for Multivariate Linear Models
-
 MVisAGe Compute and Visualize Bivariate Associations
-
 MVLM Multivariate Linear Model with Analytic p-Values
-
 mvLSW Multivariate, Locally Stationary Wavelet Process Estimation
-
 mvLSWimpute Imputation Methods for Multivariate Locally Stationary Time Series
-
 mvmesh Multivariate Meshes and Histograms in Arbitrary Dimensions
-
 mvmeta Multivariate and Univariate Meta-Analysis and Meta-Regression
-
 mvMISE A General Framework of Multivariate Mixed-Effects Selection Models
-
 mvMonitoring Multi-State Adaptive Dynamic Principal Component Analysis for Multivariate Process Monitoring
-
 mvMORPH Multivariate Comparative Tools for Fitting Evolutionary Models to Morphometric Data
-
 MVN Multivariate Normality Tests
-
 mvna Nelson-Aalen Estimator of the Cumulative Hazard in Multistate Models
-
 MVNBayesian Bayesian Analysis Framework for MVN (Mixture) Distribution
-
 mvnfast Fast Multivariate Normal and Student's t Methods
-
 mvngGrAd Moving Grid Adjustment in Plant Breeding Field Trials
-
 mvnimpute Simultaneously Impute the Missing and Censored Values
-
 mvnormalTest Powerful Tests for Multivariate Normality
-
 mvnormtest Normality test for multivariate variables
-
 mvnpermute Generate New Multivariate Normal Samples from Permutations
-
 mvnTest Goodness of Fit Tests for Multivariate Normality
-
 MVNtestchar Test for Multivariate Normal Distribution Based on a Characterization
-
 mvord Multivariate Ordinal Regression Models
-
 mvoutlier Multivariate Outlier Detection Based on Robust Methods
-
 mvp Fast Symbolic Multivariate Polynomials
-
 mvpd Multivariate Product Distributions for Elliptically Contoured Distributions
-
 mvPot Multivariate Peaks-over-Threshold Modelling for Spatial Extreme Events
-
 mvProbit Multivariate Probit Models
-
 mvQuad Methods for Multivariate Quadrature
-
 MVQuickGraphs Quick Multivariate Graphs
-
 MVR Mean-Variance Regularization
-
 mvrsquared Compute the Coefficient of Determination for Vector or Matrix Outcomes
-
 mvShapiroTest Generalized Shapiro-Wilk test for multivariate normality
-
 mvSLOUCH Multivariate Stochastic Linear Ornstein-Uhlenbeck Models for Phylogenetic Comparative Hypotheses
-
 MVTests Multivariate Hypothesis Tests
-
 mvtmeta Multivariate Meta-Analysis
-
 mvtnorm Multivariate Normal and t Distributions
-
 mvtsplot Multivariate Time Series Plot
-
 mwa Causal Inference in Spatiotemporal Event Data
-
 mwcsr Solvers for Maximum Weight Connected Subgraph Problem and Its Variants
-
 MWLasso Penalized Moving-Window Lasso Method for Genome-Wide Association Studies
-
 MWRidge Two Stage Moving-Window Ridge Method for Prediction and Estimation
-
 MWright Mainardi-Wright Family of Distributions
-
 mwshiny 'Shiny' for Multiple Windows
-
 mwTensor Multi-Way Component Analysis
-
 mxkssd Efficient Mixed-Level k-Circulant Supersaturated Designs
-
 MXM Feature Selection (Including Multiple Solutions) and Bayesian Networks
-
 mxmmod Measurement Model of Derivatives in 'OpenMx'
-
 mxnorm Apply Normalization Methods to Multiplexed Images
-
 My.stepwise Stepwise Variable Selection Procedures for Regression Analysis
-
 Mychisq Chi-Squared Test for Goodness of Fit and Independence Test
-
 mycobacrvR Integrative Immunoinformatics for Mycobacterial Diseases in R Platform
-
 mycor Automatic Correlation and Regression Test in a 'data.frame'
-
 myTAI Evolutionary Transcriptomics
 
 
