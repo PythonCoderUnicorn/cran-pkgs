@@ -6568,6 +6568,32 @@ ezr Easy Use of R via Shiny App for Basic Analyses of Experimental Data
 
 EZtune Tunes AdaBoost, Elastic Net, Support Vector Machines, and Gradient Boosting Machines
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 fabCI FAB Confidence Intervals
 
 FABInference FAB p-Values and Confidence Intervals
@@ -8141,6 +8167,32 @@ fxregime Exchange Rate Regime Analysis
 fxTWAPLS An Improved Version of WA-PLS
 
 fy Utilities for Financial Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 g.data Delayed-Data Packages
 
@@ -10372,6 +10424,29 @@ gym Provides Access to the OpenAI Gym API
 
 gyro Hyperbolic Geometry
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 h0 A Meta Analysis for Estimating the Hubble Constant via Time Delay Cosmography
 
 h2o R Interface for the 'H2O' Scalable Machine Learning Platform
@@ -11295,6 +11370,32 @@ hySpc.testthat 'testthat' Unit Test Enhancements
 hysteresis Tools for Modeling Rate-Dependent Hysteretic Processes and Ellipses
 
 hystReet Get Pedestrian Frequency Data from the 'Hystreet' Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 i18n Internationalization Data from the 'Unicode CLDR' in Tabular Form
 
@@ -12574,6 +12675,28 @@ IxPopDyMod Framework for Tick Population and Infection Modeling
 
 iZID Identify Zero-Inflated Distributions
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 jaatha Simulation-Based Maximum Likelihood Parameter Estimation
 
 jab.adverse.reactions Possible Adverse Events/Reactions from the Vaccinations/Experimental Gene Therapies
@@ -12873,6 +12996,26 @@ jvcoords Principal Component Analysis (PCA) and Whitening
 jvnVaR Value at Risk
 
 JWileymisc Miscellaneous Utilities and Functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 kableExtra Construct Complex Table with 'kable' and Pipe Syntax
 
@@ -13285,6 +13428,29 @@ kyotil Utility Functions for Statistical Analysis Report Generation and Monte Ca
 kza Kolmogorov-Zurbenko Adaptive Filters
 
 kzs Kolmogorov-Zurbenko Spatial Smoothing and Applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 l0ara Sparse Generalized Linear Model with L0 Approximation for Feature Selection
 
@@ -14619,6 +14785,29 @@ lwgeom Bindings to Selected 'liblwgeom' Functions for Simple Features
 lwqs Lagged Weighted Quantile Sum Regression
 
 LZeroSpikeInference Exact Spike Train Inference via L0 Optimization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 m2b Movement to Behaviour Inference using Random Forest
 
@@ -17666,6 +17855,31 @@ mycor Automatic Correlation and Regression Test in a 'data.frame'
 
 myTAI Evolutionary Transcriptomics
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 n1qn1 Port of the 'Scilab' 'n1qn1' Module for Unconstrained BFGS Optimization
 
 N2H4 Handling Methods for Naver News Text Crawling
@@ -18756,6 +18970,30 @@ nzilbb.labbcat Accessing Data Stored in 'LaBB-CAT' Instances
 
 nzpullover Driving Offences in New Zealand Between 2009 and 2016
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 o2geosocial Reconstruction of Transmission Chains from Surveillance Data
 
 o2plsda Multiomics Data Integration
@@ -19557,6 +19795,32 @@ oysteR Scans R Projects for Vulnerable Third Party Dependencies
 oz Plot the Australian Coastline and States
 
 ozmaps Australia Maps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 pa Performance Attribution for Equity Portfolios
 
@@ -21777,6 +22041,29 @@ ProbSamplingI Probabilistic Sampling Design and Strategies
 PROBShiny Interactive Document for Working with Basic Probability
 
 ProbYX Inference for the Stress-Strength Model R = P(Y PowerPoint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 r2r R-Object to R-Object Hash Maps
 
@@ -25511,6 +25798,30 @@ RZigZag Zig-Zag Sampler
 rzmq R Bindings for 'ZeroMQ'
 
 RZooRoH Partitioning of Individual Autozygosity into Multiple Homozygous-by-Descent Classes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 s2 Spherical Geometry Operators Using the S2 Geometry Library
 
@@ -29796,6 +30107,25 @@ syt Standard Young Tableaux
 
 syuzhet Extracts Sentiment and Sentiment-Derived Plot Arcs from Text
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 T2EQ Functions for Applying the T^2-Test for Equivalence
 
 T2Qv Control Qualitative Variables
@@ -31630,6 +31960,18 @@ tzdb Time Zone Database Information
 
 tzupdater Time Zone Database Updater
 
+
+
+
+
+
+
+
+
+
+
+
+
 u5mr Under-Five Child Mortality Estimation
 
 uaparserjs Parse 'User-Agent' Strings
@@ -31961,6 +32303,25 @@ uwo4419 UWO POLSCI 4419/9715
 uwot The Uniform Manifold Approximation and Projection (UMAP) Method for Dimensionality Reduction
 
 uxr User Experience Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 V8 Embedded JavaScript and WebAssembly Engine for R
 
@@ -32505,6 +32866,24 @@ VUROCS Volume under the ROC Surface for Multi-Class ROC Analysis
 vwline Draw Variable-Width Lines
 
 VWPre Tools for Preprocessing Visual World Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 W2CWM2C A Graphical Tool for Wavelet (Cross) Correlation and Wavelet Multiple (Cross) Correlation Analysis
 
@@ -33102,6 +33481,26 @@ wyz.code.rdoc Wizardry Code Offensive Programming R Documentation
 
 wyz.code.testthat Wizardry Code Offensive Programming Test Generation
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 x.ent eXtraction of ENTity
 
 x12 Interface to 'X12-ARIMA'/'X13-ARIMA-SEATS' and Structure for Batch Processing of Seasonal Adjustment
@@ -33254,6 +33653,24 @@ xwf Extrema-Weighted Feature Extraction
 
 xxIRT Item Response Theory and Computer-Based Testing in R
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 yacca Yet Another Canonical Correlation Analysis Package
 
 yaConsensus Consensus Clustering of Omic Data
@@ -33337,6 +33754,21 @@ yuimaGUI A Graphical User Interface for the 'yuima' Package
 yulab.utils Supporting Functions for Packages Maintained by 'YuLab-SMU'
 
 yum Utilities to Extract and Process 'YAML' Fragments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Z10 Simple Ecological Statistics from the NEON Network
 
