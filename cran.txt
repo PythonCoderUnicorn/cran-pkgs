@@ -1588,4845 +1588,2497 @@ AzureVM Virtual Machines in 'Azure'
 
 AzureVMmetadata Interface to Azure Virtual Machine Instance Metadata
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 babel Ribosome Profiling Data Analysis
-
 babelgene Gene Orthologs for Model Organisms in a Tidy Data Format
-
 babelmixr2 Use 'nlmixr2' to Interact with Open Source and Commercial Software
-
 babelwhale Talking to 'Docker' and 'Singularity' Containers
-
 babette Control 'BEAST2'
-
 babsim.hospital Bartz & Bartz Simulation Hospital
-
 babynames US Baby Names 1880-2017
-
 babynamesIL Israel Baby Names 1948-2021
-
 BACCO Bayesian Analysis of Computer Code Output (BACCO)
-
 BACCT Bayesian Augmented Control for Clinical Trials
-
 bacistool Bayesian Classification and Information Sharing (BaCIS) Tool for the Design of Multi-Group Phase II Clinical Trials
-
 backbone Extracts the Backbone from Graphs
-
 backpipe Backward Pipe (Right-to-Left) Operator
-
 backports Reimplementations of Functions Introduced Since R-3.0.0
-
 backShift Learning Causal Cyclic Graphs from Unknown Shift Interventions
-
 backtest Exploring Portfolio-Based Conjectures About Financial Instruments
-
 bacondecomp Goodman-Bacon Decomposition
-
 BACprior Choice of Omega in the BAC Algorithm
-
 bacr Bayesian Adjustment for Confounding
-
 badger Badge for R Package
-
 baffle Make Waffle Plots with Base Graphics
-
 bagged.outliertrees Robust Explainable Outlier Detection Based on OutlierTree
-
 baggr Bayesian Aggregate Treatment Effects
-
 BAGofT A Binary Regression Adaptive Goodness-of-Fit Test (BAGofT)
-
 baguette Efficient Model Functions for Bagging
-
 bahc Filter Covariance and Correlation Matrices with Bootstrapped-Averaged Hierarchical Ansatz
-
 bain Bayes Factors for Informative Hypotheses
-
 bakeoff Data from "The Great British Bake Off"
-
 bakR Analyze and Compare Nucleotide Recoding RNA Sequencing Datasets
-
 BalanceCheck Balance Check for Multiple Covariates in Matched Observational Studies
-
 BalancedSampling Balanced and Spatially Balanced Sampling
-
 BALCONY Better ALignment CONsensus analYsis
-
 Ball Statistical Inference and Sure Independence Screening via Ball Statistics
-
 BALLI Expression RNA-Seq Data Analysis Based on Linear Mixed Model
-
 BallMapper The Ball Mapper Algorithm
-
 BaM Functions and Datasets for "Bayesian Methods: A Social and Behavioral Sciences Approach"
-
 bama High Dimensional Bayesian Mediation Analysis
-
 BAMBI Bivariate Angular Mixture Models
-
 bamboo Protein Secondary Structure Prediction Using the Bamboo Method
-
 bambooHR A Wrapper to the 'BambooHR' API
-
 bamdit Bayesian Meta-Analysis of Diagnostic Test Data
-
 bamlss Bayesian Additive Models for Location, Scale, and Shape (and Beyond)
-
 BAMMtools Analysis and Visualization of Macroevolutionary Dynamics on Phylogenetic Trees
-
 bamp Bayesian Age-Period-Cohort Modeling and Prediction
-
 bandit Functions for Simple a/B Split Test and Multi-Armed Bandit Analysis
-
 bang Bayesian Analysis, No Gibbs
-
 bangladesh Provides Ready to Use Shapefiles for Geographical Map of Bangladesh
-
 bannerCommenter Make Banner Comments with a Consistent Format
-
 BANOVA Hierarchical Bayesian ANOVA Models
-
 banter BioAcoustic eveNT classifiER
-
 banxicoR Download Data from the Bank of Mexico
-
 bapred Batch Effect Removal and Addon Normalization (in Phenotype Prediction using Gene Data)
-
 BAR Bayesian Adaptive Randomization
-
 BarBorGradient Function Minimum Approximator
-
 barcode Render Barcode Distribution Plots
-
 baRcodeR Label Creation for Tracking and Collecting Data from Biological Samples
-
 BarcodingR Species Identification using DNA Barcodes
-
 bardr Complete Works of William Shakespeare in Tidy Format
-
 BARIS Access and Import Data from the French Open Data Portal
-
 Barnard Barnard's Unconditional Test
-
 barplot3d Create 3D Barplots
-
 BART Bayesian Additive Regression Trees
-
 bartBMA Bayesian Additive Regression Trees using Bayesian Model Averaging
-
 bartCause Causal Inference using Bayesian Additive Regression Trees
-
 bartcs Bayesian Additive Regression Trees for Confounder Selection
-
 bartMachine Bayesian Additive Regression Trees
-
 bartMachineJARs bartMachine JARs
-
 BartMixVs Variable Selection Using Bayesian Additive Regression Trees
-
 baRulho Quantifying Habitat-Induced Acoustic Signal Degradation
-
 Barycenter Regularized Wasserstein Distances and Barycenters
-
 BAS Bayesian Variable Selection and Model Averaging using Bayesian Adaptive Sampling
-
 basad Bayesian Variable Selection with Shrinking and Diffusing Priors
-
 base.rms Convert Regression Between Base Function and 'rms' Package
-
 base64 Base64 Encoder and Decoder
-
 base64enc Tools for base64 encoding
-
 base64url Fast and URL-Safe Base64 Encoder and Decoder
-
 baseballDBR Sabermetrics and Advanced Baseball Statistics
-
 baseballr Acquiring and Analyzing Baseball Data
-
 basecamb Utilities for Streamlined Data Import, Imputation and Modelling
-
 basedosdados 'Base Dos Dados' R Client
-
 basefun Infrastructure for Computing with Basis Functions
-
 baseline Baseline Correction of Spectra
-
 basemaps Accessing Spatial Basemaps in R
-
 BaseSet Working with Sets the Tidy Way
-
 basetheme Themes for Base Graphics Plots
-
 basf Plot Simple Features with 'base' Sensibilities
-
 basicMCMCplots Trace Plots, Density Plots and Chain Comparisons for MCMC Samples
-
 basicspace Recovering a Basic Space from Issue Scales
-
 basictabler Construct Rich Tables for Output to 'HTML'/'Excel'
-
 basifoR Retrieval and Processing of the Spanish National Forest Inventory
-
 BASiNET Classification of RNA Sequences using Complex Network Theory
-
 BASiNETEntropy Classification of RNA Sequences using Complex Network and Information Theory
-
 BaSkePro Bayesian Model to Archaeological Faunal Skeletal Profiles
-
 basket Basket Trial Analysis
-
 BasketballAnalyzeR Analysis and Visualization of Basketball Data
-
 baskexact Exact Calculation of Basket Trial Operating Characteristics
-
 BASS Bayesian Adaptive Spline Surfaces
-
 BaSTA Age-Specific Survival Analysis from Incomplete Capture-Recapture/Recovery Data
-
 bastah Big Data Statistical Analysis for High-Dimensional Models
-
 BAT Biodiversity Assessment Tools
-
 batata Managing Packages Removal and Installation
-
 batch Batching Routines in Parallel and Passing Command-Line Arguments to R
-
 BatchExperiments Statistical Experiments on Batch Computing Clusters
-
 BatchGetSymbols Downloads and Organizes Financial Data for Multiple Tickers
-
 BatchJobs Batch Computing with R
-
 batchmeans Consistent Batch Means Estimation of Monte Carlo Standard Errors
-
 batchmix Semi-Supervised Bayesian Mixture Models Incorporating Batch Correction
-
 batchscr Batch Script Helpers
-
 batchtma Batch Effect Adjustments
-
 batchtools Tools for Computation on Batch Systems
-
 bate Computes Bias-Adjusted Treatment Effect
-
 batman Convert Categorical Representations of Logicals to Actual Logicals
-
 batteryreduction An R Package for Data Reduction by Battery Reduction
-
 BAwiR Analysis of Basketball Data
-
 baycn Bayesian Inference for Causal Networks
-
 bayefdr Bayesian Estimation and Optimisation of Expected False Discovery Rate
-
 bayes4psy User Friendly Bayesian Data Analysis for Psychology
-
 bayesAB Fast Bayesian Methods for AB Testing
-
 bayesammi Bayesian Estimation of the Additive Main Effects and Multiplicative Interaction Model
-
 bayesanova Bayesian Inference in the Analysis of Variance via Markov Chain Monte Carlo in Gaussian Mixture Models
-
 BayesARIMAX Bayesian Estimation of ARIMAX Model
-
 bayesassurance Bayesian Assurance Computation
-
 BayesBinMix Bayesian Estimation of Mixtures of Multivariate Bernoulli Distributions
-
 bayesbio Miscellaneous Functions for Bioinformatics and Bayesian Statistics
-
 bayesboot An Implementation of Rubin's (1981) Bayesian Bootstrap
-
 BayesBP Bayesian Estimation using Bernstein Polynomial Fits Rate Matrix
-
 bayesbr Beta Regression on a Bayesian Model
-
 BayesCACE Bayesian Model for CACE Analysis
-
 BayesCombo Bayesian Evidence Combination
-
 BayesComm Bayesian Community Ecology Analysis
-
 bayescopulareg Bayesian Copula Regression
-
 bayescount Power Calculations and Bayesian Analysis of Count Distributions and FECRT Data using MCMC
-
 BayesCR Bayesian Analysis of Censored Regression Models Under Scale Mixture of Skew Normal Distributions
-
 bayesCT Simulation and Analysis of Adaptive Bayesian Clinical Trials
-
 BayesCTDesign Two Arm Bayesian Clinical Trial Design with and Without Historical Control Data
-
 BayesDA Functions and Datasets for the book "Bayesian Data Analysis"
-
 bayesDccGarch Methods and Tools for Bayesian Dynamic Conditional Correlation GARCH(1,1) Model
-
 BayesDesign Bayesian Single-Arm Design with Survival Endpoints
-
 bayesdfa Bayesian Dynamic Factor Analysis (DFA) with 'Stan'
-
 BayesDissolution Bayesian Models for Dissolution Testing
-
 bayesdistreg Bayesian Distribution Regression
-
 bayesDP Implementation of the Bayesian Discount Prior Approach for Clinical Trials
-
 BayesESS Determining Effective Sample Size
-
 BayesFactor Computation of Bayes Factors for Common Designs
-
 BayesFM Bayesian Inference for Factor Modeling
-
 bayesforecast Bayesian Time Series Modeling with Stan
-
 bayesGAM Fit Multivariate Response Generalized Additive Models using Hamiltonian Monte Carlo
-
 bayesGARCH Bayesian Estimation of the GARCH(1,1) Model with Student-t Innovations
-
 BayesGOF Bayesian Modeling via Frequentist Goodness-of-Fit
-
 BayesGPfit Fast Bayesian Gaussian Process Regression Fitting
-
 BayesGWQS Bayesian Grouped Weighted Quantile Sum Regression
-
 bayesian Bindings for Bayesian TidyModels
-
 bayesianETAS Bayesian Estimation of the ETAS Model for Earthquake Occurrences
-
 Bayesiangammareg Bayesian Gamma Regression: Joint Mean and Shape Modeling
-
 BayesianGLasso Bayesian Graphical Lasso
-
 BayesianLaterality Predict Brain Asymmetry Based on Handedness and Dichotic Listening
-
 BayesianMediationA Bayesian Mediation Analysis
-
 BayesianNetwork Bayesian Network Modeling and Analysis
-
 BayesianPower Sample Size and Power for Comparing Inequality Constrained Hypotheses
-
 BayesianReasoning Plot Positive and Negative Predictive Values for Medical Tests
-
 Bayesiantreg Bayesian t Regression for Modeling Mean and Scale Parameters
-
 bayesImageS Bayesian Methods for Image Segmentation using a Potts Model
-
 BayesLCA Bayesian Latent Class Analysis
-
 bayesLife Bayesian Projection of Life Expectancy
-
 bayeslincom Linear Combinations of Bayesian Posterior Samples
-
 bayeslm Efficient Sampling for Gaussian Linear Regression with Arbitrary Priors
-
 BayesLN Bayesian Inference for Log-Normal Data
-
 BayesLogit PolyaGamma Sampling
-
 bayesloglin Bayesian Analysis of Contingency Table Data
-
 bayeslongitudinal Adjust Longitudinal Regression Models Using Bayesian Methodology
-
 bayesm Bayesian Inference for Marketing/Micro-Econometrics
-
 BayesMallows Bayesian Preference Learning with the Mallows Rank Model
-
 BayesMassBal Bayesian Data Reconciliation of Separation Processes
-
 bayesmeta Bayesian Random-Effects Meta-Analysis and Meta-Regression
-
 BayesMFSurv Bayesian Misclassified-Failure Survival Model
-
 bayesmix Bayesian Mixture Models with JAGS
-
 BayesMixSurv Bayesian Mixture Survival Models using Additive Mixture-of-Weibull Hazards, with Lasso Shrinkage and Stratification
-
 bayesmove Non-Parametric Bayesian Analyses of Animal Movement
-
 BayesMRA Bayesian Multi-Resolution Gaussian Process Approximations
-
 BayesMultiMode Testing and Detecting Multimodality using Bayesian Methods
-
 BayesMultMeta Bayesian Multivariate Meta-Analysis
-
 bayesnec A Bayesian No-Effect- Concentration (NEC) Algorithm
-
 BayesNetBP Bayesian Network Belief Propagation
-
 BayesNSGP Bayesian Analysis of Non-Stationary Gaussian Process Models
-
 BayesOrdDesign Bayesian Group Sequential Design for Ordinal Data
-
 BayesPieceHazSelect Variable Selection in a Hierarchical Bayesian Model for a Hazard Function
-
 BayesPiecewiseICAR Hierarchical Bayesian Model for a Hazard Function
-
 bayesplay The Bayes Factor Playground
-
 bayesplot Plotting for Bayesian Models
-
 bayesPO Bayesian Inference for Presence-Only Data
-
 bayesPop Probabilistic Population Projection
-
 BayesPostEst Generate Postestimation Quantities for Bayesian MCMC Estimation
-
 BayesPPD Bayesian Power Prior Design
-
 BayesProject Fast Projection Direction for Multivariate Changepoint Detection
-
 bayesQR Bayesian Quantile Regression
-
 bayesreg Bayesian Regression Models with Global-Local Shrinkage Priors
-
 Bayesrel Bayesian Reliability Estimation
-
 BayesReversePLLH Fits the Bayesian Piecewise Linear Log-Hazard Model
-
 BayesRGMM Bayesian Robust Generalized Mixed Models for Longitudinal Data
-
 BayesRS Bayes Factors for Hierarchical Linear Models with Continuous Predictors
-
 bayesrules Datasets and Supplemental Functions from Bayes Rules! Book
-
 bayess Bayesian Essentials with R
-
 BayesS5 Bayesian Variable Selection Using Simplified Shotgun Stochastic Search with Screening (S5)
-
 BayesSAE Bayesian Analysis of Small Area Estimation
-
 BayesSampling Bayes Linear Estimators for Finite Population
-
 BayesSenMC Different Models of Posterior Distributions of Adjusted Odds Ratio
-
 BayesSpec Bayesian Spectral Analysis Techniques
-
 BayesSPsurv Bayesian Spatial Split Population Survival Model
-
 BayesSUR Bayesian Seemingly Unrelated Regression
-
 bayesSurv Bayesian Survival Regression with Flexible Error and Random Effects Distributions
-
 BayesSurvival Bayesian Survival Analysis for Right Censored Data
-
 bayest Effect Size Targeted Bayesian Two-Sample t-Tests via Markov Chain Monte Carlo in Gaussian Mixture Models
-
 bayestestR Understand and Describe Bayesian Models and Posterior Distributions
-
 bayesTFR Bayesian Fertility Projection
-
 BayesTools Tools for Bayesian Analyses
-
 BayesTree Bayesian Additive Regression Trees
-
 BayesTreePrior Bayesian Tree Prior Simulation
-
 BayesTwin Bayesian Analysis of Item-Level Twin Data
-
 BayesVarSel Bayes Factors, Model Choice and Variable Selection in Linear Models
-
 bayesvl Visually Learning the Graphical Structure of Bayesian Networks and Performing MCMC with 'Stan'
-
 BayesX R Utilities Accompanying the Software Package BayesX
-
 BayesXsrc R Package Distribution of the BayesX C++ Sources
-
 bayesZIB Bayesian Zero-Inflated Bernoulli Regression Model
-
 bayfoxr Global Bayesian Foraminifera Core Top Calibration
-
 BayLum Chronological Bayesian Models Integrating Optically Stimulated Luminescence and Radiocarbon Age Dating
-
 bayMDS Bayesian Multidimensional Scaling and Choice of Dimension
-
 baymedr Computation of Bayes Factors for Common Biomedical Designs
-
 baystability Bayesian Stability Analysis of Genotype by Environment Interaction (GEI)
-
 BAYSTAR On Bayesian Analysis of Threshold Autoregressive Models
-
 baytrends Long Term Water Quality Trend Analysis
-
 bazar Miscellaneous Basic Functions
-
 BB Solving and Optimizing Large-Scale Nonlinear Systems
-
 BBcor Bayesian Bootstrapping Correlations
-
 bbdetection Identification of Bull and Bear States of the Market
-
 BBEST Bayesian Estimation of Incoherent Neutron Scattering Backgrounds
-
 BBI Benthic Biotic Indices Calculation from Composition Data
-
 bbknnR Perform Batch Balanced KNN in R
-
 bbl Boltzmann Bayes Learner
-
 BBmisc Miscellaneous Helper Functions for B. Bischl
-
 bbmle Tools for General Maximum Likelihood Estimation
-
 bbotk Black-Box Optimization Toolkit
-
 bbreg Bessel and Beta Regressions via Expectation-Maximization Algorithm for Continuous Bounded Data
-
 bbricks Bayesian Methods and Graphical Model Structures for Statistical Modeling
-
 bbsBayes Hierarchical Bayesian Analysis of North American BBS Data
-
 BBSSL Bayesian Bootstrap Spike-and-Slab LASSO
-
 bbw Blocked Weighted Bootstrap
-
 bc3net Gene Regulatory Network Inference with Bc3net
-
 BCA1SG Block Coordinate Ascent with One-Step Generalized Rosen Algorithm
-
 bcaboot Bias Corrected Bootstrap Confidence Intervals
-
 BCBCSF Bias-Corrected Bayesian Classification with Selected Features
-
 BCC1997 Calculation of Option Prices Based on a Universal Solution
-
 bccp Bias Correction under Censoring Plan
-
 BCDAG Bayesian Structure and Causal Learning of Gaussian Directed Graphs
-
 bcdata Search and Retrieve Data from the BC Data Catalogue
-
 BCDating Business Cycle Dating and Plotting Tools
-
 BcDiag Diagnostics Plots for Bicluster Data
-
 BCE Bayesian Composition Estimator: Estimating Sample (Taxonomic) Composition from Biomarker Data
-
 BCEA Bayesian Cost Effectiveness Analysis
-
 BCEE The Bayesian Causal Effect Estimation Algorithm
-
 bcf Causal Inference for a Binary Treatment and Continuous Outcome using Bayesian Causal Forests
-
 bcfrailph Semiparametric Bivariate Correlated Frailty Model
-
 bcfrailphdv Bivariate Correlated Frailty Models with Varied Variances
-
 bcgam Bayesian Constrained Generalised Linear Models
-
 BCgee Bias-Corrected Estimates for Generalized Linear Models for Dependent Data
-
 BCHM Clinical Trial Calculation Based on BCHM Design
-
 Bchron Radiocarbon Dating, Age-Depth Modelling, Relative Sea Level Rate Estimation, and Non-Parametric Phase Modelling
-
 BClustLonG A Dirichlet Process Mixture Model for Clustering Longitudinal Gene Expression Data
-
 bcmaps Map Layers and Spatial Utilities for British Columbia
-
 bcmixed Mixed Effect Model with the Box-Cox Transformation
-
 bcp Bayesian Analysis of Change Point Problems
-
 bcpa Behavioral Change Point Analysis of Animal Movement
-
 bcputility Wrapper for SQL Server bcp Utility
-
 BCRA Breast Cancer Risk Assessment
-
 bcrm Bayesian Continual Reassessment Method for Phase I Dose-Escalation Trials
-
 bcROCsurface Bias-Corrected Methods for Estimating the ROC Surface of Continuous Diagnostic Tests
-
 bcrypt 'Blowfish' Password Hashing Algorithm
-
 BCSub A Bayesian Semiparametric Factor Analysis Model for Subtype Identification (Clustering)
-
 BCT Bayesian Context Trees for Discrete Time Series
-
 bcTSNE Projected t-SNE for Batch Correction
-
 bda Binned Data Analysis
-
 bdc Biodiversity Data Cleaning
-
 bdchecks Biodiversity Data Checks
-
 bdclean A User-Friendly Biodiversity Data Cleaning App for the Inexperienced R User
-
 bdDwC Darwinizer: Darwin Core (DwC) Field Names Standardization
-
 bde Bounded Density Estimation
-
 BDEsize Efficient Determination of Sample Size in Balanced Design of Experiments
-
 BDgraph Bayesian Structure Learning in Graphical Models using Birth-Death MCMC
-
 bdl Interface and Tools for 'BDL' API
-
 bdlp Transparent and Reproducible Artificial Data Generation
-
 bdots Bootstrapped Differences of Time Series
-
 BDP2 Bayesian Adaptive Designs for Phase II Trials with Binary Endpoint
-
 bdpar Big Data Preprocessing Architecture
-
 bdpopt Optimisation of Bayesian Decision Problems
-
 bdpv Inference and Design for Predictive Values in Diagnostic Tests
-
 bdrc Bayesian Discharge Rating Curves
-
 bdribs Bayesian Detection of Potential Risk Using Inference on Blinded Safety Data
-
 bdscale Remove Weekends and Holidays from ggplot2 Axes
-
 bdsmatrix Routines for Block Diagonal Symmetric Matrices
-
 bdvis Biodiversity Data Visualizations
-
 BDWreg Bayesian Inference for Discrete Weibull Regression
-
 BE Bioequivalence Study Data Analysis
-
 bea.R Bureau of Economic Analysis API
-
 BEACH Biometric Exploratory Analysis Creation House
-
 beadplexr Analysis of Multiplex Cytometric Bead Assays
-
 beakr A Minimalist Web Framework for R
-
 beam Fast Bayesian Inference in Large Gaussian Graphical Models
-
 beanplot Visualization via Beanplots (Like Boxplot/Stripchart/Violin Plot)
-
 beans Data on Dried Beans
-
 beanz Bayesian Analysis of Heterogeneous Treatment Effect
-
 bearishTrader Trading Strategies for Bearish Outlook
-
 beast Bayesian Estimation of Change-Points in the Slope of Multivariate Time-Series
-
 beastier Call 'BEAST2'
-
 BeastJar JAR Dependency for MCMC Using 'BEAST'
-
 beautier 'BEAUti' from R
-
 BED Biological Entity Dictionary (BED)
-
 BEDASSLE Quantifies Effects of Geo/Eco Distance on Genetic Differentiation
-
 BEDMatrix Extract Genotypes from a PLINK .bed File
-
 bedr Genomic Region Processing using Tools Such as 'BEDTools', 'BEDOPS' and 'Tabix'
-
 BeeGUTS General Unified Threshold Model of Survival for Bees using Bayesian Inference
-
 beepr Easily Play Notification Sounds on any Platform
-
 beeswarm The Bee Swarm Plot, an Alternative to Stripchart
-
 beezdemand Behavioral Economic Easy Demand
-
 befproj Makes a Local Population Projection
-
 beginr Functions for R Beginners
-
 behaviorchange Tools for Behavior Change Researchers and Professionals
-
 behavr Canonical Data Structure for Behavioural Data
-
 BEKKs Multivariate Conditional Volatility Modelling and Forecasting
-
 belex Download Historical Data from the Belgrade Stock Exchange
-
 belg Boltzmann Entropy of a Landscape Gradient
-
 bellreg Count Regression Models Based on the Bell Distribution
-
 bench High Precision Timing of R Expressions
-
 Benchmarking Benchmark and Frontier Analysis Using DEA and SFA
-
 benchmarkme Crowd Sourced System Benchmarks
-
 benchmarkmeData Data Set for the 'benchmarkme' Package
-
 benchr High Precise Measurement of R Expressions Execution Time
-
 bender Bender Client
-
 benford Benford's Analysis on Large Data Sets
-
 benford.analysis Benford Analysis for Data Validation and Forensic Analytics
-
 BenfordTests Statistical Tests for Evaluating Conformity to Benford's Law
-
 BENMMI Benthic Multi-Metric Index
-
 bentcableAR Bent-Cable Regression for Independent Data or Autoregressive Time Series
-
 benthos Marine Benthic Ecosystem Analysis
-
 Bergm Bayesian Exponential Random Graph Models
-
 berryFunctions Function Collection Related to Plotting and Hydrology
-
 BeSS Best Subset Selection in Linear, Logistic and CoxPH Models
-
 Bessel Computations and Approximations for Bessel Functions
-
 BEST Bayesian Estimation Supersedes the t-Test
-
 bestglm Best Subset GLM and Regression Utilities
-
 besthr Generating Bootstrap Estimation Distributions of HR Data
-
 Bestie Bayesian Estimation of Intervention Effects
-
 bestNormalize Normalizing Transformation Functions
-
 BESTree Branch-Exclusive Splits Trees
-
 bestridge A Comprehensive R Package for Best Subset Selection
-
 bestSDP Burden Estimate of Common Communicable Diseases in Settlements of Displaced Populations
-
 BET Binary Expansion Testing
-
 betaBayes Bayesian Beta Regression
-
 BetaBit Mini Games from Adventures of Beta and Bit
-
 betacal Beta Calibration
-
 betafunctions Functions for Working with Two- And Four-Parameter Beta Probability Distributions
-
 betapart Partitioning Beta Diversity into Turnover and Nestedness Components
-
 BetaPASS Calculate Power and Sample Size with Beta Regression
-
 betaper Taxonomic Uncertainty on Multivariate Analyses of Ecological Data
-
 betareg Beta Regression
-
 betaSandwich Robust Confidence Intervals for Standardized Regression Coefficients
-
 betategarch Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH Models
-
 bethel Bethel's algorithm
-
 BETS Brazilian Economic Time Series
-
 bets.covid19 The BETS Model for Early Epidemic Data
-
 bettermc Enhanced Fork-Based Parallelization
-
 BetterReg Better Statistics for OLS and Binomial Logistic Regression
-
 BeviMed Bayesian Evaluation of Variant Involvement in Mendelian Disease
-
 BeyondBenford Compare the Goodness of Fit of Benford's and Blondeau Da Silva's Digit Distributions to a Given Dataset
-
 beyondWhittle Bayesian Spectral Inference for Stationary Time Series
-
 bezier Toolkit for Bezier Curves and Splines
-
 bfast Breaks for Additive Season and Trend
-
 BFF Bayes Factor Functions
-
 bfp Bayesian Fractional Polynomials
-
 BFpack Flexible Bayes Factor Testing of Scientific Expectations
-
 BFS Get Data from the Swiss Statistical Office
-
 bfsl Best-Fit Straight Line
-
 bfsMaps Plot Maps from Switzerland by Swiss Federal Statistical Office
-
 bfw Bayesian Framework for Computational Modeling
-
 BGData A Suite of Packages for Analysis of Big Genomic Data
-
 bgeva Binary Generalized Extreme Value Additive Models
-
 bggAnalytics BoardGameGeek's Board Game Data Analysis Tools
-
 BGGE Bayesian Genomic Linear Models Applied to GE Genome Selection
-
 BGGM Bayesian Gaussian Graphical Models
-
 bggum Bayesian Estimation of Generalized Graded Unfolding Model Parameters
-
 BGLR Bayesian Generalized Linear Regression
-
 bgmfiles Example BGM Files for the Atlantis Ecosystem Model
-
 BGmisc Behavior Genetic Modeling Functions
-
 bgmm Gaussian Mixture Modeling Algorithms and the Belief-Based Mixture Modeling
-
 bgsmtr Bayesian Group Sparse Multi-Task Regression
-
 bgumbel Bimodal Gumbel Distribution
-
 BGVAR Bayesian Global Vector Autoregressions
-
 BH Boost C++ Header Files
-
 BHAI Estimate the Burden of Healthcare-Associated Infections
-
 Bhat General Likelihood Exploration
-
 BHH2 Useful Functions for Box, Hunter and Hunter II
-
 bhm Biomarker Threshold Models
-
 bhmbasket Bayesian Hierarchical Models for Basket Trials
-
 BHMSMAfMRI Bayesian Hierarchical Multi-Subject Multiscale Analysis of Functional MRI (fMRI) Data
-
 bhpm Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes with Clustering
-
 BHSBVAR Structural Bayesian Vector Autoregression Models
-
 BHTSpack Bayesian Multi-Plate High-Throughput Screening of Compounds
-
 BI Blinding Assessment Indexes for Randomized, Controlled, Clinical Trials
-
 BiasCorrector A GUI to Correct Measurement Bias in DNA Methylation Analyses
-
 BiasedUrn Biased Urn Model Distributions
-
 bib2df Parse a BibTeX File to a Data Frame
-
 BiBitR R Wrapper for Java Implementation of BiBit
-
 biblio Interacting with BibTeX Databases
-
 bibliometrix Comprehensive Science Mapping Analysis
-
-bibliometrixData Bibliometrix Example Datasets
-
+bibliometrixData Bibliometrix Example Dataset
 biblionetwork Create Different Types of Bibliometric Networks
-
 BibPlots Plot Functions for Use in Bibliometrics
-
 bibs Bayesian Inference for the Birnbaum-Saunders Distribution
-
 bibtex Bibtex Parser
-
 BiCausality Binary Causality Inference Framework
-
 biClassify Binary Classification Using Extensions of Discriminant Analysis
-
 biclust BiCluster Algorithms
-
 biclustermd Biclustering with Missing Data
-
 BICORN Integrative Inference of De Novo Cis-Regulatory Modules
-
 BiDAG Bayesian Inference for Directed Acyclic Graphs
-
 bidask Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
-
 BiDimRegression Calculates the Bidimensional Regression Between Two 2D Configurations
-
 BIEN Tools for Accessing the Botanical Information and Ecology Network Database
-
 BifactorIndicesCalculator Bifactor Indices Calculator
-
 bife Binary Choice Models with Fixed Effects
-
 BIFIEsurvey Tools for Survey Statistics in Educational Assessment
-
 bifurcatingr Bifurcating Autoregressive Models
-
 bigalgebra 'BLAS' and 'LAPACK' Routines for Native R Matrices and 'big.matrix' Objects
-
 biganalytics Utilities for 'big.matrix' Objects from Package 'bigmemory'
-
 bigassertr Assertion and Message Functions
-
 bigchess Read, Write, Manipulate, Explore Chess PGN Files and R API to UCI Chess Engines
-
 bigD Flexibly Format Dates and Times to a Given Locale
-
 bigdatadist Distances for Machine Learning and Statistics in the Context of Big Data
-
 BIGDAWG Case-Control Analysis of Multi-Allelic Loci
-
 bigdist Store Distance Matrices on Disk
-
 bigDM Scalable Bayesian Disease Mapping Models for High-Dimensional Data
-
 bigGP Distributed Gaussian Process Calculations
-
 BIGL Biochemically Intuitive Generalized Loewe Model
-
 biglasso Extending Lasso Model Fitting to Big Data
-
 bigleaf Physical and Physiological Ecosystem Properties from Eddy Covariance Data
-
 biglm Bounded Memory Linear and Generalized Linear Models
-
 biglmm Bounded Memory Linear and Generalized Linear Models
-
 bigMap Big Data Mapping
-
 bigmatch Making Optimal Matching Size-Scalable Using Optimal Calipers
-
 bigmds Multidimensional Scaling for Big Data
-
 bigmemory Manage Massive Matrices with Shared Memory and Memory-Mapped Files
-
 bigmemory.sri A Shared Resource Interface for Bigmemory Project Packages
-
 bignum Arbitrary-Precision Integer and Floating-Point Mathematics
-
 bigparallelr Easy Parallel Tools
-
 bigQF Quadratic Forms in Large Matrices
-
 bigQueryR Interface with Google BigQuery with Shiny Compatibility
-
 BigQuic Big Quadratic Inverse Covariance Estimation
-
 bigreadr Read Large Text Files
-
 bigReg Generalized Linear Models (GLM) for Large Data Sets
-
 bigrquery An Interface to Google's 'BigQuery' 'API'
-
 bigsimr Fast Generation of High-Dimensional Random Vectors
-
 bigsnpr Analysis of Massive SNP Arrays
-
 bigsparser Sparse Matrix Format with Data on Disk
-
 bigsplines Smoothing Splines for Large Samples
-
 bigstatsr Statistical Tools for Filebacked Big Matrices
-
 bigstep Stepwise Selection for Large Data Sets
-
 bigSurvSGD Big Survival Analysis Using Stochastic Gradient Descent
-
 bigtabulate Table, Apply, and Split Functionality for Matrix and 'big.matrix' Objects
-
 bigtcr Nonparametric Analysis of Bivariate Gap Time with Competing Risks
-
 bigtime Sparse Estimation of Large Time Series Models
-
 bigutilsr Utility Functions for Large-scale Data
-
 BigVAR Dimension Reduction Methods for Multivariate Time Series
-
 bikeshare14 Bay Area Bike Share Trips in 2014
-
 bikm1 Co-Clustering Adjusted Rand Index and Bikm1 Procedure for Contingency and Binary Data-Sets
-
 bild A Package for BInary Longitudinal Data
-
 billboard Contains Data of Billboard Hot 100 Songs
-
 billboarder Create Interactive Chart with the JavaScript 'Billboard' Library
-
 bimets Time Series and Econometric Modeling
-
 BimodalIndex The Bimodality Index
-
 binancer API Client to 'Binance'
-
 Binarize Binarization of One-Dimensional Data
-
 BinarybalancedCut Threshold Cut Point of Probability for a Binary Classifier Model
-
 BinaryDosage Creates, Merges, and Reads Binary Dosage Files
-
 BinaryEMVS Variable Selection for Binary Data Using the EM Algorithm
-
 BinaryEPPM Mean and Variance Modeling of Binary Data
-
 binaryGP Fit and Predict a Gaussian Process Model with (Time-Series) Binary Response
-
 binaryMM Flexible Marginalized Models for Binary Correlated Outcomes
-
 binaryTimeSeries Analyzes a Binary Variable During a Time Series
-
 binb 'binb' is not 'Beamer'
-
 BINCOR Estimate the Correlation Between Two Irregular Time Series
-
 binda Multi-Class Discriminant Analysis using Binary Predictors
-
 bindata Generation of Artificial Binary Data
-
 bindr Parametrized Active Bindings
-
 bindrcpp An 'Rcpp' Interface to Active Bindings
-
 binequality Methods for Analyzing Binned Income Data
-
 binford Binford's Hunter-Gatherer Data
-
 binfunest Estimates Parameters of Functions Driving Binomial Random Variables
-
 bingadsR Get Bing Ads Data via the 'Windsor.ai' API
-
 bingat Binary Graph Analysis Tools
-
 binGroup Evaluation and Experimental Design for Binomial Group Testing
-
 binGroup2 Identification and Estimation using Group Testing
-
 BinGSD Calculation for Single Arm Group Sequential Test with Binary Endpoint
-
 binhf Haar-Fisz Functions for Binomial Data
-
 binman A Binary Download Manager
-
 BinMat Processes Binary Data Obtained from Fragment Analysis (Such as AFLPs, ISSRs, and RFLPs)
-
 binMto Many-to-One Comparisons of Proportions
-
 BinNonNor Data Generation with Binary and Continuous Non-Normal Components
-
 BinNor Simultaneous Generation of Multivariate Binary and Normal Variates
-
 binom Binomial Confidence Intervals for Several Parameterizations
-
 binomialRF Binomial Random Forest Feature Selection
-
 binomSamSize Confidence Intervals and Sample Size Determination for a Binomial Proportion under Simple Random Sampling and Pooled Sampling
-
 BinOrdNonNor Concurrent Generation of Binary, Ordinal and Continuous Data
-
 binovisualfields Depth-Dependent Binocular Visual Fields Simulation
-
 binr Cut Numeric Values into Evenly Distributed Groups
-
 BinSegBstrap Piecewise Smooth Regression by Bootstrapped Binary Segmentation
-
 binsegRcpp Efficient Implementation of Binary Segmentation
-
 binseqtest Exact Binary Sequential Designs and Analysis
-
 binsmooth Generate PDFs and CDFs from Binned Data
-
 binspp Bayesian Inference for Neyman-Scott Point Processes
-
 binsreg Binscatter Estimation and Inference
-
 binst Data Preprocessing, Binning for Classification and Regression
-
 BINtools Bayesian BIN (Bias, Information, Noise) Model of Forecasting
-
 bio.infer Predict Environmental Conditions from Biological Observations
-
 bio3d Biological Structure Analysis
-
 bioacoustics Analyse Audio Recordings and Automatically Extract Animal Vocalizations
-
 bioassays Summarising Multi Well Plate Cellular Assay
-
 bioC.logs BioConductor Package Downloads Stats
-
 BioCircos Interactive Circular Visualization of Genomic Data using 'htmlwidgets' and 'BioCircos.js'
-
 bioclim Bioclimatic Analysis and Classification
-
 BiocManager Access the Bioconductor Project Package Repository
-
 Biocomb Feature Selection and Classification with the Embedded Validation Procedures for Biomedical Data Analysis
-
 biocompute Create and Manipulate BioCompute Objects
-
 Biodem Biodemography Functions
-
 BiodiversityR Package for Community Ecology and Suitability Analysis
-
 biodosetools An R Shiny Application for Biological Dosimetry
-
 BIOdry Multilevel Modeling of Dendroclimatical Fluctuations
-
 biogas Process Biogas Data and Predict Biogas Production
-
 biogeo Point Data Quality Assessment and Coordinate Conversion
-
 biogeom Biological Geometries
-
 biogram N-Gram Analysis of Biological Sequences
-
 biogrowth Modelling of Population Growth
-
 Bioi Biological Image Analysis
-
 bioimagetools Tools for Microscopy Imaging
-
 bioinactivation Mathematical Modelling of (Dynamic) Microbial Inactivation
-
 BioInsight Filter and Plot RNA Biotypes
-
 biokNN Bi-Objective k-Nearest Neighbors Imputation for Multilevel Data
-
 biolink Create Hyperlinks to Biological Databases and Resources
-
 Biolinv Modelling and Forecasting Biological Invasions
-
 BioMark Find Biomarkers in Two-Class Discrimination Problems
-
 biomartr Genomic Data Retrieval
-
 BIOMASS Estimating Aboveground Biomass and Its Uncertainty in Tropical Forests
-
 biometryassist Functions to Assist Design and Analysis of Agronomic Experiments
-
 biomod2 Ensemble Platform for Species Distribution Modeling
-
 bionetdata Biological and Chemical Data Networks
-
 bioOED Sensitivity Analysis and Optimum Experiment Design for Microbial Inactivation
-
 Biopeak Identification of Impulse-Like Gene Expression Changes in Short Genomic Series Data
-
 BioPET Biomarker Prognostic Enrichment Tool
-
 BioPETsurv Biomarker Prognostic Enrichment Tool for Time-to-Event Trial
-
 bioPN Simulation of deterministic and stochastic biochemical reaction networks using Petri Nets
-
 BioProbability Probability in Biostatistics
-
 bioRad Biological Analysis and Visualization of Weather Radar Data
-
 BioRssay Analyze Bioassays and Probit Graphs
-
 Bios2cor From Biological Sequences and Simulations to Correlation Analysis
-
 bios2mds From Biological Sequences to Multidimensional Scaling
-
 biosensors.usc Distributional Data Analysis Techniques for Biosensor Data
-
 bioseq A Toolbox for Manipulating Biological Sequences
-
 biosignalEMG Tools for Electromyogram Signals (EMG) Analysis
-
 biospear Biomarker Selection in Penalized Regression Models
-
 biostat3 Utility Functions, Datasets and Extended Examples for Survival Analysis
-
 Biostatistics Statistics Tutorials for Biologists
-
 BioStatR Initiation à La Statistique Avec R
-
 biosurvey Tools for Biological Survey Planning
-
 biotic Calculation of Freshwater Biotic Indices
-
 biotools Tools for Biometry and Applied Statistics in Agricultural Science
-
 BioVenn Create Area-Proportional Venn Diagrams from Biological Lists
-
 bipartite Visualising Bipartite Networks and Calculating Some (Ecological) Indices
-
 bipartiteD3 Interactive Bipartite Graphs
-
 BipartiteModularityMaximization Partition Bipartite Network into Non-Overlapping Biclusters by Optimizing Bipartite Modularity
-
 bipd Bayesian Individual Patient Data Meta-Analysis using 'JAGS'
-
 biplotbootGUI Bootstrap on Classical Biplots and Clustering Disjoint Biplot
-
 BiplotGUI Interactive Biplots in R
-
 BiplotML Biplots Estimation with Algorithms ML
-
 BiProbitPartial Bivariate Probit with Partial Observability
-
 birankr Ranking Nodes in Bipartite and Weighted Networks
-
 birdring Methods to Analyse Ring Re-Encounter Data
-
 birk MA Birk's Functions
-
 birtr The R Package for "The Basics of Item Response Theory Using R"
-
 BIS Programmatic Access to Bank for International Settlements Data
-
 biscale Tools and Palettes for Bivariate Thematic Mapping
-
 BISdata Download Data from the Bank for International Settlements (BIS)
-
 bisectr Tools to find bad commits with git bisect
-
 BiSEp Toolkit to Identify Candidate Synthetic Lethality
-
 bisque Approximate Bayesian Inference via Sparse Grid Quadrature Evaluation (BISQuE) for Hierarchical Models
-
 BisqueRNA Decomposition of Bulk Expression with Single-Cell Sequencing
-
 BisRNA Analysis of RNA Cytosine-5 Methylation
-
 bistablehistory Cumulative History Analysis for Bistable Perception Time Series
-
 bit Classes and Methods for Fast Memory-Efficient Boolean Selections
-
 bit64 A S3 Class for Vectors of 64bit Integers
-
 bite Bayesian Integrative Models of Trait Evolution
-
 bitmexr R Client for BitMEX
-
 bitops Bitwise Operations
-
 BiTrinA Binarization and Trinarization of One-Dimensional Data
-
 bitsqueezr Quantize Floating-Point Numbers for Improved Compressibility
-
 bittermelon Monochrome Bitmap Font Tools
-
 Bivariate.Pareto Bivariate Pareto Models
-
 bivariatemaps Creates Bivariate Maps
-
 BivGeo Basu-Dhar Bivariate Geometric Distribution
-
 bivgeom Roy's Bivariate Geometric Distribution
-
 BivRec Bivariate Alternating Recurrent Event Data Analysis
-
 BivRegBLS Tolerance Interval and EIV Regression - Method Comparison Studies
-
 bivrp Bivariate Residual Plots with Simulation Polygons
-
 BivUnifBin Generation of Bivariate Uniform Data and Its Relation to Bivariate Binary Data
-
 biwavelet Conduct Univariate and Bivariate Wavelet Analyses
-
 biwt Compute the Biweight Mean Vector and Covariance & Correlation Matrice
-
 bizdays Business Days Calculations and Utilities
-
 bizicount Bivariate Zero-Inflated Count Models Using Copulas
-
 bjscrapeR An API Wrapper for the Bureau of Justice Statistics (BJS)
-
 bkmr Bayesian Kernel Machine Regression
-
 bkmrhat Parallel Chain Tools for Bayesian Kernel Machine Regression
-
 blackbox Black Box Optimization and Exploration of Parameter Space
-
 BlackCarbon Processing Raw Black Carbon Concentration
-
 blaise Read and Write FWF Files in the 'Blaise' Format
-
 BlakerCI Blaker's Binomial and Poisson Confidence Limits
-
 BlandAltmanLeh Plots (Slightly Extended) Bland-Altman Plots
-
 blandr Bland-Altman Method Comparison
-
 BlanketStatsments Build and Compare Statistical Models
-
 blapsr Bayesian Inference with Laplace Approximations and P-Splines
-
 blastula Easily Send HTML Email Messages
-
 blatent Bayesian Latent Variable Models
-
 blatr Send Emails Using 'Blat' for Windows
-
 Blaunet Calculate and Analyze Blau Statuses for Measuring Social Distance
-
 blavaan Bayesian Latent Variable Analysis
-
 BLCOP Black-Litterman and Copula Opinion Pooling Frameworks
-
 blendedLink A New Link Function that Blends Two Specified Link Functions
-
 blender Analyze biotic homogenization of landscapes
-
 Blendstat Joint Analysis of Experiments with Mixtures and Random Effects
-
 blindrecalc Blinded Sample Size Recalculation
-
 blink Record Linkage for Empirically Motivated Priors
-
 bliss Bayesian Functional Linear Regression with Sparse Step Functions
-
 blm Binomial Linear Regression
-
 blme Bayesian Linear Mixed-Effects Models
-
 blmeco Data Files and Functions Accompanying the Book "Bayesian Data Analysis in Ecology using R, BUGS and Stan"
-
 BLModel Black-Litterman Posterior Distribution
-
 blob A Simple S3 Class for Representing Vectors of Binary Data ('BLOBS')
-
 BlockCov Estimation of Large Block Covariance Matrices
-
 blockCV Spatial and Environmental Blocking for K-Fold Cross-Validation
-
 blockForest Block Forests: Random Forests for Blocks of Clinical and Omics Covariate Data
-
 blocklength Select an Optimal Block-Length to Bootstrap Dependent Data (Block Bootstrap)
-
 blockmatrix blockmatrix: Tools to solve algebraic systems with partitioned matrices
-
 blockmodeling Generalized and Classical Blockmodeling of Valued Networks
-
 BlockmodelingGUI GUI for the Generalised Blockmodeling of Valued Networks
-
 blockmodels Latent and Stochastic Block Model Estimation by a 'V-EM' Algorithm
-
 blockrand Randomization for Block Random Clinical Trials
-
 blocksdesign Nested and Crossed Block Designs for Factorial and Unstructured Treatment Sets
-
 blocs Estimate and Visualize Voting Blocs' Partisan Contributions
-
 blogdown Create Blogs and Websites with R Markdown
-
 BLOQ Impute and Analyze Data with BLOQ Observations
-
 blorr Tools for Developing Binary Logistic Regression Models
-
 BLPestimatoR Performs a BLP Demand Estimation
-
 BLR Bayesian Linear Regression
-
 blrm Dose Escalation Design in Phase I Oncology Trial Using Bayesian Logistic Regression Modeling
-
 BLRPM Stochastic Rainfall Generator Bartlett-Lewis Rectangular Pulse Model
-
 BLRShiny Interactive Document for Working with Binary Logistic Regression Analysis
-
 BLRShiny2 Interactive Document for Working with Binary Logistic Regression Analysis
-
 blscrapeR An API Wrapper for the Bureau of Labor Statistics (BLS)
-
 BLSM Bayesian Latent Space Model
-
 blsR Make Requests from the Bureau of Labor Statistics API
-
 bltm Bayesian Latent Threshold Modeling
-
 bluebike Blue Bike Comprehensive Data
-
 BlythStillCasellaCI Blyth-Still-Casella Exact Binomial Confidence Intervals
-
 BMA Bayesian Model Averaging
-
 bmabasket Bayesian Model Averaging for Basket Trials
-
 BMAmevt Multivariate Extremes: Bayesian Estimation of the Spectral Measure
-
 bmass Bayesian Multivariate Analysis of Summary Statistics
-
 bmem Mediation Analysis with Missing Data Using Bootstrap
-
 bmemLavaan Mediation Analysis with Missing Data and Non-Normal Data
-
 bmgarch Bayesian Multivariate GARCH Models
-
 bmggum Bayesian Multidimensional Generalized Graded Unfolding Model
-
 BMisc Miscellaneous Functions for Panel Data, Quantiles, and Printing Results
-
 bmixture Bayesian Estimation for Finite Mixture of Distributions
-
 bmlm Bayesian Multilevel Mediation
-
 bmotif Motif Analyses of Bipartite Networks
-
 bmp Read Windows Bitmap (BMP) Images
-
 BMRBr 'BMRB' File Downloader
-
 bmrm Bundle Methods for Regularized Risk Minimization Package
-
 BMRMM An Implementation of the Bayesian Markov (Renewal) Mixed Models
-
 BMRSr Wrapper Functions to the 'BMRS API'
-
 BMRV Bayesian Models for Rare Variant Association Analysis
-
 BMS Bayesian Model Averaging Library
-
 bmscstan Bayesian Multilevel Single Case Models using 'Stan'
-
 bmstdr Bayesian Modeling of Spatio-Temporal Data with R
-
 BMT The BMT Distribution
-
 BMTAR Bayesian Approach for MTAR Models with Missing Data
-
 BMTME Bayesian Multi-Trait Multi-Environment for Genomic Selection Analysis
-
 bnclassify Learning Discrete Bayesian Network Classifiers from Data
-
 bnClustOmics Bayesian Network-Based Clustering of Multi-Omics Data
-
 bndovb Bounding Omitted Variable Bias Using Auxiliary Data
-
 bnlearn Bayesian Network Structure Learning, Parameter Learning and Inference
-
 bnma Bayesian Network Meta-Analysis using 'JAGS'
-
 bnmonitor An Implementation of Sensitivity Analysis in Bayesian Networks
-
 bnnSurvival Bagged k-Nearest Neighbors Survival Prediction
-
 bnpa Bayesian Networks & Path Analysis
-
 BNPdensity Ferguson-Klass Type Algorithm for Posterior Normalized Random Measures
-
 BNPmix Bayesian Nonparametric Mixture Models
-
 bnpsd Simulate Genotypes from the BN-PSD Admixture Model
-
 BNPTSclust A Bayesian Nonparametric Algorithm for Time Series Clustering
-
 BNrich Pathway Enrichment Analysis Based on Bayesian Network
-
 BNSL Bayesian Network Structure Learning
-
 BNSP Bayesian Non- And Semi-Parametric Model Fitting
-
 bnspatial Spatial Implementation of Bayesian Networks and Mapping
-
 bnstruct Bayesian Network Structure Learning from Data with Missing Values
-
 bnviewer Bayesian Networks Interactive Visualization and Explainable Artificial Intelligence
-
 boa Bayesian Output Analysis Program (BOA) for MCMC
-
 BoardGames Board Games and Tools for Building Board Games
-
 bodenmiller Profiling of Peripheral Blood Mononuclear Cells using CyTOF
-
 Bodi Boosting Diversity in Regression Ensembles
-
 bodycomp Percent Body Fat Values Using Anthropometric Prediction Equations
-
 boilerpipeR Interface to the Boilerpipe Java Library
-
 BOIN Bayesian Optimal INterval (BOIN) Design for Single-Agent and Drug- Combination Phase I Clinical Trials
-
 BOJ Interface to Bank of Japan Statistics
-
 bolasso Model Consistent Lasso Estimation Through the Bootstrap
-
 bold Interface to Bold Systems API
-
 Bolstad Functions for Elementary Bayesian Inference
-
 Bolstad2 Bolstad Functions
-
 BoltzMM Boltzmann Machines with MM Algorithms
-
 bondAnalyst Methods for Fixed-Income Valuation, Risk and Return
-
 BondValuation Fixed Coupon Bond Valuation Allowing for Odd Coupon Periods and Various Day Count Conventions
-
 BoneProfileR Tools to Study Bone Compactness
-
 BonEV An Improved Multiple Testing Procedure for Controlling False Discovery Rates
-
 bonsai Model Wrappers for Tree-Based Models
-
 bookdown Authoring Books and Technical Documents with R Markdown
-
 bookdownplus Generate Assorted Books and Documents with R 'bookdown' Package
-
 BoolFilter Optimal Estimation of Partially Observed Boolean Dynamical Systems
-
 BoolNet Construction, Simulation and Analysis of Boolean Networks
-
 Boom Bayesian Object Oriented Modeling
-
 BoomSpikeSlab MCMC for Spike and Slab Regression
-
 BoostMLR Boosting for Multivariate Longitudinal Responses
-
 boostmtree Boosted Multivariate Trees for Longitudinal Data
-
 boot Bootstrap Functions (Originally by Angelo Canty for S)
-
 boot.heterogeneity A Bootstrap-Based Heterogeneity Test for Meta-Analysis
-
 boot.pval Bootstrap p-Values
-
 bootcluster Bootstrapping Estimates of Clustering Stability
-
 bootComb Combine Parameter Estimates via Parametric Bootstrap
-
 bootCT Bootstrapping the ARDL Tests for Cointegration
-
 bootES Bootstrap Confidence Intervals on Effect Sizes
-
 bootf2 Simulation and Comparison of Dissolution Profiles
-
 bootGOF Bootstrap Based Goodness-of-Fit Tests
-
 bootImpute Bootstrap Inference for Multiple Imputation
-
 bootLR Bootstrapped Confidence Intervals for (Negative) Likelihood Ratio Tests
-
 BootMRMR Bootstrap-MRMR Technique for Informative Gene Selection
-
 bootnet Bootstrap Methods for Various Network Estimation Routines
-
 bootPLS Bootstrap Hyperparameter Selection for PLS Models and Extensions
-
 BootPR Bootstrap Prediction Intervals and Bias-Corrected Forecasting
-
 bootruin A Bootstrap Test for the Probability of Ruin in the Classical Risk Process
-
 bootStepAIC Bootstrap stepAIC
-
 bootstrap Functions for the Book "An Introduction to the Bootstrap"
-
 bootstrapFP Bootstrap Algorithms for Finite Population Inference
-
 BootstrapQTL Bootstrap cis-QTL Method that Corrects for the Winner's Curse
-
 bootSVD Fast, Exact Bootstrap Principal Component Analysis for High Dimensional Data
-
 bootUR Bootstrap Unit Root Tests
-
 BootWPTOS Test Stationarity using Bootstrap Wavelet Packet Tests
-
 Boov Boolean Operations on Volumes
-
 Boptbd Bayesian Optimal Block Designs
-
 bor Transforming Behavioral Observation Records into Data Matrices
-
 boral Bayesian Ordination and Regression AnaLysis
-
 borrowr Estimate Causal Effects with Borrowing Between Data Sources
-
 Boruta Wrapper Algorithm for All Relevant Feature Selection
-
 BOSO Bilevel Optimization Selector Operator
-
 BosonSampling Classical Boson Sampling
-
 BoSSA A Bunch of Structure and Sequence Analysis
-
 BOSSreg Best Orthogonalized Subset Selection (BOSS)
-
 botor 'AWS Python SDK' ('boto3') for R
-
 BoundEdgeworth Bound on the Error of the First-Order Edgeworth Expansion
-
 boundingbox Create a Bounding Box in an Image
-
 boussinesq Analytic Solutions for (Ground-Water) Boussinesq Equation
-
 boutliers Outlier Detection and Influence Diagnostics for Meta-Analysis
-
 BoutrosLab.plotting.general Functions to Create Publication-Quality Plots
-
 box Write Reusable, Composable and Modular R Code
-
 boxplotdbl Double Box Plot for Two-Axes Correlation
-
 boxr Interface for the 'Box.com API'
-
 bp Blood Pressure Analysis in R
-
 bpa Basic Pattern Analysis
-
 bpAcc Blood Pressure Device Accuracy Evaluation: Statistical Considerations
-
 bpbounds Nonparametric Bounds for the Average Causal Effect Due to Balke and Pearl and Extensions
-
 bpca Biplot of Multivariate Data Based on Principal Components Analysis
-
 bpcp Beta Product Confidence Procedure for Right Censored Data
-
 bpDir Boxplots for Directional Data
-
 bpgmm Bayesian Model Selection Approach for Parsimonious Gaussian Mixture Models
-
 BPM Bayesian Purity Model to Estimate Tumor Purity
-
 bpnreg Bayesian Projected Normal Regression Models for Circular Data
-
 bpp Computations Around Bayesian Predictive Power
-
 bpr Fitting Bayesian Poisson Regression
-
 bqror Bayesian Quantile Regression for Ordinal Models
-
 bqtl Bayesian QTL Mapping Toolkit
-
 bRacatus A Method to Estimate the Accuracy and Biogeographical Status of Georeferenced Biological Data
-
 bracer Brace Expansions
-
 BRACoD.R BRACoD: Bayesian Regression Analysis of Compositional Data
-
 BradleyTerry2 Bradley-Terry Models
-
 braggR Calculate the Revealed Aggregator of Probability Predictions
-
 braidReports Visualize Combined Action Response Surfaces and Report BRAID Analyses
-
 braidrm Fitting Dose Response with the BRAID Combined Action Model
-
 BrailleR Improved Access for Blind Users
-
 BrainCon Inference the Partial Correlations Based on Time Series Data
-
 brainGraph Graph Theory Analysis of Brain MRI Data
-
 brainKCCA Region-Level Connectivity Network Construction via Kernel Canonical Correlation Analysis
-
 brainR Helper Functions to 'misc3d' and 'rgl' Packages for Brain Imaging
-
 BranchGLM Efficient Branch and Bound Variable Selection for GLMs using 'RcppArmadillo'
-
 Branching Simulation and Estimation for Branching Processes
-
 brandwatchR 'Brandwatch' API to R
-
 brant Test for Parallel Regression Assumption
-
 braQCA Bootstrapped Robustness Assessment for Qualitative Comparative Analysis
-
 brassica 1970s BASIC Interpreter
-
 bravo Bayesian Screening and Variable Selection
-
 BrazilMet Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil
-
 BRDT Binomial Reliability Demonstration Tests
-
 brea Bayesian Recurrent Event Analysis
-
 bread Analyze Big Files Without Loading Them in Memory
-
 breakaway Species Richness Estimation and Modeling
-
 breakDown Model Agnostic Explainers for Individual Predictions
-
 breakfast Methods for Fast Multiple Change-Point Detection and Estimation
-
 breakpoint An R Package for Multiple Break-Point Detection via the Cross-Entropy Method
-
 BreakPoints Identify Breakpoints in Series of Data
-
 breathtestcore Core Functions to Read and Fit 13c Time Series from Breath Tests
-
 breathteststan Stan-Based Fit to Gastric Emptying Curves
-
 bReeze Functions for Wind Resource Assessment
-
 BRETIGEA Brain Cell Type Specific Gene Expression Analysis
-
 brew Templating Framework for Report Generation
-
 brglm Bias Reduction in Binomial-Response Generalized Linear Models
-
 brglm2 Bias Reduction in Generalized Linear Models
-
 bridgedist An Implementation of the Bridge Distribution with Logit-Link as in Wang and Louis (2003)
-
 bridger Bridge Hand Generator with Criteria Selector
-
 bridger2 Genome-Wide RNA Degradation Analysis Using BRIC-Seq Data
-
-bridgesampling Bridge Sampling for Marginal Likelihoods and Bayes Factors
-
+bridgesampling Bridge Sampling for Marginal Likelihoods and Bayes Factor
 briKmeans Package for Brik, Fabrik and Fdebrik Algorithms to Initialise Kmeans
-
 BRINDA Computation of BRINDA Adjusted Micronutrient Biomarkers for Inflammation
-
 brinton A Graphical EDA Tool
-
 brio Basic R Input Output
-
 briqr Interface to the 'Briq' API
-
 BRISC Fast Inference for Large Spatial Datasets using BRISC
-
 brisk Bayesian Benefit Risk Analysis
-
 briskaR Biological Risk Assessment
-
 BRL Beta Record Linkage
-
 brlrmr Bias Reduction with Missing Binary Response
-
 brm Binary Regression Model
-
 brms Bayesian Regression Models using 'Stan'
-
 brmsmargins Bayesian Marginal Effects for 'brms' Models
-
 brnn Bayesian Regularization for Feed-Forward Neural Networks
-
 Brobdingnag Very Large Numbers in R
-
 brokenstick Broken Stick Model for Irregular Longitudinal Data
-
 brolgar Browse Over Longitudinal Data Graphically and Analytically in R
-
 broman Karl Broman's R Code
-
 broom Convert Statistical Objects into Tidy Tibbles
-
 broom.helpers Helpers for Model Coefficients Tibbles
-
 broom.mixed Tidying Methods for Mixed Models
-
 brotli A Compression Format Optimized for the Web
-
 BrownDog Brown Dog R Interface
-
 brpop Brazilian Population Estimatives
-
 Brq Bayesian Analysis of Quantile Regression Models
-
 brr Bayesian Inference on the Ratio of Two Poisson Rates
-
 brranching Fetch 'Phylogenies' from Many Sources
-
 bruceR Broadly Useful Convenient and Efficient R Functions
-
 BRugs Interface to the 'OpenBUGS' MCMC Software
-
 brulee High-Level Modeling Functions with 'torch'
-
 Brundle Normalisation Tools for Inter-Condition Variability of ChIP-Seq Data
-
 brunnermunzel (Permuted) Brunner-Munzel Test
-
 brxx Bayesian Test Reliability Estimation
-
 bs4cards Generate Bootstrap Cards
-
 bs4Dash A 'Bootstrap 4' Version of 'shinydashboard'
-
 BSagri Safety Assessment in Agricultural Field Trials
-
 bsam Bayesian State-Space Models for Animal Movement
-
 bsamGP Bayesian Spectral Analysis Models using Gaussian Process Priors
-
 BSBT The Bayesian Spatial Bradley–Terry Model
-
 BSDA Basic Statistics and Data Analysis
-
 bsearchtools Binary Search Tools
-
 bshazard Nonparametric Smoothing of the Hazard Function
-
 bsicons Easily Work with 'Bootstrap' Icons
-
 bSims Bird Point Count Simulator
-
 BSL Bayesian Synthetic Likelihood
-
 bslib Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'
-
 BsMD Bayes Screening and Model Discrimination
-
 bsnsing Build Decision Trees with Optimal Multivariate Splits
-
 BSPADATA Bayesian Proposal to Fit Spatial Econometric Models
-
 BSPBSS Bayesian Spatial Blind Source Separation
-
 bspec Bayesian Spectral Inference
-
 bspline B-Spline Interpolation and Regression
-
 bsplinePsd Bayesian Nonparametric Spectral Density Estimation Using B-Spline Priors
-
 bsplus Adds Functionality to the R Markdown + Shiny Bootstrap Framework
-
 bspm Bridge to System Package Manager
-
 bspmma Bayesian Semiparametric Models for Meta-Analysis
-
 bsreg Bayesian Spatial Regression Models
-
 BSS Brownian Semistationary Processes
-
 BSSasymp Asymptotic Covariance Matrices of Some BSS Mixing and Unmixing Matrix Estimates
-
 bssm Bayesian Inference of Non-Linear and Non-Gaussian State Space Models
-
 bssn Birnbaum-Saunders Model
-
 BSSoverSpace Blind Source Separation for Multivariate Spatial Data using Eigen Analysis
-
 BSSprep Whitening Data as Preparation for Blind Source Separation
-
 bst Gradient Boosting
-
 bsTools Create HTML Content with Bootstrap 5 Classes and Layouts
-
 bstrl Bayesian Streaming Record Linkage
-
 bsts Bayesian Structural Time Series
-
 bsub Submitter and Monitor of the 'LSF Cluster'
-
 bsvars Bayesian Estimation of Structural Vector Autoregressive Models
-
 BSW Fitting a Log-Binomial Model using the Bekhit-Schöpe-Wagenpfeil (BSW) Algorithm
-
 btb Beyond the Border - Kernel Density Estimation for Urban Geography
-
 BTdecayLasso Bradley-Terry Model with Exponential Time Decayed Log-Likelihood and Adaptive Lasso
-
 btergm Temporal Exponential Random Graph Models by Bootstrapped Pseudolikelihood
-
 BTLLasso Modelling Heterogeneity in Paired Comparison Data
-
 BTM Biterm Topic Models for Short Text
-
 BTSPAS Bayesian Time-Stratified Population Analysis
-
 BTSR Bounded Time Series Regression
-
 BTYD Implementing BTYD Models with the Log Sum Exp Patch
-
 BTYDplus Probabilistic Models for Assessing and Predicting your Customer Base
-
 bubblyr Beautiful Bubbles for 'shiny' and 'rmarkdown' Backgrounds
-
 bucky Bucky's Archive for Data Analysis in the Social Sciences
-
 BUCSS Bias and Uncertainty Corrected Sample Size
-
 Buddle A Deep Learning for Statistical Classification and Regression Analysis with Random Effects
-
 buffeRs Buffer Generation for Spatial Models
-
 buildmer Stepwise Elimination and Term Reordering for Mixed-Effects Regression
-
 buildr Organize & Run Build Scripts Comfortably
-
 BuildSys System for Building and Debugging C/C++ Dynamic Libraries
-
 bujar Buckley-James Regression for Survival Data with High-Dimensional Covariates
-
 bulkAnalyseR Interactive Shiny App for Bulk Sequencing Data
-
 bulletcp Automatic Groove Identification via Bayesian Changepoint Detection
-
 bulletr Algorithms for Matching Bullet Lands
-
 bullishTrader Bullish Trading Strategies Through Graphs
-
 bullwhipgame Bullwhip Effect Demo in Shiny
-
 bumbl Tools for Modeling Bumblebee Colony Growth and Decline
-
 bumblebee Quantify Disease Transmission Within and Between Population Groups
-
 bunching Estimate Bunching
-
 bunchr Analyze Bunching in a Kink or Notch Setting
-
 bundesbank Download Data from Bundesbank
-
 bundesligR All Final Tables of the Bundesliga
-
 bundle Serialize Model Objects with a Consistent Interface
-
 bupaR Business Process Analysis in R
-
 bupaverse Easily Install and Load the 'bupaverse'
-
 burnr Forest Fire History Analysis
-
 BurStFin Burns Statistics Financial
-
 BurStMisc Burns Statistics Miscellaneous
-
 bursts Markov Model for Bursty Behavior in Streams
-
 busdater Standard Date Calculations for Business
-
 BusinessDuration Calculates Business Duration Between Two Dates
-
 butcher Model Butcher
-
 butterflyOptions Trading Butterfly Options Strategies
-
 BuyseTest Generalized Pairwise Comparisons
-
 Bvalue B-Value and Empirical Equivalence Bound
-
 BVAR Hierarchical Bayesian Vector Autoregression
-
 bvarsv Bayesian Analysis of a Vector Autoregressive Model with Stochastic Volatility and Time-Varying Parameters
-
 bvartools Bayesian Inference of Vector Autoregressive and Error Correction Models
-
 BVARverse Tidy Bayesian Vector Autoregression
-
 bvls The Stark-Parker algorithm for bounded-variable least squares
-
 bvpSolve Solvers for Boundary Value Problems of Differential Equations
-
 BVSNLP Bayesian Variable Selection in High Dimensional Settings using Nonlocal Priors
-
 bwd Backward Procedure for Change-Point Detection
-
 bWGR Bayesian Whole-Genome Regression
-
 BWGS BreedWheat Genomic Selection Pipeline
-
 bwimage Describe Image Patterns in Natural Structures
-
 BwQuant Bandwidth Selectors for Local Linear Quantile Regression
-
 bws Bayesian Weighted Sums
-
 BWStest Baumgartner Weiss Schindler Test of Equal Distributions
-
 bwsTools Tools for Case 1 Best-Worst Scaling (MaxDiff) Designs
-
 bysykkel Get City Bike Data from Norway
-
 bytescircle Statistics About Bytes Contained in a File as a Circle Plot
-
 bzinb Bivariate Zero-Inflated Negative Binomial Model Estimator
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 c060 Extended Inference for Lasso and Elastic-Net Regularized Cox and Generalized Linear Models
-
 C19dNUTS Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
-
 c212 Methods for Detecting Safety Signals in Clinical Trials Using Body-Systems (System Organ Classes)
-
 c2c Compare Two Classifications or Clustering Solutions of Varying Structure
-
 c2d4u.tools 'c2d4u' - CRAN Packages for 'Ubuntu'
-
 c3 'C3.js' Chart Library
-
 c3net Inferring Large-Scale Gene Networks with C3NET
-
 C443 See a Forest for the Trees
-
 C50 C5.0 Decision Trees and Rule-Based Models
-
 ca Simple, Multiple and Joint Correspondence Analysis
-
 CA3variants Three-Way Correspondence Analysis Variants
-
 cabinets Project Specific Workspace Organization Templates
-
 cabootcrs Bootstrap Confidence Regions for Simple and Multiple Correspondence Analysis
-
 cacc Conjunctive Analysis of Case Configurations
-
 cache Cache and Retrieve Computation Results
-
 cachem Cache R Objects with Automatic Pruning
-
 CACIMAR Cross-Species Analysis of Cell Identities, Markers and Regulations
-
 cacIRT Classification Accuracy and Consistency under Item Response Theory
-
 CaDENCE Conditional Density Estimation Network Construction and Evaluation
-
 CADFtest A Package to Perform Covariate Augmented Dickey-Fuller Unit Root Tests
-
 CADStat Provides a GUI to Several Statistical Methods
-
 caesar Encrypts and Decrypts Strings
-
 caffsim Simulation of Plasma Caffeine Concentrations by Using Population Pharmacokinetic Model
-
 cAIC4 Conditional Akaike Information Criterion for 'lme4' and 'nlme'
-
 CAinterprTools Graphical Aid in Correspondence Analysis Interpretation and Significance Testings
-
 Cairo R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
-
 CAISEr Comparison of Algorithms with Iterative Sample Size Estimation
-
 calACS Calculations for All Common Subsequences
-
 CALANGO Comparative Analysis with Annotation-Based Genomic Components
-
 Calculator.LR.FNs Calculator for LR Fuzzy Numbers
-
 calculus High Dimensional Numerical and Symbolic Calculus
-
 calcUnique Simple Wrapper for Computationally Expensive Functions
-
 calcWOI Calculates the Wavelet-Based Organization Index
-
 calendar Create, Read, Write, and Work with 'iCalander' Files, Calendars and Scheduling Data
-
 calendR Ready to Print Monthly and Yearly Calendars Made with 'ggplot2'
-
 calendRio 'calendR' Fork with Additional Features (Backwards Compatible)
-
 CALF Coarse Approximation Linear Function
-
 CALIBERrfimpute Multiple Imputation Using MICE and Random Forest
-
 calibrar Automated Parameter Estimation for Complex (Ecological) Models
-
 calibrate Calibration of Scatterplot and Biplot Axes
-
 calibrateBinary Calibration for Computer Experiments with Binary Responses
-
 CalibrateSSB Weighting and Estimation for Panel Data with Non-Response
-
 calibrationband Calibration Bands
-
 CalibrationCurves Calibration Performance
-
 calibrator Bayesian Calibration of Complex Computer Codes
-
 CalibratR Mapping ML Scores to Calibrated Predictions
-
 calidad Assesses the Quality of Estimates Made by Complex Sample Designs
-
 callr Call R from R
-
 calmate Improved Allele-Specific Copy Number of SNP Microarrays for Downstream Segmentation
-
 calpassapi R Interface to Access CalPASS API
-
 CalSim The Calibration Simplex
-
 CAMAN Finite Mixture Models and Meta-Analysis Tools - Based on C.A.MAN
-
 camcorder Record Your Plot History
-
 CamelUp 'CamelUp' Board Game as a Teaching Aid for Introductory Statistics
-
 camerondata Datasets from "Microeconometrics: Methods and Applications" by Cameron and Trivedi
-
 CAMML Cell-Typing using Variance Adjusted Mahalanobis Distances with Multi-Labeling
-
 campaignmanageR Connect to Campaign Manager via the 'Windsor.ai' API
-
 campfin Wrangle Campaign Finance Data
-
 campsis Generic PK/PD Simulation Platform CAMPSIS
-
 campsismod Generic Implementation of a PK/PD Model
-
 camsRad Client for CAMS Radiation Service
-
 caMST Mixed Computerized Adaptive Multistage Testing
-
 camtrapR Camera Trap Data Management and Preparation of Occupancy and Spatial Capture-Recapture Analyses
-
 canadacovid API Wrapper for the Canadian COVID-19 Tracker
-
 canadamaps Maps of the Political and Administrative Divisions of Canada
-
 canadianmaps Canadian Mapping Made Easy
-
 canaper Categorical Analysis of Neo- And Paleo-Endemism
-
 cancensus Access, Retrieve, and Work with Canadian Census Data and Geography
-
 CancerEvolutionVisualization Publication Quality Phylogenetic Tree Plots
-
 cancerGI Analyses of Cancer Gene Interaction
-
 CancerGram Prediction of Anticancer Peptides
-
 cancerTiming Estimation of Temporal Ordering of Cancer Abnormalities
-
 candisc Visualizing Generalized Canonical Discriminant and Canonical Correlation Analysis
-
 Canek Batch Correction of Single Cell Transcriptome Data
-
 Canopy Accessing Intra-Tumor Heterogeneity and Tracking Longitudinal and Spatial Clonal Evolutionary History by Next-Generation Sequencing
-
 canprot Chemical Metrics of Differentially Expressed Proteins
-
 cansim Accessing Statistics Canada Data Table and Vectors
-
 CANSIM2R Directly Extracts Complete CANSIM Data Tables
-
 canvasXpress Visualization Package for CanvasXpress in R
-
 canvasXpress.data Datasets for the 'canvasXpress' Package
-
 cap Covariate Assisted Principal (CAP) Regression for Covariance Matrix Outcomes
-
 cape Combined Analysis of Pleiotropy and Epistasis for Diversity Outbred Mice
-
 caper Comparative Analyses of Phylogenetics and Evolution in R
-
 capitalR Capital Budgeting Analysis, Annuity Loan Calculations and Amortization Schedules
-
 capl Compute and Visualize CAPL-2 Scores and Interpretations
-
 capm Companion Animal Population Management
-
 capn Capital Asset Pricing for Nature
-
 CaPO4Sim A Virtual Patient Simulator in the Context of Calcium and Phosphate Homeostasis
-
 captioner Numbers Figures and Creates Simple Captions
-
 captr Client for the Captricity API
-
 capushe CAlibrating Penalities Using Slope HEuristics
-
 car Companion to Applied Regression
-
 caracas Computer Algebra
-
 caRamel Automatic Calibration by Evolutionary Multi Objective Algorithm
-
 carat Covariate-Adaptive Randomization for Clinical Trials
-
 CARBayes Spatial Generalised Linear Mixed Models for Areal Unit Data
-
 CARBayesdata Data Used in the Vignettes Accompanying the CARBayes and CARBayesST Packages
-
 CARBayesST Spatio-Temporal Generalised Linear Mixed Models for Areal Unit Data
-
 carbonate Interact with 'carbon.js'
-
 carcass Estimation of the Number of Fatalities from Carcass Searches
-
 card Cardiovascular and Autonomic Research Design
-
 carData Companion to Applied Regression Data Sets
-
 cardidates Identification of Cardinal Dates in Ecological Time Series
-
 care High-Dimensional Regression and CAR Score Variable Selection
-
 caRecall Government of Canada Vehicle Recalls Database API Wrapper
-
 careless Procedures for Computing Indices of Careless Responding
-
 caret Classification and Regression Training
-
 caretEnsemble Ensembles of Caret Models
-
 caretForecast Conformal Time Series Forecasting Using State of Art Machine Learning Algorithms
-
 carfima Continuous-Time Fractionally Integrated ARMA Process for Irregularly Spaced Long-Memory Time Series Data
-
 caribou Estimation of Caribou Abundance Based on Radio Telemetry Data
-
 CARlasso Conditional Autoregressive LASSO
-
 CarletonStats Functions for Statistics Classes at Carleton College
-
 Carlson Carlson Elliptic Integrals and Incomplete Elliptic Integrals
-
 caROC Continuous Biomarker Evaluation with Adjustment of Covariates
-
 caroline A Collection of Database, Data Structure, Visualization, and Utility Functions for R
-
 carpenter Build Common Tables of Summary Statistics for Reports
-
 caRpools CRISPR AnalyzeR for Pooled CRISPR Screens
-
 carrier Isolate Functions for Remote Execution
-
 CARRoT Predicting Categorical and Continuous Outcomes Using One in Ten Rule
-
 carSurv Correlation-Adjusted Regression Survival (CARS) Scores
-
 cartograflow Filtering Matrix for Flow Mapping
-
 cartogram Create Cartograms with R
-
 cartogramR Continuous Cartogram
-
 cartography Thematic Cartography
-
 casabourse Casablanca Stock Exchange Data
-
 Cascade Selection, Reverse-Engineering and Prediction in Cascade Networks
-
 CascadeData Experimental Data of Cascade Experiments in Genomics
-
 caschrono Sries Temporelles Avec R
-
 CASCORE Covariate Assisted Spectral Clustering on Ratios of Eigenvectors
-
 cascsim Casualty Actuarial Society Individual Claim Simulator
-
 casebase Fitting Flexible Smooth-in-Time Hazards and Risk Functions via Logistic and Multinomial Regression
-
 caseMatch Identify Similar Cases for Qualitative Case Studies
-
 casino Play Casino Games
-
 CASMAP Detection of Statistically Significant Combinations of SNPs in Association Mapping
-
 CASMI 'CASMI'-Based Functions
-
 cassandRa Finds Missing Links and Metric Confidence Intervals in Ecological Bipartite Networks
-
 cassowaryr Compute Scagnostics on Pairs of Numeric Variables in a Data Set
-
 CAST 'caret' Applications for Spatial-Temporal Models
-
 castor Efficient Phylogenetics on Large Trees
-
 cat Analysis and Imputation of Categorical-Variable Datasets with Missing Values
-
 cat2cat Handling an Inconsistently Coded Categorical Variable in a Panel Dataset
-
 cata Analysis of Check-All-that-Apply (CATA) Data
-
 catalog Access the 'Spark Catalog' API via 'sparklyr'
-
 CatastRo Interface to the API 'Sede Electronica Del Catastro'
-
 catch Covariate-Adjusted Tensor Classification in High-Dimensions
-
 catcont Test, Identify, Select and Mutate Categorical or Continuous Values
-
 catdap Categorical Data Analysis Program Package
-
 catdata Categorical Data
-
 CatDataAnalysis Datasets for Categorical Data Analysis by Agresti
-
 CatDyn Fishery Stock Assessment by Catch Dynamics Models
-
 cate High Dimensional Factor Analysis and Confounder Adjusted Testing and Estimation
-
 categoryEncodings Category Variable Encodings
-
 catenary Fits a Catenary to Given Points
-
 CatEncoders Encoders for Categorical Variables
-
 catfun Categorical Data Analysis
-
 cati Community Assembly by Traits: Individuals and Beyond
-
 catIrt Simulate IRT-Based Computerized Adaptive Tests
-
 catlearn Formal Psychological Models of Categorization and Learning
-
 catmap Case-Control and TDT Meta-Analysis Package
-
 catmaply Heatmap for Categorical Data using 'plotly'
-
 caTools Tools: Moving Window Statistics, GIF, Base64, ROC AUC, etc
-
 CatPredi Optimal Categorisation of Continuous Variables in Prediction Models
-
 catR Generation of IRT Response Patterns under Computerized Adaptive Testing
-
 CatReg Solution Paths for Linear and Logistic Regression Models with Categorical Predictors, with SCOPE Penalty
-
 cats Cohort Platform Trial Simulation
-
 catseyes Create Catseye Plots Illustrating the Normal Distribution of the Means
-
 catsim Binary and Categorical Image Similarity Index
-
 catSurv Computerized Adaptive Testing for Survey Research
-
 CATT The Cochran-Armitage Trend Test
-
 CATTexact Computation of the p-Value for the Exact Conditional Cochran-Armitage Trend Test
-
 cattonum Encode Categorical Features
-
 CauchyCP Powerful Test for Survival Data under Non-Proportional Hazards
-
 cauchypca Robust Principal Component Analysis Using the Cauchy Distribution
-
 causact Accelerated Bayesian Analytics with DAGs
-
 causal.decomp Causal Decomposition Analysis
-
 causaldata Example Data Sets for Causal Inference Textbooks
-
 causalDisco Tools for Causal Discovery on Observational Data
-
 causaldrf Estimating Causal Dose Response Functions
-
 causaleffect Deriving Expressions of Joint Interventional Distributions and Transport Formulas in Causal Models
-
 CausalGAM Estimation of Causal Effects with Generalized Additive Models
-
 CausalGPS Matching on Generalized Propensity Scores with Continuous Exposures
-
 CausalImpact Inferring Causal Effects using Bayesian Structural Time-Series Models
-
 CausalKinetiX Learning Stable Structures in Kinetic Systems
-
-CausalMBSTS MBSTS Models for Causal Inference and Forecasting
-
+CausalMBSTS MBSTS Models for Causal Inference and Forecastin
 CausalModels Causal Inference Modeling for Estimation of Causal Effects
-
 causaloptim An Interface to Specify Causal Graphs and Compute Bounds on Causal Effects
-
 causalOT Optimal Transport Weights for Causal Inference
-
 causalPAF Causal Effect for Population Attributable Fractions (PAF)
-
 CausalQueries Make, Update, and Query Binary Causal Models
-
 causalsens Selection Bias Approach to Sensitivity Analysis for Causal Effects
-
 causalweight Estimation Methods for Causal Inference Based on Inverse Probability Weighting
-
 CausCor Calculate Correlations and Estimate Causality
-
 CautiousLearning Control Charts with Guaranteed In-Control Performance and Cautious Parameters Learning
-
 CAvariants Correspondence Analysis Variants
-
 CB2 CRISPR Pooled Screen Analysis using Beta-Binomial Test
-
 cba Clustering for Business Analytics
-
 cbanalysis Coffee Break Descriptive Analysis
-
 CBCgrps Compare Baseline Characteristics Between Groups
-
 cbinom Continuous Analog of a Binomial Distribution
-
 cbioportalR Browse and Query Clinical and Genomic Data from cBioPortal
-
 cbl Causal Discovery under a Confounder Blanket
-
 CBPS Covariate Balancing Propensity Score
-
 cbq Conditional Binary Quantile Models
-
 cbsodataR Statistics Netherlands (CBS) Open Data API Client
-
 CBSr Fits Cubic Bezier Spline Functions to Intertemporal and Risky Choice Data
-
 CBT Confidence Bound Target Algorithm
-
 CC Control Charts
-
 CCA Canonical Correlation Analysis
-
 CCAMLRGIS Antarctic Spatial Data Manipulation
-
 ccaPP (Robust) Canonical Correlation Analysis via Projection Pursuit
-
 cccd Class Cover Catch Digraphs
-
 cccm Crossed Classification Credibility Model
-
 cccp Cone Constrained Convex Problems
-
 cccrm Concordance Correlation Coefficient for Repeated (and Non-Repeated) Measures
-
 ccda Combined Cluster and Discriminant Analysis
-
 ccdf Distribution-Free Single-Cell Differential Expression Analysis
-
 cchs Cox Model for Case-Cohort Data with Stratified Subcohort-Selection
-
 cchsflow Transforming and Harmonizing CCHS Variables
-
 ccid Cross-Covariance Isolate Detect: a New Change-Point Method for Estimating Dynamic Functional Connectivity
-
 cclust Convex Clustering Methods and Clustering Indexes
-
 CCM Correlation Classification Method
-
 ccmEstimator Comparative Causal Mediation Estimation
-
 ccml Consensus Clustering for Different Sample Coverage Data
-
 ccmm Compositional Mediation Model
-
 ccmReportR Wraps 'CCM' with Utility Functions
-
 ccoptimalmatch Implementation of Case-Control Optimal Matching
-
 ccostr Estimation of Mean Costs in Censored Data
-
 CCP Significance Tests for Canonical Correlation Analysis (CCA)
-
 ccpsyc Methods for Cross-Cultural Psychology
-
 ccRemover Removes the Cell-Cycle Effect from Single-Cell RNA-Sequencing Data
-
 ccrs Correct and Cluster Response Style Biased Data
-
 ccrtm Coupled Chain Radiative Transfer Models
-
 ccss Cluster Circular Systematic Sampling
-
 ccTensor CUR/CX Tensor Decomposition
-
 cctools Tools for the Continuous Convolution Trick in Nonparametric Estimation
-
 CCTpack Consensus Analysis, Model-Based Clustering, and Cultural Consensus Theory Applications
-
 CCWeights Perform Weighted Linear Regression for Calibration Curve
-
 cd CD Data for Entity Resolution
-
 cdata Fluid Data Transformations
-
 CDatanet Modeling Count Data with Peer Effects
-
 cdcatR Cognitive Diagnostic Computerized Adaptive Testing
-
 cdcfluview Retrieve Flu Season Data from the United States Centers for Disease Control and Prevention ('CDC') 'FluView' Portal
-
 cdcsis Conditional Distance Correlation Based Feature Screening and Conditional Independence Inference
-
 cder Interface to the California Data Exchange Center
-
 cdfquantreg Quantile Regression for Random Variables on the Unit Interval
-
 CDFt Downscaling and Bias Correction via Non-Parametric CDF-Transform
-
 CDLasso Coordinate Descent Algorithms for Lasso Penalized L1, L2, and Logistic Regression
-
 cdlei Cause-Deleted Life Expectancy Improvement Procedure
-
 cdlTools Tools to Download and Work with USDA Cropscape Data
-
 CDM Cognitive Diagnosis Modeling
-
 CDMConnector Connect to an OMOP Common Data Model
-
 cdmTools Useful Tools for Cognitive Diagnosis Modeling
-
 CDNmoney Components of Canadian Monetary and Credit Aggregates
-
 cdom R Functions to Model CDOM Spectra
-
 cdparcoord Top Frequency-Based Parallel Coordinates
-
 cdrcR Load 'CDRC' Data
-
 CDROM Phylogenetically Classifies Retention Mechanisms of Duplicate Genes from Gene Expression Data
-
 cds Constrained Dual Scaling for Detecting Response Styles
-
 CDVineCopulaConditional Sampling from Conditional C- and D-Vine Copulas
-
 CEDA CRISPR Screen and Gene Expression Differential Analysis
-
 CEDARS Simple and Efficient Pipeline for Electronic Health Record Annotation
-
 ceg Chain Event Graph
-
 CEGO Combinatorial Efficient Global Optimization
-
 celestial Collection of Common Astronomical Conversion Routines and Functions
-
 cellOrigins Finds RNASeq Source Tissues Using In Situ Hybridisation Data
-
 cellpypes Cell Type Pipes for Single-Cell RNA Sequencing Data
-
 cellranger Translate Spreadsheet Cell Ranges to Rows and Columns
-
 celltrackR Motion Trajectory Analysis
-
 cellVolumeDist Functions to Fit Cell Volume Distributions and Thereby Estimate Cell Growth Rates and Division Times
-
 cellWise Analyzing Data with Cellwise Outliers
-
 cem Coarsened Exact Matching
-
 CenBAR Broken Adaptive Ridge AFT Model with Censored Data
-
 CENFA Climate and Ecological Niche Factor Analysis
-
 cenGAM Censored Regression with Smooth Terms
-
 censable Making Census Data More Usable
-
 censCov Linear Regression with a Randomly Censored Covariate
-
 censo2017 Base de Datos de Facil Acceso del Censo 2017 de Chile (2017 Chilean Census Easy Access Database)
-
 censorcopula Estimate Parameter of Bivariate Copula
-
 censored 'parsnip' Engines for Survival Models
-
 censReg Censored Regression (Tobit) Models
-
 CensSpatial Censored Spatial Models
-
 Census2016 Data from the Australian Census 2016
-
 censusapi Retrieve Data from the Census APIs
-
 censusGeography Changes United States Census Geographic Code into Name of Location
-
 censusr Collect Data from the Census API
-
 censusxy Access the U.S. Census Bureau's Geocoding A.P.I. System
-
 censys Tools to Query the 'Censys' API
-
 centiserve Find Graph Centrality Indices
-
 centralplot Show the Strength of Relationships Between Centre and Peripheral Items
-
 centrifugeR Non-Trivial Balance of Centrifuge Rotors
-
 CEOdata Datasets of the CEO (Centre d'Estudis d'Opinio) for Opinion Polls in Catalonia
-
 CEoptim Cross-Entropy R Package for Optimization
-
 CePa Centrality-Based Pathway Enrichment
-
 cepiigeodist CEPII's GeoDist Datasets
-
 cepp Context Driven Exploratory Projection Pursuit
-
 cepR Busca CEPs Brasileiros
-
 cepreader Read 'CEP' and Legacy 'CANOCO' Files
-
 ceramic Download Online Imagery Tiles
-
 CERFIT Causal Effect Random Forest of Interaction Tress
-
 CerioliOutlierDetection Outlier Detection Using the Iterated RMCD Method of Cerioli (2010)
-
 CeRNASeek Identification and Analysis of ceRNA Regulation
-
 ceRtainty Certainty Equivalent
-
 Certara.R Easily Install Pharmacometric Packages and Shiny Applications Developed by Certara
-
 ceser Cluster Estimated Standard Errors
-
 cesR Access the Canadian Election Study Datasets
-
 cetcolor CET Perceptually Uniform Colour Maps
-
 ceterisParibus Ceteris Paribus Profiles
-
 cfa Configural Frequency Analysis (CFA)
-
 CFAcoop Colony Formation Assay: Taking into Account Cellular Cooperation
-
 cfbfastR Access College Football Play by Play Data
-
 CFC Cause-Specific Framework for Competing-Risk Analysis
-
 cfda Categorical Functional Data Analysis
-
 cfdecomp Counterfactual Decomposition: MC Integration of the G-Formula
-
 CFF Simple Similarity for User-Based Collaborative Filtering Systems
-
 cffdrs Canadian Forest Fire Danger Rating System
-
 cffr Generate Citation File Format ('cff') Metadata for R Packages
-
 cfid Identification of Counterfactual Queries in Causal Models
-
 CFilt Collaborative Filtering by Reference Classes
-
 cfma Causal Functional Mediation Analysis
-
 cfmortality Cystic Fibrosis Survival Prediction Model Based on Stanojevic Model
-
 cforward Forward Selection using Concordance/C-Index
-
 cft Climate Futures Toolbox
-
 cg Compare Groups, Analytically and Graphically
-
 cgaim Constrained Groupwise Additive Index Models
-
 cgal4h 'CGAL' Version 4 C++ Header Files
-
 cgalMeshes R6 Based Utilities for 3D Meshes using 'CGAL'
-
 cgam Constrained Generalized Additive Model
-
 cgAUC Calculate AUC-type measure when gold standard is continuous and the corresponding optimal linear combination of variables with respect to it
-
 CGE Computing General Equilibrium
-
 CGGP Composite Grid Gaussian Processes
-
 cghRA Array CGH Data Analysis and Visualization
-
 cglasso Conditional Graphical LASSO for Gaussian Graphical Models with Censored and Missing Values
-
 cglm Fits Conditional Generalized Linear Models
-
 cgmanalysis Clean and Analyze Continuous Glucose Monitor Data
-
 CGManalyzer Continuous Glucose Monitoring Data Analyzer
-
 cgmquantify Analyzing Glucose and Glucose Variability
-
 CGNM Cluster Gauss-Newton Method
-
 CGP Composite Gaussian Process Models
-
-CGPfunctions Powell Miscellaneous Functions for Teaching and Learning Statistics
-
+CGPfunctions Powell Miscellaneous Functions for Teaching and Learning Statistic
 cgrcusum Continuous Time Generalized Rapid Response CUSUM
-
 cgwtools Miscellaneous Tools
-
 ch About some Small Functions
-
 ChainLadder Statistical Methods and Models for Claims Reserving in General Insurance
-
 chameleon Automatic Colors for Multi-Dimensional Data
-
 chandwich Chandler-Bate Sandwich Loglikelihood Adjustment
-
 changepoint Methods for Changepoint Detection
-
 changepoint.geo Geometrically Inspired Multivariate Changepoint Detection
-
 changepoint.influence Package to Calculate the Influence of the Data on a Changepoint Segmentation
-
 changepoint.np Methods for Nonparametric Changepoint Detection
-
 changepoints A Collection of Change-Point Detection Methods
-
 changepointsHD Change-Point Estimation for Expensive and High-Dimensional Models
-
 changepointsVar Change-Points Detections for Changes in Variance
-
 ChangePointTaylor Identify Changes in Mean
-
 ChangepointTesting Change Point Estimation for Clustered Signals
-
 changepointTests Change Point Tests for Joint Distributions and Copulas
-
 changer Change R Package Name
-
 changeRangeR Change Metrics for Species Geographic Ranges
-
 ChannelAttribution Markov Model for Online Multi-Channel Attribution
-
 ChannelAttributionApp Shiny Web Application for the Multichannel Attribution Problem
-
 chantrics Loglikelihood Adjustments for Econometric Models
-
 Chaos01 0-1 Test for Chaos
-
 ChaosGame Chaos Game
-
 charlatan Make Fake Data
-
 chartql Simplified Language for Plots and Charts
-
 cheatsheet Download R Cheat Sheets Locally
-
 checkarg Check the Basic Validity of a (Function) Argument
-
 CheckDigit Calculate and Verify Check Digits
-
 checkdown Check-Fields and Check-Boxes for 'rmarkdown'
-
 checkLuhn Checks if a Number is Valid Using the Luhn Algorithm
-
 checkmate Fast and Versatile Argument Checks
-
 checkpoint Install Packages from Snapshots on the Checkpoint Server for Reproducibility
-
 checkr Check the Properties of Common R Objects
-
 cheddar Analysis and Visualisation of Ecological Communities
-
 cheem Interactively Explore the Support of Local Explanations with the Radial Tour
-
 cheese Tools for Working with Data During Statistical Analysis
-
 chemCal Calibration Functions for Analytical Chemistry
-
 chemmodlab A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models
-
 chemodiv Analysing Chemodiversity of Phytochemical Data
-
 chemometrics Multivariate Statistical Analysis in Chemometrics
-
 ChemoSpec Exploratory Chemometrics for Spectroscopy
-
 ChemoSpec2D Exploratory Chemometrics for 2D Spectroscopy
-
 ChemoSpecUtils Functions Supporting Packages ChemoSpec and ChemoSpec2D
-
 cherry Multiple Testing Methods for Exploratory Research
-
 cherryblossom Cherry Blossom Run Race Results
-
 chess Read, Write, Create and Explore Chess Games
-
 chest Change-in-Estimate Approach to Assess Confounding Effects
-
 CHFF Closest History Flow Field Forecasting for Bivariate Time Series
-
 chi The Chi Distribution
-
 chicane Capture Hi-C Analysis Engine
-
 chickn 'Compressive' Hierarchical Kernel Clustering Toolbox
-
 childdevdata Child Development Data
-
 childesr Accessing the 'CHILDES' Database
-
 childsds Data and Methods Around Reference Values in Pediatrics
-
 chilemapas Mapas de las Divisiones Politicas y Administrativas de Chile (Maps of the Political and Administrative Divisions of Chile)
-
 ChillModels Processing Chill and Heat Models for Temperate Fruit Trees
-
 chillR Statistical Methods for Phenology Analysis in Temperate Fruit Trees
-
 chinese.misc Miscellaneous Tools for Chinese Text Mining and More
-
 ChineseNames Chinese Name Database 1930-2008
-
 chipPCR Toolkit of Helper Functions to Pre-Process Amplification Data
-
 ChIPtest Nonparametric Methods for Identifying Differential Enrichment Regions with ChIP-Seq Data
-
 chirps API Client for CHIRPS and CHIRTS
-
 chisq.posthoc.test A Post Hoc Analysis for Pearson's Chi-Squared Test for Count Data
-
 chisquare Chi-Square and G-Square Test of Independence, Residual Analysis, and Measures of Categorical Association
-
 chk Check User-Supplied Function Arguments
-
 chkptstanr Checkpoint MCMC Sampling with 'Stan'
-
 chlorpromazineR Convert Antipsychotic Doses to Chlorpromazine Equivalents
-
 CHMM Coupled Hidden Markov Models
-
 CHNCapitalStock Compute Chinese Capital Stocks
-
 chngpt Estimation and Hypothesis Testing for Threshold Regression
-
 CHNOSZ Thermodynamic Calculations and Diagrams for Geochemistry
-
 choiceDes Design Functions for Choice Studies
-
 ChoiceModelR Choice Modeling in R
-
 CHOIRBM Plots the CHOIR Body Map
-
 cholera Amend, Augment and Aid Analysis of John Snow's Cholera Map
-
 CholWishart Cholesky Decomposition of the Wishart Distribution
-
 choplump Permutation Test for Some Positive and Many Zero Responses
-
 chopthin The Chopthin Resampler
-
 ChoR Chordalysis R Package
-
 chords Estimation in Respondent Driven Samples
-
 choroplethr Simplify the Creation of Choropleth Maps in R
-
 choroplethrAdmin1 Contains an Administrative-Level-1 Map of the World
-
 choroplethrMaps Contains Maps Used by the 'choroplethr' Package
-
 christmas Generation of Different Animated Christmas Cards
-
 chromConverter Chromatographic File Converter
-
 chromer Interface to Chromosome Counts Database API
-
 chromoMap Interactive Genomic Visualization of Biological Data
-
 chromote Headless Chrome Web Browser Interface
-
 chromseq Split Chromosome 'Fasta' File
-
 chron Chronological Objects which can Handle Dates and Times
-
 chronicle Grammar for Creating R Markdown Reports
-
 chronicler Add Logging to Functions
-
 chronochrt Creating Chronological Charts
-
 chronosphere Earth System History Variables
-
 CHsharp Choi and Hall Style Data Sharpening
-
 chunked Chunkwise Text-File Processing for 'dplyr'
-
 chunkhooks Chunk Hooks for 'R Markdown'
-
 chunkR Read Tables in Chunks
-
 chyper Functions for Conditional Hypergeometric Distributions
-
 CIAAWconsensus Isotope Ratio Meta-Analysis
-
 CIARA Cluster Independent Algorithm for Rare Cell Types Identification
-
 CICA Clusterwise Independent Component Analysis
-
 ciccr Causal Inference in Case-Control Studies
-
 cicerone Provide Tours of 'Shiny' Applications
-
 CIDER Meta-Clustering for Single-Cell Data Integration and Evaluation
-
 CIEE Estimating and Testing Direct Effects in Directed Acyclic Graphs using Estimating Equations
-
 cif Cointegrated ICU Forecasting
-
 CIFsmry Weighted summary of cumulative incidence functions
-
 cifti Toolbox for Connectivity Informatics Technology Initiative ('CIFTI') Files
-
 ciftiTools Tools for Reading, Writing, Viewing and Manipulating CIFTI Files
-
 CIM Compositional Impact of Migration
-
 cimir Interface to the CIMIS Web API
-
 CIMTx Causal Inference for Multiple Treatments with a Binary Outcome
-
 cinaR A Computational Pipeline for Bulk 'ATAC-Seq' Profiles
-
 cinaRgenesets Ready-to-Use Curated Gene Sets for 'cinaR'
-
 CINE Classification International Normalized of Education
-
 CINID Curculionidae INstar IDentification
-
 CINmetrics Calculate Chromosomal Instability Metrics
-
 CINNA Deciphering Central Informative Nodes in Network Analysis
-
 cinterpolate Interpolation From C
-
 CIPerm Computationally-Efficient Confidence Intervals for Mean Shift from Permutation Methods
-
 cipheR Encryption and Decryption with Text Ciphers
-
 CIplot Functions to Plot Confidence Interval
-
 cir Centered Isotonic Regression and Dose-Response Utilities
-
 circacompare Analyses of Circadian Data
-
 circle R Client Package for Circle CI
-
 CirclesIntersections Algorithm for Computation of the Intersection Areas of N Circles
-
 circletyper Curve Text Elements in 'Shiny' Using 'CircleType.js'
-
 circlize Circular Visualization
-
 CircMLE Maximum Likelihood Analysis of Circular Data
-
 CircNNTSR Statistical Analysis of Circular Data using Nonnegative Trigonometric Sums (NNTS) Models
-
 CircOutlier Detection of Outliers in Circular-Circular Regression
-
 CircSpaceTime Spatial and Spatio-Temporal Bayesian Model for Circular Data
-
 CircStats Circular Statistics, from "Topics in Circular Statistics" (2001)
-
 circular Circular Statistics
-
 CircularDDM Circular Drift-Diffusion Model
-
 circularEV Extreme Value Analysis for Circular Data
-
 CircularSilhouette Fast Silhouette on Circular or Linear Data Clusters
-
 circumplex Analysis and Visualization of Circular Data
-
 cIRT Choice Item Response Theory
-
 CIS.DGLM Covariates, Interaction, and Selection for DGLM
-
 cit Causal Inference Test
-
 CITAN CITation ANalysis Toolpack
-
 citation Software Citation Tools
-
 citationchaser Perform Forward and Backwards Chasing in Evidence Syntheses
-
 citecorp Client for the Open Citations Corpus
-
 cities Clinical Trials with Intercurrent Events Simulator
-
 cito Building and Training Neural Networks
-
 ciTools Confidence or Prediction Intervals, Quantiles, and Probabilities for Statistical Models
-
 citrus Customer Intelligence Tool for Rapid Understandable Segmentation
-
 ciu Contextual Importance and Utility
-
 ciuupi2 Kabaila and Giri (2009) Confidence Interval
-
 civis R Client for the 'Civis Platform API'
-
 CJAMP Copula-Based Joint Analysis of Multiple Phenotypes
-
 cjar R Client for 'Customer Journey Analytics' ('CJA') API
-
 cjbart Heterogeneous Effects Analysis of Conjoint Experiments
-
 cjoint AMCE Estimator for Conjoint Experiments
-
 ckanr Client for the Comprehensive Knowledge Archive Network ('CKAN') API
-
 CKAT Composite Kernel Association Test for Pharmacogenetics Studies
-
 CKLRT Composite Kernel Machine Regression Based on Likelihood Ratio Test
-
 Ckmeans.1d.dp Optimal, Fast, and Reproducible Univariate Clustering
-
 CKMRpop Forward-in-Time Simulation and Tallying of Pairwise Relationships
-
 CLA Critical Line Algorithm in Pure R
-
 Claddis Measuring Morphological Diversity and Evolutionary Tempo
-
 cladoRcpp C++ Implementations of Phylogenetic Cladogenesis Calculations
-
 ClaimsProblems Analysis of Conflicting Claims
-
 clam Classical Age-Depth Modelling of Cores from Deposits
-
 clampSeg Idealisation of Patch Clamp Recordings
-
 ClamR Time Series Modeling for Climate Change Proxies
-
 clarifai Access to Clarifai API
-
 clarkeTest Distribution-Free Tests of Non-Nested Models
-
 class Functions for Classification
-
 ClassComparison Classes and Methods for "Class Comparison" Problems on Microarrays
-
 ClassDiscovery Classes and Methods for "Class Discovery" with Microarrays or Proteomics
-
 classGraph Construct Graphs of S4 Class Hierarchies
-
 classifierplots Generates a Visualization of Classifier Performance as a Grid of Diagnostic Plots
-
 classifly Explore Classification Models in High Dimensions
-
 classInt Choose Univariate Class Intervals
-
 classmap Visualizing Classification Results
-
 CLAST Exact Confidence Limits after a Sequential Trial
-
 cld2 Google's Compact Language Detector 2
-
 cld3 Google's Compact Language Detector 3
-
 clda Convolution-Based Linear Discriminant Analysis
-
 clean Fast and Easy Data Cleaning
-
 CleanBSequences Curing of Biological Sequences
-
 cleancall C Resource Cleanup via Exit Handlers
-
 cleandata To Inspect and Manipulate Data; and to Keep Track of This Process
-
 cleaner Fast and Easy Data Cleaning
-
 cleangeo Cleaning Geometries from Spatial Objects
-
 cleanNLP A Tidy Data Model for Natural Language Processing
-
 cleanrmd Clean Class-Less 'R Markdown' HTML Documents
-
 cleanTS Testbench for Univariate Time Series Cleaning
-
 cleaR Clean the R Console and Environment
-
 clespr Composite Likelihood Estimation for Spatial Data
-
 clevr Clustering and Link Prediction Evaluation in R
-
 clhs Conditioned Latin Hypercube Sampling
-
 cli Helpers for Developing Command Line Interfaces
-
 cliapp Create Rich Command Line Applications
-
 ClickClust Model-Based Clustering of Categorical Sequences
-
 ClickClustCont Mixtures of Continuous Time Markov Models
-
 ClickHouseHTTP A Simple HTTP Database Interface to 'ClickHouse'
-
 clickR Semi-Automatic Preprocessing of Messy Data with Change Tracking for Dataset Cleaning
-
 clickstream Analyzes Clickstreams Based on Markov Chains
-
 clidatajp Data from Japan Meteorological Agency
-
 cliff Execute Command Line Programs Interactively
-
 clifford Arbitrary Dimensional Clifford Algebras
-
 clifro Easily Download and Visualise Climate Data from CliFlo
-
 CliftLRD Complex-Valued Wavelet Lifting Estimators of the Hurst Exponent for Irregularly Sampled Time Series
-
 clikcorr Censoring Data and Likelihood-Based Correlation Estimation
-
 climaemet Climate AEMET Tools
-
 climateStability Estimating Climate Stability from Climate Model Data
-
 climatol Climate Tools (Series Homogenization and Derived Products)
-
 climatrends Climate Variability Indices for Ecological Modelling
-
 ClimClass Climate Classification According to Several Indices
-
 climdex.pcic PCIC Implementation of Climdex Routines
-
 clime Constrained L1-Minimization for Inverse (Covariance) Matrix Estimation
-
 climetrics Climate Change Metrics
-
 climextRemes Tools for Analyzing Climate Extremes
-
 ClimInd Climate Indices
-
 ClimMobTools API Client for the 'ClimMob' Platform
-
 ClimProjDiags Set of Tools to Compute Various Climate Indices
-
 climwin Climate Window Analysis
-
 clinDataReview Clinical Data Review Tool
-
 clinDR Simulation and Analysis Tools for Clinical Dose Response Modeling
-
 clinfun Clinical Trial Design and Data Analysis Functions
-
 clinicalsignificance Determine the Clinical Significance in Clinical Trials
-
 ClinicalTrialSummary Summary Measures for Clinical Trials with Survival Outcomes
-
 ClinicalUtilityRecal Recalibration Methods for Improved Clinical Utility of Risk Scores
-
 clinmon Hemodynamic Calculations from Clinical Monitoring
-
 clinPK Clinical Pharmacokinetics Toolkit
-
 clinsig Clinical Significance Functions
-
 ClinSigMeasures Clinical Significance Measures
-
 clinspacy Clinical Natural Language Processing using 'spaCy', 'scispaCy', and 'medspaCy'
-
 clintools Tools for Clinical Research
-
 clinUtils General Utility Functions for Analysis of Clinical Data
-
 clipp Calculating Likelihoods by Pedigree Paring
-
 clipr Read and Write from the System Clipboard
-
 CliquePercolation Clique Percolation for Networks
-
 clisymbols Unicode Symbols at the R Prompt
-
 CLME Constrained Inference for Linear Mixed Effects Models
-
 clmplus Tool-Box of Chain Ladder + Models
-
 clock Date-Time Types and Tools
-
 clockify A Wrapper for the 'Clockify' API
-
 clogitboost Boosting Conditional Logit Model
-
 clogitL1 Fitting Exact Conditional Logistic Regression with Lasso and Elastic Net Penalties
-
 clogitLasso Sparse Conditional Logistic Regression for Matched Studies
-
 CloneSeeker Seeking and Finding Clones in Copy Number and Sequencing Data
-
 CLONETv2 Clonality Estimates in Tumor
-
 clordr Composite Likelihood Inference and Diagnostics for Replicated Spatial Ordinal Data
-
 cloudml Interface to the Google Cloud Machine Learning Platform
-
 cloudos R Client Library for CloudOS
-
 cloudstoR Simplifies Access to Cloudstor API
-
 cloudUtil Cloud Utilization Plots
-
 clr Curve Linear Regression via Dimension Reduction
-
 clttools Central Limit Theorem Experiments (Theoretical and Simulation)
-
 clubSandwich Cluster-Robust (Sandwich) Variance Estimators with Small-Sample Corrections
-
 clue Cluster Ensembles
-
 ClueR Cluster Evaluation
-
 CluMP Clustering of Micro Panel Data
-
 ClusBoot Bootstrap Clustering
-
 cluscov Clustered Covariate Regression
-
 ClusPred Simultaneous Semi-Parametric Estimation of Clustering and Regression
-
 clusrank Wilcoxon Rank Tests for Clustered Data
-
 ClusROC ROC Analysis in Three-Class Classification Problems for Clustered Data
-
 ClussCluster Simultaneous Detection of Clusters and Cluster-Specific Genes in High-Throughput Transcriptome Data
-
 clust.bin.pair Statistical Methods for Analyzing Clustered Matched Pair Data
-
 clustAnalytics Cluster Evaluation on Graphs
-
 ClustAssess Tools for Assessing Clustering
-
 ClustBlock Clustering of Datasets
-
 clustcurv Determining Groups in Multiples Curves
-
 clustDRM Clustering Dose-Response Curves and Fitting Appropriate Models to Them
-
 clustEff Clusters of Effects Curves in Quantile Regression Models
-
 cluster "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
-
 cluster.datasets Cluster Analysis Data Sets
-
 Cluster.OBeu Cluster Analysis 'OpenBudgets.eu'
-
 clusterability Performs Tests for Cluster Tendency of a Data Set
-
 ClusterBootstrap Analyze Clustered Data with Generalized Linear Models using the Cluster Bootstrap
-
 clusterCons Consensus Clustering using Multiple Algorithms and Parameters
-
 clusterCrit Clustering Indices
-
 clusteredinterference Causal Effects from Observational Studies with Clustered Interference
-
 ClusteredMutations Location and Visualization of Clustered Somatic Mutations
-
 clusterGeneration Random Cluster Generation (with Specified Degree of Separation)
-
 clusterhap Clustering Genotypes in Haplotypes
-
 clusterHD Tools for Clustering High-Dimensional Data
-
 Clustering Techniques for Evaluating Clustering
-
 clustering.sc.dp Optimal Distance-Based Clustering for Multidimensional Data with Sequential Constraint
-
 clustermole Unbiased Single-Cell Transcriptomic Data Cell Type Identification
-
 clustermq Evaluate Function Calls on HPC Schedulers (LSF, SGE, SLURM, PBS/Torque)
-
 clusternomics Integrative Clustering for Heterogeneous Biomedical Datasets
-
 clusterPower Power Calculations for Cluster-Randomized and Cluster-Randomized Crossover Trials
-
 ClusterR Gaussian Mixture Models, K-Means, Mini-Batch-Kmeans, K-Medoids and Affinity Propagation Clustering
-
 ClusterRankTest Rank Tests for Clustered Data
-
 clusterRepro Reproducibility of Gene Expression Clusters
-
 clusterSEs Calculate Cluster-Robust p-Values and Confidence Intervals
-
 clusterSim Searching for Optimal Clustering Procedure for a Data Set
-
 ClusterStability Assessment of Stability of Individual Objects or Clusters in Partitioning Solutions
-
 clustertend Check the Clustering Tendency
-
 ClustGeo Hierarchical Clustering with Spatial Constraints
-
 ClustImpute K-Means Clustering with Build-in Missing Data Imputation
-
 clustMD Model Based Clustering for Mixed Data
-
 clustMixType k-Prototypes Clustering for Mixed Variable-Type Data
-
 ClustMMDD Variable Selection in Clustering by Mixture Models for Discrete Data
-
 ClustOfVar Clustering of Variables
-
 ClusTorus Prediction and Clustering on the Torus by Conformal Prediction
-
 clustra Clustering Longitudinal Trajectories
-
-clusTransition Monitor Changes in Cluster Solutions of Dynamic Datasets
-
+clusTransition Monitor Changes in Cluster Solutions of Dynamic Dataset
 clustrd Methods for Joint Dimension Reduction and Clustering
-
 clustree Visualise Clusterings at Different Resolutions
-
 clustringr Cluster Strings by Edit-Distance
-
 CLUSTShiny Interactive Document for Working with Cluster Analysis
-
 ClustVarLV Clustering of Variables Around Latent Variables
-
 clustvarsel Variable Selection for Gaussian Model-Based Clustering
-
 ClusVis Gaussian-Based Visualization of Gaussian and Non-Gaussian Model-Based Clustering
-
 clv Cluster Validation Techniques
-
 clValid Validation of Clustering Results
-
 CLVTools Tools for Customer Lifetime Value Estimation
-
 cmaes Covariance Matrix Adapting Evolutionary Strategy
-
 cmaesr Covariance Matrix Adaptation Evolution Strategy
-
 CMAPSS Commercial Modular Aero-Propulsion System Simulation Data Set
-
 CMapViz Representation Tool For Output Of Connectivity Map (CMap) Analysis
-
 cmaRs Implementation of the Conic Multivariate Adaptive Regression Splines in R
-
 cmbClust Conditional Mixture Modeling and Model-Based Clustering
-
 cmce Computer Model Calibration for Deterministic and Stochastic Simulators
-
 cmcR An Implementation of the 'Congruent Matching Cells' Method
-
 cmdfun Framework for Building Interfaces to Shell Commands
-
 cmenet Bi-Level Selection of Conditional Main Effects
-
 CMF Collective Matrix Factorization
-
 cmfrec Collective Matrix Factorization for Recommender Systems
-
 CMFsurrogate Calibrated Model Fusion Approach to Combine Surrogate Markers
-
 cmhc Access, Retrieve, and Work with CMHC Data
-
 CMHNPA Cochran-Mantel-Haenszel and Nonparametric ANOVA
-
 cml Conditional Manifold Learning
-
 CMLS Constrained Multivariate Least Squares
-
 cmm Categorical Marginal Models
-
 cmmr CEU Mass Mediator RESTful API
-
 CMMs Compositional Mediation Model
-
 cmna Computational Methods for Numerical Analysis
-
 cmocean Beautiful Colour Maps for Oceanography
-
 CMplot Circle Manhattan Plot
-
 cmprsk Subdistribution Analysis of Competing Risks
-
 cmprskcoxmsm Use IPW to Estimate Treatment Effect under Competing Risks
-
 cmprskQR Analysis of Competing Risks Using Quantile Regressions
-
 cmpsR R Implementation of Congruent Matching Profile Segments Method
-
 cmR Analysis of Cardiac Magnetic Resonance Images
-
 cmrutils Misc Functions of the Center for Mathematical Research
-
 cms Calculate Medicare Reimbursement
-
 cmsaf A Toolbox for CM SAF NetCDF Data
-
 cmsafops Tools for CM SAF NetCDF Data
-
 cmsafvis Tools to Visualize CM SAF NetCDF Data
-
 CMShiny Interactive Document for Working with Confusion Matrix
-
 cmstatr Statistical Methods for Composite Material Data
-
 cmtest Conditional Moments Test
-
 cmvnorm The Complex Multivariate Gaussian Distribution
-
 cna Causal Modeling with Coincidence Analysis
-
 CNAIM Common Network Asset Indices Methodology (CNAIM)
-
 cnaOpt Optimizing Consistency and Coverage in Configurational Causal Modeling
-
 cnbdistr Conditional Negative Binomial Distribution
-
 cncaGUI Canonical Non-Symmetrical Correspondence Analysis in R
-
 CNLTreg Complex-Valued Wavelet Lifting for Signal Denoising
-
 CNLTtsa Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
-
 cNORM Continuous Norming
-
 CNprep Pre-Process DNA Copy Number (CN) Data for Detection of CN Events
-
 CNPS Nonparametric Statistics
-
 cns Color Naming System
-
 cnum Chinese Numerals Processing
-
 CNVRG Dirichlet Multinomial Modeling of Relative Abundance Data
-
 CNVScope A Versatile Toolkit for Copy Number Variation Relationship Data Analysis and Visualization
-
 coala A Framework for Coalescent Simulation
-
 coalescentMCMC MCMC Algorithms for the Coalescent
-
 coalitions Bayesian "Now-Cast" Estimation of Event Probabilities in Multi-Party Democracies
-
 coarseDataTools Analysis of Coarsely Observed Data
-
 cobalt Covariate Balance Tables and Plots
-
 cobiclust Biclustering via Latent Block Model Adapted to Overdispersed Count Data
-
 cobs Constrained B-Splines (Sparse Matrix Based)
-
 coca Cluster-of-Clusters Analysis
-
 cocktailApp 'shiny' App to Discover Cocktails
-
 CoClust Copula Based Cluster Analysis
-
 COCONUT COmbat CO-Normalization Using conTrols (COCONUT)
-
 cocor Comparing Correlations
-
 cocorresp Co-Correspondence Analysis Methods
-
 cocron Statistical Comparisons of Two or more Alpha Coefficients
-
 coda Output Analysis and Diagnostics for MCMC
-
 coda.base A Basic Set of Functions for Compositional Data Analysis
-
 coda4microbiome Compositional Data Analysis for Microbiome Studies
-
 codacore Learning Sparse Log-Ratios for Compositional Data
-
 codalm Transformation-Free Linear Regression for Compositional Outcomes and Predictors
-
 CodataGS Genomic Prediction Using SNP Codata
-
 cOde Automated C Code Generation for 'deSolve', 'bvpSolve'
-
 codebook Automatic Codebooks from Metadata Encoded in Dataset Attributes
-
 codebookr Create Codebooks from Data Frames
-
 codebreaker Retro Logic Game
-
 codeCollection Collection of Codes with Labels
-
 CodeDepends Analysis of R Code for Reproducible Research and Code Comprehension
-
 codemeta A Smaller 'codemetar' Package
-
 codemetar Generate 'CodeMeta' Metadata for R Packages
-
 codename Generation of Code Names for Organizations, People, Projects, and Whatever Else
-
 codep Multiscale Codependence Analysis
-
 coder Deterministic Categorization of Items Based on External Code Data
-
 codetools Code Analysis Tools for R
-
 codexcopd The CODEX (Comorbidity, Obstruction, Dyspnea, and Previous Severe Exacerbations) Index: Short and Medium-Term Prognosis in Patients Hospitalized for Chronic Obstructive Pulmonary Disease (COPD) Exacerbations
-
 codez Seq2Seq Encoder-Decoder Model for Time-Feature Analysis Based on Tensorflow
-
 codified Produce Standard/Formalized Demographics Tables
-
 CoDiNA Co-Expression Differential Network Analysis
-
 codingMatrices Alternative Factor Coding Matrices for Linear Model Formulae
-
 codyn Community Dynamics Metrics
-
 coefa Meta Analysis of Factor Analysis Based on CO-Occurrence Matrices
-
 coefficientalpha Robust Coefficient Alpha and Omega with Missing and Non-Normal Data
-
 coefplot Plots Coefficients from Fitted Models
-
 coenocliner Coenocline Simulation
-
 coenoflex Gradient-Based Coenospace Vegetation Simulator
-
 cofad Contrast Analyses for Factorial Designs
-
 cofeatureR Generate Cofeature Matrices
-
 coffee Chronological Ordering for Fossils and Environmental Events
-
 CoFRA Complete Functional Regulation Analysis
-
 coga Convolution of Gamma Distributions
-
 cogmapr Cognitive Mapping Tools Based on Coding of Textual Sources
-
 cognitoR Authentication for 'Shiny' Apps with 'Amazon Cognito'
-
 CohensdpLibrary Cohen's D_p Computation with Confidence Intervals
-
 cohortBuilder Data Source Agnostic Filtering Tools
-
 CohortPlat Simulation of Cohort Platform Trials for Combination Treatments
-
 cohorts Cohort Analysis Made Easy
-
 cohorttools Cohort Data Analyses
-
 coil Contextualization and Evaluation of COI-5P Barcode Data
-
 CoImp Copula Based Imputation Method
-
 coin Conditional Inference Procedures in a Permutation Test Framework
-
 coinmarketcapr Get 'Cryptocurrencies' Market Cap Prices from Coin Market Cap
-
 Coinprofile Coincident Profile
-
 COINr Composite Indicator Construction and Analysis
-
 cointmonitoR Consistent Monitoring of Stationarity and Cointegrating Relationships
-
 cointReg Parameter Estimation and Inference in a Cointegrating Regression
-
 cold Count Longitudinal Data
-
 colf Constrained Optimization on Linear Function
-
 collapse Advanced and Fast Data Transformation
-
 CollapseLevels Collapses Levels, Computes Information Value and WoE
-
 collapsibleTree Interactive Collapsible Tree Diagrams using 'D3.js'
-
 collateral Quickly Evaluate Captured Side Effects
-
 collatz Functions Related to the Collatz/Syracuse/3n+1 Problem
-
 collections High Performance Container Data Types
-
 collidr Check for Namespace Collisions Across Packages and Functions on CRAN
-
 collin Visualization the Effects of Collinearity in Distributed Lag Models and Other Linear Models
-
 CollocInfer Collocation Inference for Dynamic Systems
-
 collpcm Collapsed Latent Position Cluster Model for Social Networks
-
 collUtils Auxiliary Package for Package 'CollapsABEL'
-
 colmozzie Dengue Cases and Climate Variables in Colombo Sri Lanka
-
 coloc Colocalisation Tests of Two Genetic Traits
-
 colocalization Normalized Spatial Intensity Correlation
-
 colocalized Clusters of Colocalized Sequences
-
 colocr Conduct Co-Localization Analysis of Fluorescence Microscopy Images
-
-colorblindcheck Check Color Palettes for Problems with Color Vision Deficiency
-
+colorblindcheck Check Color Palettes for Problems with Color Vision Deficienc
 colorBlindness Safe Color Set for Color Blindness
-
 colorDF Colorful Data Frames in R Terminal
-
 colordistance Distance Metrics for Image Color Similarity
-
 colorednoise Simulate Temporally Autocorrelated Populations
-
 colorfindr Extract Colors from Windows BMP, JPEG, PNG, TIFF, and SVG Format Images
-
 colorhcplot Colorful Hierarchical Clustering Dendrograms
-
 colorhex Colors and Palettes from Color-Hex
-
 colorist Coloring Wildlife Distributions in Space-Time
-
 colorizer Colorize Old Images Using the 'DeOldify' Image Colorization API
-
 colormap Color Palettes using Colormaps Node Module
-
 ColorNameR Give Colors a Name
-
 colorpatch Optimized Rendering of Fold Changes and Confidence Values
-
 colorr Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams
-
 colorRamps Builds Color Tables
-
 colorscience Color Science Methods and Data
-
 colorspace A Toolbox for Manipulating and Assessing Colors and Palettes
-
 colorSpec Color Calculations with Emphasis on Spectral Data
-
 colourlovers R Client for the COLOURlovers API
-
 colourpicker A Colour Picker Tool for Shiny and for Selecting Colours in Plots
-
 colourvalues Assigns Colours to Values
-
 colourvision Colour Vision Models
-
 COLP Causal Discovery for Categorical Data with Label Permutation
-
 colt Command-Line Color Themes
-
 comat Creates Co-Occurrence Matrices of Spatial Data
-
 comato Analysis of Concept Maps and Concept Landscapes
-
 COMBAT A Combined Association Test for Genes using Summary Statistics
-
 combinat combinatorics utilities
-
 combinationpvalues Combination of Independent P-Values
-
 combinatorics Introduction to Some Combinatorial Relations
-
 combinedevents Calculate Scores and Marks for Track and Field Combined Events
-
 CombinePortfolio Estimation of Optimal Portfolio Weights by Combining Simple Portfolio Strategies
-
 combinIT A Combined Interaction Test for Unreplicated Two-Way Tables
-
 CombinS Construction Methods of some Series of PBIB Designs
-
 combiroc Selection and Ranking of Omics Biomarkers Combinations Made Easy
-
 combiter Combinatorics Iterators
-
 comclim Community Climate Statistics
-
 cometExactTest Exact Test from the Combinations of Mutually Exclusive Alterations (CoMEt) Algorithm
-
 cometr 'Comet' API for R
-
 comf Models and Equations for Human Comfort Research
-
 comFuncs Commonly Used Functions for R Shiny Applications
-
 ComICS Computational Methods for Immune Cell-Type Subsets
-
 COMIX Coarsened Mixtures of Hierarchical Skew Kernels
-
 commafree Call Functions Without Commas Between Arguments
-
 CommEcol Community Ecology Analyses
-
 commentr Print Nicely Formatted Comments for Use in Script Files
-
 CommKern Network-Based Communities and Kernel Machine Methods
-
 common Solutions for Common Problems in Base R
-
 CommonJavaJars Useful Libraries for Building a Java Based GUI under R
-
 commonmark High Performance CommonMark and Github Markdown Rendering in R
-
 CommonMean.Copula Common Mean Vector under Copula Models
-
 commonsMath JAR Files of the Apache Commons Mathematics Library
-
 communication Feature Extraction and Model Estimation for Audio of Human Speech
-
 comorbidity Computing Comorbidity Scores
-
 comorosmaps Comoro Islands Maps
-
 Comp2ROC Compare Two ROC Curves that Intersect
-
 Compack Regression with Compositional Covariates
-
 comparator Comparison Functions for Clustering and Record Linkage
-
 compare Comparing Objects for Differences
-
 compareC Compare Two Correlated C Indices with Right-Censored Survival Outcome
-
 CompareCausalNetworks Interface to Diverse Estimation Methods of Causal Networks
-
 CompAREdesign Statistical Functions for the Design of Studies with Composite Endpoints
-
 compareDF Do a Git Style Diff of the Rows Between Two Dataframes with Similar Structure
-
 compareGroups Descriptive Analysis by Groups
-
 compareMCMCs Compare MCMC Efficiency from 'nimble' and/or Other MCMC Engines
-
 comparer Compare Output and Run Time
-
 CompareTests Correct for Verification Bias in Diagnostic Accuracy & Agreement
-
 comparison Multivariate Likelihood Ratio Calculation and Evaluation
-
 ComparisonCR Comparison of Cumulative Incidence Between Two Groups Under Competing Risks
-
 ComparisonSurv Comparison of Survival Curves Between Two Groups
-
 compas Conformational Manipulations of Protein Atomic Structures
-
 CompDist Multisection Composite Distributions
-
 comperank Ranking Methods for Competition Results
-
 comperes Manage Competition Results
-
 competitiontoolbox A Graphical User Interface for Antitrust and Trade Practitioners
-
 compHclust Complementary Hierarchical Clustering
-
 compicc Calculate the Confidence Interval for the Difference of ICCs
-
 Compind Composite Indicators Functions
-
 completejourney Retail Shopping Data
-
 complexity Calculate the Proportion of Permutations in Line with an Informative Hypothesis
-
 complexNet Complex Network Generation
-
 complexplus Functions of Complex or Real Variable
-
 ComplexUpset Create Complex UpSet Plots Using 'ggplot2' Components
-
 complmrob Robust Linear Regression with Compositional Data as Covariates
-
 CompModels Pseudo Computer Models for Optimization
-
 COMPoissonReg Conway-Maxwell Poisson (COM-Poisson) Regression
-
 Compositional Compositional Data Analysis
-
 compositions Compositional Data Analysis
-
 composits Compositional, Multivariate and Univariate Time Series Outlier Ensemble
-
 compound.Cox Univariate Feature Selection and Compound Covariate for Predicting Survival
-
 CompoundEvents Statistical Modeling of Compound Events
-
 CompQuadForm Distribution Function of Quadratic Forms in Normal Variables
-
 CompR Paired Comparison Data Analysis
-
 comprehenr List Comprehensions
-
 compute.es Compute Effect Sizes
-
 comsimitv Flexible Framework for Simulating Community Assembly
-
 comtradr Interface with the United Nations Comtrade API
-
 con2aqi Calculate the AQI from Pollutant Concentration
-
 con2lki Calculate the Dutch Air Quality Index (LKI)
-
 Conake Continuous Associated Kernel Estimation
-
 concatenate Human-Friendly Text from Unknown Strings
-
 concatipede Easy Concatenation of Fasta Sequences
-
 concaveman A Very Fast 2D Concave Hull Algorithm
-
 conclust Pairwise Constraints Clustering
-
 concom Connected Components of an Undirected Graph
-
 ConConPiWiFun Optimisation with Continuous Convex Piecewise (Linear and Quadratic) Functions
-
 concordance Product Concordance
-
 ConcordanceTest An Alternative to the Kruskal-Wallis Based on the Kendall Tau Distance
-
 concorR CONCOR and Supplemental Functions
-
 concreg Concordance Regression
-
 concstats Market Structure, Concentration and Inequality Measures
-
 CONCUR Copy Number Profile Curve-Based Association Test
-
 cond Approximate Conditional Inference for Logistic and Loglinear Models
-
 CondCopulas Estimation and Inference for Conditional Copula Models
-
 condformat Conditional Formatting in Data Frames
-
 condGEE Parameter Estimation in Conditional GEE for Recurrent Event Gap Times
-
 CondIndTests Nonlinear Conditional Independence Tests
-
 condir Computation of P Values and Bayes Factors for Conditioning Data
-
 CondiS Censored Data Imputation for Direct Modeling
-
 conditionz Control How Many Times Conditions are Thrown
-
 condmixt Conditional Density Estimation with Neural Network Conditional Mixtures
-
 condMVNorm Conditional Multivariate Normal Distribution
-
 CondMVT Conditional Multivariate t Distribution, Expectation Maximization Algorithm, and Its Stochastic Variants
-
 condSURV Estimation of the Conditional Survival Function for Ordered Multivariate Failure Time Data
-
 condTruncMVN Conditional Truncated Multivariate Normal Distribution
-
 conductor Create Tours in 'Shiny' Apps Using 'Shepherd.js'
-
 condusco Query-Driven Pipeline Execution and Query Templates
-
 condvis Conditional Visualization for Statistical Models
-
 condvis2 Interactive Conditional Visualization for Supervised and Unsupervised Models in Shiny
-
 coneproj Primal or Dual Cone Projections with Routines for Constrained Regression
-
 conf Visualization and Analysis of Statistical Measures of Confidence
-
 conf.design Construction of factorial designs
-
 confidence Confidence Estimation of Environmental State Classifications
-
 config Manage Environment Specific Configuration Values
-
 ConfigParser Package to Parse an INI File, Including Variable Interpolation
-
 configr An Implementation of Parsing and Writing Configuration File (JSON/INI/YAML/TOML)
-
 configural Multivariate Profile Analysis
-
 confinterpret Descriptive Interpretations of Confidence Intervals
-
 confintr Confidence Intervals
-
 ConfIntVariance Confidence Interval for the Univariate Population Variance without Normality Assumption
-
 conflicted An Alternative Conflict Resolution Strategy
-
 conflr Client for 'Confluence' API
-
 conformalbayes Jackknife(+) Predictive Intervals for Bayesian Models
-
 conformalClassification Transductive and Inductive Conformal Predictions for Classification Problems
-
 conformalInference.fd Tools for Conformal Inference for Regression in Multivariate Functional Setting
-
 conformalInference.multi Conformal Inference Tools for Regression with Multivariate Response
-
 ConformalSmallest Efficient Tuning-Free Conformal Prediction
-
 confoundr Diagnostics for Confounding of Time-Varying and Other Joint Exposures
-
 confreq Configural Frequencies Analysis Using Log-Linear Modeling
-
 confSAM Estimates and Bounds for the False Discovery Proportion, by Permutation
-
 ConfusionTableR Confusion Matrix Toolset
-
 congress Access the Congress.gov API
-
 CongreveLamsdell2016 Distance Metrics for Trees Generated by Congreve and Lamsdell
-
 CoNI Correlation Guided Network Integration (CoNI)
-
 conicfit Algorithms for Fitting Circles, Ellipses and Conics Based on the Work by Prof. Nikolai Chernov
-
 Conigrave Flexible Tools for Multiple Imputation
-
 conjoint An Implementation of Conjoint Analysis Method
-
 conjurer A Parametric Method for Generating Synthetic Data
-
 conleyreg Estimations using Conley Standard Errors
-
 conmet Construct Measurement Evaluation Tool
-
 ConNEcT Contingency Measure-Based Networks for Binary Time Series
-
 connectapi Utilities for Interacting with the 'RStudio Connect' Server API
-
 ConnectednessApproach Connectedness Approach
-
 connectwidgets Organize and Curate Your Content Within 'RStudio Connect'
-
 ConnMatTools Tools for Working with Connectivity Data
-
 conogive Congeneric Normal-Ogive Model
-
 conos Clustering on Network of Samples
-
 conover.test Conover-Iman Test of Multiple Comparisons Using Rank Sums
-
 conquer Convolution-Type Smoothed Quantile Regression
-
 conquestr An R Package to Extend 'ACER ConQuest'
-
 ConR Computation of Parameters Used in Preliminary Assessment of Conservation Status
-
 conserveR Identifying Conservation Prioritization Methods Based on Data Availability
-
 consolechoice An Easy and Quick Way to Loop a Character Vector as a Menu in the Console
-
 consort Create Consort Diagram
-
 consortr Interactive Consort Flow Diagrams
-
 ConSpline Partial Linear Least-Squares Regression using Constrained Splines
-
 ConsRank Compute the Median Ranking(s) According to the Kemeny's Axiomatic Approach
-
 ConsRankClass Classification and Clustering of Preference Rankings
-
 ConsReg Fits Regression & ARMA Models Subject to Constraints to the Coefficient
-
 constants Reference on Constants, Units and Uncertainty
-
 constellation Identify Event Sequences Using Time Series Joins
-
 conStruct Models Spatially Continuous and Discrete Population Genetic Structure
-
 contactdata Social Contact Matrices for 152 Countries
-
 container Extending Base 'R' Lists
-
 ContaminatedMixt Clustering and Classification with the Contaminated Normal
-
 contentid An Interface for Content-Based Identifiers
-
 contfrac Continued Fractions
-
 contFracR Continued Fraction Generators and Evaluators
-
 contingency Discrete Multivariate Probability Distributions
-
 contingencytables Statistical Analysis of Contingency Tables
-
 contoureR Contouring of Non-Regular Three-Dimensional Data
-
 ContourFunctions Create Contour Plots from Data or a Function
-
 contourPlot Plots x,y,z Co-Ordinates in a Contour Map
-
 contrast A Collection of Contrast Methods
-
 ContRespPP Predictive Probability for a Continuous Response with an ANOVA Structure
-
 contribution A Tiny Contribution Table Generator Based on 'ggplot2'
-
 control A Control Systems Toolbox
-
 controlfunctionIV Control Function Methods with Possibly Invalid Instrumental Variables
-
 controlTest Quantile Comparison for Two-Sample Right-Censored Survival Data
-
 contsurvplot Visualize the Effect of a Continuous Variable on a Time-to-Event Outcome
-
 contTimeCausal Continuous Time Causal Models
-
 convdistr Convolute Probabilistic Distributions
-
 ConvergenceClubs Finding Convergence Clubs
-
 ConvergenceConcepts Seeing Convergence Concepts in Action
-
 convertGraph Convert Graphical Files Format
-
 convertid Convert Gene IDs Between Each Other and Fetch Annotations from Biomart
-
 ConvertPar Estimating IRT Parameters via Machine Learning Algorithms
-
 convertr Convert Between Units
-
 convevol Analysis of Convergent Evolution
-
 convexjlr Disciplined Convex Programming in R using 'Convex.jl'
-
 convey Income Concentration Analysis with Complex Survey Samples
-
 Convolutioner Convolution of Data
-
 convoSPAT Convolution-Based Nonstationary Spatial Modeling
-
 cooccur Probabilistic Species Co-Occurrence Analysis in R
-
 cookies Use Browser Cookies with 'shiny'
-
 CoOL Causes of Outcome Learning
-
 cooltools Practical Tools for Scientific Computations and Visualizations
-
 coop Co-Operation: Fast Covariance, Correlation, and Cosine Similarity Operations
-
 CoopGame Important Concepts of Cooperative Game Theory
-
 coopProductGame Cooperative Aspects of Linear Production Programming Problems
-
 CoordinateCleaner Automated Cleaning of Occurrence Records from Biological Collections
-
 copBasic General Bivariate Copula Theory and Many Utility Functions
-
 copCAR Fitting the copCAR Regression Model for Discrete Areal Data
-
 CopCTS Copula-Based Semiparametric Analysis for Time Series Data with Detection Limits
-
 cope Coverage Probability Excursion (CoPE) Sets
-
 copent Estimating Copula Entropy and Transfer Entropy
-
 CopernicusDEM Copernicus Digital Elevation Models
-
 coppeCosenzaR COPPE-Cosenza Fuzzy Hierarchy Model
-
 copre Tools for Nonparametric Martingale Posterior Sampling
-
 cops Cluster Optimized Proximity Scaling
-
 CopSens Copula-Based Sensitivity Analysis for Observational Causal Inference
-
 copula Multivariate Dependence with Copulas
-
 Copula.Markov Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
-
 Copula.Markov.survival Copula Markov Model with Dependent Censoring
-
 Copula.surv Analysis of Bivariate Survival Data Based on Copulas
-
 copulaboost Fitting Additive Copula Regression Models for Binary Outcome Regression
-
 CopulaCenR Copula-Based Regression Models for Multivariate Censored Data
-
 copulaData Data Sets for Copula Modeling
-
 copulaedas Estimation of Distribution Algorithms Based on Copulas
-
 copulareg Copula Regression
-
 CopulaREMADA Copula Mixed Models for Multivariate Meta-Analysis of Diagnostic Test Accuracy Studies
-
 copulaSim Virtual Patient Simulation by Copula Invariance Property
-
 copyseparator Assembling Long Gene Copies from Short Read Data
-
 COR The COR for Optimal Subset Selection in Distributed Estimation
-
 cora Cora Data for Entity Resolution
-
 coRanking Co-Ranking Matrix
-
 corazon Apply 'colorffy' Color Gradients Within 'shiny' Elements
-
 Corbi Collection of Rudimentary Bioinformatics Tools
-
 CorBin Generate High-Dimensional Binary Data with Correlation Structures
-
 corclass Correlational Class Analysis
-
 cord Community Estimation in G-Models via CORD
-
 cordillera Calculation of the OPTICS Cordillera
-
 CORE Cores of Recurrent Events
-
 coreCT Programmatic Analysis of Sediment Cores Using Computed Tomography Imaging
-
 corehunter Multi-Purpose Core Subset Selection
-
 CORElearn Classification, Regression and Feature Evaluation
-
 corels R Binding for the 'Certifiably Optimal RulE ListS (Corels)' Learner
-
 coreNLP Wrappers Around Stanford CoreNLP Tools
-
 coreSim Core Functionality for Simulating Quantities of Interest from Generalised Linear Models
-
 corHMM Hidden Markov Models of Character Evolution
-
 corkscrew Preprocessor for Data Modeling
-
 corlink Record Linkage, Incorporating Imputation for Missing Agreement Patterns, and Modeling Correlation Patterns Between Fields
-
 CorMID Correct Mass Isotopologue Distribution Vectors
-
 corncob Count Regression for Correlated Observations with the Beta-Binomial
-
 CornerstoneR Collection of Scripts for Interface Between 'Cornerstone' and 'R'
-
 cornet Elastic Net with Dichotomised Outcomes
-
 coro 'Coroutines' for R
-
 coroICA Confounding Robust Independent Component Analysis for Noisy and Grouped Data
-
 corona Coronavirus ('Rona') Data Exploration
-
 coronavirus The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset
-
 corpcor Efficient Estimation of Covariance and (Partial) Correlation
-
 corpora Statistics and Data Sets for Corpus Frequency Data
-
 corporaexplorer A 'Shiny' App for Exploration of Text Collections
-
 CoRpower Power Calculations for Assessing Correlates of Risk in Clinical Efficacy Trials
-
 corpus Text Corpus Analysis
-
 corpustools Managing, Querying and Analyzing Tokenized Text
-
 corr2D Implementation of 2D Correlation Analysis in R
-
 corrarray Correlation Arrays and 2-Sample Correlation Matrices
-
 CorrBin Nonparametrics with Clustered Binary and Multinomial Data
-
 corrcoverage Correcting the Coverage of Credible Sets from Bayesian Genetic Fine Mapping
-
 corrDNA Finding Associations in Position-Wise Aligned DNA Sequence Dataset
-
 correctedAUC Correcting AUC for Measurement Error
-
 CorrectedFDR Correcting False Discovery Rates
-
 CorrectOverloadedPeaks Correct Overloaded Peaks from GC-APCI-MS Data
-
 corregp Functions and Methods for Correspondence Regression
-
 correlation Methods for Correlation Analysis
-
 correlationfunnel Speed Up Exploratory Data Analysis (EDA) with the Correlation Funnel
-
 correlbinom Correlated Binomial Probabilities
-
 Correlplot A Collection of Functions for Graphing Correlation Matrices
-
 correspondenceTables Creating Correspondence Tables Between Two Statistical Classifications
-
 corrgram Plot a Correlogram
-
 corrgrapher Explore Correlations Between Variables in a Machine Learning Model
-
 CorrMixed Estimate Correlations Between Repeatedly Measured Endpoints (E.g., Reliability) Based on Linear Mixed-Effects Models
-
 corrplot Visualization of a Correlation Matrix
-
 corrr Correlations in R
-
 corrsieve Software for Summarising and Evaluating STRUCTURE Output
-
 corrtable Creates and Saves Out a Correlation Table with Significance Levels Indicated
-
 CorrToolBox Modeling Correlational Magnitude Transformations in Discretization Contexts
-
 corset Arbitrary Bounding of Series and Time Series Objects
-
 cort Some Empiric and Nonparametric Copula Models
-
 corTest Robust Tests for Equal Correlation
-
 corTESTsrd Significance Testing of Rank Cross-Correlations under SRD
-
 corto Inference of Gene Regulatory Networks
-
 corx Create and Format Correlation Matrices
-
 cosa Bound Constrained Optimal Sample Size Allocation
-
 cosinor Tools for Estimating and Predicting the Cosinor Model
-
 cosinor2 Extended Tools for Cosinor Analysis of Rhythms
-
 cosmicsig Mutational Signatures from COSMIC (Catalogue of Somatic Mutations in Cancer)
-
 cosmoFns Functions for Cosmological Distances, Times, Luminosities, Etc
-
 CoSMoS Complete Stochastic Modelling Solution
-
 COST Copula-Based Semiparametric Models for Spatio-Temporal Data
-
 costat Time Series Costationarity Determination
-
 costsensitive Cost-Sensitive Multi-Class Classification
-
 CosW The CosW Distribution
-
 CoTiMA Continuous Time Meta-Analysis ('CoTiMA')
-
 cotram Count Transformation Models
-
 cotrend Consistent Co-Trending Rank Selection
-
-couchDB Connect to and Work with CouchDB Databases
-
+couchDB Connect to and Work with CouchDB Database
 COUNT Functions, Data and Code for Count Data
-
 countcolors Locates and Counts Pixels Within Color Range(s) in Images
-
 countdata The Beta-Binomial Test for Count Data
-
 countdown A Countdown Timer for HTML Presentations, Documents, and Web Apps
-
 Counterfactual Estimation and Inference Methods for Counterfactual Analysis
-
 Counternull Creating Null and Counternull Distributions to Find Counternull Values
-
 countfitteR Comprehensive Automatized Evaluation of Distribution Models for Count Data
-
 countgmifs Discrete Response Regression for High-Dimensional Data
-
 countHMM Penalized Estimation of Flexible Hidden Markov Models for Time Series of Counts
-
 countland Analysis of Biological Count Data, Especially from Single-Cell RNA-Seq
-
 Countr Flexible Univariate Count Models Based on Renewal Processes
-
 countrycode Convert Country Names and Country Codes
-
 CountsEPPM Mean and Variance Modeling of Count Data
-
 countToFPKM Convert Counts to Fragments per Kilobase of Transcript per Million (FPKM)
-
 countTransformers Transform Counts in RNA-Seq Data Analysis
-
 covafillr Local Polynomial Regression of State Dependent Covariates in State-Space Models
-
 covatest Tests on Properties of Space-Time Covariance Functions
-
 covBM Brownian Motion Processes for 'nlme'-Models
-
 CovCombR Combine Partial Covariance / Relationship Matrices
-
 covdepGE Covariate Dependent Graph Estimation
-
 coveffectsplot Produce Forest Plots to Visualize Covariate Effects
-
 covequal Test for Equality of Covariance Matrices
-
 covfefe Covfefy Any Word, Sentence or Speech
-
 covglasso Sparse Covariance Matrix Estimation
-
 COVID19 R Interface to COVID-19 Data Hub
-
 covid19.analytics Load and Analyze Live Data from the COVID-19 Pandemic
-
 covid19br Brazilian COVID-19 Pandemic Data
-
 covid19brazil COVID-19 Dataset for Brazil
-
 covid19dbcand Selected 'Drugbank' Drugs for COVID-19 Treatment Related Data in R Format
-
 covid19france Cases of COVID-19 in France
-
 covid19india Pulling Clean Data from Covid19india.org
-
 covid19italy The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Dataset
-
 covid19sf The Covid19 San Francisco Dataset
-
 covid19srilanka The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data in Sri Lanka
-
 covid19swiss COVID-19 Cases in Switzerland and Principality of Liechtenstein
-
 covid19us Cases of COVID-19 in the United States
-
 covidcast Client for Delphi's 'COVIDcast Epidata' API
-
 COVIDIBGE Downloading, Reading and Analyzing PNAD COVID19 Microdata
-
 CovidMutations Mutation Analysis Toolkit for COVID-19 (Coronavirus Disease 2019)
-
 covidmx Descarga y analiza datos de COVID-19 en México
-
 covidprobability Estimate the Unit-Wide Probability of COVID-19
-
 covidsymptom COVID Symptom Study Sweden Open Dataset
-
 covKCD Covariance Estimation for Matrix Data with the Kronecker-Core Decomposition
-
 covr Test Coverage for Packages
-
 CovRegRF Covariance Regression with Random Forests
-
 covRobust Robust Covariance Estimation via Nearest Neighbor Cleaning
-
 CovSel Model-Free Covariate Selection
-
 covsep Tests for Determining if the Covariance Structure of 2-Dimensional Data is Separable
-
 covsim VITA, IG and PLSIM Simulation for Given Covariance and Marginals
-
 covTestR Covariance Matrix Tests
-
 CovTools Statistical Tools for Covariance Analysis
-
 cowbell Performs Segmented Linear Regression on Two Independent Variables
-
 cowplot Streamlined Plot Theme and Plot Annotations for 'ggplot2'
-
 cowsay Messages, Warnings, Strings with Ascii Animals
-
 CoxBcv Bias-Corrected Sandwich Variance Estimators for Marginal Cox Analysis of Cluster Randomized Trials
-
 coxed Duration-Based Quantities of Interest for the Cox Proportional Hazards Model
-
 CoxICPen Variable Selection for Cox's Model with Interval-Censored Data
-
 coxme Mixed Effects Cox Models
-
 coxphf Cox Regression with Firth's Penalized Likelihood
-
 coxphMIC Sparse Estimation of Cox Proportional Hazards Models via Approximated Information Criterion
-
 coxphSGD Stochastic Gradient Descent log-Likelihood Estimation in Cox Proportional Hazards Model
-
 coxphw Weighted Estimation in Cox Regression
-
 CoxPlus Cox Regression (Proportional Hazards Model) with Multiple Causes and Mixed Effects
-
 CoxR2 R-Squared Measure Based on Partial LR Statistic, for the Cox PH Regression Model
-
 coxrobust Fit Robustly Proportional Hazards Regression Model
-
 coxrt Cox Proportional Hazards Regression for Right-Truncated Data
-
 coxsei Fitting a CoxSEI Model
-
 CP Conditional Power Calculations
-
 cp4p Calibration Plot for Proteomics
-
 cpa Confirmatory Path Analysis Through 'd-sep' Tests
-
 CPAT Change Point Analysis Tests
-
 CPBayes Bayesian Meta Analysis for Studying Cross-Phenotype Genetic Associations
-
 CPC Implementation of Cluster-Polarization Coefficient
-
 cpca Methods to perform Common Principal Component Analysis (CPCA)
-
 cPCG Efficient and Customized Preconditioned Conjugate Gradient Method for Solving System of Linear Equations
-
 cpd Complex Pearson Distributions
-
 cpfa Classification with Parallel Factor Analysis
-
 CpGassoc Association Between Methylation and a Phenotype of Interest
-
 CpGFilter CpG Filtering Method Based on Intra-Class Correlation Coefficients
-
 CPGLIB Competing Proximal Gradients Library
-
 cpi Conditional Predictive Impact
-
 cpk Clinical Pharmacokinetics
-
 cplm Compound Poisson Linear Models
-
 cplots Plots for Circular Data
-
 cpm Sequential and Batch Change Detection Using Parametric and Nonparametric Methods
-
 CPMCGLM Correction of the P-Value after Multiple Coding in Generalized Linear Models
-
 CpmERCCutoff Calculation of Log2 Counts per Million Cutoff from ERCC Controls
-
 CPNCoverageAnalysis Conceptual Properties Norming Studies as Parameter Estimation
-
 cpop Detection of Multiple Changes in Slope in Univariate Time-Series
-
 CPP Composition of Probabilistic Preferences (CPP)
-
 cpp11 A C++11 Interface for R's C Interface
-
 cppcheckR Check 'C' and 'C++' Files using 'Cppcheck'
-
 cppRouting Fast Implementation of Dijkstra Algorithm
-
 cpr Control Polygon Reduction
-
 Cprob The Conditional Probability Function of a Competing Event
-
 cprobit Conditional Probit Model for Analysing Continuous Outcomes
-
 cprr Functions for Working with Danish CPR Numbers
-
 cPseudoMaRg Constructs a Correlated Pseudo-Marginal Sampler
-
 cpsR Load CPS Microdata into R Using the 'Census Bureau Data' API
-
 cpss Change-Point Detection by Sample-Splitting Methods
-
 CPsurv Nonparametric Change Point Estimation for Survival Data
-
 cpsurvsim Simulating Survival Data from Change-Point Hazard Distributions
-
 cpsvote A Toolbox for Using the CPS’s Voting and Registration Supplement
-
 cpt Classification Permutation Test
-
 cptcity 'cpt-city' Colour Gradients
-
 cqcr Access 'Care Quality Commission' Data
-
 cqrReg Quantile, Composite Quantile Regression and Regularized Versions
-
 cquad Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data
-
 CR2 Compute Cluster Robust Standard Errors with Degrees of Freedom Adjustments
-
 CRABS Congruent Rate Analyses in Birth-Death Scenarios
-
 cragg Tests for Weak Instruments in R
-
 cramer Multivariate Nonparametric Cramer-Test for the Two-Sample-Problem
-
 crandep Network Analysis of Dependencies of CRAN Packages
-
 crank Completing Ranks
-
 cranlike Tools for 'CRAN'-Like Repositories
-
 cranlogs Download Logs from the 'RStudio' 'CRAN' Mirror
-
 cranly Package Directives and Collaboration Networks in CRAN
-
 CRANsearcher RStudio Addin for Searching Packages in CRAN Database Based on Keywords
-
 crassmat Conditional Random Sampling Sparse Matrices
-
 crawl Fit Continuous-Time Correlated Random Walk Models to Animal Movement Data
-
 crayon Colored Terminal Output
-
 crch Censored Regression with Conditional Heteroscedasticity
-
 crctStepdown Univariate Analysis of Cluster Trials with Multiple Outcomes
-
 CRE Interpretable Subgroups Identification Through Ensemble Learning of Causal Rules
-
 CREAM Clustering of Genomic Regions Analysis Method
-
 credentials Tools for Managing SSH and Git Credentials
-
 creditmodel Toolkit for Credit Modeling, Analysis and Visualization
-
 CREDS Calibrated Ratio Estimator under Double Sampling Design
-
 credsubs Credible Subsets
-
 credule Credit Default Swap Functions
-
 cregg Simple Conjoint Tidying, Analysis, and Visualization
-
 crestr A Probabilistic Approach to Reconstruct Past Climates Using Palaeoecological Datasets
-
 CRF Conditional Random Fields
-
 crfsuite Conditional Random Fields for Labelling Sequential Data in Natural Language Processing
-
 cricketdata International Cricket Data
-
 cricketr Analyze Cricketers and Cricket Teams Based on ESPN Cricinfo Statsguru
-
 crimCV Group-Based Modelling of Longitudinal Data
-
 crimedata Access Crime Data from the Open Crime Database
-
 crimeutils A Comprehensive Set of Functions to Clean, Analyze, and Present Crime Data
-
 crisp Fits a Model that Partitions the Covariate Space into Blocks in a Data- Adaptive Way
-
 crispRdesignR Guide Sequence Design for CRISPR/Cas9
-
 criticality Modeling Fissile Material Operations in Nuclear Facilities
-
 criticalpath An Implementation of the Critical Path Method
-
 critpath Setting the Critical Path
-
 CRM Continual Reassessment Method (CRM) for Phase I Clinical Trials
-
 crmn CCMN and Other Normalization Methods for Metabolomics Data
-
 crmPack Object-Oriented Implementation of CRM Designs
-
 crmReg Cellwise Robust M-Regression and SPADIMO
-
 crochet Implementation Helper for '[' and '[<-' of Custom Matrix-Like Types
-
 cromwellDashboard A Dashboard to Visualize Scientific Workflows in 'Cromwell'
-
 Cronbach Cronbach's Alpha
-
 crone Structural Crystallography in 1d
-
 cronologia Create an HTML Vertical Timeline from a Data Frame in 'rmarkdown' and 'shiny'
-
 cronR Schedule R Scripts and Processes with the 'cron' Job Scheduler
-
 crop Graphics Cropping Tool
-
 cropcircles Crops an Image to a Circle
-
 cropdatape Open Data of Agricultural Production of Crops of Peru
-
 cropDemand Spatial Crop Water Demand for Brazil
-
 CropDetectR Crop Row Detector
-
 cropgrowdays Crop Growing Degree Days and Agrometeorological Calculations
-
 crops Changepoints for a Range of Penalties (CROPS)
-
 cropZoning Climate Crop Zoning Based in Air Temperature for Brazil
-
 crossdes Construction of Crossover Designs
-
 crossmap Apply Functions to All Combinations of List Elements
-
 crossnma Cross-Design & Cross-Format Network Meta-Analysis and Regression
-
 Crossover Analysis and Search of Crossover Designs
-
 crossrun Joint Distribution of Number of Crossings and Longest Run
-
 crosstable Crosstables for Descriptive Analyses
-
 crosstalk Inter-Widget Interactivity for HTML Widgets
-
 crosstalkr Analysis of Graph-Structured Data with a Focus on Protein-Protein Interaction Networks
-
 crossurr Cross-Fitting for Doubly Robust Evaluation of High-Dimensional Surrogate Markers
-
 CrossVA Verbal Autopsy Data Transformation for InSilicoVA and InterVA5 Algorithms
-
 crossval Generic Functions for Cross Validation
-
 CrossValidate Classes and Methods for Cross Validation of "Class Prediction" Algorithms
-
 crossvalidationCP Cross-Validation for Change-Point Regression
-
 crosswalkr Rename and Encode Data Frames Using External Crosswalk Files
-
 crossword.r Generating Crosswords from Word Lists
-
 crov Constrained Regression Model for an Ordinal Response and Ordinal Predictors
-
 crplyr A 'dplyr' Interface for Crunch
-
 crqa Recurrence Quantification Analysis for Categorical and Continuous Time-Series
-
 crrcbcv Bias-Corrected Variance for Competing Risks Regression with Clustered Data
-
 crrSC Competing Risks Regression for Stratified and Clustered Data
-
 crs Categorical Regression Splines
-
 crseEventStudy A Robust and Powerful Test of Abnormal Stock Returns in Long-Horizon Event Studies
-
 crsmeta Extract Coordinate System Metadata
-
 crsnls Nonlinear Regression Parameters Estimation by 'CRS4HC' and 'CRS4HCe'
-
 crso Cancer Rule Set Optimization ('crso')
-
 crsra Tidying and Analyzing 'Coursera' Research Export Data
-
 crsuggest Obtain Suggested Coordinate Reference System Information for Spatial Data
-
 CRTConjoint Conditional Randomization Testing (CRT) Approach for Conjoint Analysis
-
 crtests Classification and Regression Tests
-
 CRTgeeDR Doubly Robust Inverse Probability Weighted Augmented GEE Estimator
-
 CRTSize Sample Size Estimation Functions for Cluster Randomized Trials
-
 crul HTTP Client
-
 crunch Crunch.io Data Tools
-
 crunchy Shiny Apps on Crunch
-
 cruts Interface to Climatic Research Unit Time-Series Version 3.21 Data
-
 CruzPlot Plot Shipboard DAS Data
-
 CRWRM Changing the Reference Group without Re-Running the Model
-
 cry Statistics for Structural Crystallography
-
 CrypticIBDcheck Identifying Cryptic Relatedness in Genetic Association Studies
-
 crypto2 Download Crypto Currency Data from 'CoinMarketCap' without 'API'
-
 cryptoverse Visualization and Analytics for the Cryptoverse
-
 cryptowatchR An API Wrapper for 'Cryptowatch'
-
 CryptRndTest Statistical Tests for Cryptographic Randomness
-
 cryst Calculate the Relative Crystallinity of Starch by XRD and FTIR
-
 csa A Cross-Scale Analysis Tool for Model-Observation Visualization and Integration
-
 csampling Functions for Conditional Simulation in Regression-Scale Models
-
 CSCDRNA Covariance Based Single-Cell Decomposition of Bulk Expression Data
-
 CsChange Testing for Change in C-Statistic
-
 csci Current Status Confidence Intervals
-
 CSclone Bayesian Nonparametric Modeling in R
-
 CSCNet Fitting and Tuning Regularized Cause-Specific Cox Models with Elastic-Net Penalty
-
 csdata Structural Data for Norway
-
 cSEM Composite-Based Structural Equation Modeling
-
 CSeqpat Frequent Contiguous Sequential Pattern Mining of Text
-
 CSESA CRISPR-Based Salmonella Enterica Serotype Analyzer
-
 CSFA Connectivity Scores with Factor Analysis
-
 CSGo Collecting Counter Strike Global Offensive Data
-
 cshapes The CShapes 2.0 Dataset and Utilities
-
 CSHShydRology Canadian Hydrological Analyses
-
 CSIndicators Climate Services' Indicators Based on Sub-Seasonal to Decadal Predictions
-
 CSMES Cost-Sensitive Multi-Criteria Ensemble Selection for Uncertain Cost Conditions
-
 csn Closed Skew-Normal Distribution
-
 csodata Download Data from the CSO 'PxStat' API
-
 cspec Complete Discrete Fourier Transform (DFT) and Periodogram
-
 cspp A Tool for the Correlates of State Policy Project Data
-
 csppData Data Only: The Correlates of State Policy Project Dataset
-
 cssTools Cognitive Social Structure Tools
-
 cstab Selection of Number of Clusters via Normalized Clustering Instability
-
 CSTE Covariate Specific Treatment Effect (CSTE) Curve
-
 CSTools Assessing Skill of Climate Forecasts on Seasonal-to-Decadal Timescales
-
 csurvey Constrained Regression for Survey Data
-
 csutil Common Base-R Problems Relating to Lists
-
 csv Read and Write CSV Files with Selected Conventions
-
 csvread Fast Specialized CSV File Loader
-
 csvwr Read and Write CSV on the Web (CSVW) Tables and Metadata
-
 csvy Import and Export CSV Data with a YAML Metadata Header
-
 cta Contingency Table Analysis Based on ML Fitting of MPH Models
-
 CTAShiny Interactive Application for Working with Contingency Tables
-
 ctbi A Procedure to Clean, Decompose and Aggregate Timeseries
-
 ctf Read and Write Column Text Format (CTF)
-
 ctgdist Likert Category Distance Calculator
-
 ctgt Closed Testing with Globaltest for Pathway Analysis
-
 cthist Clinical Trial Registry History
-
 cthreshER Continuous Threshold Expectile Regression
-
 ctl Correlated Trait Locus Mapping
-
 CTM A Text Mining Toolkit for Chinese Document
-
 ctmcd Estimating the Parameters of a Continuous-Time Markov Chain from Discrete-Time Data
-
 ctmcmove Modeling Animal Movement with Continuous-Time Discrete-Space Markov Chains
-
 ctmle Collaborative Targeted Maximum Likelihood Estimation
-
 ctmm Continuous-Time Movement Modeling
-
 ctmva Continuous-Time Multivariate Analysis
-
 CTNote CTN Outcomes, Treatments, and Endpoints
-
 CTP Closed Testing Procedure (CTP)
-
 ctpm Continuous-Time Phylogenetic Modeling
-
 ctqr Censored and Truncated Quantile Regression
-
 ctrdata Retrieve and Analyze Clinical Trials in Public Registers
-
 ctrialsgov Query Data from U.S. National Library of Medicine's Clinical Trials Database
-
 ctrlGene Assess the Stability of Candidate Housekeeping Genes
-
 ctsem Continuous Time Structural Equation Modelling
-
 ctsemOMX Continuous Time SEM - 'OpenMx' Based Functions
-
 CTShiny Interactive Document for Working with Classification Tree Analysis
-
 CTShiny2 Interactive Document for Working with Classification Tree Analysis
-
 CTT Classical Test Theory Functions
-
 CTTinShiny Shiny Interface for the CTT Package
-
 CTTShiny Classical Test Theory via Shiny
-
 ctv CRAN Task Views
-
 CUB A Class of Mixture Models for Ordinal Data
-
 cubature Adaptive Multivariate Integration over Hypercubes
-
 cubble A Vector Spatio-Temporal Data Structure for Data Analysis
-
 cubelyr A Data Cube 'dplyr' Backend
-
 cubeview View 3D Raster Cubes Interactively
-
 cubfits Codon Usage Bias Fits
-
 cubicBsplines Computation of a Cubic B-Spline Basis and Its Derivatives
-
 cubing Rubik's Cube Solving
-
 Cubist Rule- And Instance-Based Regression Modeling
-
 cuda.ml R Interface for the RAPIDS cuML Suite of Libraries
-
 CUFF Charles's Utility Function using Formula
-
 cultevo Tools, Measures and Statistical Tests for Cultural Evolution
-
 cuml4r R Interface for the RAPIDS cuML Suite of Libraries
-
 CUMP Analyze Multivariate Phenotypes by Combining Univariate Results
-
 cumSeg Change Point Detection in Genomic Sequences
-
 cumstats Cumulative Descriptive Statistics
-
 cumulocityr Client for the 'Cumulocity' API
-
 cuperdec Cumulative Percent Decay Curve Generator
-
 cuRe Parametric Cure Model Estimation
-
 curephEM NPMLE for Logistic-Cox Cure-Rate Model
-
 curl A Modern and Flexible Web Client for R
-
 currentSurvival Estimation of CCI and CLFS Functions
-
 curry Partial Function Application with %<%, %-<%, and %><%
-
 cursr Cursor and Terminal Manipulation
-
 curstatCI Confidence Intervals for the Current Status Model
-
 curtailment Finds Binary Outcome Designs Using Stochastic Curtailment
-
 curvecomp Multiple Curve Comparisons Using Parametric Bootstrap
-
 curveDepth Tukey Curve Depth and Distance in the Space of Curves
-
 curvHDR Filtering of Flow Cytometry Samples
-
 cusp Cusp-Catastrophe Model Fitting Using Maximum Likelihood
-
 custom.gauss.quad Custom Made Gauss Quadrature Nodes and Weights
-
 CustomerScoringMetrics Evaluation Metrics for Customer Scoring Models Depending on Binary Classifiers
-
 customizedTraining Customized Training for Lasso and Elastic-Net Regularized Generalized Linear Models
-
 CustosAscensor Costs Allocation for the Installation of an Elevator
-
 cusum Cumulative Sum (CUSUM) Charts for Monitoring of Hospital Performance
-
 cusumcharter Easier CUSUM Control Charts
-
 CUSUMdesign Compute Decision Interval and Average Run Length for CUSUM Charts
-
 cutoff Seek the Significant Cutoff Value
-
 cutpointr Determine and Evaluate Optimal Cutpoints in Binary Classification Tasks
-
 CutpointsOEHR Optimal Equal-HR Method to Find Two Cutpoints for U-Shaped Relationships in Cox Model
-
 cvam Coarsened Variable Modeling
-
 cvap Citizen Voting Age Population
-
 cvar Compute Expected Shortfall and Value at Risk for Continuous Distributions
-
 cvAUC Cross-Validated Area Under the ROC Curve Confidence Intervals
-
 cvCovEst Cross-Validated Covariance Matrix Estimation
-
 cvcrand Efficient Design and Analysis of Cluster Randomized Trials
-
 CVD Color Vision Deficiencies
-
 CVEK Cross-Validated Kernel Ensemble
-
 cvequality Tests for the Equality of Coefficients of Variation from Multiple Groups
-
 cvGEE Cross-Validated Predictions from GEE
-
 CVglasso Lasso Penalized Precision Matrix Estimation
-
 cvmdisc Cramer von Mises Tests for Discrete or Grouped Distributions
-
 cvmgof Cramer-von Mises Goodness-of-Fit Tests
-
 cvms Cross-Validation for Model Selection
-
 CVR Canonical Variate Regression
-
 CVrisk Compute Risk Scores for Cardiovascular Diseases
-
 cvsem SEM Model Comparison with K-Fold Cross-Validation
-
 CVST Fast Cross-Validation via Sequential Testing
-
 CVThresh Level-Dependent Cross-Validation Thresholding
-
 cvTools Cross-validation tools for regression models
-
 cvwrapr Tools for Cross Validation
-
 CVXR Disciplined Convex Optimization
-
 cwbtools Tools to Create, Modify and Manage 'CWB' Corpora
-
 cwot Cauchy Weighted Joint Test for Pharmacogenetics Analysis
-
 cxhull Convex Hull
-
 cxr A Toolbox for Modelling Species Coexistence in R
-
 cxxfunplus Extend 'cxxfunction' by Saving the Dynamic Shared Objects
-
 cycleRtools Tools for Cycling Data Analysis
-
 cyclestreets Cycle Routing and Data for Cycling Advocacy
-
 cyclocomp Cyclomatic Complexity of R Code
-
 cycloids cycloids
-
 cyclomort Survival Modeling with a Periodic Hazard Function
-
 Cyclops Cyclic Coordinate Descent for Logistic, Poisson and Survival Analysis
-
 cyjShiny Cytoscape.js Shiny Widget (cyjShiny)
-
 cylcop Circular-Linear Copulas with Angular Symmetry for Movement Data
-
 cymruservices Query 'Team Cymru' 'IP' Address, Autonomous System Number ('ASN'), Border Gateway Protocol ('BGP'), Bogon and 'Malware' Hash Data Services
-
 cyphr High Level Encryption Wrappers
-
 cystiSim Agent-Based Model for Taenia_solium Transmission and Control
-
 CytobankAPI Cytobank API Wrapper for R
-
 cytofan Plot Fan Plots for Cytometry Data using 'ggplot2'
-
 cytometree Automated Cytometry Gating and Annotation
-
 cytominer Methods for Image-Based Cell Profiling
-
 CytOpT Optimal Transport for Gating Transfer in Cytometry Data with Domain Adaptation
-
 czechrates Czech Interest & Foreign Exchange Rates
-
 czso Use Open Data from the Czech Statistical Office in R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 D2MCS Data Driving Multiple Classifier System
 
