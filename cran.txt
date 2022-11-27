@@ -30127,1837 +30127,921 @@ syuzhet Extracts Sentiment and Sentiment-Derived Plot Arcs from Text
 
 
 T2EQ Functions for Applying the T^2-Test for Equivalence
-
 T2Qv Control Qualitative Variables
-
 T4cluster Tools for Cluster Analysis
-
 T4transport Tools for Computational Optimal Transport
-
 tab Create Summary Tables for Statistical Reports
-
 Taba Taba Robust Correlations
-
 tabbycat Tabulate and Summarise Categorical Data
-
 taber Split and Recombine Your Data
-
 tabit Simple Tabulation Made Simple
-
 tablaxlsx Write Formatted Tables in Excel Workbooks
-
 table.express Build 'data.table' Expressions with Data Manipulation Verbs
-
 table.glue Make and Apply Customized Rounding Specifications for Tables
-
 table1 Tables of Descriptive Statistics in HTML
-
 Table1Heatmap Table 1 Heatmap
-
 table1xls Exports Reproducible Summary Tables to Multi-Tab Spreadsheet Files (.xls or .xlsx)
-
 tablecompare Compare Data Frames
-
 tabledown Create Publication Quality Tables and Plots
-
 tableeasy Tables of Clinical Study
-
 tableExtra Draws an Awesome Table
-
 TableHC Higher Criticism Test of Two Frequency Counts Tables
-
 tableHTML A Tool to Create HTML Tables
-
 tableMatrix Combines 'data.table' and 'matrix' Classes
-
 TableMonster Table Monster
-
 tableone Create 'Table 1' to Describe Baseline Characteristics with or without Propensity Score Weights
-
 tablerDash 'Tabler' API for 'Shiny'
-
 tables Formula-Driven Table Generation
-
 tableschema.r Table Schema 'Frictionless Data'
-
 tablesgg Presentation-Quality Tables, Displayed Using 'ggplot2'
-
 tablet Tabulate Descriptive Statistics in Multiple Formats
-
 TableToLongForm Automatically Convert Hierarchical for-Human Tables to Machine-Readable LongForm Dataframes
-
 tabnet Fit 'TabNet' Models for Classification and Regression
-
 taboolaR Get Data from 'Taboola' via the 'Windsor.ai' API
-
 tabr Music Notation Syntax, Manipulation, Analysis and Transcription in R
-
 tabshiftr Reshape Disorganised Messy Data
-
 tabula Analysis and Visualization of Archaeological Count Data
-
 tabularaster Tidy Tools for 'Raster' Data
-
 tabularmaps Create Tile-Grid Geographical Maps
-
 tabularMLC Tabular Maximum Likelihood Classifier
-
 tabulate Pretty Console Output for Tables
-
 tabulator Efficient Tabulation with Stata-Like Output
-
 tabulog Parsing Semi-Structured Log Files into Tabular Format
-
 tabuSearch Tabu Search Algorithm for Binary Configurations
-
 tacmagic Positron Emission Tomography Time-Activity Curve Analysis
-
 tactile New and Extended Plots, Methods, and Panel Functions for 'lattice'
-
 TAF Functions to Support the ICES Transparent Assessment Framework
-
 TAG Transformed Additive Gaussian Processes
-
 tagcloud Tag Clouds
-
 TailClassifier Tail Classifier for Thick-Tailed Discrete Data
-
 tailDepFun Minimum Distance Estimation of Tail Dependence Models
-
 tailloss Estimate the Probability in the Upper Tail of the Aggregate Loss Distribution
-
 TailRank The Tail-Rank Statistic
-
 tailTransform Symmetric Transformation of Tails for Plotting Differences
-
 taipan Tool for Annotating Images in Preparation for Analysis
-
 takos Analysis of Differential Calorimetry Scans
-
 TAM Test Analysis Modules
-
 tanaka Design Shaded Contour Lines (or Tanaka) Maps
-
 TanB The TanB Distribution
-
 TANDEM A Two-Stage Approach to Maximize Interpretability of Drug Response Models Based on Multiple Molecular Data Types
-
 TangPoemR Write Chinese Tang Poems
-
 tangram The Grammar of Tables
-
 tangram.pipe Row-by-Row Table Building
-
 TapeR Flexible Tree Taper Curves Based on Semiparametric Mixed Models
-
 tapkee Wrapper for 'tapkee' Dimension Reduction Library
-
 tapnet Trait Matching and Abundance for Predicting Bipartite Networks
-
 TAQMNGR Manage Tick-by-Tick Transaction Data
-
 TAR Bayesian Modeling of Autoregressive Threshold Time Series Models
-
 tarchetypes Archetypes for Targets
-
 tardis Text Analysis with Rules and Dictionaries for Inferring Sentiment
-
 targeted Targeted Inference
-
 targets Dynamic Function-Oriented 'Make'-Like Declarative Workflows
-
 Tariff Replicate Tariff Method for Verbal Autopsy
-
 TAShiny 'Text Analyzer Shiny'
-
 tashu Analysis and Prediction of Bicycle Rental Amount
-
 taskscheduleR Schedule R Scripts and Processes with the Windows Task Scheduler
-
 tastypie Easy Pie Charts
-
 tatest Two-Group Ta-Test
-
 tatoo Combine and Export Data Frames
-
 tau Text Analysis Utilities
-
 TauStar Efficient Computation and Testing of the Bergsma-Dassios Sign Covariance
-
 tauturri Get Data Out of 'Tautulli' (Formerly 'PlexPy')
-
 taxa Classes for Storing and Manipulating Taxonomic Data
-
 taxadb A High-Performance Local Taxonomic Database Interface
-
 taxalight A Lightweight and Lightning-Fast Taxonomic Naming Interface
-
 TaxicabCA Taxicab Correspondence Analysis
-
 taxize Taxonomic Information from Around the Web
-
 taxizedb Tools for Working with 'Taxonomic' Databases
-
 taxlist Handling Taxonomic Lists
-
 taxonbridge Create Custom Taxonomies Based on the NCBI Taxonomy and GBIF Backbone Taxonomy
-
 taxonomizr Functions to Work with NCBI Accessions and Taxonomy
-
 Taxonstand Taxonomic Standardization of Plant Species Names
-
 taylor Lyrics and Song Data for Taylor Swift's Discography
-
 tayloRswift Color Palettes Generated by Taylor Swift Albums
-
 tbd Estimation of Causal Effects with Outcomes Truncated by Death
-
 TBEST Tree Branches Evaluated Statistically for Tightness
-
 TBFmultinomial TBF Methodology Extension for Multinomial Outcomes
-
 tbl2xts Convert Tibbles or Data Frames to Xts Easily
-
 tbm Transformation Boosting Machines
-
 tbma Tree-Based Moving Average Forecasting Model
-
 tboot Tilted Bootstrap
-
 TBRDist Rearrangement Distances Between Unrooted Phylogenetic Trees
-
 tbrf Time-Based Rolling Functions
-
 TCA Tensor Composition Analysis
-
 tcftt Two-Sample Tests for Skewed Data
-
 TCGAretriever Retrieve Genomic and Clinical Data from TCGA
-
 tcgaViz Visualization Tool for the Cancer Genome Atlas Program (TCGA)
-
 TcGSA Time-Course Gene Set Analysis
-
 tci Target Controlled Infusion (TCI)
-
 TCIApathfinder Client for the Cancer Imaging Archive REST API
-
 TCIU Spacekime Analytics, Time Complexity and Inferential Uncertainty
-
 tcl Testing in Conditional Likelihood Context
-
 tcltk2 Tcl/Tk Additions
-
 tclust Robust Trimmed Clustering
-
 Tcomp Data from the 2010 Tourism Forecasting Competition
-
 tcpl ToxCast Data Analysis Pipeline
-
 tcplfit2 Concentration-Response Modeling of HTS or Transcriptomics Data
-
 tcsinvest R API for Tinkoff Investments
-
 td Access to the 'twelvedata' Financial Data API
-
 TDA Statistical Tools for Topological Data Analysis
-
 TDAkit Toolkit for Topological Data Analysis
-
 TDApplied Machine Learning and Inference for Topological Data Analysis
-
 TDAstats Pipeline for Topological Data Analysis
-
 tdaunif Uniform Manifold Samplers for Topological Data Analysis
-
 TDAvec Vector Summaries of Persistence Diagrams
-
 TDbook Companion Package for the Book "Data Integration, Manipulation and Visualization of Phylogenetic Trees" by Guangchuang Yu (2022, ISBN:9781032233574)
-
 TDboost A Boosted Tweedie Compound Poisson Model
-
 tdcmStan Automating the Creation of Stan Code for TDCMs
-
 TDCor Gene Network Inference from Time-Series Transcriptomic Data
-
 tdigest Wicked Fast, Accurate Quantiles Using t-Digests
-
 TDPanalysis Granier's Sap Flow Sensors (TDP) Analysis
-
 tdr Target Diagram
-
 tdROC Nonparametric Estimation of Time-Dependent ROC Curve from Right Censored Survival Data
-
 tdsc Time Domain Signal Coding
-
 tdthap TDT Tests for Extended Haplotypes
-
 TE Insertion/Deletion Dynamics for Transposable Elements
-
 tea Threshold Estimation Approaches
-
 TeachHist A Collection of Amended Histograms Designed for Teaching Statistics
-
 teachingApps Apps for Teaching Statistics, R Programming, and Shiny App Development
-
 TeachingDemos Demonstrations for Teaching and Learning
-
 TeachingSampling Selection of Samples and Parameter Estimation in Finite Population
-
 TeachNet Fits Neural Networks to Learn About Backpropagation
-
 tealeaves Solve for Leaf Temperature Using Energy Balance
-
 TEAM Multiple Hypothesis Testing on an Aggregation Tree Method
-
 teamcolors Color Palettes for Pro Sports Teams
-
 teamr Send Formatted Messages, Images and Objects to Microsoft 'Teams'
-
 teda An Implementation of the Typicality and Eccentricity Data Analysis Framework
-
 tehtuner Fit and Tune Models to Detect Treatment Effect Heterogeneity
-
 teigen Model-Based Clustering and Classification with the Multivariate t Distribution
-
 Tejapi API Wrapper for Taiwan Economic Journal Data Service
-
 telefit Estimation and Prediction for Remote Effects Spatial Process Models
-
 telegram R Wrapper Around the Telegram Bot API
-
 telegram.bot Develop a 'Telegram Bot' with R
-
 telemac R Interface to the TELEMAC Model Suite
-
 TELP Social Representation Theory Application: The Free Evocation of Words Technique
-
 TempCont Temporal Contributions on Trends using Mixed Models
-
 tempdisagg Methods for Temporal Disaggregation and Interpolation of Time Series
-
 temperatureresponse Temperature Response
-
 templates A System for Working with Templates
-
 templr MASCOTNUM Algorithms Template Tools
-
 tempoR Characterizing Temporal Dysregulation
-
 Temporal Parametric Time to Event Analysis
-
 TemporalGSSA Outputs Temporal Profile of Molecules from Stochastic Simulation Algorithm Generated Datasets
-
 tempR Temporal Sensory Data Analysis
-
 Tendril Compute and Display Tendril Plots
-
 tenispolaR Provides ZENIT-POLAR Substitution Cipher Method of Encryption
-
 tensor Tensor product of arrays
-
 tensorA Advanced Tensor Arithmetic with Named Indices
-
 tensorBF Bayesian Tensor Factorization
-
 tensorBSS Blind Source Separation Methods for Tensor-Valued Observations
-
 TensorClustering Model-Based Tensor Clustering
-
 TensorComplete Tensor Noise Reduction and Completion Methods
-
 tensorflow R Interface to 'TensorFlow'
-
 tensorFun Basic Functions to Handle Tensor Data in Array Class
-
 TensorPreAve Rank and Factor Loadings Estimation in Time Series Tensor Factor Models
-
 tensorr Sparse Tensors in R
-
 tensorregress Supervised Tensor Decomposition with Side Information
-
 tensorsparse Multiway Clustering via Tensor Block Models
-
 TensorTest2D Fitting Second-Order Tensor Data
-
 tensorTS Factor and Autoregressive Models for Tensor Time Series
-
 tensr Covariance Inference and Decompositions for Tensor Datasets
-
 TEQR Target Equivalence Range Design
-
 tergm Fit, Simulate and Diagnose Models for Network Evolution Based on Exponential-Family Random Graph Models
-
 tergmLite Fast Simulation of Simple Temporal Exponential Random Graph Models
-
 term Create, Manipulate and Query Parameter Terms
-
 terminaldigits Tests of Uniformity and Independence for Terminal Digits
-
 Ternary Create Ternary and Holdridge Plots
-
 ternvis Visualisation, Verification and Calibration of Ternary Probabilistic Forecasts
-
 terra Spatial Data Analysis
-
 terrainmeshr Triangulate and Simplify 3D Terrain Meshes
-
 terrainr Landscape Visualizations in R and 'Unity'
-
 TesiproV Calculation of Reliability and Failure Probability in Civil Engineering
-
 TESS Diversification Rate Estimation and Fast Simulation of Reconstructed Phylogenetic Trees under Tree-Wide Time-Heterogeneous Birth-Death Processes Including Mass-Extinction Events
-
 tessellation Delaunay and Voronoï Tessellations
-
 tesselle Easily Install and Load 'tesselle' Packages
-
 tesseract Open Source OCR Engine
-
 test2norm Normative Standards for Cognitive Tests
-
 testarguments Test (Multiple) Arguments of a User-Defined Prediction Algorithm
-
 testassay A Hypothesis Testing Framework for Validating an Assay for Precision
-
 TestCor FWER and FDR Controlling Procedures for Multiple Correlation Tests
-
 testcorr Testing Zero Correlation
-
 testdat Data Unit Testing for R
-
 TestDataImputation Missing Item Responses Imputation for Test and Assessment Data
-
 TestDesign Optimal Test Design Approach to Fixed and Adaptive Test Construction
-
 TestDimorph Analysis of the Interpopulation Difference in Degree of Sexual Dimorphism Using Summary Statistics
-
 testDriveR Teaching Data for Statistics and Data Science
-
 testequavar Bootstrap Tests for Equality of 2, 3, or 4 Population Variances
-
 tester Tests and checks characteristics of R objects
-
 testforDEP Dependence Tests for Two Variables
-
 TestFunctions Test Functions for Simulation Experiments and Evaluating Optimization and Emulation Algorithms
-
 TestGardener Optimal Analysis of Test and Rating Scale Data
-
 TestingSimilarity Bootstrap Test for the Similarity of Dose Response Curves Concerning the Maximum Absolute Deviation
-
 testit A Simple Package for Testing R Packages
-
 TestScorer GUI for Entering Test Items and Obtaining Raw and Transformed Scores
-
 testthat Unit Testing for R
-
 testthis Utils and 'RStudio' Addins to Make Testing Even More Fun
-
 testtwice Testing One Hypothesis Twice in Observational Studies
-
 tetraclasse Satisfaction Analysis using Tetraclasse Model and Llosa Matrix
-
 tetragon Automatic Sequence Prediction by Expansion of the Distance Matrix
-
 TeXCheckR Parses LaTeX Documents for Errors
-
 TexExamRandomizer Personalizes and Randomizes Exams Written in 'LaTeX'
-
 texmex Statistical Modelling of Extreme Values
-
 TExPosition Two-Table ExPosition
-
 texPreview Compile and Preview Snippets of 'LaTeX'
-
 texreg Conversion of R Regression Output to LaTeX or HTML Tables
-
 text Analyses of Text using Transformers Models from HuggingFace, Natural Language Processing and Machine Learning
-
 text.alignment Text Alignment with Smith-Waterman
-
 text2map R Tools for Text Matrices, Embeddings, and Networks
-
 text2sdg Detecting UN Sustainable Development Goals in Text
-
 text2speech Text to Speech
-
 text2vec Modern Text Mining Framework for R
-
 textcat N-Gram Based Text Categorization
-
 textclean Text Cleaning Tools
-
 textdata Download and Load Various Text Datasets
-
 texteffect Discovering Latent Treatments in Text Corpora and Estimating Their Causal Effects
-
 texter An Easy Text and Sentiment Analysis Library
-
 textfeatures Extracts Features from Text
-
 TextForecast Regression Analysis and Forecasting Using Textual Data from a Time-Varying Dictionary
-
 textgRid Praat TextGrid Objects in R
-
 textile Textile Images
-
 textir Inverse Regression for Text Analysis
-
 textmineR Functions for Text Mining and Topic Modeling
-
 TextMiningGUI Text Mining GUI Interface
-
 textometry Textual Data Analysis Package Used by the TXM Software
-
 textplot Text Plots
-
 textrank Summarize Text by Ranking Sentences and Finding Keywords
-
 textrecipes Extra 'Recipes' for Text Processing
-
 textreg n-Gram Text Regression, aka Concise Comparative Summarization
-
 textreuse Detect Text Reuse and Document Similarity
-
 textshape Tools for Reshaping Text
-
 textshaping Bindings to the 'HarfBuzz' and 'Fribidi' Libraries for Text Shaping
-
 textstem Tools for Stemming and Lemmatizing Text
-
 textTinyR Text Processing for Small or Big Data Files
-
 textTools Functions for Text Cleansing and Text Analysis
-
 textutils Utilities for Handling Strings and Text
-
 tfaddons Interface to 'TensorFlow SIG Addons'
-
 tfarima Transfer Function and ARIMA Models
-
 tfautograph Autograph R for 'Tensorflow'
-
 tfCox Fits Piecewise Polynomial with Data-Adaptive Knots in Cox Model
-
 tfdatasets Interface to 'TensorFlow' Datasets
-
 tfdeploy Deploy 'TensorFlow' Models
-
 tfer Forensic Glass Transfer Probabilities
-
 tfestimators Interface to 'TensorFlow' Estimators
-
 tfhub Interface to 'TensorFlow' Hub
-
 tfio Interface to 'TensorFlow IO'
-
 TFisher Optimal Thresholding Fisher's P-Value Combination Method
-
 TFMPvalue Efficient and Accurate P-Value Computation for Position Weight Matrices
-
 tfplot Time Frame User Utilities
-
 tfprobability Interface to 'TensorFlow Probability'
-
 tframe Time Frame Coding Kernel
-
 tframePlus Time Frame Coding Kernel Extensions
-
 tfruns Training Run Tools for 'TensorFlow'
-
 tfse Tools for Script Editing
-
 tgamtheme Globe and Mail Graphics Theme for 'ggplot2'
-
 tgcd Thermoluminescence Glow Curve Deconvolution
-
 tggd The Standard Distribution Functions for the Truncated Generalised Gamma Distribution
-
 tglkmeans Efficient Implementation of K-Means++ Algorithm
-
 tgp Bayesian Treed Gaussian Process Models
-
 tgram Compute and Plot Tracheidograms
-
 TGS Rapid Reconstruction of Time-Varying Gene Regulatory Networks
-
 TGST Targeted Gold Standard Testing
-
 tgstat Amos Tanay's Group High Performance Statistical Utilities
-
 tgver Turing Geovisualization Engine R package
-
 TH.data TH's Data Archive
-
 thaipdf R Markdown to PDF in Thai Language
-
 thankr Find Out Who Maintains the Packages you Use
-
 ThankYouStars Give your Dependencies Stars on GitHub!
-
 theft Tools for Handling Extraction of Features from Time Series
-
 theiaR Download and Manage Data from Theia
-
 thematic Unified and Automatic 'Theming' of 'ggplot2', 'lattice', and 'base' R Graphics
-
 themis Extra Recipes Steps for Dealing with Unbalanced Data
-
 ThermalSampleR Calculate Sample Sizes Required for Critical Thermal Limits Experiments
-
-Thermimage Thermal Image Analysis
-
+Thermimage Thermal Image Analysi
 ThermIndex Calculate Thermal Indexes
-
 thermocouple Temperature Measurement with Thermocouples, RTD and IC Sensors
-
 TheSFACE The Subtype Free Average Causal Effect
-
 thestats R Package for Exploring Turkish Higher Education Statistics
-
 thewitcher Palettes Inspired by the TV Show "The Witcher"
-
 thgenetics Genetic Rare Variants Tests
-
 thief Temporal Hierarchical Forecasting
-
 thinkr Tools for Cleaning Up Messy Files
-
 this.path Get Executing Script's Path, from 'RStudio', 'Rgui', 'VSCode', 'Rscript' (Shells Including Windows Command-Line / / Unix Terminal), and 'source'
-
 ThomasJeffersonUniv Handy Tools for TJU/TJUH Employees
-
 thor Interface to 'LMDB'
-
 thorn 'HTMLwidgets' Displaying Some 'WebGL' Shaders
-
 thredds Crawler for Navigating THREDDS Catalogs
-
 ThreeArmedTrials Design and Analysis of Clinical Non-Inferiority or Superiority Trials with Active and Placebo Control
-
 threeBrain 3D Brain Visualization
-
 ThreeGroups ML Estimator for Baseline-Placebo-Treatment (Three-Group) Experiments
-
 threejs Interactive 3D Scatter Plots, Networks and Globes
-
 threesixtygiving Download Charitable Grants from the '360Giving' Platform
-
 ThreeWay Three-Way Component Analysis
-
 ThreeWiseMonkeys The Japanese Pictorial Maxim "See No Evil, Hear No Evil, Speak No Evil"
-
 threewords Represent Precise Coordinates in Three Words
-
 threg Threshold Regression
-
 thregI Threshold Regression for Interval-Censored Data with a Cure Rate Option
-
 Thresher Threshing and Reaping for Principal Components
-
 ThresholdROC Optimum Threshold Estimation
-
 ThresholdROCsurvival Threshold and AUC Estimation with Right-Censored Data at a Fixed Time t
-
 threshr Threshold Selection and Uncertainty for Extreme Value Analysis
-
 thriftr Apache Thrift Client Server
-
 thurstonianIRT Thurstonian IRT Models
-
 tibble Simple Data Frames
-
 tibbletime Time Aware Tibbles
-
 tibblify Rectangle Nested Lists
-
 tictactoe Tic-Tac-Toe Game
-
 tictoc Functions for Timing R Scripts, as Well as Implementations of "Stack" and "List" Structures
-
 TideCurves Analysis and Prediction of Tides
-
 TideHarmonics Harmonic Analysis of Tides
-
 Tides Quasi-Periodic Time Series Characteristics
-
 TideTables Tide Analysis and Prediction of Predominantly Semi-Diurnal Tides
-
 tidybayes Tidy Data and 'Geoms' for Bayesian Models
-
 tidyBdE Download Data from Bank of Spain
-
 tidybins Make Tidy Bins
-
 tidyboot Tidyverse-Compatible Bootstrapping
-
 tidycat Expand Tidy Output for Categorical Parameter Estimates
-
 tidyCDISC Quick Table Generation & Exploratory Analyses on ADaM-Ish Datasets
-
 tidycensus Load US Census Boundary and Attribute Data as 'tidyverse' and 'sf'-Ready Data Frames
-
 tidycharts Generate Tidy Charts Inspired by 'IBCS'
-
 tidyclust A Common API to Clustering
-
 tidycmprsk Competing Risks Estimation
-
 tidycode Analyze Lines of R Code the Tidy Way
-
 tidycomm Data Modification and Analysis for Communication Research
-
 TidyConsultant Tidy Consultant Universe
-
 tidyCpp Tidy C++ Header-Only Definitions for Parts of the C API of R
-
 tidycwl Tidy Common Workflow Language Tools and Workflows
-
 tidydatatutor Send Your R Code to 'Tidy Data Tutor'
-
 TidyDensity Functions for Tidy Analysis and Generation of Random Data
-
 tidydice Simulates Dice Rolls and Coin Flips
-
 tidyDisasters Disaster Data Set Including FEMA, EMDAT and GTD Information
-
 tidydr Unify Dimensionality Reduction Results
-
 tidyEmoji Discovers Emoji from Text
-
 tidyestimate A Tidy Implementation of 'ESTIMATE'
-
 tidyfast Fast Tidying of Data
-
 tidyfit Regularized Linear Modeling with Tidy Data
-
 tidyfst Tidy Verbs for Fast Data Manipulation
-
 tidyft Tidy Verbs for Fast Data Operations by Reference
-
 tidygapminder Easily Tidy Gapminder Datasets
-
 tidygate Add Gate Information to Your Tibble
-
 tidygenomics Tidy Verbs for Dealing with Genomic Data Frames
-
 tidygeocoder Geocoding Made Easy
-
 tidygeoRSS Tidy GeoRSS
-
 tidygraph A Tidy API for Graph Manipulation
-
 tidyHeatmap A Tidy Implementation of Heatmap
-
 tidyhydat Extract and Tidy Canadian 'Hydrometric' Data
-
 tidyjson Tidy Complex 'JSON'
-
 tidylda Latent Dirichlet Allocation Using 'tidyverse' Conventions
-
 tidylo Weighted Tidy Log Odds Ratio
-
 tidylog Logging for 'dplyr' and 'tidyr' Functions
-
 tidyLPA Easily Carry Out Latent Profile Analysis (LPA) Using Open-Source or Commercial Software
-
 tidymodels Easily Install and Load the 'Tidymodels' Packages
-
 TidyMultiqc Converts 'MultiQC' Reports into Tidy Data Frames
-
 tidymv Tidy Model Visualisation for Generalised Additive Models
-
 tidync A Tidy Approach to 'NetCDF' Data Exploration and Extraction
-
 tidypaleo Tidy Tools for Paleoenvironmental Archives
-
 tidyplus Additional 'tidyverse' Functions
-
 tidypmc Parse Full Text XML Documents from PubMed Central
-
 tidyposterior Bayesian Analysis to Compare Models using Resampling Statistics
-
 tidypredict Run Predictions Inside the Database
-
 tidyquant Tidy Quantitative Financial Analysis
-
 tidyquery Query 'R' Data Frames with 'SQL'
-
 tidyqwi A Convenient API for Accessing United States Census Bureau's Quarterly Workforce Indicator
-
 tidyr Tidy Messy Data
-
 tidyREDCap Helper Functions for Working with 'REDCap' Data
-
 tidyrgee 'tidyverse' Methods for 'Earth Engine'
-
 tidyRSS Tidy RSS for R
-
 tidyrules Obtain Rules from Rule Based Models as Tidy Dataframe
-
 tidyselect Select from a Set of Strings
-
 tidySEM Tidy Structural Equation Modeling
-
 tidyseurat Brings Seurat to the Tidyverse
-
 tidysmd Tidy Standardized Mean Differences
-
 tidysq Tidy Processing and Analysis of Biological Sequences
-
 tidystats Save Output of Statistical Tests
-
 tidystopwords Customisable Stop-Words in 110 Languages
-
 tidystringdist String Distance Calculation with Tidy Data Principles
-
 tidysynth A Tidy Implementation of the Synthetic Control Method
-
 tidytable Tidy Interface to 'data.table'
-
 tidytags Importing and Analyzing 'Twitter' Data Collected with 'Twitter Archiving Google Sheets'
-
 tidyterra 'tidyverse' Methods and 'ggplot2' Helpers for 'terra' Objects
-
 tidytext Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
-
 tidytidbits A Collection of Tools and Helpers Extending the Tidyverse
-
 tidytransit Read, Validate, Analyze, and Map GTFS Feeds
-
 tidytreatment Tidy Methods for Bayesian Treatment Effect Models
-
 tidytree A Tidy Tool for Phylogenetic Tree Data Manipulation
-
 tidytuesdayR Access the Weekly 'TidyTuesday' Project Dataset
-
 tidyUSDA A Minimal Tool Set for Gathering USDA Quick Stat Data for Analysis and Visualization
-
 tidyverse Easily Install and Load the 'Tidyverse'
-
 tidyvpc VPC Percentiles and Prediction Intervals
-
 tidywikidatar Explore 'Wikidata' Through Tidy Data Frames
-
 tidyxl Read Untidy Excel Files
-
 tiff Read and Write TIFF Images
-
 tigerhitteR Pre-Process of Time Series Data Set in R
-
 TIGERr Technical Variation Elimination with Ensemble Learning Architecture
-
 tigerstats R Functions for Elementary Statistics
-
 tigger Infers Novel Immunoglobulin Alleles from Sequencing Data
-
 tightClust Tight Clustering
-
 tigreBrowserWriter 'tigreBrowser' Database Writer
-
 tigris Load Census TIGER/Line Shapefiles
-
 tiktokadsR Access to TikTok Ads via the 'Windsor.ai' API
-
 tikzDevice R Graphics Output in LaTeX Format
-
 tiledb Universal Storage Engine for Sparse and Dense Multidimensional Arrays
-
 tilegramsR R Spatial Data for Tilegrams
-
 TileManager Tile Manager
-
 tilemaps Generate Tile Maps
-
 tiler Create Geographic and Non-Geographic Map Tiles
-
 tilting Variable Selection via Tilted Correlation Screening Algorithm
-
 timbeR Calculate Wood Volumes from Taper Functions
-
 timbr Forest Data Frames
-
 time.slots Display Data in a Weekly Calendar View
-
 timechange Efficient Manipulation of Date-Times
-
 timeDate Rmetrics - Chronological and Calendar Objects
-
 timedelay Time Delay Estimation for Stochastic Time Series of Gravitationally Lensed Quasars
-
 timedeppar Infer Constant and Stochastic, Time-Dependent Model Parameters
-
 timelineS Timeline and Time Duration-Related Tools
-
 timeordered Time-Ordered and Time-Aggregated Network Analyses
-
 timeperiodsR Simple Definition Of Time Intervals
-
 timeR Time Your Codes
-
 timereg Flexible Regression Models for Survival Data
-
 timeROC Time-Dependent ROC Curve and AUC for Censored Survival Data
-
 timeSeq Detecting Differentially Expressed Genes in Time Course RNA-Seq Data
-
 timeSeries Financial Time Series Objects (Rmetrics)
-
 TimeSeries.OBeu Time Series Analysis 'OpenBudgets.eu'
-
 timeseriesdb A Time Series Database for Official Statistics with R and PostgreSQL
-
 timetk A Tool Kit for Working with Time Series in R
-
 timetools Seasonal/Sequential (Instants/Durations, Even or not) Time Series
-
 TimeVarConcurrentModel Concurrent Multivariate Models with Time-Varying Coefficients
-
 timevis Create Interactive Timeline Visualizations in R
-
 TimeVTree Survival Analysis of Time Varying Coefficients Using a Tree-Based Approach
-
 timsac Time Series Analysis and Control Package
-
 timsr Easily Access timsTOF Data
-
 Tinflex A Universal Non-Uniform Random Number Generator
-
 tinkr Cast '(R)Markdown' Files to 'XML' and Back Again
-
 tinsel Transform Functions using Decorators
-
 tint 'tint' is not 'Tufte'
-
 tinter Generate a Monochromatic Palette
-
 tinyarray Expression Data Analysis and Visualization
-
 tinylabels Lightweight Variable Labels
-
 tinyProject A Lightweight Template for Data Analysis Projects
-
 tinyscholar Get and Show Personal 'Google Scholar' Profile
-
 tinyspotifyr Tinyverse R Wrapper for the 'Spotify' Web API
-
 tinytest Lightweight and Feature Complete Unit Testing Framework
-
 tinytex Helper Functions to Install and Maintain TeX Live, and Compile LaTeX Documents
-
 tinytiger Lightweight Interface to TIGER/Line Shapefiles
-
 tip Bayesian Clustering Using the Table Invitation Prior (TIP)
-
 tipa Tau-Independent Phase Analysis for Circadian Time-Course Data
-
 TipDatingBeast Using Tip Dates with Phylogenetic Trees in BEAST
-
 tipitaka Data and Tools for Analyzing the Pali Canon
-
 tipmap Tipping Point Analysis for Bayesian Dynamic Borrowing
-
 TippingPoint Enhanced Tipping Point Displays the Results of Sensitivity Analysis for Missing Data
-
 tippy Add Tooltips to 'R markdown' Documents or 'Shiny' Apps
-
 tipr Tipping Point Analyses
-
 TiPS Trajectories and Phylogenies Simulator
-
 tipsae Tools for Handling Indices and Proportions in Small Area Estimation
-
 tis Time Indexes and Time Indexed Series
-
 TITAN2 Threshold Indicator Taxa Analysis
-
 titanic Titanic Passenger Survival Data Set
-
 titeIR Isotonic Designs for Phase 1 Trials with Late-Onset Toxicities
-
 titrationCurves Acid/Base, Complexation, Redox, and Precipitation Titration Curves
-
 TKCat Tailored Knowledge Catalog
-
 tkImgR Simple Image Viewer for R Using the 'tcltk' Package
-
 tkrplot TK Rplot
-
 tkRplotR Display Resizable Plots
-
 tLagInterim Interim Monitoring of Clinical Trials with Time-Lagged Outcome
-
 tLagPropOdds Proportional Odds Model with Censored, Time-Lagged Categorical Outcome
-
 tlars The T-LARS Algorithm: Early-Terminated Forward Variable Selection
-
 Tlasso Non-Convex Optimization and Statistical Inference for Sparse Tensor Graphical Models
-
 tldr T Loux Doing R: Functions to Simplify Data Analysis and Reporting
-
 tlm Effects under Linear, Logistic and Poisson Regression Models with Transformed Variables
-
 TLMoments Calculate TL-Moments and Convert Them to Distribution Parameters
-
 tlrmvnmvt Low-Rank Methods for MVN and MVT Probabilities
-
 tls Tools of Total Least Squares in Error-in-Variables Models
-
 tm Text Mining Package
-
 tm.plugin.alceste Import texts from files in the Alceste format using the tm text mining framework
-
 tm.plugin.dc Text Mining Distributed Corpus Plug-in
-
 tm.plugin.europresse Import Articles from 'Europresse' Using the 'tm' Text Mining Framework
-
 tm.plugin.factiva Import Articles from 'Factiva' Using the 'tm' Text Mining Framework
-
 tm.plugin.koRpus Full Corpus Support for the 'koRpus' Package
-
 tm.plugin.lexisnexis Import Articles from 'LexisNexis' Using the 'tm' Text Mining Framework
-
 tm.plugin.mail Text Mining E-Mail Plug-in
-
 tm1r The Integration Between 'IBM COGNOS TM1' and R
-
 tmap Thematic Maps
-
 tmaptools Thematic Map Tools
-
 TMB Template Model Builder: A General Random Effect Tool Inspired by 'ADMB'
-
 tmbstan MCMC Sampling from 'TMB' Model Object using 'Stan'
-
 TmCalculator Melting Temperature of Nucleic Acid Sequences
-
 tmcn A Text Mining Toolkit for Chinese
-
 TMDb Access to TMDb API
-
 Tmisc Turner Miscellaneous
-
 tmle Targeted Maximum Likelihood Estimation
-
 tmod Feature Set Enrichment Analysis for Metabolomics and Transcriptomics
-
 tmplate Code Generation Based on Templates
-
 tmpm Trauma Mortality Prediction Model
-
 tmsens Sensitivity Analysis Using the Trimmed Means Estimator
-
 tmt Estimation of the Rasch Model for Multistage Tests
-
 TMTI 'Too Many, Too Improbable' (TMTI) Test Procedures
-
 tmvmixnorm Sampling from Truncated Multivariate Normal and t Distributions
-
 tmvnsim Truncated Multivariate Normal Simulation
-
 tmvtnorm Truncated Multivariate Normal and Student t Distribution
-
 tmvtnsim Truncated Multivariate Normal and t Distribution Simulation
-
 TNC Temporal Network Centrality (TNC) Measures
-
 tnet Weighted, Two-Mode, and Longitudinal Networks Analysis
-
 toastui Interactive Tables, Calendars and Charts for the Web
-
 TOC Total Operating Characteristic Curve and ROC Curve
-
 todor Find All TODO Comments and More
-
 togglr 'Toggl.com' Api for 'Rstudio'
-
 TOHM Testing One Hypothesis Multiple Times
-
 tokenbrowser Create Full Text Browsers from Annotated Token Lists
-
 tokenizers Fast, Consistent Tokenization of Natural Language Text
-
 tokenizers.bpe Byte Pair Encoding Text Tokenization
-
 tolerance Statistical Tolerance Intervals and Regions
-
 tomba Official R Library for Tomba Email Finder
-
 tongfen Make Data Based on Different Geographies Comparable
-
 toolbox List, String, and Meta Programming Utility Functions
-
 toolmaRk Tests for Same-Source of Toolmarks
-
 tools4uplift Tools for Uplift Modeling
-
 ToolsForCoDa Multivariate Tools for Compositional Data Analysis
-
 toolStability Tool for Stability Indices Calculation
-
 TooManyCellsR An R Wrapper for 'TooManyCells'
-
 toOrdinal Cardinal to Ordinal Number & Date Conversion
-
 TopDom An Efficient and Deterministic Method for Identifying Topological Domains in Genomes
-
 topdowntimeratio Top-Down Time Ratio Segmentation for Coordinate Trajectories
-
 topicdoc Topic-Specific Diagnostics for LDA and CTM Topic Models
-
 topicmodels Topic Models
-
 topicmodels.etm Topic Modelling in Embedding Spaces
-
 TopicScore The Topic SCORE Algorithm to Fit Topic Models
-
 TopKLists Inference, Aggregation and Visualization for Top-K Ranked Lists
-
 topmodel Implementation of the Hydrological Model TOPMODEL in R
-
 topoDistance Calculating Topographic Paths and Distances
-
 topologyGSA Gene Set Analysis Exploiting Pathway Topology
-
 topr Create Custom Plots for Viewing Genetic Association Results
-
 toprdata Gene and Exon Data from Ensembl
-
 topsis TOPSIS method for multiple-criteria decision making (MCDM)
-
 TopSisWM Multi-Criteria Method for Decision (TOPSIS)
-
 tor Import Multiple Files From a Single Directory at Once
-
 torch Tensors and Neural Networks with 'GPU' Acceleration
-
 torchdatasets Ready to Use Extra Datasets for Torch
-
 torchopt Advanced Optimizers for Torch
-
 torchvision Models, Datasets and Transformations for Images
-
 torchvisionlib Additional Operators for Image Models
-
 TORDs Third Order Rotatable Designs (TORDs)
-
 tornado Plots for Model Sensitivity and Variable Importance
-
 toRvik Extensive and Tidy NCAA Men's College Basketball Data
-
 tosca Tools for Statistical Content Analysis
-
 toscmask Improved Versions of Base Functions
-
 toscutil Utility Functions
-
 tosr Create the Tree of Science from WoS and Scopus
-
 TOSTER Two One-Sided Tests (TOST) Equivalence Testing
-
 totalcensus Extract Decennial Census and American Community Survey Data
-
 TotalCopheneticIndex Quantify the Balance of Phylogenetic Trees
-
 TOU Transformed Ornstein-Uhlenbeck Model for Adsorption Kinetics
-
 touch Tools of Utilization and Cost in Healthcare
-
 touchard Touchard Model and Regression
-
 TouRnament Tools for Sports Competitions
-
 tourr Tour Methods for Multivariate Data Visualisation
-
 ToxCrit Calculates Safety Stopping Boundaries for a Single-Arm Trial using Bayes
-
 toxEval Exploring Biological Relevance of Environmental Chemistry Observations
-
 toxpiR Create ToxPi Prioritization Models
-
 TP.idm Estimation of Transition Probabilities for the Illness-Death Model
-
 tpAUC Estimation and Inference of Two-Way pAUC, pAUC and pODC
-
 TPCselect Variable Selection via Threshold Partial Correlation
-
 TPD Methods for Measuring Functional Diversity Based on Trait Probability Density
-
 TPEA A Novel Topology-Based Pathway Enrichment Analysis Approach
-
 TPES Tumor Purity Estimation using SNVs
-
 tpfp Counts the Number of True Positives and False Positives
-
 TPLSr Thresholded Partial Least Squares Model for Neuroimaging Data
-
 Tplyr A Traceability Focused Grammar of Clinical Data Summary
-
 TPmsm Estimation of Transition Probabilities in Multistate Models
-
 tpn Truncated Positive Normal Model and Extensions
-
 tpr Temporal Process Regression
-
 TR8 A Tool for Downloading Functional Traits Data for Plant Species
-
 TraceAssist Nonparametric Trace Regression via Sign Series Representation
-
 tracee Easily Save Output and Trace it Back to Code
-
 tracer Slick Call Stacks
-
 tracerer Tracer from R
-
 tracheideR Standardize Tracheidograms
-
 track2KBA Identifying Important Areas from Animal Tracking Data
-
 trackdem Particle Tracking and Demography
-
 trackdf Data Frame Class for Tracking Data
-
 trackdown Collaborative Editing of Rmd (or Rnw) Documents in Google Drive
-
 trackeR Infrastructure for Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices
-
 trackeRapp Interface for the Analysis of Running, Cycling and Swimming Data from GPS-Enabled Tracking Devices
-
 TrackReconstruction Reconstruct Animal Tracks from Magnetometer, Accelerometer, Depth and Optional Speed Data
-
 trackter Automated Kinematic Analysis of Image Data
-
 tractor.base Read, Manipulate and Visualise Magnetic Resonance Images
-
 trade Tools for Trade Practitioners
-
 tradepolicy Replication of 'An Advanced Guide To Trade Policy Analysis'
-
 TRADER Tree Ring Analysis of Disturbance Events in R
-
 tradestatistics Open Trade Statistics API Wrapper and Utility Program
-
 Trading CCR, Advanced Correlation & Beta Estimates, Betting Strategies
-
 trafo Estimation, Comparison and Selection of Transformations
-
 traineR Predictive (Classification and Regression) Models Homologator
-
 trainR An Interface to the National Rail Enquiries Systems
-
 traipse Shared Tools for Tracking Data
-
 traitdataform Formatting and Harmonizing Ecological Trait-Data
-
 traits Species Trait Data from Around the Web
-
 TraitStats Statistical Data Analysis for Randomized Block Design Experiments
-
 traj Trajectory Analysis
-
 TrajDataMining Trajectories Data Mining
-
 trajectories Classes and Methods for Trajectory Data
-
 trajeR Group Based Modeling Trajectory
-
 trajr Animal Trajectory Analysis
-
 tram Transformation Models
-
 TraMineR Trajectory Miner: a Toolbox for Exploring and Rendering Sequences
-
 TraMineRextras TraMineR Extension
-
 tramME Transformation Models with Mixed Effects
-
 tramnet Penalized Transformation Models
-
 trampoline Make Functions that Can Recurse Infinitely
-
 TRAMPR 'TRFLP' Analysis and Matching Package for R
-
 tramvs Optimal Subset Selection for Transformation Models
-
 transcribeR Automated Transcription of Audio Files Through the HP IDOL API
-
 transforEmotion Sentiment Analysis for Text and Qualitative Data
-
 transformmos Transform MOS Values to be Robust for using Rank Based Statistics
-
 transformr Polygon and Path Transformations
-
 transfR Transfer of Hydrograph from Gauged to Ungauged Catchments
-
 transmdl Semiparametric Transformation Models
-
 transmem Treatment of Membrane-Transport Data
-
 TransModel Fit Linear Transformation Models for Right Censored Data
-
 TransP Implementation of Transportation Problem Algorithms
-
 TransPhylo Inference of Transmission Tree from a Dated Phylogeny
-
 transplantr Audit and Research Functions for Transplantation
-
 transPlotR Visualize Transcript Structures in Elegant Way
-
 transport Computation of Optimal Transport Plans and Wasserstein Distances
-
 TransTGGM Transfer Learning for Tensor Graphical Models
-
 tranSurv Transformation Model Based Estimation of Survival and Regression Under Dependent Truncation and Independent Censoring
-
 transx Transform Univariate Time Series
-
 trapezoid The Trapezoidal Distribution
-
 Tratamentos.ad Pacote Para Analise De Experimentos Com Testemunhas Adicionais
-
 traudem Use TauDEM
-
 trawl Estimation and Simulation of Trawl Processes
-
 TRD Transmission Ratio Distortion
-
 treasuryTR Generate Treasury Total Returns from Yield Data
-
 TreatmentSelection Evaluate Treatment Selection Biomarkers
-
 tree Classification and Regression Trees
-
 tree.interpreter Random Forest Prediction Decomposition and Feature Importance Measure
-
 treebalance Computation of Tree (Im)Balance Indices
-
 treebase Discovery, Access and Manipulation of 'TreeBASE' Phylogenies
-
 TreeBUGS Hierarchical Multinomial Processing Tree Modeling
-
 treeclim Numerical Calibration of Proxy-Climate Relationships
-
 treeClust Cluster Distances Through Trees
-
 treecm Centre of Mass Assessment and Consolidation of Trees
-
 treeDA Tree-Based Discriminant Analysis
-
 treedata.table Manipulation of Matched Phylogenies and Data using 'data.table'
-
 treedater Fast Molecular Clock Dating of Phylogenetic Trees with Rate Variation
-
 TreeDep Air Pollution Removal by Dry Deposition on Trees
-
 TreeDiagram Tree Diagram
-
 TreeDimensionTest Trajectory Presence and Heterogeneity in Multivariate Data
-
 TreeDist Calculate and Map Distances Between Phylogenetic Trees
-
 treeducken Nested Phylogenetic Tree Simulator
-
 treefit The First Software for Quantitative Trajectory Inference
-
 treeheatr Heatmap-Integrated Decision Tree Visualizations
-
 treemap Treemap Visualization
-
 treemapify Draw Treemaps in 'ggplot2'
-
 treemisc Data Sets and Functions to Accompany "Tree-Based Methods for Statistical Learning in R"
-
 treenomial Comparison of Trees using a Tree Defining Polynomial
-
 treePlotArea Correction Factors for Tree Plot Areas Intersected by Stand Boundaries
-
 treeplyr 'dplyr' Functionality for Matched Tree and Data Objects
-
 TreeSearch Phylogenetic Analysis with Discrete Character Data
-
 TreeSim Simulating Phylogenetic Trees
-
 TreeSimGM Simulating Phylogenetic Trees under General Bellman Harris and Lineage Shift Model
-
 treespace Statistical Exploration of Landscapes of Phylogenetic Trees
-
 treestartr Generate Starting Trees for Combined Molecular, Morphological and Stratigraphic Data
-
 treestructure Detect Population Structure Within Phylogenetic Trees
-
 TreeTools Create, Modify and Analyse Phylogenetic Trees
-
 treetop A Shiny-Based Application for Extracting Forest Information from LiDAR Data
-
 trekcolors Star Trek Color Palettes
-
 trekfont Star Trek Fonts Collection
-
 trelliscopejs Create Interactive Trelliscope Displays
-
 trelloR Access the Trello API
-
 tremendousr Easily Send Rewards and Incentives with 'Tremendous' from R
-
 TrenchR Tools for Microclimate and Biophysical Ecology
-
 trend Non-Parametric Trend Tests and Change-Point Detection
-
 trendchange Innovative Trend Analysis and Time-Series Change Point Analysis
-
 trendeval Evaluate Trending Models
-
 trending Model Temporal Trends
-
 TrendInTrend Odds Ratio Estimation and Power Calculation for the Trend in Trend Model
-
 trendsegmentR Linear Trend Segmentation
-
 TrendSLR Estimating Trend, Velocity and Acceleration from Sea Level Records
-
 TrendTM Trend of High-Dimensional Time Series Matrix Estimation
-
 Trendtwosub Two Sample Order Free Trend Nonparametric Inference
-
 trendyy A Tidy Wrapper Around 'gtrendsR'
-
 TRES Tensor Regression with Envelope Structure
-
 TRexSelector T-Rex Selector: High-Dimensional Variable Selection & FDR Control
-
 TriadSim Simulating Triad Genomewide Genotypes
-
 trialr Clinical Trial Designs in 'rstan'
-
 TrialSize R Functions for Chapter 3,4,6,7,9,10,11,12,14,15 of Sample Size Calculation in Clinical Research
-
 triangle Provides the Standard Distribution Functions for the Triangle Distribution
-
 triangulation Determine Position of Observer
-
 triangulr High-Performance Triangular Distribution Functions
-
 tribe Play with the Tribe of Attributes
-
 tricolore A Flexible Color Scale for Ternary Compositions
-
 TriDimRegression Bayesian Statistics for 2D/3D Transformations
-
 triebeard 'Radix' Trees in 'Rcpp'
-
 trigpoints Data Set of Trig Points in Great Britain in British National Grid Coordinates
-
 TriMatch Propensity Score Matching of Non-Binary Treatments
-
 trimcluster Cluster Analysis with Trimming
-
 trimetStops Information on all of the TriMet Stops in the Portland Metro Area
-
 trimmer Trim an Object
-
 trimr An Implementation of Common Response Time Trimming Methods
-
 trinROC Statistical Tests for Assessing Trinormal ROC Data
-
 TrioSGL Trio Model with a Combination of Lasso and Group Lasso Regularization
-
 trip Tools for the Analysis of Animal Track Data
-
 tripack Triangulation of Irregularly Spaced Data
-
 tripEstimation Metropolis Sampler and Supporting Functions for Estimating Animal Movement from Archival Tags and Satellite Fixes
-
 TripleR Social Relation Model (SRM) Analyses for Single or Multiple Groups
-
 triplot Explaining Correlated Features in Machine Learning Models
-
 tripsAndDipR Identification of 2n and 3n Samples from Amplicon Sequencing Data
-
 triversity Diversity Measures on Tripartite Graphs
-
 TRMF Temporally Regularized Matrix Factorization
-
 tRnslate Translate R Code in Source Files
-
 troopdata Tools for Analyzing Cross-National Military Deployment and Basing Data
-
 tropAlgebra Tropical Algebraic Functions
-
 TropFishR Tropical Fisheries Analysis
-
 trotter Pseudo-Vectors Containing All Permutations, Combinations and Subsets of Objects Taken from a Vector
-
 trouBBlme4SolveR Troubles Solver for 'lme4'
-
 TrtCombo.FactorialExp.SR Generation of Treatment Combination (in Standard Order) in 2^n Factorial Experiment
-
 trtf Transformation Trees and Forests
-
 truelies Bayesian Methods to Estimate the Proportion of Liars in Coin Flip Experiments
-
 TrueSkillThroughTime Skill Estimation Based on a Single Bayesian Network
-
 truh Two-Sample Nonparametric Testing Under Heterogeneity
-
 TruncatedNormal Truncated Multivariate Normal and Student Distributions
-
 truncdist Truncated Random Variables
-
 TruncExpFam Truncated Exponential Family
-
 truncnorm Truncated Normal Distribution
-
 truncnormbayes Estimates Moments for a Truncated Normal Distribution using 'Stan'
-
 truncreg Truncated Gaussian Regression Models
-
 truncSP Semi-parametric estimators of truncated regression models
-
 trust Trust Region Optimization
-
 trustedtimestamping Create Trusted Timestamps of Datasets and Files
-
 trustOptim Trust Region Optimization for Nonlinear Functions with Sparse Hessians
-
 TrustVDJ Tools for Immune Repertoire Analysis
-
 truthiness Illusory Truth Longitudinal Study
-
 tryCatchLog Advanced 'tryCatch()' and 'try()' Functions
-
 ts.extend Stationary Gaussian ARMA Processes and Other Time-Series Utilities
-
 ts2net From Time Series to Networks
-
 TSA Time Series Analysis
-
 tsallisqexp Tsallis q-Exp Distribution
-
 TSANN Time Series Artificial Neural Network
-
 tsapp Time Series, Analysis and Application
-
 tsbox Class-Agnostic Time Series
-
 tsBSS Blind Source Separation and Supervised Dimension Reduction for Time Series
-
 TSCI Tools for Causal Inference with Possibly Invalid Instrumental Variables
-
 TSclust Time Series Clustering Utilities
-
 tscopula Time Series Copula Models
-
 tscount Analysis of Count Time Series
-
 TSCS Time Series Cointegrated System
-
 tsdb Terribly-Simple Data Base for Time Series
-
 tsdecomp Decomposition of Time Series Data
-
 TSdeeplearning Deep Learning Model for Time Series Forecasting
-
 tsdf Two-/Three-Stage Designs for Phase 1&2 Clinical Trials
-
 TSDFGS Training Set Determination for Genomic Selection
-
 tsdisagg2 Time Series Disaggregation
-
 TSdisaggregation High-Dimensional Temporal Disaggregation
-
 TSdist Distance Measures for Time Series Data
-
 TSDT Treatment-Specific Subgroup Detection Tool
-
 tsDyn Nonlinear Time Series Models with Regime Switching
-
 TSE Total Survey Error
-
 TSEind Total Survey Error (Independent Samples)
-
 tsensembler Dynamic Ensembles for Time Series Forecasting
-
 tsentiment Fetching Tweet Data for Sentiment Analysis
-
 TSEntropies Time Series Entropies
-
 tseries Time Series Analysis and Computational Finance
-
 tseriesChaos Analysis of Nonlinear Time Series
-
 tseriesEntropy Entropy Based Analysis and Tests for Time Series
-
 TSeriesMMA Multiscale Multifractal Analysis of Time Series Data
-
 TSEtools Manage Data from Stock Exchange Markets
-
 TSEwgt Total Survey Error Under Multiple, Different Weighting Schemes
-
 TSF Two Stage Forecasting (TSF) for Long Memory Time Series in Presence of Structural Break
-
 tsfeatures Time Series Feature Extraction
-
 tsfgrnn Time Series Forecasting Using GRNN
-
 tsfknn Time Series Forecasting Using Nearest Neighbors
-
 tsfngm Time Series Forecasting using Nonlinear Growth Models
-
 TSGS Trait Specific Gene Selection using SVM and GA
-
 TSGSIS Two Stage-Grouped Sure Independence Screening
-
 tsgui A Gui for Simulating Time Series
-
 TSHRC Two Stage Hazard Rate Comparison
-
 tsibble Tidy Temporal Data Frames and Tools
-
 tsibbledata Diverse Datasets for 'tsibble'
-
 tsibbletalk Interactive Graphics for Tsibble Objects
-
 tsintermittent Intermittent Time Series Forecasting
-
 tsiR An Implementation of the TSIR Model
-
 TSLSTM Long Short Term Memory (LSTM) Model for Time Series Forecasting
-
 TSMN Truncated Scale Mixtures of Normal Distributions
-
 tsModel Time Series Modeling for Air Pollution and Health
-
 tsmp Time Series with Matrix Profile
-
 TSMSN Truncated Scale Mixtures of Skew-Normal Distributions
-
 tsna Tools for Temporal Social Network Analysis
-
 tsne T-Distributed Stochastic Neighbor Embedding for R (t-SNE)
-
 tsoutliers Detection of Outliers in Time Series
-
 TSP Traveling Salesperson Problem (TSP)
-
 tsPI Improved Prediction Intervals for ARIMA Processes and Structural Time Series
-
 tspmeta Instance Feature Calculation and Evolutionary Instance Generation for the Traveling Salesman Problem
-
 TSPred Functions for Benchmarking Time Series Prediction
-
 tsqn Applications of the Qn Estimator to Time Series (Univariate and Multivariate)
-
 TSrepr Time Series Representations
-
 tsriadditive Two Stage Residual Inclusion Additive Hazards Estimator
-
 tsrobprep Robust Preprocessing of Time Series Data
-
 TSS.RESTREND Time Series Segmentation of Residual Trends
-
 tsSelect Execution of Time Series Models
-
 tssim Simulation of Daily and Monthly Time Series
-
 TSsmoothing Trend Estimation of Univariate and Bivariate Time Series with Controlled Smoothness
-
 TSSS Time Series Analysis with State Space Model
-
 TSstudio Functions for Time Series Analysis and Forecasting
-
 tstools A Time Series Toolbox for Official Statistics
-
 TSTutorial Fitting and Predict Time Series Interactive Laboratory
-
 tsutils Time Series Exploration, Modelling and Forecasting
-
 TSVC Tree-Structured Modelling of Varying Coefficients
-
 tsviz Easy and Interactive Time Series Visualization
-
 tsvr Timescale-Specific Variance Ratio for Use in Community Ecology
-
 tswge Time Series for Data Science
-
 tsxtreme Bayesian Modelling of Extremal Dependence in Time Series
-
 TT Display Tree Structured Data using Datatable Widget (DT)
-
 TTAinterfaceTrendAnalysis Temporal Trend Analysis Graphical Interface
-
 ttbary Barycenter Methods for Spatial Point Patterns
-
 ttbbeer US Beer Statistics from TTB
-
 TTCA Transcript Time Course Analysis
-
 ttcg Three-Term Conjugate Gradient for Unconstrained Optimization
-
 ttdo Extend 'tinytest' with 'diffobj'
-
 tth TeX-to-HTML/MathML Translators TtH/TtM
-
 tTOlr Likelihood Ratio Statistics for One or Two Sample T-Tests
-
 TTR Technical Trading Rules
-
 TTS Master Curve Estimates Corresponding to Time-Temperature Superposition
-
 ttScreening Genome-Wide DNA Methylation Sites Screening by Use of Training and Testing Samples
-
 ttservice A Service for Tidy Transcriptomics Software Suite
-
 ttt The Table Tool
-
 ttTensor Tensor-Train Decomposition
-
 tttplot Time to Target Plot
-
 ttutils Utility Functions
-
 tuber Client for the YouTube API
-
 tubern R Client for the YouTube Analytics and Reporting API
-
 tuckerR.mmgg Three-Mode Principal Components Analysis
-
 TUFLOWR Helper Functions for 'TUFLOW FV' Models
-
 tufte Tufte's Styles for R Markdown Documents
-
 tufterhandout Tufte-style html document format for rmarkdown
-
 TukeyC Conventional Tukey Test
-
 tukeyGH Tukey's g-and-h Probability Distribution
-
 TukeyRegion Tukey Region and Median
-
 tukeytrend Tukeys Trend Test via Multiple Marginal Models
-
 TULIP A Toolbox for Linear Discriminant Analysis with Penalties
-
 tumgr Tumor Growth Rate Analysis
-
 tune Tidy Tuning Tools
-
 TunePareto Multi-Objective Parameter Tuning for Classifiers
-
 tuneR Analysis of Music and Speech
-
 tuneRanger Tune Random Forest of the 'ranger' Package
-
 tuple Find every match, or orphan, duplicate, triplicate, or other replicated values
-
 turboEM A Suite of Convergence Acceleration Schemes for EM, MM and Other Fixed-Point Algorithms
-
 turner Turn vectors and lists of vectors into indexed structures
-
 TurtleGraphics Turtle Graphics
-
 Tushare Interface to 'Tushare Pro' API
-
 TUWmodel Lumped/Semi-Distributed Hydrological Model for Education Purposes
-
 tvem Time-Varying Effect Models
-
 tvgarch Time Varying GARCH Modelling
-
 tvgeom The Time-Varying (Right-Truncated) Geometric Distribution
-
 tvm Time Value of Money Functions
-
 tvmComp Discounting and Compounding Calculations for Various Scenarios
-
 tvmediation Time Varying Mediation Analysis
-
 TVMM Multivariate Tests for the Vector of Means
-
 tvR Total Variation Regularization
-
 tvReg Time-Varying Coefficient for Single and Multi-Equation Regressions
-
 tvthemes TV Show Themes and Color Palettes for 'ggplot2' Graphics
-
 twang Toolkit for Weighting and Analysis of Nonequivalent Groups
-
 twangContinuous Toolkit for Weighting and Analysis of Nonequivalent Groups - Continuous Exposures
-
 twangMediation Twang Causal Mediation Modeling via Weighting
-
 twangRDC Gradient Boosting for Linkage Failure in FSRDCs
-
 tweedie Evaluation of Tweedie Exponential Family Models
-
 tweenr Interpolate Data for Smooth Animations
-
 tweetcheck Parse and Validate Tweet Text
-
 twenty48 Play a Game of 2048 in the Console
-
 twfy Drive the API for TheyWorkForYou
-
 twilio An Interface to the Twilio API for R
-
 twinning Data Twinning
-
 Twitmo Twitter Topic Modeling and Visualization for R
-
 twitteR R Based Twitter Client
-
 twitteradsR Get Twitter Ads Data via the 'Windsor.ai' API
-
 TwitterAutomatedTrading Automated Trading Using Tweets
-
 twitterwidget Render a Twitter Status in R Markdown Pages
-
 twl Two-Way Latent Structure Clustering Model
-
 twn Taxa Waterbeheer Nederland voor R
-
 TwoArmSurvSim Simulate Survival Data for Randomized Clinical Trials
-
 twopartm Two-Part Model with Marginal Effects
-
 TwoPhaseInd Estimate Gene-Treatment Interaction Exploiting Randomization
-
 TwoRegression Develop and Apply Two-Regression Algorithms
-
 twosamples Fast Permutation Based Two Sample Tests
-
 TwoSampleTest.HD A Two-Sample Test for the Equality of Distributions for High-Dimensional Data
-
 twosigma DE Analysis for Single-Cell RNA-Sequencing Data
-
 twostageTE Two-Stage Threshold Estimation
-
 TwoStepCLogit Conditional Logistic Regression: A Two-Step Estimation Method
-
 twoway Analysis of Two-Way Tables
-
 TwoWayFEWeights Estimation of the Weights Attached to the Two-Way Fixed Effects Regressions
-
 twowaytests Two-Way Tests in Independent Groups Designs
-
 twoxtwo Work with Two-by-Two Tables
-
 txshift Efficient Estimation of the Causal Effects of Stochastic Interventions
-
 txtplot Text Based Plots
-
 txtq A Small Message Queue for Parallel Processes
-
 typed Support Types for Variables, Arguments, and Return Values
-
 typehint Auto-Check Types, Dimensions, and Values of Function Arguments
-
 types Type Annotations
-
 typetracer Trace Function Parameter Types
-
 tzdb Time Zone Database Information
-
 tzupdater Time Zone Database Updater
 
 
@@ -31973,335 +31057,170 @@ tzupdater Time Zone Database Updater
 
 
 u5mr Under-Five Child Mortality Estimation
-
 uaparserjs Parse 'User-Agent' Strings
-
 uavRmp UAV Mission Planner
-
 UBCRM Functions to Simulate and Conduct Dose-Escalation Phase I Studies
-
 ubiquity PKPD, PBPK, and Systems Pharmacology Modeling Tools
-
 UBL An Implementation of Re-Sampling Approaches to Utility-Based Learning for Both Classification and Regression Tasks
-
 ubms Bayesian Models for Data from Unmarked Animals using 'Stan'
-
 uCAREChemSuiteCLI Resistome Predicter
-
 uchardet The Universal Character Encoding Detector
-
 ucie Mapping 3D Data into CIELab Color Space
-
 uclust Clustering and Classification Inference with U-Statistics
-
 ucminf General-Purpose Unconstrained Non-Linear Optimization
-
 UComp Automatic Unobserved Components Models
-
 UCR.ColumnNames Fixes Column Names for Uniform Crime Report "Offenses Known and Clearance by Arrest" Datasets
-
 UCSCXenaShiny Interactive Analysis of UCSC Xena Data
-
 UCSCXenaTools Download and Explore Datasets from UCSC Xena Data Hubs
-
 UdderQuarterInfectionData Udder Quarter Infection Data
-
 udpipe Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing with the 'UDPipe' 'NLP' Toolkit
-
 udunits2 Udunits-2 Bindings for R
-
 ufRisk Risk Measure Calculation in Financial TS
-
 ufs A Collection of Utilities
-
 ugatsdb Uganda Time Series Database API
-
 uGMAR Estimate Univariate Gaussian and Student's t Mixture Autoregressive Models
-
 ugomquantreg Quantile Regression Modeling for Unit-Gompertz Responses
-
 uHMM Construct an Unsupervised Hidden Markov Model
-
 ui Uncertainty Intervals and Sensitivity Analysis for Missing Data
-
 uiucthemes 'R' 'Markdown' Themes for 'UIUC' Documents and Presentations
-
 uk2us Convert Words Between UK and US English
-
 UKB.COVID19 UK Biobank COVID-19 Data Processing and Risk Factor Association Tests
-
 ukbabynames UK Baby Names Data
-
 ukbtools Manipulate and Explore UK Biobank Data
-
 UKFE UK Flood Estimation
-
 ukgasapi API for UK Energy Market Information
-
 UKgrid The UK National Electricity Transmission System Dataset
-
 uklr Client to United Kingdom Land Registry
-
 ukpolice Download Data on UK Police and Crime
-
 ulid Generate Universally Unique Lexicographically Sortable Identifiers
-
 Ultimixt Bayesian Analysis of Location-Scale Mixture Models using a Weakly Informative Prior
-
 umap Uniform Manifold Approximation and Projection
-
 Umatrix Visualization of Structures in High-Dimensional Data
-
 umbridge Integration for the UM-Bridge Protocol
-
 umiAnalyzer Tools for Analyzing Sequencing Data with Unique Molecular Identifiers
-
 Umoments Unbiased Central Moment Estimates
-
 ump Uniformly Most Powerful Tests
-
 Umpire Simulating Realistic Gene Expression and Clinical Data
-
 UMR Unmatched Monotone Regression
-
 umx Structural Equation Modeling and Twin Modeling in R
-
 unbalhaar Function Estimation via Unbalanced Haar Wavelets
-
 UncDecomp Uncertainty Decomposition
-
 uncertainty Uncertainty Estimation and Contribution Analysis
-
 UNCLES Unification of Clustering Results from Multiple Datasets using External Specifications
-
 uncmbb UNC Men's Basketball Match Results Since 1949-1950 Season
-
 uncorbets Uncorrelated Bets via Minimum Torsion Algorithm
-
 understandBPMN Calculator of Understandability Metrics for BPMN
-
 unglue Extract Matched Substrings Using a Pattern
-
 ungroup Penalized Composite Link Model for Efficient Estimation of Smooth Distributions from Coarsely Binned Data
-
 unheadr Handle Data with Messy Header Rows and Broken Values
-
 uni.survival.tree A Survival Tree Based on Stabilized Score Tests for High-dimensional Covariates
-
 uniah Unimodal Additive Hazards Model
-
 Unicode Unicode Data and Utilities
-
 unifDAG Uniform Sampling of Directed Acyclic Graphs
-
 unifed The Unifed Distribution
-
 UnifiedDoseFinding Dose-Finding Methods for Non-Binary Outcomes
-
 unifir A Unifying API for Calling the 'Unity' '3D' Video Game Engine
-
 uniformly Uniform Sampling
-
 UniIsoRegression Unimodal and Isotonic L1, L2 and Linf Regression
-
 unikn Graphical Elements of the University of Konstanz's Corporate Design
-
 unine Unine Light Stemmer
-
 UniprotR Retrieving Information of Proteins from Uniprot
-
 uniqtag Abbreviate Strings to Short, Unique Identifiers
-
 uniReg Unimodal Penalized Spline Regression using B-Splines
-
 unisensR Read 'Unisens' Data
-
 uniset Dynamic Settings File
-
 UnitCircle Check if Roots of a Polynomial Lie Outside the Unit Circle
-
 unitedR Assessment and Evaluation of Formations in United
-
 unitizer Interactive R Unit Tests
-
 unitquantreg Parametric Quantile Regression Models for Bounded Data
-
 units Measurement Units for R Vectors
-
 UnitStat Performs Unit Root Test Statistics
-
 unittest TAP-Compliant Unit Testing
-
 unival Assessing Essential Unidimensionality Using External Validity Information
-
 univariateML Maximum Likelihood Estimation for Univariate Densities
-
 universals S3 Generics for Bayesian Analyses
-
 univOutl Detection of Univariate Outliers
-
 UnivRNG Univariate Pseudo-Random Number Generation
-
 unix POSIX System Utilities
-
 unjoin Separate a Data Frame by Normalization
-
 unmarked Models for Data from Unmarked Animals
-
 unnest Unnest Hierarchical Data Structures
-
 UNPaC Non-Parametric Cluster Significance Testing with Reference to a Unimodal Null Distribution
-
 unpivotr Unpivot Complex and Irregular Data Layouts
-
 unrepx Analysis and Graphics for Unreplicated Experiments
-
 unrtf Extract Text from Rich Text Format (RTF) Documents
-
 unstruwwel Detect and Parse Historic Dates
-
 unsystation Stationarity Test Based on Unsystematic Sub-Sampling
-
 untb Ecological Drift under the UNTB
-
 unusualprofile Calculates Conditional Mahalanobis Distances
-
 unvotes United Nations General Assembly Voting Data
-
 UPCM Uncertainty in Partial Credit Models
-
 updater Utilities for Updating R
-
 updog Flexible Genotyping for Polyploids
-
 UPG Efficient Bayesian Algorithms for Binary and Categorical Data Regression Models
-
 UPMASK Unsupervised Photometric Membership Assignment in Stellar Clusters
-
 upsetjs 'HTMLWidget' Wrapper of 'UpSet.js' for Exploring Large Set Intersections
-
 UpSetR A More Scalable Alternative to Venn and Euler Diagrams for Visualizing Intersecting Sets
-
 UpSetVP An Alternative Visualization of VPA and HP in Canonical Analysis
-
 upstartr Utilities Powering the Globe and Mail's Data Journalism Template
-
 UPSvarApprox Approximate the Variance of the Horvitz-Thompson Total Estimator
-
 uptasticsearch Get Data Frame Representations of 'Elasticsearch' Results
-
 uptimeRobot Access the UptimeRobot Ping API
-
 urbin Unifying Estimation Results with Binary Dependent Variables
-
 urca Unit Root and Cointegration Tests for Time Series Data
-
 urlchecker Run CRAN URL Checks from Older R Versions
-
 urlshorteneR R Wrapper for the 'Bit.ly' and 'Is.gd'/'v.gd' URL Shortening Services
-
 urltools Vectorised Tools for URL Handling and Parsing
-
 uroot Unit Root Tests for Seasonal Time Series
-
 ursa Non-Interactive Spatial Tools for Raster Processing and Visualization
-
 us.census.geoheader US 2010 Census SF2 Geographic Header Summary Levels 010-050
-
 usa Updated US State Facts and Figures
-
 USA.state.boundaries Replacement of the 'USGSstates2k' Package
-
 USAboundaries Historical and Contemporary Boundaries of the United States of America
-
 UScensus2010 US Census 2010 Suite of R Packages
-
 uscoauditlog United States Copyright Office Product Management Division SR Audit Data Dataset Cleaning Algorithms
-
 usdampr Request USDA MPR Historical Data via the 'LMR' API
-
 usdarnass USDA NASS Quick Stats API
-
 usdata Data on the States and Counties of the United States
-
 usdm Uncertainty Analysis for Species Distribution Models
-
 usedist Distance Matrix Utilities
-
 useful A Collection of Handy, Useful Functions
-
 usefun A Collection of Useful Functions by John
-
 usemodels Boilerplate Code for 'Tidymodels' Analyses
-
 usethis Automate Package and Project Setup
-
 usfertilizer County-Level Estimates of Fertilizer Application in USA
-
 USgas The Demand for Natural Gas in the US
-
 USgrid The Demand and Supply for Electricity in the US
-
 ushr Understanding Suppression of HIV
-
 usincometaxes Calculate Federal and State Income Taxes in the United States
-
 UsingR Data Sets, Etc. for the Text "Using R for Introductory Statistics", Second Edition
-
 uskewFactors Model-Based Clustering via Mixtures of Unrestricted Skew-t Sactor Analyzer Models
-
 usl Analyze System Scalability with the Universal Scalability Law
-
 usmap US Maps Including Alaska and Hawaii
-
 usmapdata Mapping Data for 'usmap' Package
-
 USP U-Statistic Permutation Tests of Independence for all Data Types
-
 USpopcenters United States Centers of Population (Centroids)
-
 ussherR Ussher Data Set Drawn from 1658 Chronology
-
 UStatBookABSC A Companion Package to the Book "U-Statistics, M-Estimation and Resampling"
-
 ustfd API Client for US Treasury Fiscal Data
-
 ustyc Fetch US Treasury yield curve data
-
 utc Coordinated Universal Time Transformations
-
 utf8 Unicode Text Processing
-
 utile.tables Build Tables for Publication
-
 utile.tools Summarize Data for Publication
-
 utile.visuals Create Visuals for Publication
-
 utilities Data Utility Functions
-
 utility Construct, Evaluate and Plot Value and Utility Functions
-
 UtilityFrailtyPH12 Implementing EFF-TOX and Monotone Utility Based Phase 12 Trials
-
 utilityFunctionTools P-Spline Regression for Utility Functions and Derived Measures
-
 utilsIPEA IPEA Common Functions
-
 utiml Utilities for Multi-Label Learning
-
 utr.annotation Annotate Variants in the Untranslated Regions
-
 uuid Tools for Generating and Handling of UUIDs
-
 uwedragon Data Research, Access, Governance Network : Statistical Disclosure Control
-
 UWHAM Unbinned Weighted Histogram Analysis Method (UWHAM)
-
 uwo4419 UWO POLSCI 4419/9715
-
 uwot The Uniform Manifold Approximation and Projection (UMAP) Method for Dimensionality Reduction
-
 uxr User Experience Research
 
 
@@ -32324,547 +31243,276 @@ uxr User Experience Research
 
 
 V8 Embedded JavaScript and WebAssembly Engine for R
-
 vacuum Tukey's Vacuum Cleaner
-
 vader Valence Aware Dictionary and sEntiment Reasoner (VADER)
-
 vaersNDvax Non-Domestic Vaccine Adverse Event Reporting System (VAERS) Vaccine Data for Present
-
 vaersvax US Vaccine Adverse Event Reporting System (VAERS) Vaccine Data for Present
-
 vagalumeR Access to the 'Vagalume' API
-
 vagam Variational Approximations for Generalized Additive Models
-
 VAJointSurv Variational Approximation for Joint Survival and Marker Models
-
 valaddin Functional Input Validation
-
 valection Sampler for Verification Studies
-
 VALERIE Visualising Splicing at Single-Cell Resolution
-
 valet Provide R Client to the Bank of Canada's Valet API
-
 valhallr A Tidy Interface to the 'Valhalla' Routing Engine
-
 validann Validation Tools for Artificial Neural Networks
-
 validata Validate Data Frames
-
 validate Data Validation Infrastructure
-
 validatedb Validate Data in a Database using 'validate'
-
 validateRS One-Sided Multivariate Testing Procedures for Rating Systems
-
 validatetools Checking and Simplifying Validation Rule Sets
-
 valmetrics Metrics and Plots for Model Evaluation
-
 valorate Velocity and Accuracy of the LOg-RAnk TEst
-
 valottery Results from the Virginia Lottery Draw Games
-
 valr Genome Interval Arithmetic
-
 valse Variable Selection with Mixture of Models
-
 valueEQ5D Scoring EQ-5d Descriptive System
-
 valuemap Making Choropleth Map
-
 VAM Variance-Adjusted Mahalanobis
-
 vamc A Monte Carlo Valuation Framework for Variable Annuities
-
 vampyr Factor Analysis Controlling the Effects of Response Bias
-
 VancouvR Access the 'City of Vancouver' Open Data API
-
 vandalico Evaluation of Presence-Absence Models
-
 vanddraabe Identification and Statistical Analysis of Conserved Waters Near Proteins
-
 vangogh A Vincent Van Gogh Color Palette Generator
-
 vannstats Simplified Statistics for PA 606
-
 vanquish Variant Quality Investigation Helper
-
 vapour Access to the 'Geospatial Data Abstraction Library' ('GDAL')
-
 VAR.etp VAR Modelling: Estimation, Testing, and Prediction
-
 varband Variable Banding of Large Precision Matrices
-
 varbin Optimal Binning of Continuous and Categorical Variables
-
 varbvs Large-Scale Bayesian Variable Selection Using Variational Methods
-
 varclust Variables Clustering
-
 VARDetect Multiple Change Point Detection in Structural VAR Models
-
 vardiag Variogram Diagnostics
-
 vardpoor Variance Estimation for Sample Surveys by the Ultimate Cluster Method
-
 VarED Variance Estimation using Difference-Based Methods
-
 varEst Variance Estimation
-
 VarfromPDB Disease-Gene-Variant Relations Mining from the Public Databases and Literature
-
 varhandle Functions for Robust Variable Handling
-
 variability Genetic Variability Analysis for Plant Breeding Research
-
 variables Variable Descriptions
-
 VariableScreening High-Dimensional Screening for Semiparametric Longitudinal Regression
-
 varian Variability Analysis in R
-
 VarianceGamma The Variance Gamma Distribution
-
 variantspark A 'Sparklyr' Extension for 'VariantSpark'
-
 varImp RF Variable Importance for Arbitrary Measures
-
 variosig Testing Spatial Dependence Using Empirical Variogram
-
 varitas Variant Calling in Targeted Analysis Sequencing Data
-
 varjmcm Estimations for the Covariance of Estimated Parameters in Joint Mean-Covariance Models
-
 VARMER Variational Merging
-
 varrank Heuristics Tools Based on Mutual Information for Variable Ranking
-
 VarRedOpt A Framework for Variance Reduction
-
 VarReg Semi-Parametric Variance Regression
-
 vars VAR Modelling
-
 varSel Sequential Forward Floating Selection using Jeffries-Matusita Distance
-
 VARSELECTEXPOSURE Variable Selection Methods Including an Exposure Variable
-
 VarSelLCM Variable Selection for Model-Based Clustering of Mixed-Type Data Set with Missing Values
-
 varSelRF Variable Selection using Random Forests
-
 varsExplore Searchable Variable Explorer with Labelled Variables
-
 VARshrink Shrinkage Estimation Methods for Vector Autoregressive Models
-
 varTestnlme Variance Components Testing for Linear and Nonlinear Mixed Effects Models
-
 varycoef Modeling Spatially Varying Coefficients
-
 vasicek Miscellaneous Functions for Vasicek Distribution
-
 vasicekreg Regression Modeling Using Vasicek Distribution
-
 vaultr Vault Client for Secrets and Sensitive Data
-
 VBLPCM Variational Bayes Latent Position Cluster Model for Networks
-
 VBsparsePCA The Variational Bayesian Method for Sparse PCA
-
 VC2copula Extend the 'copula' Package with Families and Models from 'VineCopula'
-
 VCA Variance Component Analysis
-
 vccp Vine Copula Change Point Detection in Multivariate Time Series
-
 vcd Visualizing Categorical Data
-
 vcdExtra 'vcd' Extensions and Additions
-
 vcfR Manipulate and Visualize VCF Data
-
 vcmeta Varying Coefficient Meta-Analysis
-
 vcov Variance-Covariance Matrices and Standard Errors
-
 vcpen Penalized Variance Components Analysis
-
 vcr Record 'HTTP' Calls to Disk
-
 vctrs Vector Helpers
-
 vcvComp Comparison of Variance - Covariance Patterns
-
 VDAP Peptide Array Analysis Tools
-
 vdar Discriminant Analysis Incorporating Individual Uncertainties
-
 vdg Variance Dispersion Graphs and Fraction of Design Space Plots
-
 vdiffr Visual Regression Testing and Graphical Diffing
-
 VDJgermlines Variable, Diversity and Joining Sequences from Various Species
-
 vdra Vertical Distributed Regression Analysis
-
 VDSM Visualization of Distribution of Selected Model
-
 VDSPCalibration Statistical Methods for Designing and Analyzing a Calibration Study
-
 vec2dtransf 2D Cartesian Coordinate Transformation
-
 veccompare Perform Set Operations on Vectors, Automatically Generating All n-Wise Comparisons, and Create Markdown Output
-
 vecsets Like Set Tools in 'Base' Package but Keeps Duplicate Elements
-
 VecStatGraphs2D Vector Analysis using Graphical and Analytical Methods in 2D
-
 vectorwavelet Vector Wavelet Coherence for Multiple Time Series
-
 VedicDateTime Vedic Calendar System
-
 vegalite Tools to Encode Visualizations with the 'Grammar of Graphics'-Like 'Vega-Lite' 'Spec'
-
 vegan Community Ecology Package
-
 vegan3d Static and Dynamic 3D Plots for the 'vegan' Package
-
 vegawidget 'Htmlwidget' for 'Vega' and 'Vega-Lite'
-
 vegclust Fuzzy Clustering of Vegetation Data
-
 vegdata Access Vegetation Databases and Treat Taxonomy
-
 vegperiod Determine Thermal Vegetation Periods
-
 vegtable Handling Vegetation Data Sets
-
 vein Vehicular Emissions Inventories
-
 velociraptr Fossil Analysis
-
 vembedr Embed Video in HTML
-
 venn Draw Venn Diagrams
-
 VennDiagram Generate High-Resolution Venn and Euler Plots
-
 venneuler Venn and Euler Diagrams
-
 vennLasso Variable Selection for Heterogeneous Populations
-
 vennplot Venn Diagrams in 2D and 3D
-
 verbaliseR Make your Text Mighty Fine
-
 verbalisr Describe Pedigree Relationships in Words
-
 verhoeff Implementation of the 'Verhoeff' Check Digit Algorithm
-
 verification Weather Forecast Verification Utilities
-
 vermeulen 'Biomarker' Data Set by Vermeulen et al. (2009)
-
 versions Query and Install Specific Versions of Packages on CRAN
-
 versionsort Sort and Order Version Codes
-
 VertexSimilarity Creates Vertex Similarity Matrix for an Undirected Graph
-
 VertexSort Network Hierarchical Structure and Randomization
-
 VeryLargeIntegers Store and Operate with Arbitrarily Large Integers
-
 vesselr Gradient and Vesselness Tools for Arrays and NIfTI Images
-
 vetiver Version, Share, Deploy, and Monitor Models
-
 vetr Trust, but Verify
-
 VetResearchLMM Linear Mixed Models - An Introduction with Applications in Veterinary Research
-
 VEwaning Vaccine Efficacy Over Time
-
 VEwaningVariant Vaccine Efficacy Over Time - Variant Aware
-
 vfcp Computation of v Values for U and Copula C(U, v)
-
 vfinputs Visual Filter Inputs for Shiny
-
 VFP Variance Function Program
-
 vfprogression Visual Field (VF) Progression Analysis and Plotting Methods
-
 VFS Vegetated Filter Strip and Erosion Model
-
 VGAM Vector Generalized Linear and Additive Models
-
 VGAMdata Data Supporting the 'VGAM' Package
-
 VGAMextra Additions and Extensions of the 'VGAM' Package
-
 vglmer Variational Inference for Hierarchical Generalized Linear Models
-
 vhcub Virus-Host Codon Usage Co-Adaptation Analysis
-
 VHDClassification Discrimination/Classification in very high dimension with linear and quadratic rules
-
 vhica Vertical and Horizontal Inheritance Consistence Analysis
-
 viafr Interface to the 'VIAF' ('Virtual International Authority File') API
-
 VIC5 The Variable Infiltration Capacity (VIC) Hydrological Model
-
 vICC Varying Intraclass Correlation Coefficients
-
 vici Vaccine Induced Cellular Immunogenicity with Bivariate Modeling
-
 VicmapR Access Victorian Spatial Data Through Web File Services (WFS)
-
 video 'Shiny' Extension of 'video.js'
-
 vietnamcode Convert Vietnam Provincial Codes
-
 vietnameseConverter Convert Vietnamese Encodings
-
 ViewPipeSteps Create View Tabs of Pipe Chains
-
 viewpoly A Shiny App to Visualize Genetic Maps and QTL Analysis in Polyploid Species
-
 VIFCP Detecting Change-Points via VIFCP Method
-
 VIGoR Variational Bayesian Inference for Genome-Wide Regression
-
 viking State-Space Models Inference by Kalman or Viking
-
 villager A Framework for Designing and Running Agent Based Models
-
 VIM Visualization and Imputation of Missing Values
-
 VIMean Variability Independent of Mean
-
 vimp Perform Inference on Algorithm-Agnostic Variable Importance
-
 vimpclust Variable Importance in Clustering
-
 vindecodr Provides an Interface to the Department of Transportation VIN Decoder
-
 VineCopula Statistical Inference of Vine Copulas
-
 vinereg D-Vine Quantile Regression
-
 vines Multivariate Dependence Modeling with Vines
-
 violinplotter Plotting and Comparing Means with Violin Plots
-
 vioplot Violin Plot
-
 vip Variable Importance Plots
-
 vipor Plot Categorical Data Using Quasirandom Noise and Density Estimates
-
 VIRF Computation of Volatility Impulse Response Function of Multivariate Time Series
-
 viridis Colorblind-Friendly Color Maps for R
-
 viridisLite Colorblind-Friendly Color Maps (Lite Version)
-
 virtualPollen Simulating Pollen Curves from Virtual Taxa with Different Life and Niche Traits
-
 VirtualPop Simulation of Populations by Sampling Waiting-Time Distributions
-
 virtualspecies Generation of Virtual Species Distributions
-
 virtuoso Interface to 'Virtuoso' using 'ODBC'
-
 virustotal R Client for the VirusTotal API
-
 visa Vegetation Imaging Spectroscopy Analyzer
-
 visachartR Wrapper for 'Visa Chart Components'
-
 visae Visualization of Adverse Events
-
 visaOTR Valid Improved Sparsity A-Learning for Optimal Treatment Decision
-
 viscomplexr Phase Portraits of Functions in the Complex Number Plane
-
 visdat Preliminary Visualisation of Data
-
 ViSiElse A Visual Tool for Behavior Analysis over Time
-
 visit Phase I Dose Escalation Study Design for Vaccines
-
 VisitorCounts Modeling and Forecasting Visitor Counts Using Social Media
-
 visNetwork Network Visualization using 'vis.js' Library
-
 visR Clinical Graphs and Tables Adhering to Graphical Principles
-
 visreg Visualization of Regression Models
-
 visStatistics Automated Visualization of Statistical Tests
-
 vistime Pretty Timelines in R
-
 vistla Detecting Influence Paths with Information Theory
-
 visTree Visualization of Subgroups for Decision Trees
-
 vistributions Visualize Probability Distributions
-
 visualFields Statistical Methods for Visual Fields
-
 visualize Graph Probability Distributions with User Supplied Parameters and Statistics
-
 Visualize.CRAN.Downloads Visualize Downloads from 'CRAN' Packages
-
 VisualizeSimon2Stage Visualize Simon's Two-Stage Design
-
 visualpred Visualization 2D of Binary Classification Models
-
 visvow Visible Vowels: Visualization of Vowel Variation
-
 visxhclust A Shiny App for Visual Exploration of Hierarchical Clustering
-
 vita Variable Importance Testing Approaches
-
 vitae Curriculum Vitae for R Markdown
-
 vitality Fitting Routines for the Vitality Family of Mortality Models
-
 vivainsights Analyze and Visualize Data from 'Microsoft Viva Insights'
-
 vivid Variable Importance and Variable Interaction Displays
-
 vivo Variable Importance via Oscillations
-
 vizdraws Visualize Draws from the Prior and Posterior Distributions
-
 vkR Access to VK API via R
-
 vlad Variable Life Adjusted Display and Other Risk-Adjusted Quality Control Charts
-
 vlda Visualization of Multidimensional Longitudinal Data
-
 VLF Frequency Matrix Approach for Assessing Very Low Frequency Variants in Sequence Records
-
 VLMC Variable Length Markov Chains ('VLMC') Models
-
 VLTimeCausality Variable-Lag Time Series Causality Inference Framework
-
 VMDecomp Variational Mode Decomposition
-
 VMDML Variational Mode Decomposition Based Machine Learning Models
-
 vmdTDNN VMD Based Time Delay Neural Network Model
-
 vmeasur Quantify the Contractile Nature of Vessels Monitored under an Operating Microscope
-
 vMF Sampling from von Mises-Fisher Distribution
-
 vmr Virtual Machines for R
-
 vntrs Variable Neighborhood Trust Region Search
-
 vocaldia Create and Manipulate Vocalisation Diagrams
-
 voice Tools for Voice Analysis, Speaker Recognition and Mood Inference
-
 volatilityTrader High Volatility Environment Option Trading Strategies Graphs
-
 volcano3D 3D Volcano Plots and Polar Plots for Three-Class Data
-
 volesti Volume Approximation and Sampling of Convex Polytopes
-
 volleystat Detailed Statistics on Volleyball Matches
-
 voluModel Modeling Species Distributions in Three Dimensions
-
 voronoiTreemap Voronoi Treemaps with Added Interactivity by Shiny
-
 VorteksExport Export Dataframes to 'Vorteks' Software
-
 vortexRdata Example Data for R Package 'vortexR'
-
 voson.tcn Twitter Conversation Networks and Analysis
-
 VOSONDash User Interface for Collecting and Analysing Social Networks
-
 vosonSML Collecting Social Media Data and Generating Networks for Analysis
-
 Voss Generic Voss Algorithm (Random Sequential Additions)
-
 vote Election Vote Counting
-
 voteogram United States House and Senate Voting Cartogram Generators
-
 votesmart Wrapper for the Project 'VoteSmart' API
-
 votesys Voting Systems, Instant-Runoff Voting, Borda Method, Various Condorcet Methods
-
 vottrans Voter Transition Analysis
-
 vov CSS Animations for 'shiny' Elements
-
 vowels Vowel Manipulation, Normalization, and Plotting
-
 voxel Mass-Univariate Voxelwise Analysis of Medical Imaging Data
-
 VoxR Trees Geometry and Morphology from Unstructured TLS Data
-
 vpc Create Visual Predictive Checks
-
 VPdtw Variable Penalty Dynamic Time Warping
-
 vprr Processing and Visualization of Video Plankton Recorder Data
-
 vrcp Change Point Estimation for Regression with Varying Segments and Heteroscedastic Variances
-
 vrnmf Volume-Regularized Structured Matrix Factorization
-
 vroom Read and Write Rectangular Text Data Quickly
-
 vrtest Variance Ratio Tests and Other Tests for Martingale Difference Hypothesis
-
 vscc Variable Selection for Clustering and Classification
-
 vsd Graphical Shim for Visual Survival Data Analysis
-
 VSdecomp Variance and Skewness Decomposition
-
 vsgoftest Goodness-of-Fit Tests Based on Kullback-Leibler Divergence
-
 VSOLassoBag Variable Selection Oriented LASSO Bagging Algorithm
-
 vstsr Access to 'Azure DevOps' API via R
-
 VSURF Variable Selection Using Random Forests
-
 vtable Variable Table for Variable Documentation
-
 vtreat A Statistically Sound 'data.frame' Processor/Conditioner
-
 vtree Display Information About Nested Subsets of a Data Frame
-
 VTShiny Interactive Document for Working with Variance Analysis
-
 vtype Estimates the Variable Type in Error Afflicted Data
-
 vudc Visualization of Univariate Data for Comparison
-
 vueR 'Vuejs' Helpers and 'Htmlwidget'
-
 VulnToolkit Analysis of Tidal Datasets
-
 VUROCS Volume under the ROC Surface for Multi-Class ROC Analysis
-
 vwline Draw Variable-Width Lines
-
 VWPre Tools for Preprocessing Visual World Data
 
 
@@ -32886,599 +31534,302 @@ VWPre Tools for Preprocessing Visual World Data
 
 
 W2CWM2C A Graphical Tool for Wavelet (Cross) Correlation and Wavelet Multiple (Cross) Correlation Analysis
-
 W3CMarkupValidator R Interface to W3C Markup Validation Services
-
 WA While-Alive Loss Rate for Recurrent Event in the Presence of Death
-
 wacolors Colorblind-Friendly Palettes from Washington State
-
 WACS Multivariate Weather-State Approach Conditionally Skew-Normal Generator
-
 wactor Word Factor Vectors
-
 waffle Create Waffle Chart Visualizations in R
-
 waiter Loading Screen for 'Shiny'
-
 wakefield Generate Random Data Sets
-
 wal Read and Write 'wal' Bitmap Image Files and Other 'Quake' Assets
-
 waldo Find Differences Between R Objects
-
 walker Bayesian Generalized Linear Models with Time-Varying Coefficients
-
 walkscoreAPI Walk Score and Transit Score API
-
 wallace A Modular Platform for Reproducible Modeling of Species Niches and Distributions
-
 WallomicsData Datasets for Multi-Omics Integration in a Plant Abiotic Stress Context
-
 wally The Wally Calibration Plot for Risk Prediction Models
-
 walmartAPI Walmart Open API Wrapper
-
 walrus Robust Statistical Methods
-
 WaMaSim Simulate Rehabilitation Strategies for Water Distribution Systems
-
 wand Retrieve 'Magic' Attributes from Files and Directories
-
 warabandi Roster Generation of Turn for Weekdays:'warabandi'
-
 warbleR Streamline Bioacoustic Analysis
-
 WARN Weaning Age Reconstruction with Nitrogen Isotope Analysis
-
 warp Group Dates
-
 warpMix Mixed Effects Modeling with Warping for Functional Data Using B-Spline
-
 washdata Urban Water and Sanitation Survey Dataset
-
 washeR Time Series Outlier Detection
-
 washex Washington State Legislative Explorer
-
 WASP Wavelet System Prediction
-
 waspr Wasserstein Barycenters of Subset Posteriors
-
 waterData Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic Time Series Data
-
 waterfall Waterfall Charts
-
 waterfalls Create Waterfall Charts using 'ggplot2' Simply
-
 waterquality Satellite Derived Water Quality Detection Algorithms
-
 Watersheds Spatial Watershed Aggregation and Spatial Drainage Network Analysis
-
 waterYearType Sacramento and San Joaquin Valley Water Year Types
-
 watson Fitting and Simulating Mixtures of Watson Distributions
-
 waveband Computes Credible Intervals for Bayesian Wavelet Shrinkage
-
 waved Wavelet Deconvolution
-
 wavefunction Wave Function Representation of Real Distributions
-
 WaveletANN Wavelet ANN Model
-
 WaveletArima Wavelet-ARIMA Model for Time Series Forecasting
-
 WaveletComp Computational Wavelet Analysis
-
 WaveletGARCH Fit the Wavelet-GARCH Model to Volatile Time Series Data
-
 WaveletRF Wavelet-RF Hybrid Model for Time Series Forecasting
-
 wavelets Functions for Computing Wavelet Filters, Wavelet Transforms and Multiresolution Analyses
-
 WaveletSVR Wavelet-SVR Hybrid Model for Time Series Forecasting
-
 wavemulcor Wavelet Routines for Global and Local Multiple Regression and Correlation
-
 waver Calculate Fetch and Wave Energy
-
 WaverR Data Estimation using Weighted Averages of Multiple Regressions
-
 waves Vis-NIR Spectral Analysis Wrapper
-
 WaveSampling Weakly Associated Vectors (WAVE) Sampling
-
 waveslim Basic Wavelet Routines for One-, Two-, and Three-Dimensional Signal Processing
-
 wavethresh Wavelets Statistics and Transforms
-
 wavScalogram Wavelet Scalogram Tools for Time Series Analysis
-
 waydown Computation of Approximate Potentials for Weakly Non-Gradient Fields
-
 waywiser Methods for Assessing Spatial Models
-
 wbacon Weighted BACON Algorithms
-
 wbs Wild Binary Segmentation for Multiple Change-Point Detection
-
 wbsd Wild Bootstrap Size Diagnostics
-
 wbstats Programmatic Access to Data and Statistics from the World Bank API
-
 wbsts Multiple Change-Point Detection for Nonstationary Time Series
-
 wcde Download Data from the Wittgenstein Centre Human Capital Data Explorer
-
 WCE Weighted Cumulative Exposure Models
-
 wcep Survival Analysis for Weighted Composite Endpoints
-
 WCM Water Cloud Model (WCM) for the Simulation of Leaf Area Index (LAI) and Soil Moisture (SM) from Microwave Backscattering
-
 Wcompo Semiparametric Proportional Means Regression of Weighted Composite Endpoint
-
 wCorr Weighted Correlations
-
 WDI World Development Indicators and Other World Bank Data
-
 wdm Weighted Dependence Measures
-
 wdman 'Webdriver'/'Selenium' Binary Manager
-
 wdnet Weighted and Directed Networks
-
 wdnr.gis Pull Spatial Layers from 'WDNR ArcGIS REST API'
-
 wdpar Interface to the World Database on Protected Areas
-
 weaana Analysis the Weather Data
-
 weakARMA Tools for the Analysis of Weak ARMA Models
-
 wearables Tools to Read and Convert Wearables Data
-
 weathermetrics Functions to Convert Between Weather Metrics
-
 WebAnalytics Web Server Log Analysis
-
 webchem Chemical Information from the Web
-
 webdeveloper Functions for Web Development
-
 webdriver 'WebDriver' Client for 'PhantomJS'
-
 webexercises Create Interactive Web Exercises in 'R Markdown' (Formerly 'webex')
-
 webfakes Fake Web Apps for HTTP Testing
-
 WebGestaltR Gene Set Analysis Toolkit WebGestaltR
-
 webglobe 3D Interactive Globes
-
 webmockr Stubbing and Setting Expectations on 'HTTP' Requests
-
 webmorphR Reproducible Stimuli
-
 webp A New Format for Lossless and Lossy Image Compression
-
 WebPower Basic and Advanced Statistical Power Analysis
-
 webr Data and Functions for Web-Based Analysis
-
 webreadr Tools for Reading Formatted Access Log Files
-
 webSDM Including Known Interactions in Species Distribution Models
-
 websearchr Access Domains and Search Popular Websites
-
 webshot Take Screenshots of Web Pages
-
 webshot2 Take Screenshots of Web Pages
-
 websocket 'WebSocket' Client Library
-
 webuse Import Stata 'webuse' Datasets
-
 webutils Utility Functions for Developing Web Applications
-
 wec Weighted Effect Coding
-
 WEE Weighted Estimated Equation (WEE) Approaches in Genetic Case-Control Studies
-
 weed Wrangler for Emergency Events Database
-
 WEGE A Metric to Rank Locations for Biodiversity Conservation
-
 wehoop Access Women's Basketball Play by Play Data
-
 WeibullFit Fits and Plots a Dataset to the Weibull Probability Distribution Function
-
 weibullness Goodness-of-Fit Test for Weibull Distribution (Weibullness)
-
 WeibullR Weibull Analysis for Reliability Engineering
-
 WeibullR.ALT Accelerated Life Testing Using 'WeibullR'
-
 weibulltools Statistical Methods for Life Data Analysis
-
 Weighted.Desc.Stat Weighted Descriptive Statistics
-
 weightedCL Efficient and Feasible Inference for High-Dimensional Normal Copula Regression Models
-
 WeightedCluster Clustering of Weighted Data
-
 weightedGCM Weighted Generalised Covariance Measure Conditional Independence Test
-
 weightedRank Sensitivity Analysis Using Weighted Rank Statistics
-
 WeightedROC Fast, Weighted ROC Curves
-
 weightedScores Weighted Scores Method for Regression Models with Dependent Data
-
 weightedZdiff Calculation of z-Differences
-
 WeightIt Weighting for Covariate Balance in Observational Studies
-
 weightQuant Weights for Incomplete Longitudinal Data and Quantile Regression
-
 weightr Estimating Weight-Function Models for Publication Bias
-
 weights Weighting and Weighted Statistics
-
 WeightSVM Subject Weighted Support Vector Machines
-
 weirs A Hydraulics Package to Compute Open-Channel Flow over Weirs
-
 welchADF Welch-James Statistic for Robust Hypothesis Testing under Heterocedasticity and Non-Normality
-
 wellknown Convert Between 'WKT' and 'GeoJSON'
-
 welo Weighted and Standard Elo Rates
-
 WeMix Weighted Mixed-Effects Models Using Multilevel Pseudo Maximum Likelihood Estimation
-
 wesanderson A Wes Anderson Palette Generator
-
 wevid Quantifying Performance of a Binary Classifier Through Weight of Evidence
-
 weyl The Weyl Algebra
-
 wfe Weighted Linear Fixed Effects Regression Models for Causal Inference
-
 wfg Weighted Fast Greedy Algorithm
-
 wfindr Crossword, Scrabble and Anagram Solver
-
 wflo Data Set and Helper Functions for Wind Farm Layout Optimization Problems
-
 wgaim Whole Genome Average Interval Mapping for QTL Detection and Estimation using ASReml-R
-
 WGCNA Weighted Correlation Network Analysis
-
 wgeesel Weighted Generalized Estimating Equations and Model Selection
-
 WGScan A Genome-Wide Scan Statistic Framework for Whole-Genome Sequence Data Analysis
-
 WgtEff Functions for Weighting Effects
-
 WhatIf Software for Evaluating Counterfactuals
-
 wheatmap Incrementally Build Complex Plots using Natural Semantics
-
 whereami Reliably Return the Source and Call Location of a Command
-
 whereport Geolocalization of IATA Codes
-
 whippr Tools for Manipulating Gas Exchange Data
-
 whisker {{mustache}} for R, Logicless Templating
-
 whitebox 'WhiteboxTools' R Frontend
-
 whitechapelR Advanced Policing Techniques for the Board Game "Letters from Whitechapel"
-
 whitening Whitening and High-Dimensional Canonical Correlation Analysis
-
 whitestrap White Test and Bootstrapped White Test for Heteroskedasticity
-
 WhiteStripe White Matter Normalization for Magnetic Resonance Images
-
 whoa Evaluation of Genotyping Error in Genotype-by-Sequencing Data
-
 whoami Username, Full Name, Email Address, 'GitHub' Username of the Current User
-
 whomds Calculate Results from WHO Model Disability Survey Data
-
 whSample Utilities for Sampling
-
 wiad Wood Image Analysis and Dataset
-
 widals Weighting by Inverse Distance with Adaptive Least Squares
-
 widgetframe 'Htmlwidgets' in Responsive 'iframes'
-
 widyr Widen, Process, then Re-Tidy Data
-
 WienR Derivatives of the First-Passage Time Density and Cumulative Distribution Function, and Random Sampling from the (Truncated) First-Passage Time Distribution
-
 wiesbaden Access Databases from the Federal Statistical Office of Germany
-
 wig Import WIG Data into R in Long Format
-
 wikibooks Functions and Datasets of the German WikiBook "GNU R"
-
 WikidataQueryServiceR API Client Library for 'Wikidata Query Service'
-
 WikidataR Read-Write API Client Library for Wikidata
-
 wikifacts Get Facts and Data from Wikipedia and Wikidata
-
 wikilake Scrape Lake Metadata Tables from Wikipedia
-
 WikipediaR R-Based Wikipedia Client
-
 wikipediatrend Public Subject Attention via Wikipedia Page View Statistics
-
 WikipediR A MediaWiki API Wrapper
-
 wikitaxa Taxonomic Information from 'Wikipedia'
-
 wikiTools Tools for Wikidata and Wikipedia
-
 wilcoxmed Computes Values for the 1-Sample Wilcoxon Sign Rank Test for Medians
-
 wildcard Templates for Data Frames
-
 wildlifeDI Calculate Indices of Dynamic Interaction for Wildlife Tracking Data
-
 wildmeta Cluster Wild Bootstrapping for Meta-Analysis
-
 wildpoker Best Hand Analysis for Poker Variants Including Wildcards
-
 wildviz Compiles and Visualizes Wildfire, Climate, and Air Quality Data
-
 wilson Web-Based Interactive Omics Visualization
-
 winch Portable Native and Joint Stack Traces
-
 windAC Area Correction Methods
-
 WindCurves Tool to Fit Wind Turbine Power Curves
-
 windex Analysing Convergent Evolution using the Wheatsheaf Index
-
 windsoraiR Access the 'Windsor.ai' API
-
 wINEQ Inequality Measures for Weighted Data
-
 winfapReader Interact with Peak Flow Data in the United Kingdom
-
 wingui Advanced Windows Functions
-
 WinRatio Win Ratio for Prioritized Outcomes and 95% Confidence Interval
-
 WINS The R WINS Package
-
 wiqid Quick and Dirty Estimates for Wildlife Populations
-
 wISAM Weighted Inbred Strain Association Mapping
-
 wiseR A Shiny Application for End-to-End Bayesian Decision Network Analysis and Web-Deployment
-
 withr Run Code 'With' Temporarily Modified Global State
-
 wk Lightweight Well-Known Geometry Parsing
-
 wkb Convert Between Spatial Objects and Well-Known Binary Geometry
-
 wkNNMI A Mutual Information-Weighted k-NN Imputation Algorithm
-
 wktmo Converting Weekly Data to Monthly Data
-
 wkutils Utilities for Well-Known Geometry Vectors
-
 WLreg Regression Analysis Based on Win Loss Endpoints
-
 wmm World Magnetic Model
-
 wmwpow Precise and Accurate Power of the Wilcoxon-Mann-Whitney Rank-Sum Test for a Continuous Variable
-
 WMWssp Wilcoxon-Mann-Whitney Sample Size Planning
-
 wnl Minimization Tool for Pharmacokinetic-Pharmacodynamic Data Analysis
-
 wNNSel Weighted Nearest Neighbor Imputation of Missing Values using Selected Variables
-
 wnominate Roll Call Analysis Software
-
 wodds Calculates Whisker Odds
-
 woe Computes Weight of Evidence and Information Values
-
 woeBinning Supervised Weight of Evidence Binning of Numeric Variables and Factors
-
 womblR Spatiotemporal Boundary Detection Model for Areal Unit Data
-
 WoodburyMatrix Fast Matrix Operations via the Woodbury Matrix Identity
-
 WoodSimulatR Generate Simulated Sawn Timber Strength Grading Data
-
 woodValuationDE Wood Valuation Germany
-
 wooldridge 115 Data Sets from "Introductory Econometrics: A Modern Approach, 7e" by Jeffrey M. Wooldridge
-
 worcs Workflow for Open Reproducible Code in Science
-
 word.alignment Computing Word Alignment Using IBM Model 1 (and Symmetrization) for a Given Parallel Corpus and Its Evaluation
-
 word2vec Distributed Representations of Words
-
 wordcloud Word Clouds
-
 wordcloud2 Create Word Cloud by 'htmlwidget'
-
 wordgraph Graph Functionality of Free Associated Words
-
 wordler The 'WORDLE' Game
-
 wordnet WordNet Interface
-
 WordOfMouth Estimates Economic Variables for Word-of-Mouth-Campaigns
-
 wordpiece R Implementation of Wordpiece Tokenization
-
 wordpiece.data Data for Wordpiece-Style Tokenization
-
 WordPools Classical Word Pools Used in Studies of Learning and Memory
-
 wordpredictor Develop Text Prediction Models Based on N-Grams
-
 WordR Rendering Word Documents with R Inline Code
-
 words List of English Words from the Scrabble Dictionary
-
 wordsalad Provide Tools to Extract and Analyze Word Vectors
-
 wordspace Distributional Semantic Models in R
-
 workboots Generate Bootstrap Prediction Intervals from a 'tidymodels' Workflow
-
 workflowr A Framework for Reproducible and Collaborative Data Science
-
 workflows Modeling Workflows
-
 workflowsets Create a Collection of 'tidymodels' Workflows
-
 workloopR Analysis of Work Loops and Other Data from Muscle Physiology Experiments
-
 WorldFlora Standardize Plant Names According to World Flora Online Taxonomic Backbone
-
 worldfootballR Extract and Clean World Football (Soccer) Data
-
 worldmet Import Surface Meteorological Data from NOAA Integrated Surface Database (ISD)
-
 worms Retriving Aphia Information from World Register of Marine Species
-
 WormTensor A Clustering Method for Time-Series Whole-Brain Activity Data of 'C. elegans'
-
 worrms World Register of Marine Species (WoRMS) Client
-
 worrrd Generate Wordsearch and Crossword Puzzles
-
 wosr Clients to the 'Web of Science' and 'InCites' APIs
-
 WOTPLY Plot Connectivity Between Cells from Different Time Points
-
 wowa Weighted Ordered Weighted Average
-
 wpa Tools for Analysing and Visualising Viva Insights Data
-
 WPC Weighted Predictiveness Curve
-
 wPerm Permutation Tests
-
 WPKDE Weighted Piecewise Kernel Density Estimation
-
 wpp2008 World Population Prospects 2008
-
 wpp2010 World Population Prospects 2010
-
 wpp2012 World Population Prospects 2012
-
 wpp2015 World Population Prospects 2015
-
 wpp2017 World Population Prospects 2017
-
 wpp2019 World Population Prospects 2019
-
 wppExplorer Explorer of World Population Prospects
-
 wql Exploring Water Quality Monitoring Data
-
 wqs Weighted Quantile Sum Regression
-
 WR Win Ratio Analysis of Composite Time-to-Event Outcomes
-
 wrangle A Systematic Data Wrangling Idiom
-
 wrappedtools Useful Wrappers Around Commonly Used Functions
-
 wrapr Wrap R Tools for Debugging and Parametric Programming
-
 wrassp Interface to the 'ASSP' Library
-
 WrensBookshelf A Collection of Palettes and Some Functions to Help Use Them
-
 wrGraph Graphics in the Context of Analyzing High-Throughput Data
-
 WRI Wasserstein Regression and Inference
-
 WrightMap IRT Item-Person Map with 'ConQuest' Integration
-
 write.snns Function for exporting data to SNNS pattern files
-
 writexl Export Data Frames to Excel 'xlsx' Format
-
 WriteXLS Cross-Platform Perl Based R Function to Create Excel 2003 (XLS) and Excel 2007 (XLSX) Files
-
 wrMisc Analyze Experimental High-Throughput (Omics) Data
-
 wrProteo Proteomics Data Analysis Functions
-
 WRS2 A Collection of Robust Statistical Methods
-
 WRSS Water Resources System Simulator
-
 wrswoR Weighted Random Sampling without Replacement
-
 WRTDStidal Weighted Regression for Water Quality Evaluation in Tidal Waters
-
 wrTopDownFrag Internal Fragment Identification from Top-Down Mass Spectrometry
-
 wru Who are You? Bayesian Prediction of Racial Category Using Surname, First Name, Middle Name, and Geolocation
-
 wsbackfit Weighted Smooth Backfitting for Structured Models
-
 WSGeometry Geometric Tools Based on Balanced/Unbalanced Optimal Transport
-
 wsjplot Style Time Series Plots Like the Wall Street Journal
-
 wskm Weighted k-Means Clustering
-
 wsprv Weighted Selection Probability for Rare Variant Analysis
-
 wsrf Weighted Subspace Random Forest for Classification
-
 wsyn Wavelet Approaches to Studies of Synchrony in Ecology and Other Fields
-
 wtest The W-Test for Genetic Interactions Testing
-
 wTO Computing Weighted Topological Overlaps (wTO) & Consensus wTO Network
-
 WtTopsis Weighted Method for Multiple-Criteria Decision Making
-
 WufooR R Wrapper for the 'Wufoo.com' - The Form Building Service
-
 wux Wegener Center Climate Uncertainty Explorer
-
 wv Wavelet Variance
-
 WVPlots Common Plots for Analysis
-
 WWGbook Functions and Datasets for WWGbook
-
 wwntests Hypothesis Tests for Functional Time Series
-
 WWR Weighted Win Loss Statistics and their Variances
-
 wyz.code.metaTesting Wizardry Code Meta Testing
-
 wyz.code.offensiveProgramming Wizardry Code Offensive Programming
-
 wyz.code.rdoc Wizardry Code Offensive Programming R Documentation
-
 wyz.code.testthat Wizardry Code Offensive Programming Test Generation
 
 
@@ -33502,155 +31853,80 @@ wyz.code.testthat Wizardry Code Offensive Programming Test Generation
 
 
 x.ent eXtraction of ENTity
-
 x12 Interface to 'X12-ARIMA'/'X13-ARIMA-SEATS' and Structure for Batch Processing of Seasonal Adjustment
-
 x13binary Provide the 'x13ashtml' Seasonal Adjustment Binary
-
 x3ptools Tools for Working with 3D Surface Measurements
-
 xadmix Subsetting and Plotting Optimized for Admixture Data
-
 xaringan Presentation Ninja
-
 xaringanExtra Extras and Extensions for 'xaringan' Slides
-
 xaringanthemer Custom 'xaringan' CSS Themes
-
 xbreed Genomic Simulation of Purebred and Crossbred Populations
-
 XBRL Extraction of Business Financial Information from 'XBRL' Documents
-
 xdcclarge Estimating a (c)DCC-GARCH Model in Large Dimensions
-
 xefun X-Engineering or Supporting Functions
-
 xergm.common Common Infrastructure for Extensions of Exponential Random Graph Models
-
 xesreadR Read and Write XES Files
-
 xfun Supporting Functions for Packages Maintained by 'Yihui Xie'
-
 xgb2sql Convert Trained 'XGBoost' Model to SQL Query
-
 xgboost Extreme Gradient Boosting
-
 xgxr Exploratory Graphics for Pharmacometrics
-
 xhaz Excess Hazard Modelling Considering Inappropriate Mortality Rates
-
 XICOR Association Measurement Through Cross Rank Increments
-
 XiMpLe A Simple XML Tree Parser and Generator
-
 xkcd Plotting ggplot2 Graphics in an XKCD Style
-
 xkcdcolors Color Names from the XKCD Color Survey
-
 XKCDdata Get XKCD Comic Data
-
 XLConnect Excel Connector for R
-
 xlink Genetic Association Models for X-Chromosome SNPS on Continuous, Binary and Survival Outcomes
-
 xLLiM High Dimensional Locally-Linear Mapping
-
 XLS A Modeling Approach that Optimizes Future Errors in Least Squares
-
 xlsx Read, Write, Format Excel 2007 and Excel 97/2000/XP/2003 Files
-
 xlsx2dfs Read and Write 'Excel' Sheets into and from List of Data Frames
-
 xlsxjars Package required POI jars for the xlsx package
-
 xlutils3 Extract Multiple Excel Files at Once
-
 XML Tools for Parsing and Generating XML Within R and S-Plus
-
 xml2 Parse XML
-
 XML2R EasieR XML data collection
-
 xml2relational Converting XML Documents into Relational Data Models
-
 xmlconvert Comfortably Converting XML Documents to Dataframes and Vice Versa
-
 xmlparsedata Parse Data of 'R' Code as an 'XML' Tree
-
 xmlr Read, Write and Work with 'XML' Data
-
 xmlrpc2 Implementation of the Remote Procedure Call Protocol ('XML-RPC')
-
 xmrr Generate XMR Control Chart Data from Time-Series Data
-
 xnet Two-Step Kernel Ridge Regression for Network Predictions
-
 XNomial Exact Goodness-of-Fit Test for Multinomial Data with Fixed Probabilities
-
 xoi Tools for Analyzing Crossover Interference
-
 xopen Open System Files, 'URLs', Anything
-
 xpectr Generates Expectations for 'testthat' Unit Testing
-
 xplain Providing Interactive Interpretations and Explanations of Statistical Results
-
 xplorerr Tools for Interactive Data Exploration
-
 Xplortext Statistical Analysis of Textual Data
-
 xportr Utilities to Output CDISC SDTM/ADaM XPT Files
-
 xpose Diagnostics for Pharmacometric Models
-
 xpose.nlmixr2 Graphical Diagnostics for Pharmacometric Models: Extension to 'nlmixr2'
-
 xpose4 Diagnostics for Nonlinear Mixed-Effect Models
-
 xptr Manipulating External Pointer
-
 xQTLbiolinks Integrative Analysis of Quantitative Trait Locus Data of 'xQTL'
-
 XR A Structure for Interfaces from R
-
 xray X Ray Vision on your Datasets
-
 xrf eXtreme RuleFit
-
 xRing Identify and Measure Tree Rings on X-Ray Micro-Density Profiles
-
 XRJulia Structured Interface to Julia
-
 xrnet Hierarchical Regularized Regression
-
 xROI Delineate Region of Interests (ROI's) and Extract Time-Series Data from Digital Repeat Photography Images
-
 XRPython Structured Interface to 'Python'
-
 XRSCC Statistical Quality Control Simulation
-
 xslt Extensible Style-Sheet Language Transformations
-
 xsp The Chi-Square Periodogram
-
 xSub Cross-National Data on Sub-National Violence
-
 xtable Export Tables to LaTeX or HTML
-
 xtal Crystallization Toolset
-
 xtensor Headers for the 'xtensor' Library
-
 xtermStyle Terminal Text Formatting Using Escape Sequences
-
 xts eXtensible Time Series
-
 xutils Utility Functions of Fangzhou Xie
-
 xVA Calculates Credit Risk Valuation Adjustments
-
 xwf Extrema-Weighted Feature Extraction
-
 xxIRT Item Response Theory and Computer-Based Testing in R
 
 
@@ -33672,87 +31948,46 @@ xxIRT Item Response Theory and Computer-Based Testing in R
 
 
 yacca Yet Another Canonical Correlation Analysis Package
-
 yaConsensus Consensus Clustering of Omic Data
-
 yager Yet Another General Regression Neural Network
-
 yahoofinancer Fetch Data from Yahoo Finance API
-
 yaImpute Nearest Neighbor Observation Imputation and Evaluation Tools
-
 YaleToolkit Data Exploration Tools from Yale University
-
 yaml Methods to Convert R Data to YAML and Back
-
 yamlet Versatile Curation of Table Metadata
-
 yamlme Writing 'YAML' Headers for 'R-Markdown' Documents
-
 Yamm Multivariate Methods Based on Projections and Related Concepts
-
 yap Yet Another Probabilistic Neural Network
-
 yaps Track Estimation using YAPS (Yet Another Positioning Solver)
-
 yardstick Tidy Characterizations of Model Performance
-
 yarr Yet Another 'ARFF' Reader
-
 yarrr A Companion to the e-Book "YaRrr!: The Pirate's Guide to R"
-
 yasp String Functions for Compact R Code
-
 yatah Yet Another TAxonomy Handler
-
 YatesAlgo.FactorialExp.SR Yates' Algorithm in 2^n Factorial Experiment
-
 ycevo Nonparametric Estimation of the Yield Curve Evolution
-
 yesno Ask Yes-No Questions
-
 yfR Downloads and Organizes Financial Data from Yahoo Finance
-
 yhat Interpreting Regression Effects
-
 yhatr R Binder for the Yhat API
-
 YieldCurve Modelling and Estimation of the Yield Curve
-
 yll Compute Expected Years of Life Lost (YLL) and Average YLL
-
 ymd Parse 'YMD' Format Number or String to Date
-
 ymlthis Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
-
 ympes Collection of Helper Functions
-
 yorkr Analyze Cricket Performances Based on Data from Cricsheet
-
 youngSwimmers Young Swimmers Dataset
-
 youtubecaption Downloading YouTube Subtitle Transcription in a Tidy Tibble Data Frame
-
 YPBP Yang and Prentice Model with Baseline Distribution Modeled by Bernstein Polynomials
-
 YPInterimTesting Interim Monitoring Using Adaptively Weighted Log-Rank Test in Clinical Trials
-
 YPmodel The Short-Term and Long-Term Hazard Ratio Model for Survival Data
-
 YPPE Yang and Prentice Model with Piecewise Exponential Baseline Distribution
-
 ypr Yield Per Recruit
-
 ypssc Yeast-Proteome Secondary-Structure Calculator
-
 YRmisc Y&R Miscellaneous R Functions
-
 yuima The YUIMA Project Package for SDEs
-
 yuimaGUI A Graphical User Interface for the 'yuima' Package
-
 yulab.utils Supporting Functions for Packages Maintained by 'YuLab-SMU'
-
 yum Utilities to Extract and Process 'YAML' Fragments
 
 
@@ -33770,122 +32005,63 @@ yum Utilities to Extract and Process 'YAML' Fragments
 
 
 
-Z10 Simple Ecological Statistics from the NEON Network
-
-zalpha Run a Suite of Selection Statistics
-
+Z10 , Simple Ecological Statistics from the NEON Network
+zalpha, Run a Suite of Selection Statistics
 zCompositions Treatment of Zeros, Left-Censored and Missing Values in Compositional Data Sets
-
 zcurve An Implementation of Z-Curves
-
 zdeskR Connect to Your 'Zendesk' Data
-
 zeallot Multiple, Unpacking, and Destructuring Assignment
-
 ZeBook Working with Dynamic Models for Agriculture and Environment
-
 zebu Local Association Measures
-
 zeitgebr Analysis of Circadian Behaviours
-
 zen4R Interface to 'Zenodo' REST API
-
 zendeskR Zendesk API Wrapper
-
 zenplots Zigzag Expanded Navigation Plots
-
 zeroEQpart Zero Order vs (Semi) Partial Correlation Test and CI
-
 zerotradeflow An Implementation for the Gravitational Models of Trade
-
 zetadiv Functions to Compute Compositional Turnover Using Zeta Diversity
-
 ZetaSuite Analyze High-Dimensional High-Throughput Dataset and Quality Control Single-Cell RNA-Seq
-
 zfa Zoom-Focus Algorithm
-
 zfit Fit Models in a Pipe
-
 ZIBseq Differential Abundance Analysis for Metagenomic Data via Zero-Inflated Beta Regression
-
 zic Bayesian Inference for Zero-Inflated Count Models
-
 ZillowR R Interface to Zillow Real Estate and Mortgage Data API
-
 ZIM Zero-Inflated Models (ZIM) for Count Time Series with Excess Zeros
-
 ZINAR1 Simulates ZINAR(1) Model and Estimates Its Parameters Under Frequentist Approach
-
 ZINARp Simulate INAR/ZINAR(p) Models and Estimate Its Parameters
-
 zip Cross-Platform 'zip' Compression
-
 zipangu Japanese Utility Functions and Data
-
 ZIPBayes Bayesian Methods in the Analysis of Zero-Inflated Poisson Model
-
 zipcodeR Data & Functions for Working with US ZIP Codes
-
 ZIPFA Zero Inflated Poisson Factor Analysis
-
 zipfextR Zipf Extended Distributions
-
 zipfR Statistical Models for Word Frequency Distributions
-
 ziphsmm Zero-Inflated Poisson Hidden (Semi-)Markov Models
-
 zipR Pythonic Zip() for R
-
 ZIprop Permutations Tests and Performance Indicator for Zero-Inflated Proportions Response
-
 zipsae Small Area Estimation with Zero-Inflated Model
-
 zlog Z(log) Transformation for Laboratory Measurements
-
 zmisc Vector Look-Ups and Safer Sampling
-
 zoeppritz Seismic Reflection and Scattering Coefficients
-
 zoib Bayesian Inference for Beta Regression and Zero-or-One Inflated Beta Regression
-
 zoid Bayesian Zero-and-One Inflated Dirichlet Regression Modelling
-
 zoltr Interface to the 'Zoltar' Forecast Repository API
-
 zonator Utilities for Zonation Spatial Conservation Prioritization Software
-
 zonebuilder Create and Explore Geographic Zoning Systems
-
 zoo S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)
-
 zooaRch Analytical Tools for Zooarchaeological Data
-
 zooimage Analysis of Numerical Plankton Images
-
 zoolog Zooarchaeological Analysis with Log-Ratios
-
 zoom A Spatial Data Visualization Tool
-
 zoomGroupStats Analyze Text, Audio, and Video from 'Zoom' Meetings
-
 zoon Reproducible, Accessible & Shareable Species Distribution Modelling
-
 ZRA Dynamic Plots for Time Series Forecasting
-
 zscorer Child Anthropometry z-Score Calculator
-
 Zseq Integer Sequence Generator
-
 ztable Zebra-Striped Tables in LaTeX and HTML Formats
-
 ztpln Zero-Truncated Poisson Lognormal Distribution
-
 zTree Functions to Import Data from 'z-Tree' into R
-
 ztype Run a Ztype Game Loaded with R Functions
-
 ZVCV Zero-Variance Control Variates
-
 zyp Zhang + Yue-Pilon Trends Package
-
 zzlite Lite Wrapper for the 'Zamzar File Conversion' API
