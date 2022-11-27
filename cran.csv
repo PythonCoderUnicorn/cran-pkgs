@@ -67,19 +67,19 @@ ACNE ,Affymetrix SNP Probe-Summarization using Non-Negative Matrix Factorization
 acnr ,Annotated Copy-Number Regions
 acopula ,Modelling Dependence with Multivariate Archimax (or any User-Defined Continuous) Copulas
 AcousticNDLCodeR ,Coding Sound Files for Use with NDL
-acp ,Autoregressive Conditional Poisson
+acp , Autoregressive Conditional Poisson
 acroname ,Engine for Acronyms and Initialisms
-AcrossTic ,A Cost-Minimal Regular Spanning Subgraph with TreeClust
-acrt ,Autocorrelation Robust Testing
-acs, Download Manipulate and Present American Community Survey and Decennial Data from the US Census
-acss ,Algorithmic Complexity for Short Strings
-acss.data ,Data Only: Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
-ACSWR ,A Companion Package for the Book "A Course in Statistics with R"
-act ,Aligned Corpus Toolkit
-ACTCD ,Asymptotic Classification Theory for Cognitive Diagnosis
-ActCR ,Extract Circadian Rhythms Metrics from Actigraphy Data
-actel ,Acoustic Telemetry Data Analysis
-ActFrag ,Activity Fragmentation Metrics Extracted from Minute Level Activity Data
+AcrossTic , A Cost-Minimal Regular Spanning Subgraph with TreeClust
+acrt , Autocorrelation Robust Testing
+acs , Download Manipulate and Present American Community Survey and Decennial Data from the US Census
+acss , Algorithmic Complexity for Short Strings
+acss.data , Data Only- Algorithmic Complexity of Short Strings (Computed via Coding Theorem Method)
+ACSWR , A Companion Package for the Book "A Course in Statistics with R"
+act , Aligned Corpus Toolkit
+ACTCD , Asymptotic Classification Theory for Cognitive Diagnosis
+ActCR , Extract Circadian Rhythms Metrics from Actigraphy Data
+actel , Acoustic Telemetry Data Analysis
+ActFrag , Activity Fragmentation Metrics Extracted from Minute Level Activity Data
 actilifecounts ,Generate Activity Counts from Raw Accelerometer Data
 ActiSleep ,Sleep Duration Estimate Algorithm
 activAnalyzer ,A 'Shiny' App to Analyze Accelerometer-Measured Daily Physical Behavior Data
