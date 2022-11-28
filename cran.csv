@@ -833,11 +833,11 @@ BAMBI ,Bivariate Angular Mixture Models
 bamboo ,Protein Secondary Structure Prediction Using the Bamboo Method
 bambooHR, A Wrapper to the 'BambooHR' API
 bamdit ,Bayesian Meta-Analysis of Diagnostic Test Data
-bamlss ,Bayesian Additive Models for Location, Scale, and Shape (and Beyond)
-BAMMtools, Analysis and Visualization of Macroevolutionary ,Dynamics on Phylogenetic Trees
+bamlss ,Bayesian Additive Models for Location Scale and Shape (and Beyond)
+BAMMtools, Analysis and Visualization of Macroevolutionary Dynamics on Phylogenetic Trees
 bamp ,Bayesian Age-Period-Cohort Modeling and Prediction
 bandit ,Functions for Simple a/B Split Test and Multi-Armed Bandit Analysis
-bang ,Bayesian Analysis, No Gibbs
+bang ,Bayesian Analysis No Gibbs
 bangladesh ,Provides Ready to Use Shapefiles for Geographical Map of Bangladesh
 bannerCommenter ,Make Banner Comments with a Consistent Format
 BANOVA ,Hierarchical Bayesian ANOVA Models
@@ -928,9 +928,9 @@ BayesCR ,Bayesian Analysis of Censored Regression Models Under Scale Mixture of 
 bayesCT ,Simulation and Analysis of Adaptive Bayesian Clinical Trials
 BayesCTDesign ,Two Arm Bayesian Clinical Trial Design with and Without Historical Control Data
 BayesDA ,Functions and Datasets for the book "Bayesian Data Analysis"
-bayesDccGarch, Methods and Tools for Bayesian ,Dynamic Conditional Correlation GARCH(1,1) Model
+bayesDccGarch, Methods and Tools for Bayesian Dynamic Conditional Correlation GARCH(1 1) Model
 BayesDesign, Bayesian Single-Arm Design with Survival Endpoints
-bayesdfa ,Bayesian ,Dynamic Factor Analysis (DFA) with 'Stan'
+bayesdfa ,Bayesian Dynamic Factor Analysis (DFA) with 'Stan'
 BayesDissolution ,Bayesian Models for Dissolution Testing
 bayesdistreg ,Bayesian Distribution Regression
 bayesDP ,Implementation of the Bayesian Discount Prior Approach for Clinical Trials
@@ -968,7 +968,7 @@ BayesMassBal ,Bayesian Data Reconciliation of Separation Processes
 bayesmeta ,Bayesian Random-Effects Meta-Analysis and Meta-Regression
 BayesMFSurv, Bayesian Misclassified-Failure Survival Model
 bayesmix ,Bayesian Mixture Models with JAGS
-BayesMixSurv, Bayesian Mixture Survival Models using Additive Mixture-of-Weibull Hazards, with Lasso Shrinkage and Stratification
+BayesMixSurv, Bayesian Mixture Survival Models using Additive Mixture-of-Weibull Hazards with Lasso Shrinkage and Stratification
 bayesmove, Non-Parametric Bayesian Analyses of Animal Movement
 BayesMRA ,Bayesian Multi-Resolution Gaussian Process Approximations
 BayesMultiMode, Testing and Detecting Multimodality using Bayesian Methods
@@ -1333,7 +1333,7 @@ biogram ,N-Gram Analysis of Biological Sequences
 biogrowth, Modelling of Population Growth
 Bioi ,Biological Image Analysis
 bioimagetools, Tools for Microscopy Imaging
-bioinactivation, Mathematical Modelling of (,Dynamic) Microbial Inactivation
+bioinactivation, Mathematical Modelling of (Dynamic) Microbial Inactivation
 BioInsight ,Filter and Plot RNA Biotypes
 biokNN ,Bi-Objective k-Nearest Neighbors Imputation for Multilevel Data
 biolink ,Create Hyperlinks to Biological Databases and Resources
@@ -1522,7 +1522,7 @@ BonEV ,An Improved Multiple Testing Procedure for Controlling False Discovery Ra
 bonsai ,Model Wrappers for Tree-Based Models
 bookdown ,Authoring Books and Technical Documents with R Markdown
 bookdownplus ,Generate Assorted Books and Documents with R 'bookdown' Package
-BoolFilter ,Optimal Estimation of Partially Observed Boolean ,Dynamical Systems
+BoolFilter ,Optimal Estimation of Partially Observed Boolean Dynamical Systems
 BoolNet, Construction Simulation and Analysis of Boolean Networks
 Boom ,Bayesian Object Oriented Modeling
 BoomSpikeSlab ,MCMC for Spike and Slab Regression
@@ -1709,7 +1709,7 @@ Buddle, A Deep Learning for Statistical Classification and Regression Analysis w
 buffeRs, Buffer Generation for Spatial Models
 buildmer, Stepwise Elimination and Term Reordering for Mixed-Effects Regression
 buildr ,Organize & Run Build Scripts Comfortably
-BuildSys ,System for Building and Debugging C/C++ ,Dynamic Libraries
+BuildSys ,System for Building and Debugging C/C++ Dynamic Libraries
 bujar, Buckley-James Regression for Survival Data with High-Dimensional Covariates
 bulkAnalyseR I,nteractive Shiny App for Bulk Sequencing Data
 bulletcp ,Automatic Groove Identification via Bayesian Changepoint Detection
@@ -1972,7 +1972,7 @@ ccda ,Combined Cluster and Discriminant Analysis
 ccdf ,Distribution-Free Single-Cell Differential Expression Analysis
 cchs, Cox Model for Case-Cohort Data with Stratified Subcohort-Selection
 cchsflow ,Transforming and Harmonizing CCHS Variables
-ccid ,Cross-Covariance Isolate Detect: a New Change-Point Method for Estimating ,Dynamic Functional Connectivity
+ccid ,Cross-Covariance Isolate Detect: a New Change-Point Method for Estimating Dynamic Functional Connectivity
 cclust ,Convex Clustering Methods and Clustering Indexes
 CCM ,Correlation Classification Method
 ccmEstimator, Comparative Causal Mediation Estimation
@@ -2163,7 +2163,7 @@ chlorpromazineR ,Convert Antipsychotic Doses to Chlorpromazine Equivalents
 CHMM, Coupled Hidden Markov Models
 CHNCapitalStock ,Compute Chinese Capital Stocks
 chngpt ,Estimation and Hypothesis Testing for Threshold Regression
-CHNOSZ ,Thermo,Dynamic Calculations and Diagrams for Geochemistry
+CHNOSZ ,Thermo Dynamic Calculations and Diagrams for Geochemistry
 choiceDes, Design Functions for Choice Studies
 ChoiceModelR ,Choice Modeling in R
 CHOIRBM ,Plots the CHOIR Body Map
@@ -2353,411 +2353,411 @@ clue ,Cluster Ensembles
 ClueR, Cluster Evaluation
 CluMP ,Clustering of Micro Panel Data
 ClusBoot, Bootstrap Clustering
-cluscov Clustered Covariate Regression
-ClusPred Simultaneous Semi-Parametric Estimation of Clustering and Regression
-clusrank Wilcoxon Rank Tests for Clustered Data
-ClusROC ROC Analysis in Three-Class Classification Problems for Clustered Data
-ClussCluster Simultaneous Detection of Clusters and Cluster-Specific Genes in High-Throughput Transcriptome Data
-clust.bin.pair Statistical Methods for Analyzing Clustered Matched Pair Data
-clustAnalytics Cluster Evaluation on Graphs
-ClustAssess Tools for Assessing Clustering
-ClustBlock Clustering of Datasets
-clustcurv Determining Groups in Multiples Curves
-clustDRM Clustering Dose-Response Curves and Fitting Appropriate Models to Them
-clustEff Clusters of Effects Curves in Quantile Regression Models
-cluster "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
-cluster.datasets Cluster Analysis Data Sets
-Cluster.OBeu Cluster Analysis 'OpenBudgets.eu'
-clusterability Performs Tests for Cluster Tendency of a Data Set
-ClusterBootstrap Analyze Clustered Data with Generalized Linear Models using the Cluster Bootstrap
-clusterCons Consensus Clustering using Multiple Algorithms and Parameters
-clusterCrit Clustering Indices
-clusteredinterference Causal Effects from Observational Studies with Clustered Interference
-ClusteredMutations Location and Visualization of Clustered Somatic Mutations
-clusterGeneration Random Cluster Generation (with Specified Degree of Separation)
-clusterhap Clustering Genotypes in Haplotypes
-clusterHD Tools for Clustering High-Dimensional Data
-Clustering Techniques for Evaluating Clustering
-clustering.sc.dp Optimal Distance-Based Clustering for Multidimensional Data with Sequential Constraint
-clustermole Unbiased Single-Cell Transcriptomic Data Cell Type Identification
-clustermq Evaluate Function Calls on HPC Schedulers (LSF SGE  SLURM PBS/Torque)
-clusternomics Integrative Clustering for Heterogeneous Biomedical Datasets
-clusterPower Power Calculations for Cluster-Randomized and Cluster-Randomized Crossover Trials
+cluscov, Clustered Covariate Regression
+ClusPred, Simultaneous Semi-Parametric Estimation of Clustering and Regression
+clusrank, Wilcoxon Rank Tests for Clustered Data
+ClusROC ,ROC Analysis in Three-Class Classification Problems for Clustered Data
+ClussCluster, Simultaneous Detection of Clusters and Cluster-Specific Genes in High-Throughput Transcriptome Data
+clust.bin.pair, Statistical Methods for Analyzing Clustered Matched Pair Data
+clustAnalytics ,Cluster Evaluation on Graphs
+ClustAssess ,Tools for Assessing Clustering
+ClustBlock ,Clustering of Datasets
+clustcurv, Determining Groups in Multiples Curves
+clustDRM ,Clustering Dose-Response Curves and Fitting Appropriate Models to Them
+clustEff ,Clusters of Effects Curves in Quantile Regression Models
+cluster ,"Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
+cluster.datasets ,Cluster Analysis Data Sets
+Cluster.OBeu ,Cluster Analysis 'OpenBudgets.eu'
+clusterability, Performs Tests for Cluster Tendency of a Data Set
+ClusterBootstrap, Analyze Clustered Data with Generalized Linear Models using the Cluster Bootstrap
+clusterCons ,Consensus Clustering using Multiple Algorithms and Parameters
+clusterCrit ,Clustering Indices
+clusteredinterference ,Causal Effects from Observational Studies with Clustered Interference
+ClusteredMutations ,Location and Visualization of Clustered Somatic Mutations
+clusterGeneration ,Random Cluster Generation (with Specified Degree of Separation)
+clusterhap ,Clustering Genotypes in Haplotypes
+clusterHD ,Tools for Clustering High-Dimensional Data
+Clustering ,Techniques for Evaluating Clustering
+clustering.sc.dp, Optimal Distance-Based Clustering for Multidimensional Data with Sequential Constraint
+clustermole ,Unbiased Single-Cell Transcriptomic Data Cell Type Identification
+clustermq ,Evaluate Function Calls on HPC Schedulers (LSF SGE  SLURM PBS/Torque)
+clusternomics, Integrative Clustering for Heterogeneous Biomedical Datasets
+clusterPower ,Power Calculations for Cluster-Randomized and Cluster-Randomized Crossover Trials
 ClusterR ,Gaussian Mixture Models K-Means Mini-Batch-Kmeans K-Medoids and Affinity Propagation Clustering
-ClusterRankTest Rank Tests for Clustered Data
-clusterRepro Reproducibility of Gene Expression Clusters
-clusterSEs Calculate Cluster-Robust p-Values and Confidence Intervals
-clusterSim Searching for Optimal Clustering Procedure for a Data Set
-ClusterStability Assessment of Stability of Individual Objects or Clusters in Partitioning Solutions
-clustertend Check the Clustering Tendency
-ClustGeo Hierarchical Clustering with Spatial Constraints
-ClustImpute K-Means Clustering with Build-in Missing Data Imputation
-clustMD Model Based Clustering for Mixed Data
-clustMixType k-Prototypes Clustering for Mixed Variable-Type Data
-ClustMMDD Variable Selection in Clustering by Mixture Models for Discrete Data
-ClustOfVar Clustering of Variables
-ClusTorus Prediction and Clustering on the Torus by Conformal Prediction
-clustra Clustering Longitudinal Trajectories
-clusTransition Monitor Changes in Cluster Solutions of Dynamic Dataset
-clustrd Methods for Joint Dimension Reduction and Clustering
-clustree Visualise Clusterings at Different Resolutions
-clustringr Cluster Strings by Edit-Distance
-CLUSTShiny Interactive Document for Working with Cluster Analysis
-ClustVarLV Clustering of Variables Around Latent Variables
-clustvarsel Variable Selection for Gaussian Model-Based Clustering
-ClusVis Gaussian-Based Visualization of Gaussian and Non-Gaussian Model-Based Clustering
-clv Cluster Validation Techniques
-clValid Validation of Clustering Results
-CLVTools Tools for Customer Lifetime Value Estimation
-cmaes Covariance Matrix Adapting Evolutionary Strategy
-cmaesr Covariance Matrix Adaptation Evolution Strategy
-CMAPSS Commercial Modular Aero-Propulsion System Simulation Data Set
-CMapViz Representation Tool For Output Of Connectivity Map (CMap) Analysis
-cmaRs Implementation of the Conic Multivariate Adaptive Regression Splines in R
-cmbClust Conditional Mixture Modeling and Model-Based Clustering
-cmce Computer Model Calibration for Deterministic and Stochastic Simulators
-cmcR An Implementation of the 'Congruent Matching Cells' Method
-cmdfun Framework for Building Interfaces to Shell Commands
-cmenet Bi-Level Selection of Conditional Main Effects
-CMF Collective Matrix Factorization
-cmfrec Collective Matrix Factorization for Recommender Systems
-CMFsurrogate Calibrated Model Fusion Approach to Combine Surrogate Markers
+ClusterRankTest, Rank Tests for Clustered Data
+clusterRepro, Reproducibility of Gene Expression Clusters
+clusterSEs ,Calculate Cluster-Robust p-Values and Confidence Intervals
+clusterSim ,Searching for Optimal Clustering Procedure for a Data Set
+ClusterStability, Assessment of Stability of Individual Objects or Clusters in Partitioning Solutions
+clustertend ,Check the Clustering Tendency
+ClustGeo ,Hierarchical Clustering with Spatial Constraints
+ClustImpute, K-Means Clustering with Build-in Missing Data Imputation
+clustMD Model, Based Clustering for Mixed Data
+clustMixType ,k-Prototypes Clustering for Mixed Variable-Type Data
+ClustMMDD ,Variable Selection in Clustering by Mixture Models for Discrete Data
+ClustOfVar ,Clustering of Variables
+ClusTorus ,Prediction and Clustering on the Torus by Conformal Prediction
+clustra ,Clustering Longitudinal Trajectories
+clusTransition ,Monitor Changes in Cluster Solutions of Dynamic Dataset
+clustrd ,Methods for Joint Dimension Reduction and Clustering
+clustree ,Visualise Clusterings at Different Resolutions
+clustringr, Cluster Strings by Edit-Distance
+CLUSTShiny ,Interactive Document for Working with Cluster Analysis
+ClustVarLV ,Clustering of Variables Around Latent Variables
+clustvarsel ,Variable Selection for Gaussian Model-Based Clustering
+ClusVis ,Gaussian-Based Visualization of Gaussian and Non-Gaussian Model-Based Clustering
+clv ,Cluster Validation Techniques
+clValid, Validation of Clustering Results
+CLVTools, Tools for Customer Lifetime Value Estimation
+cmaes ,Covariance Matrix Adapting Evolutionary Strategy
+cmaesr ,Covariance Matrix Adaptation Evolution Strategy
+CMAPSS ,Commercial Modular Aero-Propulsion System Simulation Data Set
+CMapViz ,Representation Tool For Output Of Connectivity Map (CMap) Analysis
+cmaRs ,Implementation of the Conic Multivariate Adaptive Regression Splines in R
+cmbClust, Conditional Mixture Modeling and Model-Based Clustering
+cmce ,Computer Model Calibration for Deterministic and Stochastic Simulators
+cmcR ,An Implementation of the 'Congruent Matching Cells' Method
+cmdfun, Framework for Building Interfaces to Shell Commands
+cmenet ,Bi-Level Selection of Conditional Main Effects
+CMF ,Collective Matrix Factorization
+cmfrec ,Collective Matrix Factorization for Recommender Systems
+CMFsurrogate ,Calibrated Model Fusion Approach to Combine Surrogate Markers
 cmhc ,Access Retrieve and Work with CMHC Data
-CMHNPA Cochran-Mantel-Haenszel and Nonparametric ANOVA
-cml Conditional Manifold Learning
-CMLS Constrained Multivariate Least Squares
-cmm Categorical Marginal Models
-cmmr CEU Mass Mediator RESTful API
-CMMs Compositional Mediation Model
-cmna Computational Methods for Numerical Analysis
-cmocean Beautiful Colour Maps for Oceanography
-CMplot Circle Manhattan Plot
-cmprsk Subdistribution Analysis of Competing Risks
-cmprskcoxmsm Use IPW to Estimate Treatment Effect under Competing Risks
-cmprskQR Analysis of Competing Risks Using Quantile Regressions
-cmpsR R Implementation of Congruent Matching Profile Segments Method
-cmR Analysis of Cardiac Magnetic Resonance Images
-cmrutils Misc Functions of the Center for Mathematical Research
-cms Calculate Medicare Reimbursement
-cmsaf A Toolbox for CM SAF NetCDF Data
-cmsafops Tools for CM SAF NetCDF Data
-cmsafvis Tools to Visualize CM SAF NetCDF Data
-CMShiny Interactive Document for Working with Confusion Matrix
-cmstatr Statistical Methods for Composite Material Data
-cmtest Conditional Moments Test
-cmvnorm The Complex Multivariate Gaussian Distribution
-cna Causal Modeling with Coincidence Analysis
-CNAIM Common Network Asset Indices Methodology (CNAIM)
-cnaOpt Optimizing Consistency and Coverage in Configurational Causal Modeling
-cnbdistr Conditional Negative Binomial Distribution
-cncaGUI Canonical Non-Symmetrical Correspondence Analysis in R
-CNLTreg Complex-Valued Wavelet Lifting for Signal Denoising
-CNLTtsa Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
-cNORM Continuous Norming
-CNprep Pre-Process DNA Copy Number (CN) Data for Detection of CN Events
-CNPS Nonparametric Statistics
-cns Color Naming System
-cnum Chinese Numerals Processing
-CNVRG Dirichlet Multinomial Modeling of Relative Abundance Data
-CNVScope A Versatile Toolkit for Copy Number Variation Relationship Data Analysis and Visualization
-coala A Framework for Coalescent Simulation
-coalescentMCMC MCMC Algorithms for the Coalescent
-coalitions Bayesian "Now-Cast" Estimation of Event Probabilities in Multi-Party Democracies
-coarseDataTools Analysis of Coarsely Observed Data
-cobalt Covariate Balance Tables and Plots
-cobiclust Biclustering via Latent Block Model Adapted to Overdispersed Count Data
-cobs Constrained B-Splines (Sparse Matrix Based)
-coca Cluster-of-Clusters Analysis
-cocktailApp 'shiny' App to Discover Cocktails
-CoClust Copula Based Cluster Analysis
-COCONUT COmbat CO-Normalization Using conTrols (COCONUT)
-cocor Comparing Correlations
-cocorresp Co-Correspondence Analysis Methods
-cocron Statistical Comparisons of Two or more Alpha Coefficients
-coda Output Analysis and Diagnostics for MCMC
-coda.base A Basic Set of Functions for Compositional Data Analysis
-coda4microbiome Compositional Data Analysis for Microbiome Studies
-codacore Learning Sparse Log-Ratios for Compositional Data
-codalm Transformation-Free Linear Regression for Compositional Outcomes and Predictors
-CodataGS Genomic Prediction Using SNP Codata
+CMHNPA ,Cochran-Mantel-Haenszel and Nonparametric ANOVA
+cml ,Conditional Manifold Learning
+CMLS, Constrained Multivariate Least Squares
+cmm ,Categorical Marginal Models
+cmmr, CEU Mass Mediator RESTful API
+CMMs, Compositional Mediation Model
+cmna ,Computational Methods for Numerical Analysis
+cmocean, Beautiful Colour Maps for Oceanography
+CMplot ,Circle Manhattan Plot
+cmprsk ,Subdistribution Analysis of Competing Risks
+cmprskcoxmsm ,Use IPW to Estimate Treatment Effect under Competing Risks
+cmprskQR ,Analysis of Competing Risks Using Quantile Regressions
+cmpsR ,R Implementation of Congruent Matching Profile Segments Method
+cmR, Analysis of Cardiac Magnetic Resonance Images
+cmrutils, Misc Functions of the Center for Mathematical Research
+cms ,Calculate Medicare Reimbursement
+cmsaf ,A Toolbox for CM SAF NetCDF Data
+cmsafops, Tools for CM SAF NetCDF Data
+cmsafvis ,Tools to Visualize CM SAF NetCDF Data
+CMShiny ,Interactive Document for Working with Confusion Matrix
+cmstatr ,Statistical Methods for Composite Material Data
+cmtest ,Conditional Moments Test
+cmvnorm ,The Complex Multivariate Gaussian Distribution
+cna ,Causal Modeling with Coincidence Analysis
+CNAIM, Common Network Asset Indices Methodology (CNAIM)
+cnaOpt, Optimizing Consistency and Coverage in Configurational Causal Modeling
+cnbdistr, Conditional Negative Binomial Distribution
+cncaGUI ,Canonical Non-Symmetrical Correspondence Analysis in R
+CNLTreg ,Complex-Valued Wavelet Lifting for Signal Denoising
+CNLTtsa, Complex-Valued Wavelet Lifting for Univariate and Bivariate Time Series Analysis
+cNORM ,Continuous Norming
+CNprep ,Pre-Process DNA Copy Number (CN) Data for Detection of CN Events
+CNPS ,Nonparametric Statistics
+cns ,Color Naming System
+cnum ,Chinese Numerals Processing
+CNVRG ,Dirichlet Multinomial Modeling of Relative Abundance Data
+CNVScope, A Versatile Toolkit for Copy Number Variation Relationship Data Analysis and Visualization
+coala, A Framework for Coalescent Simulation
+coalescentMCMC ,MCMC Algorithms for the Coalescent
+coalitions ,Bayesian "Now-Cast" Estimation of Event Probabilities in Multi-Party Democracies
+coarseDataTools, Analysis of Coarsely Observed Data
+cobalt ,Covariate Balance Tables and Plots
+cobiclust, Biclustering via Latent Block Model Adapted to Overdispersed Count Data
+cobs ,Constrained B-Splines (Sparse Matrix Based)
+coca ,Cluster-of-Clusters Analysis
+cocktailApp, 'shiny' App to Discover Cocktails
+CoClust ,Copula Based Cluster Analysis
+COCONUT ,COmbat CO-Normalization Using conTrols (COCONUT)
+cocor ,Comparing Correlations
+cocorresp, Co-Correspondence Analysis Methods
+cocron ,Statistical Comparisons of Two or more Alpha Coefficients
+coda ,Output Analysis and Diagnostics for MCMC
+coda.base ,A Basic Set of Functions for Compositional Data Analysis
+coda4microbiome, Compositional Data Analysis for Microbiome Studies
+codacore ,Learning Sparse Log-Ratios for Compositional Data
+codalm ,Transformation-Free Linear Regression for Compositional Outcomes and Predictors
+CodataGS ,Genomic Prediction Using SNP Codata
 cOde ,Automated C Code Generation for 'deSolve' 'bvpSolve'
-codebook Automatic Codebooks from Metadata Encoded in Dataset Attributes
-codebookr Create Codebooks from Data Frames
-codebreaker Retro Logic Game
-codeCollection Collection of Codes with Labels
-CodeDepends Analysis of R Code for Reproducible Research and Code Comprehension
-codemeta A Smaller 'codemetar' Package
-codemetar Generate 'CodeMeta' Metadata for R Packages
+codebook ,Automatic Codebooks from Metadata Encoded in Dataset Attributes
+codebookr, Create Codebooks from Data Frames
+codebreaker, Retro Logic Game
+codeCollection ,Collection of Codes with Labels
+CodeDepends ,Analysis of R Code for Reproducible Research and Code Comprehension
+codemeta ,A Smaller 'codemetar' Package
+codemetar ,Generate 'CodeMeta' Metadata for R Packages
 codename ,Generation of Code Names for Organizations People Projects and Whatever Else
-codep Multiscale Codependence Analysis
-coder Deterministic Categorization of Items Based on External Code Data
-codetools Code Analysis Tools for R
+codep ,Multiscale Codependence Analysis
+coder ,Deterministic Categorization of Items Based on External Code Data
+codetools, Code Analysis Tools for R
 codexcopd, The CODEX (Comorbidity Obstruction Dyspnea and Previous Severe Exacerbations) Index: Short and Medium-Term Prognosis in Patients Hospitalized for Chronic Obstructive Pulmonary Disease (COPD) Exacerbations
-codez Seq2Seq Encoder-Decoder Model for Time-Feature Analysis Based on Tensorflow
-codified Produce Standard/Formalized Demographics Tables
-CoDiNA Co-Expression Differential Network Analysis
-codingMatrices Alternative Factor Coding Matrices for Linear Model Formulae
-codyn Community ,Dynamics Metrics
-coefa Meta Analysis of Factor Analysis Based on CO-Occurrence Matrices
-coefficientalpha Robust Coefficient Alpha and Omega with Missing and Non-Normal Data
-coefplot Plots Coefficients from Fitted Models
-coenocliner Coenocline Simulation
-coenoflex Gradient-Based Coenospace Vegetation Simulator
-cofad Contrast Analyses for Factorial Designs
-cofeatureR Generate Cofeature Matrices
-coffee Chronological Ordering for Fossils and Environmental Events
-CoFRA Complete Functional Regulation Analysis
-coga Convolution of Gamma Distributions
-cogmapr Cognitive Mapping Tools Based on Coding of Textual Sources
-cognitoR Authentication for 'Shiny' Apps with 'Amazon Cognito'
-CohensdpLibrary Cohen's D_p Computation with Confidence Intervals
-cohortBuilder Data Source Agnostic Filtering Tools
-CohortPlat Simulation of Cohort Platform Trials for Combination Treatments
-cohorts Cohort Analysis Made Easy
-cohorttools Cohort Data Analyses
-coil Contextualization and Evaluation of COI-5P Barcode Data
-CoImp Copula Based Imputation Method
-coin Conditional Inference Procedures in a Permutation Test Framework
-coinmarketcapr Get 'Cryptocurrencies' Market Cap Prices from Coin Market Cap
-Coinprofile Coincident Profile
-COINr Composite Indicator Construction and Analysis
-cointmonitoR Consistent Monitoring of Stationarity and Cointegrating Relationships
-cointReg Parameter Estimation and Inference in a Cointegrating Regression
-cold Count Longitudinal Data
-colf Constrained Optimization on Linear Function
-collapse Advanced and Fast Data Transformation
-CollapseLevels Collapses Levels Computes Information Value and WoE
-collapsibleTree Interactive Collapsible Tree Diagrams using 'D3.js'
-collateral Quickly Evaluate Captured Side Effects
-collatz Functions Related to the Collatz/Syracuse/3n+1 Problem
-collections High Performance Container Data Types
-collidr Check for Namespace Collisions Across Packages and Functions on CRAN
-collin Visualization the Effects of Collinearity in Distributed Lag Models and Other Linear Models
+codez ,Seq2Seq Encoder-Decoder Model for Time-Feature Analysis Based on Tensorflow
+codified, Produce Standard/Formalized Demographics Tables
+CoDiNA ,Co-Expression Differential Network Analysis
+codingMatrices, Alternative Factor Coding Matrices for Linear Model Formulae
+codyn ,Community Dynamics Metrics
+coefa ,Meta Analysis of Factor Analysis Based on CO-Occurrence Matrices
+coefficientalpha ,Robust Coefficient Alpha and Omega with Missing and Non-Normal Data
+coefplot, Plots Coefficients from Fitted Models
+coenocliner, Coenocline Simulation
+coenoflex ,Gradient-Based Coenospace Vegetation Simulator
+cofad ,Contrast Analyses for Factorial Designs
+cofeatureR, Generate Cofeature Matrices
+coffee ,Chronological Ordering for Fossils and Environmental Events
+CoFRA ,Complete Functional Regulation Analysis
+coga ,Convolution of Gamma Distributions
+cogmapr, Cognitive Mapping Tools Based on Coding of Textual Sources
+cognitoR ,Authentication for 'Shiny' Apps with 'Amazon Cognito'
+CohensdpLibrary, Cohen's D_p Computation with Confidence Intervals
+cohortBuilder ,Data Source Agnostic Filtering Tools
+CohortPlat ,Simulation of Cohort Platform Trials for Combination Treatments
+cohorts ,Cohort Analysis Made Easy
+cohorttools, Cohort Data Analyses
+coil ,Contextualization and Evaluation of COI-5P Barcode Data
+CoImp ,Copula Based Imputation Method
+coin ,Conditional Inference Procedures in a Permutation Test Framework
+coinmarketcapr, Get 'Cryptocurrencies' Market Cap Prices from Coin Market Cap
+Coinprofile ,Coincident Profile
+COINr ,Composite Indicator Construction and Analysis
+cointmonitoR ,Consistent Monitoring of Stationarity and Cointegrating Relationships
+cointReg ,Parameter Estimation and Inference in a Cointegrating Regression
+cold ,Count Longitudinal Data
+colf ,Constrained Optimization on Linear Function
+collapse ,Advanced and Fast Data Transformation
+CollapseLevels ,Collapses Levels Computes Information Value and WoE
+collapsibleTree ,Interactive Collapsible Tree Diagrams using 'D3.js'
+collateral ,Quickly Evaluate Captured Side Effects
+collatz ,Functions Related to the Collatz/Syracuse/3n+1 Problem
+collections, High Performance Container Data Types
+collidr ,Check for Namespace Collisions Across Packages and Functions on CRAN
+collin ,Visualization the Effects of Collinearity in Distributed Lag Models and Other Linear Models
 CollocInfer, Collocation Inference for Dynamic Systems
-collpcm Collapsed Latent Position Cluster Model for Social Networks
-collUtils Auxiliary Package for Package 'CollapsABEL'
-colmozzie Dengue Cases and Climate Variables in Colombo Sri Lanka
-coloc Colocalisation Tests of Two Genetic Traits
-colocalization Normalized Spatial Intensity Correlation
-colocalized Clusters of Colocalized Sequences
-colocr Conduct Co-Localization Analysis of Fluorescence Microscopy Images
-colorblindcheck Check Color Palettes for Problems with Color Vision Deficienc
-colorBlindness Safe Color Set for Color Blindness
-colorDF Colorful Data Frames in R Terminal
-colordistance Distance Metrics for Image Color Similarity
-colorednoise Simulate Temporally Autocorrelated Populations
+collpcm ,Collapsed Latent Position Cluster Model for Social Networks
+collUtils, Auxiliary Package for Package 'CollapsABEL'
+colmozzie ,Dengue Cases and Climate Variables in Colombo Sri Lanka
+coloc ,Colocalisation Tests of Two Genetic Traits
+colocalization ,Normalized Spatial Intensity Correlation
+colocalized ,Clusters of Colocalized Sequences
+colocr ,Conduct Co-Localization Analysis of Fluorescence Microscopy Images
+colorblindcheck ,Check Color Palettes for Problems with Color Vision Deficienc
+colorBlindness ,Safe Color Set for Color Blindness
+colorDF ,Colorful Data Frames in R Terminal
+colordistance ,Distance Metrics for Image Color Similarity
+colorednoise ,Simulate Temporally Autocorrelated Populations
 colorfindr ,Extract Colors from Windows BMP JPEG PNG TIFF and SVG Format Images
-colorhcplot Colorful Hierarchical Clustering Dendrograms
-colorhex Colors and Palettes from Color-Hex
-colorist Coloring Wildlife Distributions in Space-Time
-colorizer Colorize Old Images Using the 'DeOldify' Image Colorization API
-colormap Color Palettes using Colormaps Node Module
-ColorNameR Give Colors a Name
-colorpatch Optimized Rendering of Fold Changes and Confidence Values
+colorhcplot ,Colorful Hierarchical Clustering Dendrograms
+colorhex ,Colors and Palettes from Color-Hex
+colorist ,Coloring Wildlife Distributions in Space-Time
+colorizer ,Colorize Old Images Using the 'DeOldify' Image Colorization API
+colormap ,Color Palettes using Colormaps Node Module
+ColorNameR ,Give Colors a Name
+colorpatch ,Optimized Rendering of Fold Changes and Confidence Values
 colorr ,Color Palettes for EPL MLB NBA NHL and NFL Teams
-colorRamps Builds Color Tables
-colorscience Color Science Methods and Data
-colorspace A Toolbox for Manipulating and Assessing Colors and Palettes
-colorSpec Color Calculations with Emphasis on Spectral Data
-colourlovers R Client for the COLOURlovers API
-colourpicker A Colour Picker Tool for Shiny and for Selecting Colours in Plots
-colourvalues Assigns Colours to Values
-colourvision Colour Vision Models
-COLP Causal Discovery for Categorical Data with Label Permutation
-colt Command-Line Color Themes
-comat Creates Co-Occurrence Matrices of Spatial Data
-comato Analysis of Concept Maps and Concept Landscapes
-COMBAT A Combined Association Test for Genes using Summary Statistics
-combinat combinatorics utilities
-combinationpvalues Combination of Independent P-Values
-combinatorics Introduction to Some Combinatorial Relations
-combinedevents Calculate Scores and Marks for Track and Field Combined Events
-CombinePortfolio Estimation of Optimal Portfolio Weights by Combining Simple Portfolio Strategies
-combinIT A Combined Interaction Test for Unreplicated Two-Way Tables
-CombinS Construction Methods of some Series of PBIB Designs
-combiroc Selection and Ranking of Omics Biomarkers Combinations Made Easy
-combiter Combinatorics Iterators
-comclim Community Climate Statistics
-cometExactTest Exact Test from the Combinations of Mutually Exclusive Alterations (CoMEt) Algorithm
-cometr 'Comet' API for R
-comf Models and Equations for Human Comfort Research
-comFuncs Commonly Used Functions for R Shiny Applications
-ComICS Computational Methods for Immune Cell-Type Subsets
-COMIX Coarsened Mixtures of Hierarchical Skew Kernels
-commafree Call Functions Without Commas Between Arguments
-CommEcol Community Ecology Analyses
-commentr Print Nicely Formatted Comments for Use in Script Files
-CommKern Network-Based Communities and Kernel Machine Methods
-common Solutions for Common Problems in Base R
-CommonJavaJars Useful Libraries for Building a Java Based GUI under R
-commonmark High Performance CommonMark and Github Markdown Rendering in R
-CommonMean.Copula Common Mean Vector under Copula Models
-commonsMath JAR Files of the Apache Commons Mathematics Library
-communication Feature Extraction and Model Estimation for Audio of Human Speech
-comorbidity Computing Comorbidity Scores
-comorosmaps Comoro Islands Maps
-Comp2ROC Compare Two ROC Curves that Intersect
-Compack Regression with Compositional Covariates
-comparator Comparison Functions for Clustering and Record Linkage
-compare Comparing Objects for Differences
-compareC Compare Two Correlated C Indices with Right-Censored Survival Outcome
-CompareCausalNetworks Interface to Diverse Estimation Methods of Causal Networks
-CompAREdesign Statistical Functions for the Design of Studies with Composite Endpoints
-compareDF Do a Git Style Diff of the Rows Between Two Dataframes with Similar Structure
-compareGroups Descriptive Analysis by Groups
-compareMCMCs Compare MCMC Efficiency from 'nimble' and/or Other MCMC Engines
-comparer Compare Output and Run Time
-CompareTests Correct for Verification Bias in Diagnostic Accuracy & Agreement
-comparison Multivariate Likelihood Ratio Calculation and Evaluation
-ComparisonCR Comparison of Cumulative Incidence Between Two Groups Under Competing Risks
-ComparisonSurv Comparison of Survival Curves Between Two Groups
-compas Conformational Manipulations of Protein Atomic Structures
-CompDist Multisection Composite Distributions
-comperank Ranking Methods for Competition Results
-comperes Manage Competition Results
-competitiontoolbox A Graphical User Interface for Antitrust and Trade Practitioners
-compHclust Complementary Hierarchical Clustering
-compicc Calculate the Confidence Interval for the Difference of ICCs
-Compind Composite Indicators Functions
-completejourney Retail Shopping Data
-complexity Calculate the Proportion of Permutations in Line with an Informative Hypothesis
-complexNet Complex Network Generation
-complexplus Functions of Complex or Real Variable
-ComplexUpset Create Complex UpSet Plots Using 'ggplot2' Components
-complmrob Robust Linear Regression with Compositional Data as Covariates
-CompModels Pseudo Computer Models for Optimization
-COMPoissonReg Conway-Maxwell Poisson (COM-Poisson) Regression
-Compositional Compositional Data Analysis
-compositions Compositional Data Analysis
+colorRamps ,Builds Color Tables
+colorscience ,Color Science Methods and Data
+colorspace ,A Toolbox for Manipulating and Assessing Colors and Palettes
+colorSpec ,Color Calculations with Emphasis on Spectral Data
+colourlovers, R Client for the COLOURlovers API
+colourpicker, A Colour Picker Tool for Shiny and for Selecting Colours in Plots
+colourvalues ,Assigns Colours to Values
+colourvision ,Colour Vision Models
+COLP ,Causal Discovery for Categorical Data with Label Permutation
+colt ,Command-Line Color Themes
+comat ,Creates Co-Occurrence Matrices of Spatial Data
+comato ,Analysis of Concept Maps and Concept Landscapes
+COMBAT ,A Combined Association Test for Genes using Summary Statistics
+combinat, combinatorics utilities
+combinationpvalues ,Combination of Independent P-Values
+combinatorics, Introduction to Some Combinatorial Relations
+combinedevents, Calculate Scores and Marks for Track and Field Combined Events
+CombinePortfolio, Estimation of Optimal Portfolio Weights by Combining Simple Portfolio Strategies
+combinIT ,A Combined Interaction Test for Unreplicated Two-Way Tables
+CombinS ,Construction Methods of some Series of PBIB Designs
+combiroc ,Selection and Ranking of Omics Biomarkers Combinations Made Easy
+combiter ,Combinatorics Iterators
+comclim ,Community Climate Statistics
+cometExactTest, Exact Test from the Combinations of Mutually Exclusive Alterations (CoMEt) Algorithm
+cometr ,'Comet' API for R
+comf ,Models and Equations for Human Comfort Research
+comFuncs, Commonly Used Functions for R Shiny Applications
+ComICS, Computational Methods for Immune Cell-Type Subsets
+COMIX ,Coarsened Mixtures of Hierarchical Skew Kernels
+commafree ,Call Functions Without Commas Between Arguments
+CommEcol ,Community Ecology Analyses
+commentr ,Print Nicely Formatted Comments for Use in Script Files
+CommKern ,Network-Based Communities and Kernel Machine Methods
+common ,Solutions for Common Problems in Base R
+CommonJavaJars ,Useful Libraries for Building a Java Based GUI under R
+commonmark ,High Performance CommonMark and Github Markdown Rendering in R
+CommonMean.Copula ,Common Mean Vector under Copula Models
+commonsMath ,JAR Files of the Apache Commons Mathematics Library
+communication, Feature Extraction and Model Estimation for Audio of Human Speech
+comorbidity ,Computing Comorbidity Scores
+comorosmaps ,Comoro Islands Maps
+Comp2ROC ,Compare Two ROC Curves that Intersect
+Compack ,Regression with Compositional Covariates
+comparator, Comparison Functions for Clustering and Record Linkage
+compare ,Comparing Objects for Differences
+compareC ,Compare Two Correlated C Indices with Right-Censored Survival Outcome
+CompareCausalNetworks, Interface to Diverse Estimation Methods of Causal Networks
+CompAREdesign ,Statistical Functions for the Design of Studies with Composite Endpoints
+compareDF ,Do a Git Style Diff of the Rows Between Two Dataframes with Similar Structure
+compareGroups, Descriptive Analysis by Groups
+compareMCMCs, Compare MCMC Efficiency from 'nimble' and/or Other MCMC Engines
+comparer ,Compare Output and Run Time
+CompareTests, Correct for Verification Bias in Diagnostic Accuracy & Agreement
+comparison ,Multivariate Likelihood Ratio Calculation and Evaluation
+ComparisonCR ,Comparison of Cumulative Incidence Between Two Groups Under Competing Risks
+ComparisonSurv, Comparison of Survival Curves Between Two Groups
+compas ,Conformational Manipulations of Protein Atomic Structures
+CompDist ,Multisection Composite Distributions
+comperank ,Ranking Methods for Competition Results
+comperes ,Manage Competition Results
+competitiontoolbox ,A Graphical User Interface for Antitrust and Trade Practitioners
+compHclust, Complementary Hierarchical Clustering
+compicc ,Calculate the Confidence Interval for the Difference of ICCs
+Compind ,Composite Indicators Functions
+completejourney ,Retail Shopping Data
+complexity ,Calculate the Proportion of Permutations in Line with an Informative Hypothesis
+complexNet ,Complex Network Generation
+complexplus ,Functions of Complex or Real Variable
+ComplexUpset ,Create Complex UpSet Plots Using 'ggplot2' Components
+complmrob ,Robust Linear Regression with Compositional Data as Covariates
+CompModels ,Pseudo Computer Models for Optimization
+COMPoissonReg, Conway-Maxwell Poisson (COM-Poisson) Regression
+Compositional ,Compositional Data Analysis
+compositions ,Compositional Data Analysis
 composits ,Compositional Multivariate and Univariate Time Series Outlier Ensemble
-compound.Cox Univariate Feature Selection and Compound Covariate for Predicting Survival
-CompoundEvents Statistical Modeling of Compound Events
-CompQuadForm Distribution Function of Quadratic Forms in Normal Variables
-CompR Paired Comparison Data Analysis
-comprehenr List Comprehensions
-compute.es Compute Effect Sizes
-comsimitv Flexible Framework for Simulating Community Assembly
-comtradr Interface with the United Nations Comtrade API
-con2aqi Calculate the AQI from Pollutant Concentration
-con2lki Calculate the Dutch Air Quality Index (LKI)
-Conake Continuous Associated Kernel Estimation
-concatenate Human-Friendly Text from Unknown Strings
-concatipede Easy Concatenation of Fasta Sequences
-concaveman A Very Fast 2D Concave Hull Algorithm
-conclust Pairwise Constraints Clustering
-concom Connected Components of an Undirected Graph
-ConConPiWiFun Optimisation with Continuous Convex Piecewise (Linear and Quadratic) Functions
-concordance Product Concordance
-ConcordanceTest An Alternative to the Kruskal-Wallis Based on the Kendall Tau Distance
-concorR CONCOR and Supplemental Functions
-concreg Concordance Regression
+compound.Cox ,Univariate Feature Selection and Compound Covariate for Predicting Survival
+CompoundEvents ,Statistical Modeling of Compound Events
+CompQuadForm ,Distribution Function of Quadratic Forms in Normal Variables
+CompR ,Paired Comparison Data Analysis
+comprehenr, List Comprehensions
+compute.es ,Compute Effect Sizes
+comsimitv ,Flexible Framework for Simulating Community Assembly
+comtradr ,Interface with the United Nations Comtrade API
+con2aqi ,Calculate the AQI from Pollutant Concentration
+con2lki, Calculate the Dutch Air Quality Index (LKI)
+Conake ,Continuous Associated Kernel Estimation
+concatenate ,Human-Friendly Text from Unknown Strings
+concatipede, Easy Concatenation of Fasta Sequences
+concaveman ,A Very Fast 2D Concave Hull Algorithm
+conclust, Pairwise Constraints Clustering
+concom ,Connected Components of an Undirected Graph
+ConConPiWiFun, Optimisation with Continuous Convex Piecewise (Linear and Quadratic) Functions
+concordance ,Product Concordance
+ConcordanceTest, An Alternative to the Kruskal-Wallis Based on the Kendall Tau Distance
+concorR ,CONCOR and Supplemental Functions
+concreg ,Concordance Regression
 concstats ,Market Structure Concentration and Inequality Measures
-CONCUR Copy Number Profile Curve-Based Association Test
-cond Approximate Conditional Inference for Logistic and Loglinear Models
-CondCopulas Estimation and Inference for Conditional Copula Models
-condformat Conditional Formatting in Data Frames
-condGEE Parameter Estimation in Conditional GEE for Recurrent Event Gap Times
-CondIndTests Nonlinear Conditional Independence Tests
-condir Computation of P Values and Bayes Factors for Conditioning Data
-CondiS Censored Data Imputation for Direct Modeling
-conditionz Control How Many Times Conditions are Thrown
-condmixt Conditional Density Estimation with Neural Network Conditional Mixtures
-condMVNorm Conditional Multivariate Normal Distribution
-CondMVT Conditional Multivariate t Distribution Expectation Maximization Algorithm and Its Stochastic Variants
-condSURV Estimation of the Conditional Survival Function for Ordered Multivariate Failure Time Data
-condTruncMVN Conditional Truncated Multivariate Normal Distribution
-conductor Create Tours in 'Shiny' Apps Using 'Shepherd.js'
-condusco Query-Driven Pipeline Execution and Query Templates
-condvis Conditional Visualization for Statistical Models
-condvis2 Interactive Conditional Visualization for Supervised and Unsupervised Models in Shiny
-coneproj Primal or Dual Cone Projections with Routines for Constrained Regression
-conf Visualization and Analysis of Statistical Measures of Confidence
-conf.design Construction of factorial designs
-confidence Confidence Estimation of Environmental State Classifications
-config Manage Environment Specific Configuration Values
+CONCUR ,Copy Number Profile Curve-Based Association Test
+cond ,Approximate Conditional Inference for Logistic and Loglinear Models
+CondCopulas, Estimation and Inference for Conditional Copula Models
+condformat ,Conditional Formatting in Data Frames
+condGEE ,Parameter Estimation in Conditional GEE for Recurrent Event Gap Times
+CondIndTests, Nonlinear Conditional Independence Tests
+condir ,Computation of P Values and Bayes Factors for Conditioning Data
+CondiS ,Censored Data Imputation for Direct Modeling
+conditionz, Control How Many Times Conditions are Thrown
+condmixt ,Conditional Density Estimation with Neural Network Conditional Mixtures
+condMVNorm, Conditional Multivariate Normal Distribution
+CondMVT ,Conditional Multivariate t Distribution Expectation Maximization Algorithm and Its Stochastic Variants
+condSURV ,Estimation of the Conditional Survival Function for Ordered Multivariate Failure Time Data
+condTruncMVN, Conditional Truncated Multivariate Normal Distribution
+conductor ,Create Tours in 'Shiny' Apps Using 'Shepherd.js'
+condusco ,Query-Driven Pipeline Execution and Query Templates
+condvis ,Conditional Visualization for Statistical Models
+condvis2 ,Interactive Conditional Visualization for Supervised and Unsupervised Models in Shiny
+coneproj ,Primal or Dual Cone Projections with Routines for Constrained Regression
+conf ,Visualization and Analysis of Statistical Measures of Confidence
+conf.design, Construction of factorial designs
+confidence, Confidence Estimation of Environmental State Classifications
+config ,Manage Environment Specific Configuration Values
 ConfigParser ,Package to Parse an INI File Including Variable Interpolation
-configr An Implementation of Parsing and Writing Configuration File (JSON/INI/YAML/TOML)
-configural Multivariate Profile Analysis
-confinterpret Descriptive Interpretations of Confidence Intervals
-confintr Confidence Intervals
-ConfIntVariance Confidence Interval for the Univariate Population Variance without Normality Assumption
-conflicted An Alternative Conflict Resolution Strategy
-conflr Client for 'Confluence' API
-conformalbayes Jackknife(+) Predictive Intervals for Bayesian Models
-conformalClassification Transductive and Inductive Conformal Predictions for Classification Problems
-conformalInference.fd Tools for Conformal Inference for Regression in Multivariate Functional Setting
-conformalInference.multi Conformal Inference Tools for Regression with Multivariate Response
-ConformalSmallest Efficient Tuning-Free Conformal Prediction
-confoundr Diagnostics for Confounding of Time-Varying and Other Joint Exposures
-confreq Configural Frequencies Analysis Using Log-Linear Modeling
+configr ,An Implementation of Parsing and Writing Configuration File (JSON/INI/YAML/TOML)
+configural ,Multivariate Profile Analysis
+confinterpret ,Descriptive Interpretations of Confidence Intervals
+confintr ,Confidence Intervals
+ConfIntVariance, Confidence Interval for the Univariate Population Variance without Normality Assumption
+conflicted ,An Alternative Conflict Resolution Strategy
+conflr ,Client for 'Confluence' API
+conformalbayes ,Jackknife(+) Predictive Intervals for Bayesian Models
+conformalClassification ,Transductive and Inductive Conformal Predictions for Classification Problems
+conformalInference.fd ,Tools for Conformal Inference for Regression in Multivariate Functional Setting
+conformalInference.multi ,Conformal Inference Tools for Regression with Multivariate Response
+ConformalSmallest ,Efficient Tuning-Free Conformal Prediction
+confoundr ,Diagnostics for Confounding of Time-Varying and Other Joint Exposures
+confreq ,Configural Frequencies Analysis Using Log-Linear Modeling
 confSAM ,Estimates and Bounds for the False Discovery Proportion by Permutation
-ConfusionTableR Confusion Matrix Toolset
-congress Access the Congress.gov API
-CongreveLamsdell2016 Distance Metrics for Trees Generated by Congreve and Lamsdell
-CoNI Correlation Guided Network Integration (CoNI)
+ConfusionTableR ,Confusion Matrix Toolset
+congress ,Access the Congress.gov API
+CongreveLamsdell2016 ,Distance Metrics for Trees Generated by Congreve and Lamsdell
+CoNI ,Correlation Guided Network Integration (CoNI)
 conicfit, Algorithms for Fitting Circles Ellipses and Conics Based on the Work by Prof. Nikolai Chernov
-Conigrave Flexible Tools for Multiple Imputation
-conjoint An Implementation of Conjoint Analysis Method
-conjurer A Parametric Method for Generating Synthetic Data
-conleyreg Estimations using Conley Standard Errors
-conmet Construct Measurement Evaluation Tool
-ConNEcT Contingency Measure-Based Networks for Binary Time Series
-connectapi Utilities for Interacting with the 'RStudio Connect' Server API
-ConnectednessApproach Connectedness Approach
-connectwidgets Organize and Curate Your Content Within 'RStudio Connect'
-ConnMatTools Tools for Working with Connectivity Data
-conogive Congeneric Normal-Ogive Model
-conos Clustering on Network of Samples
-conover.test Conover-Iman Test of Multiple Comparisons Using Rank Sums
-conquer Convolution-Type Smoothed Quantile Regression
-conquestr An R Package to Extend 'ACER ConQuest'
-ConR Computation of Parameters Used in Preliminary Assessment of Conservation Status
-conserveR Identifying Conservation Prioritization Methods Based on Data Availability
-consolechoice An Easy and Quick Way to Loop a Character Vector as a Menu in the Console
-consort Create Consort Diagram
-consortr Interactive Consort Flow Diagrams
-ConSpline Partial Linear Least-Squares Regression using Constrained Splines
-ConsRank Compute the Median Ranking(s) According to the Kemeny's Axiomatic Approach
-ConsRankClass Classification and Clustering of Preference Rankings
-ConsReg Fits Regression & ARMA Models Subject to Constraints to the Coefficient
+Conigrave, Flexible Tools for Multiple Imputation
+conjoint, An Implementation of Conjoint Analysis Method
+conjurer ,A Parametric Method for Generating Synthetic Data
+conleyreg ,Estimations using Conley Standard Errors
+conmet, Construct Measurement Evaluation Tool
+ConNEcT, Contingency Measure-Based Networks for Binary Time Series
+connectapi ,Utilities for Interacting with the 'RStudio Connect' Server API
+ConnectednessApproach ,Connectedness Approach
+connectwidgets ,Organize and Curate Your Content Within 'RStudio Connect'
+ConnMatTools ,Tools for Working with Connectivity Data
+conogive ,Congeneric Normal-Ogive Model
+conos ,Clustering on Network of Samples
+conover.test ,Conover-Iman Test of Multiple Comparisons Using Rank Sums
+conquer ,Convolution-Type Smoothed Quantile Regression
+conquestr ,An R Package to Extend 'ACER ConQuest'
+ConR ,Computation of Parameters Used in Preliminary Assessment of Conservation Status
+conserveR ,Identifying Conservation Prioritization Methods Based on Data Availability
+consolechoice, An Easy and Quick Way to Loop a Character Vector as a Menu in the Console
+consort ,Create Consort Diagram
+consortr ,Interactive Consort Flow Diagrams
+ConSpline, Partial Linear Least-Squares Regression using Constrained Splines
+ConsRank ,Compute the Median Ranking(s) According to the Kemeny's Axiomatic Approach
+ConsRankClass, Classification and Clustering of Preference Rankings
+ConsReg ,Fits Regression & ARMA Models Subject to Constraints to the Coefficient
 constants ,Reference on Constants Units and Uncertainty
-constellation Identify Event Sequences Using Time Series Joins
-conStruct Models Spatially Continuous and Discrete Population Genetic Structure
-contactdata Social Contact Matrices for 152 Countries
-container Extending Base 'R' Lists
-ContaminatedMixt Clustering and Classification with the Contaminated Normal
-contentid An Interface for Content-Based Identifiers
-contfrac Continued Fractions
-contFracR Continued Fraction Generators and Evaluators
-contingency Discrete Multivariate Probability Distributions
-contingencytables Statistical Analysis of Contingency Tables
-contoureR Contouring of Non-Regular Three-Dimensional Data
-ContourFunctions Create Contour Plots from Data or a Function
+constellation ,Identify Event Sequences Using Time Series Joins
+conStruct ,Models Spatially Continuous and Discrete Population Genetic Structure
+contactdata, Social Contact Matrices for 152 Countries
+container ,Extending Base 'R' Lists
+ContaminatedMixt ,Clustering and Classification with the Contaminated Normal
+contentid ,An Interface for Content-Based Identifiers
+contfrac ,Continued Fractions
+contFracR ,Continued Fraction Generators and Evaluators
+contingency ,Discrete Multivariate Probability Distributions
+contingencytables ,Statistical Analysis of Contingency Tables
+contoureR ,Contouring of Non-Regular Three-Dimensional Data
+ContourFunctions ,Create Contour Plots from Data or a Function
 contourPlot, Plots x y z Co-Ordinates in a Contour Map
-contrast A Collection of Contrast Methods
-ContRespPP Predictive Probability for a Continuous Response with an ANOVA Structure
-contribution A Tiny Contribution Table Generator Based on 'ggplot2'
-control A Control Systems Toolbox
-controlfunctionIV Control Function Methods with Possibly Invalid Instrumental Variables
-controlTest Quantile Comparison for Two-Sample Right-Censored Survival Data
-contsurvplot Visualize the Effect of a Continuous Variable on a Time-to-Event Outcome
-contTimeCausal Continuous Time Causal Models
-convdistr Convolute Probabilistic Distributions
-ConvergenceClubs Finding Convergence Clubs
-ConvergenceConcepts Seeing Convergence Concepts in Action
-convertGraph Convert Graphical Files Format
-convertid Convert Gene IDs Between Each Other and Fetch Annotations from Biomart
-ConvertPar Estimating IRT Parameters via Machine Learning Algorithms
-convertr Convert Between Units
-convevol Analysis of Convergent Evolution
-convexjlr Disciplined Convex Programming in R using 'Convex.jl'
-convey Income Concentration Analysis with Complex Survey Samples
-Convolutioner Convolution of Data
-convoSPAT Convolution-Based Nonstationary Spatial Modeling
-cooccur Probabilistic Species Co-Occurrence Analysis in R
-cookies Use Browser Cookies with 'shiny'
-CoOL Causes of Outcome Learning
-cooltools Practical Tools for Scientific Computations and Visualizations
+contrast ,A Collection of Contrast Methods
+ContRespPP ,Predictive Probability for a Continuous Response with an ANOVA Structure
+contribution ,A Tiny Contribution Table Generator Based on 'ggplot2'
+control ,A Control Systems Toolbox
+controlfunctionIV ,Control Function Methods with Possibly Invalid Instrumental Variables
+controlTest ,Quantile Comparison for Two-Sample Right-Censored Survival Data
+contsurvplot ,Visualize the Effect of a Continuous Variable on a Time-to-Event Outcome
+contTimeCausal ,Continuous Time Causal Models
+convdistr ,Convolute Probabilistic Distributions
+ConvergenceClubs ,Finding Convergence Clubs
+ConvergenceConcepts ,Seeing Convergence Concepts in Action
+convertGraph ,Convert Graphical Files Format
+convertid ,Convert Gene IDs Between Each Other and Fetch Annotations from Biomart
+ConvertPar ,Estimating IRT Parameters via Machine Learning Algorithms
+convertr ,Convert Between Units
+convevol ,Analysis of Convergent Evolution
+convexjlr ,Disciplined Convex Programming in R using 'Convex.jl'
+convey ,Income Concentration Analysis with Complex Survey Samples
+Convolutioner ,Convolution of Data
+convoSPAT ,Convolution-Based Nonstationary Spatial Modeling
+cooccur ,Probabilistic Species Co-Occurrence Analysis in R
+cookies ,Use Browser Cookies with 'shiny'
+CoOL ,Causes of Outcome Learning
+cooltools ,Practical Tools for Scientific Computations and Visualizations
 coop ,Co-Operation: Fast Covariance Correlation and Cosine Similarity Operations
 CoopGame Important Concepts of Cooperative Game Theory
 coopProductGame Cooperative Aspects of Linear Production Programming Problems
