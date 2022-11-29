@@ -2759,43 +2759,43 @@ cookies ,Use Browser Cookies with 'shiny'
 CoOL ,Causes of Outcome Learning
 cooltools ,Practical Tools for Scientific Computations and Visualizations
 coop ,Co-Operation: Fast Covariance Correlation and Cosine Similarity Operations
-CoopGame Important Concepts of Cooperative Game Theory
-coopProductGame Cooperative Aspects of Linear Production Programming Problems
-CoordinateCleaner Automated Cleaning of Occurrence Records from Biological Collections
-copBasic General Bivariate Copula Theory and Many Utility Functions
-copCAR Fitting the copCAR Regression Model for Discrete Areal Data
-CopCTS Copula-Based Semiparametric Analysis for Time Series Data with Detection Limits
-cope Coverage Probability Excursion (CoPE) Sets
-copent Estimating Copula Entropy and Transfer Entropy
-CopernicusDEM Copernicus Digital Elevation Models
-coppeCosenzaR COPPE-Cosenza Fuzzy Hierarchy Model
-copre Tools for Nonparametric Martingale Posterior Sampling
-cops Cluster Optimized Proximity Scaling
-CopSens Copula-Based Sensitivity Analysis for Observational Causal Inference
-copula Multivariate Dependence with Copulas
-Copula.Markov Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
-Copula.Markov.survival Copula Markov Model with Dependent Censoring
-Copula.surv Analysis of Bivariate Survival Data Based on Copulas
-copulaboost Fitting Additive Copula Regression Models for Binary Outcome Regression
-CopulaCenR Copula-Based Regression Models for Multivariate Censored Data
-copulaData Data Sets for Copula Modeling
-copulaedas Estimation of Distribution Algorithms Based on Copulas
-copulareg Copula Regression
-CopulaREMADA Copula Mixed Models for Multivariate Meta-Analysis of Diagnostic Test Accuracy Studies
-copulaSim Virtual Patient Simulation by Copula Invariance Property
-copyseparator Assembling Long Gene Copies from Short Read Data
-COR The COR for Optimal Subset Selection in Distributed Estimation
-cora Cora Data for Entity Resolution
-coRanking Co-Ranking Matrix
-corazon Apply 'colorffy' Color Gradients Within 'shiny' Elements
-Corbi Collection of Rudimentary Bioinformatics Tools
-CorBin Generate High-Dimensional Binary Data with Correlation Structures
-corclass Correlational Class Analysis
-cord Community Estimation in G-Models via CORD
-cordillera Calculation of the OPTICS Cordillera
-CORE Cores of Recurrent Events
-coreCT Programmatic Analysis of Sediment Cores Using Computed Tomography Imaging
-corehunter Multi-Purpose Core Subset Selection
+CoopGame ,Important Concepts of Cooperative Game Theory
+coopProductGame, Cooperative Aspects of Linear Production Programming Problems
+CoordinateCleaner, Automated Cleaning of Occurrence Records from Biological Collections
+copBasic ,General Bivariate Copula Theory and Many Utility Functions
+copCAR, Fitting the copCAR Regression Model for Discrete Areal Data
+CopCTS ,Copula-Based Semiparametric Analysis for Time Series Data with Detection Limits
+cope, Coverage Probability Excursion (CoPE) Sets
+copent, Estimating Copula Entropy and Transfer Entropy
+CopernicusDEM ,Copernicus Digital Elevation Models
+coppeCosenzaR ,COPPE-Cosenza Fuzzy Hierarchy Model
+copre ,Tools for Nonparametric Martingale Posterior Sampling
+cops ,Cluster Optimized Proximity Scaling
+CopSens, Copula-Based Sensitivity Analysis for Observational Causal Inference
+copula ,Multivariate Dependence with Copulas
+Copula.Markov ,Copula-Based Estimation and Statistical Process Control for Serially Correlated Time Series
+Copula.Markov.survival ,Copula Markov Model with Dependent Censoring
+Copula.surv ,Analysis of Bivariate Survival Data Based on Copulas
+copulaboost ,Fitting Additive Copula Regression Models for Binary Outcome Regression
+CopulaCenR ,Copula-Based Regression Models for Multivariate Censored Data
+copulaData ,Data Sets for Copula Modeling
+copulaedas ,Estimation of Distribution Algorithms Based on Copulas
+copulareg ,Copula Regression
+CopulaREMADA ,Copula Mixed Models for Multivariate Meta-Analysis of Diagnostic Test Accuracy Studies
+copulaSim ,Virtual Patient Simulation by Copula Invariance Property
+copyseparator ,Assembling Long Gene Copies from Short Read Data
+COR ,The COR for Optimal Subset Selection in Distributed Estimation
+cora ,Cora Data for Entity Resolution
+coRanking ,Co-Ranking Matrix
+corazon ,Apply 'colorffy' Color Gradients Within 'shiny' Elements
+Corbi ,Collection of Rudimentary Bioinformatics Tools
+CorBin ,Generate High-Dimensional Binary Data with Correlation Structures
+corclass ,Correlational Class Analysis
+cord ,Community Estimation in G-Models via CORD
+cordillera ,Calculation of the OPTICS Cordillera
+CORE ,Cores of Recurrent Events
+coreCT ,Programmatic Analysis of Sediment Cores Using Computed Tomography Imaging
+corehunter ,Multi-Purpose Core Subset Selection
 CORElearn ,Classification Regression and Feature Evaluation
 corels R Binding for the 'Certifiably Optimal RulE ListS (Corels)' Learner
 coreNLP Wrappers Around Stanford CoreNLP Tools
